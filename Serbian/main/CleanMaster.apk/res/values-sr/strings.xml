@@ -139,7 +139,6 @@
   <string name="hints_residual_header_left">Остаци</string>
   <string name="hints_scanfinish">Нема смећа, покушајте Дубинско Чишћење</string>
   <string name="hints_storage_clean_size">Ослобођено %s унутрашње меморије</string>
-  <string name="hints_storage_free_size">%s доступно, више ставки може бити очишћено​</string>
   <string name="hints_storage_news">Новости сигурности</string>
   <string name="hints_storage_free">Слободно</string>
   <string name="hints_storage_free_size">%s доступно</string>
