@@ -40,6 +40,8 @@
   <string name="cant_remove_retained_app">Није могуће уклонити ову апликацију</string>
   <string name="cant_remove_system_app">"Није могуће уклонити апликацију система"</string>
   <string name="choose_theme">Тема</string>
+  <string name="children_folder_title">Деца</string>
+  <string name="children_mode_exit">Излаз</string>
   <string name="choose_wallpaper">Одабери слику позадине</string>
   <string name="chooser_wallpaper">Одабери слику позадине</string>
   <string name="cloud_app_restore_title">На чекању</string>
@@ -235,6 +237,7 @@
   <string name="unknown_artist_name">Непознати извођач</string>
   <string name="unnamed_folder_name">Мапа без назива</string>
   <string name="wallpaper">Слика позадине</string>
+  <string name="wallpaper_auto_change_title">Закљ. екран</string>
   <string name="wallpaper_failed_message">"Не могу подесити слику позадине"</string>
   <string name="wallpaper_settings">Слика позадине</string>
   <string name="wallpaper_settings_for_pad">Слика позадине</string>
