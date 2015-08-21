@@ -19,6 +19,8 @@
   <string name="camera_error_title">Грешка фотоапарата</string>
   <string name="camera_label">Фотоапарат</string>
   <string name="camera_settings_label">Фотоапарат</string>
+  <string name="camera_snap_mode_title">Quick snap način</string>
+  <string name="camera_snap_mode_title_detail">Dodirnite za prikaz detalja</string>
   <string name="cannot_connect_camera_once">"Не могу се спојити са камером."</string>
   <string name="cannot_connect_camera_twice">"Не могу се спојити са камером, поново покрените ваш уређај."</string>
   <string name="cannot_move_warning_message">Фотографишем, држите уређај мирним</string>
@@ -244,6 +246,11 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Ауто побољшање</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Онемогући</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Омогући</string>
+  <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
+  <string name="pref_camera_sound_entry_off">Isključeno</string>
+  <string name="pref_camera_sound_entry_on">Uključeno</string>
+  <string name="pref_camera_snap_enable_summary">Kada je zaslon isključen, pritisnite &amp; držite tipku Glasnoća dolje za ulazak u Quick snap način. Pritisnite ponovno za snimanje fotografije.</string>
+  <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_sound_title">Звукови фотоапарата</string>
   <string name="pref_camera_touchafaec_entry_off">Искључено</string>
   <string name="pref_camera_touchafaec_entry_on">Укључено</string>

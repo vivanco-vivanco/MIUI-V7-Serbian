@@ -2,6 +2,10 @@
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Надморска висина</string>
+  <string name="altitude_uncalibrate_cancel">Odustani</string>
+  <string name="altitude_uncalibrate_msg">"Ne mogu kalibrirati preciznije Nadm. visinu bez GPS ili mobilne podatkovne veze."</string>
+  <string name="altitude_uncalibrate_refresh">Pokušaj ponovo</string>
+  <string name="altitude_uncalibrate_tip">"Ne mogu kalibrirati Nadm. visinu"</string>
   <string name="altitude_unit">м</string>
   <string name="app_label">Компас</string>
   <string name="calibrate_altitude">Калибрација…</string>

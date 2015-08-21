@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Складиште контаката</string>
-  <string name="call_log_provider_label">Запис позива</string>
+  <string name="call_log_provider_label">Povijest позива</string>
   <string name="create_contact">Нови контакт</string>
   <string name="debug_dump_database_message">Управо ћете 1) направити копију базе података која садржи све информације у вези са контактима и целокупну евиденцију позива у интерној меморији и 2) послати је имејлом. Не заборавите да избришете копију чим је будете копирали са уређаја или чим будете примили имејл.</string>
   <string name="debug_dump_delete_button">Избриши одмах</string>

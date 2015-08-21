@@ -50,7 +50,7 @@
   <string name="button_text_select_all">Одабери</string>
   <string name="button_text_select_pic">Одабери</string>
   <string name="button_text_uninstall">Деинсталирај</string>
-  <string name="button_text_uninstall_only">Деинсталирај</string>
+  <string name="button_text_uninstall_only">Деинсталирај %s</string>
   <string name="button_text_unselect_all">Поништи одабир</string>
   <string name="button_text_unselect_pic">Поништи одабир</string>
   <string name="button_text_view_detail">Детаљи</string>
@@ -145,6 +145,7 @@
   <string name="hints_title_garbage">смеће</string>
   <string name="item_title_process_mode">Одаберите радњу</string>
   <string name="last_check_canceled">Претходно скенирање је отказано</string>
+  <string name="mainbtn_text_quick_cleanup">Očistip %s</string>
   <string name="memeory_check_content">%1$d аплик., меморија %2$s</string>
   <string name="msg_cleanup_db_update_checking">Провера ажурирања...</string>
   <string name="msg_update_error_code_already_running">Ажурирање</string>

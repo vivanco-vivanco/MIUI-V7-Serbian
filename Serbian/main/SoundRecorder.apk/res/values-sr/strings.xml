@@ -69,6 +69,7 @@
   <string name="record_list_cloud_fm">Синх. снимке FM-a</string>
   <string name="record_list_fm">FM Снимке</string>
   <string name="record_name_hour">.</string>
+  <string name="record_name_minute"/>
   <string name="record_picker_title">Одабери снимак</string>
   <string name="recording">Снимање…</string>
   <string name="recording_stopped">Заустављено</string>

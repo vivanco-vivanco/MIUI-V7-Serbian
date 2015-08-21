@@ -78,10 +78,10 @@
   <string name="loading_resource_detail_fail">"Не могу учитати ресурсе!"</string>
   <string name="loading_resource_detail_info">Учитавам…</string>
   <string name="lockscreen_magazine_subscribe">%1$s следбеници</string>
-  <string name="lockscreen_magazine_summary">Добијте нове позадине достављене директно на ваш закључани екран</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s одабрано</string>
+  <string name="lockscreen_magazine_summary">Добијте svakodnevno позадине достављене директно на ваш закључани екран</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s pozadina</string>
   <string name="lockscreen_magazine_system_title">Задато</string>
-  <string name="lockscreen_magazine_title">Кустоси закљ. екрани</string>
+  <string name="lockscreen_magazine_title">Dnevni закљ. екрани</string>
   <string name="lockscreen_wallpaper">Закљ. екран</string>
   <string name="lockstyle_personal_settings">Уређивање</string>
   <string name="long_ringtone_resource">Дуго</string>

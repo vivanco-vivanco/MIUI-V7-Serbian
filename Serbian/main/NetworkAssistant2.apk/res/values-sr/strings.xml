@@ -100,6 +100,7 @@
   <string name="dns_exception_summary">"Проверите DNS подешавање Рутера."</string>
   <string name="dns_exception_title">Провера подешавања DNS-a</string>
   <string name="dialog_roaming_title">Међународни роминг</string>
+  <string name="dialog_title_attention">Pažnja</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="enable_network">Укључите прво мрежу</string>
@@ -371,9 +372,9 @@
   <string name="pref_whitelist_setting">Управљање изузецима</string>
   <string name="privacy_declare_dialog_message">"Коришћењем ове услуге, слажете се са Opera &lt;a href=%s&gt;Услови Пружања Услуге&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Услови Пружања Услуге</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Ваш телефонски број и детаљи оператера услуга ће бити учитати на MI сервере како би се ажурирале информације употребе података."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Ваш телефонски број и детаљи оператера услуга će biti šifrirani i učitani на MI сервере како би се ажурирале информације употребе података."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Ова функција треба послати IMEI вашег уређаја, број телефона и податке вашег оператера на MI сервере како би добили статистику о употреби података вашег оператера.</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Ваш телефонски број и подаци оператера услуга ће бити учитани на MI сервере како би добили више информација о могућности куповине података."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Ваш телефонски број и подаци оператера услуга će biti šifrirani i učitani на MI сервере како би добили више информација о могућности куповине података."</string>
   <string name="privacy_prompt_upload">Пошаљи</string>
   <string name="protocol_exception_title">Дијагностика протокола мреже</string>
   <string name="protocol_loop_back_exception_summary">Тест локалне повратне петље није успео. Да пријавите MIUI-у овај проблем, идите у апликацијама Пријава грешака и пошаљите извештај са свог уређаја..</string>
@@ -386,6 +387,7 @@
   <string name="repair">Обнови</string>
   <string name="repair_loading_text">Учитавање…</string>
   <string name="replace_dns">Замени DNS аутоматски</string>
+  <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Isključiti Uštedu podataka i ograničiti podatke u pozadini?"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_limit_dialog_message">Постигнуто дневно ограничење под. у ромингу.</string>
   <string name="roaming_limit_network_notification_body">Додирните за приказ доступних мрежа са подацима</string>
@@ -396,6 +398,10 @@
   <string name="roaming_start_body">Додирните за приказ употребе података у изузецима у ромингу.</string>
   <string name="roaming_start_title">Међународни роминг</string>
   <string name="root">Root приступ</string>
+  <string name="saving_conflict_dialog_cancel">Odustani</string>
+  <string name="saving_conflict_dialog_ok">U redu</string>
+  <string name="saving_conflict_dialog_title">Pažnja</string>
+  <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
   <string name="sc_allow_network_dialog_message">Морате допустити апликацији повезивање на интернет да би функционисала нормално.</string>
   <string name="sc_allow_network_dialog_tiltle">"Не могу користити услугу уштеде података"</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>

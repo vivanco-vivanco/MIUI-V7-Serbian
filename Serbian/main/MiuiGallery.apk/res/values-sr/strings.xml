@@ -84,6 +84,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s је поделио %5$s албум са тобом"</string>
   <string name="baby_album_sharer_recommand_face">Додати постојећу фотографију од %1$s?</string>
+  <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
   <string name="baby_birthday">Рођендан</string>
   <string name="baby_lock_wallpaper">Слика закљ. екрана</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Одаберите албум</string>
@@ -165,9 +166,6 @@
   <string name="confirm">У реду</string>
   <string name="confirm_delete">Избрисати (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Избрисати албуме: %s (укупно %s)?</string>
-  <string name="confirm_delete_has_cloud_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
-  <string name="confirm_delete_has_cloud_local_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
-  <string name="confirm_delete_has_local_image_video">Избрисати ставку: %s?</string>
   <string name="confirm_delete_init_message">Слике ће бити избрисане на овом уређају и у Mi Cloudu. Да бисте их обрисали само са уређаја, пређите на картицу \ "Локално\".</string>
   <string name="confirm_delete_init_title">Избриши слике</string>
   <string name="confirm_delete_system_album">%s је албум система</string>
@@ -378,7 +376,7 @@
   <string name="invite_sharer_title">"Позовите %1$s %2$s"</string>
   <string name="invite_tip">"Поделите фотографију вашег детета"</string>
   <string name="invited_tip">Позван</string>
-  <string name="is">Ово</string>
+  <string name="is">Da</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
   <string name="item_not_sync_for_origin_video">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
@@ -417,7 +415,6 @@
   <string name="menu_item_sort_size_desc">Величини (опадајуће)</string>
   <string name="menu_view_contact">Прикажи контакт</string>
   <string name="merge_album">Spoji</string>
-  <string name="merge_album_positive_button_text">Споји</string>
   <string name="merge_album_title">Споји Албуме</string>
   <string name="message_no_delete_access">"Немате допуштење за брисање %s"</string>
   <string name="messagelist_sender_self">Ја</string>
@@ -511,7 +508,6 @@
   <string name="photo_page_save_uri_image_fail">"Не могу сачувати фотографије са фотоапарата"</string>
   <string name="photo_page_save_uri_image_ok">Фотографија сачувана у фотографијама фотоапарата.</string>
   <string name="photo_paint_crop">Исечи</string>
-  <string name="photo_paint_rotate">Ротирај</string>
   <string name="photo_save_succeed">Успешно сачувано</string>
   <string name="photo_size">Величина</string>
   <string name="photoeditor_name">Mi фото студио</string>
@@ -522,7 +518,6 @@
   <string name="picker_no_album_selected">Нема одабраних албума</string>
   <string name="picker_no_items_selected">Нема одабраних ставки</string>
   <string name="picker_select_album_title_empty">Oдабери албум</string>
-  <string name="picker_tab_camera">фотоапарат</string>
   <string name="picker_tab_photo">Фотографија</string>
   <string name="pocket_camera_picture">Слике џепне камере</string>
   <string name="pocket_camera_video">Видео записи џепне камере</string>
@@ -600,7 +595,7 @@
   <string name="select_auto_upload_albums">Одаберите албуме за учитавање</string>
   <string name="select_image">Одабери ставку.</string>
   <string name="select_item">Одабери ставку</string>
-  <string name="select_item_face">Фотографија од %s</string>
+  <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_too_much_to_send_tips">"Не могу послати толико пуно ставки (макс. %d)."</string>
   <string name="select_video">Одаберите видео.</string>
   <string name="send">Пошаљи</string>
@@ -710,6 +705,7 @@
   <string name="video_err">"Не могу репродуковати видео запис."</string>
   <string name="video_not_exist">Видео запис не постоји</string>
   <string name="videos">" Videozapisa"</string>
+  <string name="view_baby_album">Prikaži dječji album</string>
   <string name="view_face_album">Погледај албум</string>
   <string name="view_sharers">Погледај учеснике</string>
   <string name="vignette">Вињета</string>
