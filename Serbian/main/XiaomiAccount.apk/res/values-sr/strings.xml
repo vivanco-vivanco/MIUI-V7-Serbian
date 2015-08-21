@@ -376,7 +376,6 @@
   <string name="passport_user_agreement_p2">Кориснички споразум</string>
   <string name="passport_user_agreement_p3">и</string>
   <string name="passport_user_agreement_p4">Правила о приватности</string>
-  <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_vcode">Код за проверу</string>
   <string name="passport_vcode_notification_title">Ваша потврда пријаве је непотпуна</string>
   <string name="passport_vcode_prompt_long">Унесите код за проверу</string>
