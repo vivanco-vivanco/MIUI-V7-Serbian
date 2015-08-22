@@ -1002,6 +1002,7 @@
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB меморија не може се искључити. Покушајте поново касније."</string>
   <string name="dlg_ok">Потврди</string>
+  <string name="dndm_alarm_content_not_all">Све допуштено</string>
   <string name="dndm_auto_button_title">Понови \"Не ометај ме"\ Време</string>
   <string name="dndm_auto_setting_group">Заказано</string>
   <string name="dndm_auto_time_setting">Подешавање времена</string>
