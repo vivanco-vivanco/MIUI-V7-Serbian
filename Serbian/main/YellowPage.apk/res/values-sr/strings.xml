@@ -136,7 +136,7 @@
   <string name="express_inquiry_trace_success">Праћено</string>
   <string name="express_inquiry_trace_user_notice_content">"Обавијестити ћемо вас о промени статуса ваше поруџбине."</string>
   <string name="express_inquiry_untrace">Не прати</string>
-  <string name="express_location_failed">"Ne mogu vas locirati. Unesite svoju adresu."</string>
+  <string name="express_location_failed">"Не могу вас лоцирати. Унесите своју адресу."</string>
   <string name="express_inquiry_untrace_success">Није праћено</string>
   <string name="express_no_address">Празно</string>
   <string name="express_no_order">Нема поруџбина</string>

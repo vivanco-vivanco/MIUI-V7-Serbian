@@ -3,10 +3,10 @@
   <string name="app_label">Управљач и преузимања</string>
   <string name="auto_restart_under_wifi">WLAN ће преузети аутоматски ову датотеку</string>
   <string name="button_cancel_download">Одустани</string>
-  <string name="button_download_now">Preuzmite sada</string>
+  <string name="button_download_now">Преузмите сада</string>
   <string name="button_queue_for_wifi">Ред Чекања</string>
   <string name="button_start_now">Започни сад</string>
-  <string name="button_wait_for_wifi">Čekaj</string>
+  <string name="button_wait_for_wifi">Чекај</string>
   <string name="dialog_insufficient_space_on_cache">Нема довољно простора на унутрашњој меморији</string>
   <string name="dialog_insufficient_space_on_external">Нема довољно простора на спољашњој меморији</string>
   <string name="dialog_not_show_again">"Не приказуј поново"</string>
@@ -52,12 +52,12 @@
   <string name="privacy_tip_content">"Користити Xunlei Accelerator за убрзање преузимања? URL а ће бити учитан на Xunlei сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере је ли имате активне претплате на ову услугу."</string>
   <string name="privacy_tip_ok">У реду</string>
   <string name="privacy_tip_title">Користити Xunlei Accelerator?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Korištenje vaše mobilne podatkovne veze za preuzimanje ovih %s datoteka (%s ) će povećati uporabu podataka.</string>
-  <string name="recommended_file_one_in_mobile">Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s ) će povećati uporabu podataka.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Niste povezani s WLAN-om u ovom trenutku. %s
+  <string name="recommended_file_more_in_mobile" formatted="false">Коришћење ваше мобилне везе са подацима за преузимање ових %s датотека (%s ) ће повећати употребу података.</string>
+  <string name="recommended_file_one_in_mobile">Коришћење ваше мобилне мреже са подацома за преузимање ове датотеке (%s ) ће повећати употребу података.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Нисте повезани са WLAN-ом у овом тренутку. %s
 
-Ne mogu dobiti pojedinosti o veličini datoteke . Za preuzimanje ove datoteke korištenjem mobilne podatkovne veze, dodirnite %s. Pričekati i preuzeti ovu datoteku kada ste povezani na WLAN, dodirnite %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Ne mogu dobiti pojedinosti o veličini datoteke. Za preuzimanje ove datoteke korištenjem mobilne podatkovne veze, dodirnite %s. Pričekati i preuzeti ovu datoteku kada ste povezani na WLAN, dodirnite %s."</string>
+Не могу добити појединости о величини датотеке . За преузимање ове датотеке коришћењем мобилне везе са подацима, додирните %s. Сачекати и преузети ову датотеку када сте повезани на WLAN, додирните %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Не могу добити појединости о величини датотеке. За преузимање ове датотеке коришћењем мобилне везе са подацима, додирните %s. Сачекати и преузети ову датотеку када сте повезани на WLAN, додирните %s."</string>
   <string name="root_downloads">Преузимања</string>
   <string name="task_already_exist">Задатак већ постоји</string>
   <string name="warning_tip_cancel">继续下载</string>

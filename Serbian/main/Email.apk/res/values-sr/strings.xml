@@ -127,7 +127,7 @@
   <string name="account_setup_failed_security">Отварање везе са сервером није било могуће због грешке са повезивањем.</string>
   <string name="account_setup_failed_security_policies_unsupported">Овај сервер захтева безбедносне функције које ваш Андроид уређај не подржава, укључујући: %s</string>
   <string name="account_setup_failed_tls_required">TLS је обавезан, али га север не подржава.</string>
-  <string name="account_setup_failed_too_many_partnerships">Prijava nije uspjela, postignut je maksimalni broj dopuštenih povezivanja na poslužitelj.</string>
+  <string name="account_setup_failed_too_many_partnerships">Пријава није успела, постигнут је максимални број допуштених повезивања на сервер.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Кад избришем из смећа</string>
   <string name="account_setup_incoming_delete_policy_label">Избриши e-пошту са сервером</string>
   <string name="account_setup_incoming_delete_policy_never_label">Никад</string>
@@ -723,13 +723,13 @@
   <string name="outbox_alert_certificate_error">"Обратите се администратору система e-поште и ажурирајте свој сертификат."</string>
   <string name="outbox_alert_description_auth_error">Грешка провере аутентичности са сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_cannot_authenticate">%s грешка система E-поште</string>
-  <string name="outbox_alert_description_email_size_error">Postignut je maksimalan broj E-pošte.</string>
-  <string name="outbox_alert_description_fail_authentication">Pogrešno korisničko ime ili zaporka.</string>
+  <string name="outbox_alert_description_email_size_error">Постигнут је максимални број E-поште.</string>
+  <string name="outbox_alert_description_fail_authentication">Погрешно корисничко име или лозинка.</string>
   <string name="outbox_alert_description_http_error">HTTP Грешка током излазне синхронизације</string>
   <string name="outbox_alert_description_insufficient_storage_error">Недовољно простора меморије на серверу e-поште</string>
   <string name="outbox_alert_description_provision_error">Грешка Одредаба с сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_reject_by_server">Одбијено од %s</string>
-  <string name="outbox_alert_description_sent_failed">"Величина прилога прелази ограниченје poslužitelja."</string>
+  <string name="outbox_alert_description_sent_failed">"Величина прилога прелази ограниченје сервера."</string>
   <string name="outbox_alert_duplicate_click">"Још синхронизујем…"</string>
   <string name="outbox_alert_edit_resend">Уреди и поново пошаљи</string>
   <string name="outbox_alert_failed_edit_resend">"Немогу послати. уреди и пошаљи поново."</string>

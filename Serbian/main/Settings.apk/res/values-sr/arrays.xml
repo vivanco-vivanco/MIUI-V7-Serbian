@@ -669,7 +669,7 @@
         <item>Прикажи анимације система</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Ubrzajte performanse uređaja""</item>
+        <item>"Убрзајте перформансе уређаја""</item>
         <item>"Mоже успорити перформансе уређаја"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">

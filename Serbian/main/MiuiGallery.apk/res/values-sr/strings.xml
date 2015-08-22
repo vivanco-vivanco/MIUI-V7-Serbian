@@ -84,7 +84,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s је поделио %5$s албум са тобом"</string>
   <string name="baby_album_sharer_recommand_face">Додати постојећу фотографију од %1$s?</string>
-  <string name="baby_album_sharers_page_title">Podijelite sa obitelji</string>
+  <string name="baby_album_sharers_page_title">Поделите са породицом</string>
   <string name="baby_birthday">Рођендан</string>
   <string name="baby_lock_wallpaper">Слика закљ. екрана</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Одаберите албум</string>
@@ -376,7 +376,7 @@
   <string name="invite_sharer_title">"Позовите %1$s %2$s"</string>
   <string name="invite_tip">"Поделите фотографију вашег детета"</string>
   <string name="invited_tip">Позван</string>
-  <string name="is">Da</string>
+  <string name="is">Да</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
   <string name="item_not_sync_for_origin_video">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
@@ -595,7 +595,7 @@
   <string name="select_auto_upload_albums">Одаберите албуме за учитавање</string>
   <string name="select_image">Одабери ставку.</string>
   <string name="select_item">Одабери ставку</string>
-  <string name="select_item_face">"Na fotog. je %s"</string>
+  <string name="select_item_face">"На фотог. је %s"</string>
   <string name="select_too_much_to_send_tips">"Не могу послати толико пуно ставки (макс. %d)."</string>
   <string name="select_video">Одаберите видео.</string>
   <string name="send">Пошаљи</string>

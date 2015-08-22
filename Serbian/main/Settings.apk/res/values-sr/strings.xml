@@ -103,7 +103,7 @@
   <string name="advanced_security_title">Напредно</string>
   <string name="advanced_settings">Напредна подешавања</string>
   <string name="advanced_settings_summary">Омогућити више опција подешавањима</string>
-  <string name="advanced_text_layout">Omogući napredan izgled teksta</string>
+  <string name="advanced_text_layout">Омогући напредни изглед текста</string>
   <string name="agps_roaming">A-GPS у ромингу</string>
   <string name="agps_roaming_dia">"Коришћење A-GPS у ромингу може знатно повећати употребу података. Ако премашите своје ограничење података, ваш пружаоц услуга вам може наплатити додатне трошкове."</string>
   <string name="agps_roaming_dia_title">Користи A-GPS у ромингу</string>
@@ -556,7 +556,7 @@
   <string name="bluetooth_unlock_state_disconnected">Није повезано</string>
   <string name="bluetooth_unlock_state_key_error">Грешка кључа</string>
   <string name="bluetooth_unlock_state_label">"Статус: "</string>
-  <string name="bluetooth_unlock_state_ok">Otključano</string>
+  <string name="bluetooth_unlock_state_ok">Откључано</string>
   <string name="bluetooth_unlock_state_too_far">Није довољно близу</string>
   <string name="bluetooth_unlock_title">Откључај са Bluetooth уређајем</string>
   <string name="bluetooth_unlock_turned_off">Искључено</string>
@@ -653,11 +653,11 @@
   <string name="check_update">Провери ажурирања</string>
   <string name="checkbox_notification_same_as_incoming_call">Користи јачину звука долазног позива за обавештења</string>
   <string name="checking_for_updates">Провера ажурирања…</string>
-  <string name="children_mode_enable_title">Dječji način</string>
+  <string name="children_mode_enable_title">Дечији начин</string>
   <string name="children_mode_set_apps_title">Доступне апликације</string>
-  <string name="children_mode_tips_off">Након укључивања Dječjeg načina додирните тастер Почетна за повраћај на Почетни екран</string>
-  <string name="children_mode_tips_on">Након искључивања Dječjeg načina додирните тастер Почетна за повраћај на Почетни екран</string>
-  <string name="children_mode_title">Dječji način</string>
+  <string name="children_mode_tips_off">Након укључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран</string>
+  <string name="children_mode_tips_on">Након искључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран</string>
+  <string name="children_mode_title">Дечији начин</string>
   <string name="choose_smartcover_type">Одаберите врсту футроле</string>
   <string name="choose_timezone">Избор временске зоне</string>
   <string name="cleaner">Чистач</string>
@@ -1025,8 +1025,8 @@
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Допусти позиве од измена</string>
-  <string name="dndm_vip_call_setting_detal">Uvijek prihvati pozive od iznimaka</string>
-  <string name="dndm_vip_call_setting_title">Iznimke</string>
+  <string name="dndm_vip_call_setting_detal">Изузеци</string>
+  <string name="dndm_vip_call_setting_title">Изузеци</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_contact">"Сви"</string>
   <string name="dndm_vip_call_summary_none">Додирни за конфигурисање</string>
@@ -1165,7 +1165,7 @@
   <string name="error_name_empty">Поље Назив не сме да буде празно.</string>
   <string name="error_title"/>
   <string name="every_day">Сваки дан</string>
-  <string name="experience_optimization_category">Optimizacija</string>
+  <string name="experience_optimization_category">Оптимизација</string>
   <string name="experimental_preference">(Експериментално)</string>
   <string name="external_code_size_label">Апликација USB меморије</string>
   <string name="external_data_size_label">USB уређај за меморисање података</string>
@@ -2083,9 +2083,9 @@
   <string name="priority_storage_settings_summary">Ако није уметнута SD картица, ваши подаци ће бити сачувани на унутрашњу меморију ваших уређаја аутоматски</string>
   <string name="priority_storage_summary">Одаберите где ће се сачувати ваши подаци</string>
   <string name="priority_storage_title">Подешавања меморије</string>
-  <string name="privacy_mode_dialog_message">Sakriti poruke, bilješke, fotografije, postavke i dolazne pozive?</string>
+  <string name="privacy_mode_dialog_message">Сакрити поруке, белешке, фотографије, подешавања и долазне позиве?</string>
   <string name="privacy_mode_dialog_title">Гост начин рада</string>
-  <string name="privacy_mode_enable_sum">Сакриј поруке, белешке,слике, postavke и долазне позиве</string>
+  <string name="privacy_mode_enable_sum">Сакриј поруке, белешке,слике, подешавања и долазне позиве</string>
   <string name="privacy_mode_enable_title">Гост начин</string>
   <string name="privacy_mode_summary">Закључај поједине апликације или сакри личне информације</string>
   <string name="privacy_mode_title">Подешавања приватности</string> 
@@ -2212,7 +2212,7 @@
   <string name="really_remove_account_message">Уклањањем овог налога избрисаћете све поруке, контакте и друге податке са телефона!</string>
   <string name="really_remove_account_title">Желите ли да уклоните налог?</string>
   <string name="rebootiing_for_updates">Поново покретање…</string>
-  <string name="recent_location_requests_summary">Prikaži aplikacije koje traže prikaz o detaljima vaše lokacije</string>
+  <string name="recent_location_requests_summary">Прикажи апликације које траже приказ о детаљима ваше локације</string>
   <string name="recent_location_requests_title">Приступ локацији</string>
   <string name="recognizer_settings_summary">Подешавања за „%s“</string>
   <string name="recognizer_settings_title">Гласовна претрага</string>
@@ -2650,9 +2650,9 @@
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Време без мировања</string>
   <string name="status_bar_and_notification_bar">Панел обавештења и статусна трака</string>
-  <string name="status_bar_app_disable_notification">Sakrij obavijesti</string>
+  <string name="status_bar_app_disable_notification">Сакриј обавештења</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Закљ. екран, Панел обавештења</string>
-  <string name="status_bar_app_enable_on_notificationBar">Prikaži u Panelu obavijesti</string>
+  <string name="status_bar_app_enable_on_notificationBar">Прикажи у панелу Обавештења</string>
   <string name="status_bar_filter_item_description">За подешавање обавештења, идите у мени Општа подешавања &gt;Обавештења &gt; Управљање обавештењима</string>
   <string name="status_bar_filter_item_preview_image">Преглед</string>
   <string name="status_bar_key_position_custom">Прилагођена позиција тастера</string>
@@ -2680,7 +2680,7 @@
   <string name="status_bar_settings_notification_priority_summary">Прикажи обавештења на врху пописа</string>
   <string name="status_bar_settings_notification_sound_vibrate">Звук &amp; вибрација</string>
   <string name="status_bar_settings_show_carrier">Прикажи назив провајдера услуга</string>
-  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Назив оператера се и даље приказује на Закљ. екрану и панелу обавештења када је ова функција искључена</string>
   <string name="status_bar_settings_show_flow_info">Прикажи детање тока</string>
   <string name="status_bar_settings_show_home_message">Значка иконе апликације</string>
   <string name="status_bar_settings_show_keyguard_notification">Прикажи пливајућа обавештења</string>

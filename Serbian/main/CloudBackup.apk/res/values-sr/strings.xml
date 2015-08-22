@@ -5,7 +5,7 @@
   <string name="back_up_task_in_process">Израда у току…</string>
   <string name="back_up_task_unfinished">Сиг. копија није завршена</string>
   <string name="backing_up_to_micloud">Стварање Сиг. копије</string>
-  <string name="backup_fail">"Ne mogu izraditi Sig. kopiju aplikacija Početnog zaslona"</string>
+  <string name="backup_fail">"Не могу израдити Сиг копију. копију апликација Почетног екрана"</string>
   <string name="backup_size">Величина: %s</string>
   <string name="backup_success">Сиг. копија апликација Почетног екрана није успела</string>
   <string name="backup_to_cloud">Сиг. копија података апликације</string>
@@ -13,7 +13,7 @@
   <string name="button_delete">Избриши</string>
   <string name="button_next">Даље</string>
   <string name="cancel_recover_settings">&lt;u&gt;Одустани&lt;/u&gt;</string>
-  <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
+  <string name="click_try_to_restore_again">Додирните да покушате поново</string>
   <string name="cloud_app_backup_success">Сиг. копија апликација завршена</string>
   <string name="cloud_app_check_data">Добијање података са MiCloud-a…</string>
   <string name="cloud_app_current_device">Тренутни уређај</string>
@@ -42,7 +42,7 @@
   <string name="device_xiaomi">Mi Телефон</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="download_settings">Преузимање подешавања Почетног екрана %s%%</string>
-  <string name="download_settings_fail">"Ne mogu preuzeti postavke Početnog zaslona"</string>
+  <string name="download_settings_fail">"Не могу преузети подешавања Почетног екрана"</string>
   <string name="error_unknown">Нешто није у реду</string>
   <string name="latest_backup_time_loading">Учитавање…</string>
   <string name="managespace_delete_backup">Избриши Сиг. копију</string>

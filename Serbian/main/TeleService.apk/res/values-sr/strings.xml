@@ -198,7 +198,7 @@
   <string name="corporate_unlock_success">SIM Корпоративно отклјучавање успешно.</string>
   <string name="cursorError">Подршка показивача</string>
   <string name="data_enable_summary">Омогући везу са подацима преко мобилне мреже</string>
-  <string name="data_enabled">Mob. Podaci</string>
+  <string name="data_enabled">Моб. Подаци</string>
   <string name="deactivate_all">Откажи све</string>
   <string name="default_preference_summary">Није подешено</string>
   <string name="delete">Избриши</string>

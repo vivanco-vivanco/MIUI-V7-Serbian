@@ -194,9 +194,9 @@
   <string name="mycamera">Моји видеозаписи</string>
   <string name="myfavorite">Фаворити</string>
   <string name="myfavorite_onlylocal">Фаворити</string>
-  <string name="need_upgrade_button">Provjeri</string>
-  <string name="need_upgrade_summary">Ova je funkcija dostupna u novoj verziji, molimo pritisnite ažuriranje za instaliranje nove verzije.</string>
-  <string name="need_upgrade_title">Dostupno u novoj verziji</string>
+  <string name="need_upgrade_button">Провери</string>
+  <string name="need_upgrade_summary">Ова је функција доступна у новој верзији, молимо притисните ажурирање за инсталирање нове верзије.</string>
+  <string name="need_upgrade_title">Доступно у новој верзији</string>
   <string name="negative_comment">Негативно</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Пријавите се на ваш Mi Рачун ради слања коментара.</string>
