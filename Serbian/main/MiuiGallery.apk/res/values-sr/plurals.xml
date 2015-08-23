@@ -5,29 +5,29 @@
         <item quantity="one">Избрисати %1$s албум (%2$s укупно)?</item>
    </plurals>
 	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке, укључујући фотографије или видеозаписе у Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> ставки са овог уређаја Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке, укључујући фотографије или видеозаписе у Mi Cloudu, избрисати оволико %s ставки са овог уређаја Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке, укључујући фотографије у Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> фотографија са овог уређаја Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Одабрана ставка, укључујући фотографију у Mi Cloudu, избрисати &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> фотографију са овог уређаја Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке, укључујући фотографије у Mi Cloudu, избрисати оволико %s фотографија са овог уређаја Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка, укључујући фотографију у Mi Cloudu, избрисати  %s фотографију са овог уређаја Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке, укључујући видеозаписе у Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> видеозаписа са овог уређаја и Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Одабрана ставка, укључујући видеозапис Mi Cloudu, избрисати &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> видеозапис са овог уређаја и Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке, укључујући видеозаписе у Mi Cloudu, избрисати оволико %s видеозаписа са овог уређаја и Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка, укључујући видеозапис Mi Cloudu, избрисати  %s видеозапис са овог уређаја и Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке су фотографије или видеозаписи на Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> ставки са Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке су фотографије или видеозаписи на Mi Cloudu, избрисати оволико %s ставки са Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке су фотографие на Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> фотографија са Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Одабрана ставка је фотографија на Mi Cloudu, избрисати &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> фотографију са Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке су фотографие на Mi Cloudu, избрисати оволико %s фотографија са Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка је фотографија на Mi Cloudu, избрисати  %s фотографију са Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Одабране ставке су видезаписи на Mi Cloudu, избрисати оволико&amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> видеозаписа са Mi Clouda?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Одабрана ставка је видеозапис на Mi Cloudu, избрисати &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> видеозапис са Mi Clouda?&lt;/Data></item>
+        <item quantity="other">Одабране ставке су видезаписи на Mi Cloudu, избрисати оволико %s видеозаписа са Mi Clouda?</item>
+        <item quantity="one">Одабрана ставка је видеозапис на Mi Cloudu, избрисати  %s видеозапис са Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Избрисати &amp;lt;xliff:g id=ITEM>%s&amp;lt/xliff:g> ставки из ово албума?&lt;/Data></item>
+        <item quantity="other">Избрисати  %s ставки из ово албума?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Избрисати %s ставки?</item>
@@ -49,12 +49,12 @@
         <item quantity="one">Избрисати видео запис (%s)?</item>
     </plurals>
 	<plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео записе&amp;lt;/xliff:g> из %2$d албума?&lt;/Data></item>
-        <item quantity="one">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео запис&amp;lt;/xliff:g> из %2$d албума?&lt;/Data></item>
+        <item quantity="other">" " Избрисати  %1$d видео записе из %2$d албума?</item>
+        <item quantity="one">" " Избрисати  %1$d видео запис из %2$d албума?</item>
     </plurals>
 	<plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Избрисати &lt;xliff:g id=ITEM>%1$d слика&lt;/xliff:g> из %2$d албума?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Избрисати &lt;xliff:g id=ITEM>%1$d слику&lt;/xliff:g> из %2$d albuma?&lt;/Data></item>
+        <item quantity="other">Избрисати %1$d слика из %2$d албума?</item>
+        <item quantity="one">Избрисати %1$d слику из %2$d albuma?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Одабрано: %1$d"</item>
