@@ -6,6 +6,6 @@
     </plurals>
 	<plurals name="disable_notification_confirm_title">
         <item quantity="other">"Сакрити обавештења %d аплик.?"</item>
-        <item quantity="one">"Сакрити обавештња %d аплик.?"</item>
+        <item quantity="one">"Сакрити обавештења %d аплик.?"</item>
     </plurals>
 </resources> 
