@@ -497,7 +497,7 @@
   <string name="importing_vcard_description">Увоз %s</string>
   <string name="importing_vcard_finished_title">Увоз датотеке %s је завршен</string>
   <string name="in_call_show">Видеозапис</string>
-  <string name="in_call_show_camera_open_error">Грешка при покретању камере, покушајте поново</string>
+  <string name="in_call_show_camera_open_error">"Ne mogu otvoriti kameru"</string>
   <string name="in_call_show_delete_message">Избрисати ваш видеозапис?</string>
   <string name="in_call_show_delete_title">Избрисати видеозапис?</string>
   <string name="in_call_show_demo_present">Преглед</string>
@@ -515,7 +515,7 @@
   <string name="in_call_show_too_short">Прекратко. Покушајте да снимите дужи видеозапис.</string>
   <string name="in_call_show_video_pick">Одабери</string>
   <string name="in_call_show_video_pick_filter">"Видеозапис мора бити мањи од 3 MB и краћи од 20 секунди. "</string>
-  <string name="in_call_show_view_play_error">Грешка током репродукције, покушајте поново</string>
+  <string name="in_call_show_view_play_error">"Ne mogu reproducirati videozapis"</string>
   <string name="insertContactDescription">Направи контакт</string>
   <string name="insertGroupDescription">Направи групу</string>
   <string name="invalidContactMessage">Контакт не постоји.</string>

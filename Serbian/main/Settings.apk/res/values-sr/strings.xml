@@ -655,8 +655,8 @@
   <string name="checking_for_updates">Провера ажурирања…</string>
   <string name="children_mode_enable_title">Дечији начин</string>
   <string name="children_mode_set_apps_title">Доступне апликације</string>
-  <string name="children_mode_tips_off">Након укључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран</string>
-  <string name="children_mode_tips_on">Након искључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран</string>
+  <string name="children_mode_tips_off">Након укључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран.</string>
+  <string name="children_mode_tips_on">Након искључивања Дечијег начина додирните тастер Почетна за повраћај на Почетни екран.</string>
   <string name="children_mode_title">Дечији начин</string>
   <string name="choose_smartcover_type">Одаберите врсту футроле</string>
   <string name="choose_timezone">Избор временске зоне</string>
@@ -2025,7 +2025,7 @@
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Светло тастера</string>
   <string name="pref_button_light_summary">Индикатор тастера мени, Почетна и назад</string>
-  <string name="pref_edge_handgrip">Rub ručke</string>
+  <string name="pref_edge_handgrip">Kontrole Ruba</string>
   <string name="pref_operational_key">Тастер радње</string>
   <string name="pref_volume_wake_summary">Клик на тастер за подешавање гласноће буди уређај</string>
   <string name="pref_volume_wake_title">Пробуди тастерима за гласноћу</string>

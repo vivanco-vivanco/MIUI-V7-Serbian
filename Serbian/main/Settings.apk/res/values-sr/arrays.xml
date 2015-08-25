@@ -598,6 +598,7 @@
         <item>Галерија</item>
         <item>Музика</item>
         <item>E-пошта</item>
+		<item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Мрежа је спора због превише промета</item>

@@ -5,7 +5,7 @@
         <item quantity="one">1 недавна апликација</item>
     </plurals>
 	<plurals name="disable_notification_confirm_title">
-        <item quantity="other">Блокирати %d аплик.</item>
-        <item quantity="one">Блокирати %d аплик.</item>
+        <item quantity="other">"Sakriti obavijesti %d aplik.?"</item>
+        <item quantity="one">"Sakriti obavijest %d aplik.?"</item>
     </plurals>
 </resources> 

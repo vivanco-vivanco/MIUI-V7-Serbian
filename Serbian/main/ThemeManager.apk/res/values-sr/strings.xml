@@ -20,7 +20,7 @@
   <string name="backup_theme_progress_message">Чувам тему…</string>
   <string name="backup_theme_success_message">Подешавања ваше тренутне теме су сачувана</string>
   <string name="change_wallpaper">Слика позадине</string>
-  <string name="choose_new_themes">Нове Теме</string>
+  <string name="choose_new_themes">Теме</string>
   <string name="close">Затвори</string>
   <string name="component_category_finest_title">УОПШТЕНО</string>
   <string name="component_category_more_title">НАПРЕДНО</string>
@@ -365,7 +365,7 @@
   <string name="theme_yes">Да</string>
   <string name="third_party_pickers_activity_title">Подеси %1$s</string>
   <string name="title_component">Прилагодите тему</string>
-  <string name="title_system_resource">Локално</string>
+  <string name="title_system_resource">Preuzeto</string>
   <string name="to_activate_the_account">Активирајте свој Mi Рачун</string>
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Обрежи</string>

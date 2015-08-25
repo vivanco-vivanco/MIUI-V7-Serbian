@@ -70,6 +70,7 @@
   <string name="delete_failed">"Не могу избрисати"</string>
   <string name="delete_file">Избрисати ову датотеку?</string>
   <string name="delete_files">Избрисати датотеке %1$d ?</string>
+  <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
   <string name="delete_folder">Избрисати ову датотеку?</string>
   <string name="delete_folders">Избрисати мапе %1$d?</string>
   <string name="delete_selected_tasks">Избрисати одабрано?</string>
@@ -234,6 +235,7 @@
   <string name="notification_setting">Обавештења</string>
   <string name="notification_summary">"%1$s још не подржава ову функцију"</string>
   <string name="notification_title">Обавести кад су нове датотеке додате %1$s</string>
+  <string name="online_not_support">"Ne mogu prikazati ovu datoteku online u ovom trenutku."</string>
   <string name="open_changed_file_message">"датотека коју покушавате одобрити је измењена, могли би:
 1. Преузети датотеку да је поново ажурирате.
 2. Учитати је на ваш KuaiPan рачун."</string>
@@ -348,6 +350,7 @@
   <string name="signin_error">"Не могу се повезати на сервер. Проверите своју мрежну везу."</string>
   <string name="signin_success">"Пријављени сте!
 Додано слободног простора %1$s"</string>
+  <string name="smb_loading">Samo tren…</string>
   <string name="space_info">KuaiPan: %1$s доступно, %2$s укупно</string>
   <string name="space_usage">Искориштен простор</string>
   <string name="start_server">Покрени FTP сервер</string>

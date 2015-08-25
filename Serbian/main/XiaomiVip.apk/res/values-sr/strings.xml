@@ -7,6 +7,7 @@
   <string name="award_time">Прикупљено на %s</string>
   <string name="awarded_package_is_expired">Истекло</string>
   <string name="awarded_package_was_redeemed">Откупљено</string>
+  <string name="browse">Pregled</string>
   <string name="buff_enable">[ омогући ]</string>
   <string name="cube_ptr_hours_ago"> сати раније</string>
   <string name="cube_ptr_last_update">задњи апдејт: </string>
@@ -17,29 +18,29 @@
   <string name="cube_ptr_refreshing">Ажурирам...</string>
   <string name="cube_ptr_release_to_refresh">Пусти да освежиш</string>
   <string name="cube_ptr_seconds_ago"> секунде раније</string>
-  <string name="days">%d дана</string>
-  <string name="exp_buff">+%s%% искуство</string>
-  <string name="experience">Стручњак</string>
+  <string name="days">%d д</string>
+  <string name="exp_buff">+%s%% boda</string>
+  <string name="experience">Bod</string>
   <string name="expired">Истекло</string>
   <string name="fail_reach_server">"Не могу да се повежем на сервер"</string>
   <string name="giveup">Одустани</string>
   <string name="hello">Поздрав</string>
-  <string name="hours">%d сати</string>
+  <string name="hours">%d с</string>
   <string name="in_progress">Шањем захтев…</string>
   <string name="invalid_json">Нешто није у реду</string>
   <string name="level">Ниво</string>
-  <string name="level_detail">Дневни задатак граница: %d</string>
-  <string name="level_exp_value" formatted="false">%d/%d</string>
-  <string name="level_info_format" formatted="false">"Ниво %d %d/%d
+  <string name="level_detail">Ograničenje dnevnog izazova: %d</string>
+  <string name="level_exp_value" formatted="false">Bodova: %d/%d</string>
+  <string name="level_info_format" formatted="false">"Razina %d %d/%d
 %s"</string>
-  <string name="millis">%d милисекунди.</string>
-  <string name="minutes">%d мин.</string>
+  <string name="millis">%d мс</string>
+  <string name="minutes">%d м</string>
   <string name="my_award">Моје награде</string>
   <string name="no_app">Молимо вас да прво инсталирате апликацију</string>
   <string name="no_award">Нема награда</string>
   <string name="no_network">"Не могу да се повежем на мрежу"</string>
-  <string name="no_task">Сви задаци су комплетирани</string>
-  <string name="passive_task">Позадински задаци</string>
+  <string name="no_task">Сви izazovi су комплетирани</string>
+  <string name="passive_task">Позадински izazovi</string>
   <string name="privilege">Привилегијe</string>
   <string name="promote">Ниво горе</string>
   <string name="query_level_fail">"Не могу добити информацију"</string>
@@ -47,7 +48,7 @@
   <string name="take_awarded_package">Откупити</string>
   <string name="take_awarded_package_failed">"Не могу да откупим поклон. Сачекајте минут два и пробајте поново."</string>
   <string name="seconds">%d сек.</string>
-  <string name="task">Задаци</string>
+  <string name="task">izazovi</string>
   <string name="task_begin">У току…</string>
   <string name="task_completed">Завршено</string>
   <string name="task_done">Готово</string>
@@ -58,9 +59,9 @@
   <string name="task_select_title">Одабрати задатак</string>
   <string name="task_start">Почетак</string>
   <string name="task_take_award">Узми награде</string>
-  <string name="today_task">"Данашњи задаци"</string>
+  <string name="today_task">"Данашњи izazovi"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
-  <string name="unlimited_task">Специјални задаци</string>
+  <string name="unlimited_task">Специјални izazovi</string>
   <string name="upgraded">Ниво Горе!</string>
   <string name="use">Користи</string>
   <string name="validity">Истиче на %s</string>
