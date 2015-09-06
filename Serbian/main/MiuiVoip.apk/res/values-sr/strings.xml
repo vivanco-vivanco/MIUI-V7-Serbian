@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_voip_call">Бесплатан voip позив</string>
-  <string name="activate_voip_description">Твој пријатељ је у коришћењу позива VOIP позива, можете активирати VOIP и упуцивати позиве</string>
+  <string name="activate_voip_description">Твој пријатељ је у коришћењу позива VOIP позива, можете активирати VOIP и упућивати позиве</string>
   <string name="address_choose_hint">%1$s, %2$s, i %3$d остале локације</string>
   <string name="all_address_choose_hint">Сви бројеви у овој покрајини</string>
   <string name="app_name">Бесплатни позиви</string>
@@ -26,11 +26,11 @@
   <string name="dlg_no_block_ok">Одблокирај</string>
   <string name="dlg_remove_address_blacklist">Уклонити ову локацију са Листе блокираних?</string>
   <string name="dlg_remove_blacklist">Уклонити ове бројеве са Листе блокираних и вратите повезане блокиране позиве на записе позива?</string>
-  <string name="dlg_remove_blacklist_ing">Uklanjanje…</string>
+  <string name="dlg_remove_blacklist_ing">Уклањање...</string>
   <string name="dlg_remove_blacklist_ok">Уклони</string>
   <string name="dlg_white_antispam_hint">Изузеци</string>
-  <string name="engine_activate_successfully">Voip Usluga je uspješno započela</string>
-  <string name="engine_activate_unsuccessfully">Pogreška mreže</string>
+  <string name="engine_activate_successfully">Voip Услуга је успешно започета</string>
+  <string name="engine_activate_unsuccessfully">Грешка мреже</string>
   <string name="engine_activating">Покретање услуге, причекајте...</string>
   <string name="engine_deactivate_successfully">Успешно деактивирано</string>
   <string name="info_antispam_phone">Блокирај позиве</string>
@@ -50,22 +50,22 @@
   <string name="mx_activate_dlg_title">MIUI Voip Позиви</string>
   <string name="mx_activate_user_agreement_p1">"Коришћењем ове услуге, слажете се са MIUI Voip "</string>
   <string name="mx_btn_enable_now">Активирај</string>
-  <string name="mx_choose_sim_dlg_title">Odaberite broj telefona za aktivaciju Mi Voice</string>
+  <string name="mx_choose_sim_dlg_title">Одаберите број телефона за активацију Mi Voice</string>
   <string name="mx_dspt_provision">MIUI Voip вам омогућује бесплатно позивање других  MIUI корисника. Ваш пружаоц услуга вам може наплатити мрежни промет.</string>
   <string name="mx_dspt_provision_2">MIUI Voip вам омогућује бесплатно позивање других MIUI корисника. Ваш пружаоц услуга вам може наплатити мрежни промет. Можда ће бити потребно да пошаљемо SMS поруку да потврдите свој број телефона.</string>
-  <string name="mx_dspt_provision_3">"MIUI Voip vam omogućuje besplatno pozivanje drugih MIUI korisnika. Vaš operater može vam naplatiti mrežni promet. Možda ćemo trebati poslati SMS poruku da potvrdite svoj broj telefona. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti"</string>
+  <string name="mx_dspt_provision_3">"MIUI Voip вам омогућује бесплатно позивање других MIUI корисника. Ваш оператер вам може наплатити мрежни промет. Можда ће мо требати да пошаљемо SMS поруку да потврдите свој број телефона. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
   <string name="net_connect_fails">"Не могу се повезати на мрежу, проверите мрежна подешавања"</string>
   <string name="net_singal_tips">Voip позив сигнал мреже %1$s</string>
-  <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
+  <string name="network_unavailable">"Не могу се повезати на мрежу."</string>
   <string name="next">Даље</string>
   <string name="no_sim_found">Нема SIM картице</string>
   <string name="note_list_none">Листа је празна</string>
-  <string name="notification_activate_failed">"Ne mogu aktivirati VoIP, kliknite da biste otvorili"</string>
+  <string name="notification_activate_failed">"Не могу активирати VoIP, кликните да би сте отворили"</string>
   <string name="notification_dialing">Бирање</string>
   <string name="notification_incoming_call">Долазни позив</string>
-  <string name="notification_missedCallTicker">Propušten poziv od %s</string>
-  <string name="notification_missedCallsMsg">%s propuštenih poziva</string>
-  <string name="notification_missedCallsTitle">Propušteni pozivi</string>
+  <string name="notification_missedCallTicker">Пропуштен позив од %s</string>
+  <string name="notification_missedCallsMsg">%s пропуштени позива</string>
+  <string name="notification_missedCallsTitle">Пропуштени позиви</string>
   <string name="notification_ongoing_call">Одлазни позив</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="phone_switch_tip">Пребаци на GSM позив</string>
@@ -112,7 +112,7 @@
   <string name="user_agreement4">Правила о приватности</string>
   <string name="voip_btn_mute">Утишај</string>
   <string name="voip_btn_speaker">Звучник</string>
-  <string name="voip_btn_switch_camera">Promjeni kameru</string>
+  <string name="voip_btn_switch_camera">Промени камеру</string>
   <string name="voip_call_failed_common_call_title">GSM позив</string>
   <string name="voip_call_failed_hang_up_title">Одустани</string>
   <string name="voip_call_failed_message">"Особа коју зовете не може одговорити, можда није онлајн или је у лошој мрежи.
@@ -134,11 +134,11 @@
   <string name="voip_droped_call">Испуштено %1$s</string>
   <string name="voip_droping_call">Испуштање %1$s</string>
   <string name="voip_ending_call">"Voip позив завршен "</string>
-  <string name="voip_free_video_tip">Besplatan voip video poziv</string>
-  <string name="voip_free_voice_tip">Besplatan voip poziv</string>
+  <string name="voip_free_video_tip">Бесплатан voip видеопозив</string>
+  <string name="voip_free_voice_tip">Бесплатан voip позив</string>
   <string name="voip_gsm_online">"VoIP позив није могуће подесити док је GSM онлајн, назовите касније"</string>
   <string name="voip_hang_up_mic_failed">"Микрофон није доступан, проверите допуштења и уверите се да није заузет од стране друге апликације"</string>
-  <string name="voip_incall">"Voip poziv se ne može uspostaviti dok je VoIP potiv u tijeku, nazovite poslije"</string>
+  <string name="voip_incall">"Voip позив се не може успоставити док је VoIP позив у току, позовите после"</string>
   <string name="voip_incoming_from_friend">Voip долази од %1$s</string>
   <string name="voip_network_not_online">Нема сигнала мреже</string>
   <string name="voip_network_operators">Ви сте на %1$sG мрежи, додатни трошкови вас прате</string>

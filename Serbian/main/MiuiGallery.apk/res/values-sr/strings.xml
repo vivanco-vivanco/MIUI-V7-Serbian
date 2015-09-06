@@ -124,8 +124,8 @@
   <string name="cannot_send_message">"Не могу послати поруку"</string>
   <string name="cannot_send_message_reason">Порука нема исправног примиоца.</string>
   <string name="cant_delete_system_album">Не могу избрисати %s јер је то албум система."</string>
-  <string name="change_to_face_mode">Poredaj po osobama</string>
-  <string name="change_to_photo_mode">Poredaj po albumima</string>
+  <string name="change_to_face_mode">Поређај по особама</string>
+  <string name="change_to_photo_mode">Поређај по албумима</string>
   <string name="choose_baby_sexy">Пол</string>
   <string name="choose_cloud_album">Одабери албум</string>
   <string name="choose_owner_relation">Однос</string>
@@ -188,7 +188,7 @@
   <string name="cool_portrait">Кул Портрет</string>
   <string name="create_baby_album">Направи дечији Албум</string>
   <string name="create_baby_album_dialog_msg">Направи албум за \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Izradite dječji album bilo kada u Postavkama</string>
+  <string name="create_baby_album_later_toast">Направите дечији аплбум било када у Подешавањима</string>
   <string name="create_new_cloud_folder">Направи нови Албум</string>
   <string name="create_new_face">Ново лице</string>
   <string name="create_quick_icon_on_desk">Направи пречице</string>

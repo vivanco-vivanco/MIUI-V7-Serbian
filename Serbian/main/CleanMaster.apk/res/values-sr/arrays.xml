@@ -34,7 +34,7 @@
         <item>Изузетак</item>
 	</string-array>
 	<string-array name="empty_floder_clean_menu">
-        <item>Očisti</item>
+        <item>Очисти</item>
 	</string-array>
     <string-array name="apk_clean_menu">
         <item>Очисти</item>

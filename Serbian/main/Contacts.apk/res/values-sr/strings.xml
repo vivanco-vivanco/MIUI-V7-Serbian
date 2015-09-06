@@ -208,7 +208,7 @@
   <string name="contact_detail_profile_switch_off_success_toast">Картице контакта су искључене</string>
   <string name="contact_detail_profile_switch_on">"Види контакте' профилна фотографија"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Не могу искључити картице</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Kartice kontakata su uključene</string>
+  <string name="contact_detail_profile_switch_on_success_toast">Картице контаката су укључене</string>
   <string name="contact_directory_description">Каталог %1$s</string>
   <string name="contact_edit_title_edit">"Измени контакт"</string>
   <string name="contact_edit_title_insert">"Додај %s контакт"</string>
