@@ -141,7 +141,6 @@
   <string name="hints_storage_clean_size">Ослобођено %s унутрашње меморије</string>
   <string name="hints_storage_free">Слободно</string>
   <string name="hints_storage_free_size">%s dostupno, više stavki može biti očišćeno​</string>
-  <string name="hints_storage_free_size">%s доступно</string>
   <string name="hints_title_garbage">смеће</string>
   <string name="item_title_process_mode">Одаберите радњу</string>
   <string name="last_check_canceled">Претходно скенирање је отказано</string>
@@ -182,7 +181,6 @@
   <string name="pref_title_cleanup_white_list">Изузеци</string>
   <string name="pref_title_expand_cache_group">Прикажи ставке предмеморије</string>
   <string name="pref_title_garbage_auto_clean_content">Cтавке за чишћење</string>
-  <string name="pref_title_garbage_cleanup_check_size">Ograničenje veličine smeća</string>
   <string name="pref_title_garbage_cleanup_check_size">Ограничење величине смећа</string>
   <string name="pref_title_garbage_cleanup_check_time">Планирано</string>
   <string name="pref_title_garbage_process_mode">Обавештења</string>
