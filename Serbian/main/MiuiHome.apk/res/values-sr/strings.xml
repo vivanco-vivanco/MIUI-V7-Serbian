@@ -42,7 +42,7 @@
   <string name="choose_theme">Тема</string>
   <string name="children_folder_title">Деца</string>
   <string name="children_mode_exit">Излаз</string>
-  <string name="children_mode_tips">Natrag u Postavke i upravljaj pristup aplikacijama.</string>
+  <string name="children_mode_tips">Назад у Подешавања и управљај приступ апликацијама.</string>
   <string name="choose_wallpaper">Одабери слику позадине</string>
   <string name="chooser_wallpaper">Одабери слику позадине</string>
   <string name="cloud_app_restore_title">На чекању</string>
@@ -240,7 +240,7 @@
   <string name="wallpaper">Слика позадине</string>
   <string name="wallpaper_auto_change_title">Закљ. екран</string>
   <string name="wallpaper_failed_message">"Не могу подесити слику позадине"</string>
-  <string name="wallpaper_scaling_message">Skaliranje na fiksnu veličinu</string>
+  <string name="wallpaper_scaling_message">Скалирање на фиксну величину</string>
   <string name="wallpaper_settings">Слика позадине</string>
   <string name="wallpaper_settings_for_pad">Слика позадине</string>
   <string name="wallpaper_success_message">Слика позадине подешена</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Увези</string>
   <string name="abandon">Одбаци</string>
@@ -484,7 +484,7 @@
   <string name="operation_remove_from_face_album">Уклони лице</string>
   <string name="operation_remove_secret">Уклони из сакривеног албума</string>
   <string name="operation_rename">Преименуј</string>
-  <string name="operation_rename_baby">Unesite ime djeteta</string>
+  <string name="operation_rename_baby">Унесите име детета</string>
   <string name="operation_set_as_screensaver">Постави као чувара екрана</string>
   <string name="operation_share">Подели</string>
   <string name="operation_successful">Подељено</string>

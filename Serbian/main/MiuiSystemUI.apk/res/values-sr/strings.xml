@@ -55,9 +55,9 @@
   <string name="battery_low_percent_format">преостало %d%%</string>
   <string name="battery_low_title">"Прикључите пуњач"</string>
   <string name="battery_profiles">Користи профиле батерије</string>
-  <string name="block_record_notification_more_text">Skrivanje obavijesti od %1$s &amp; %2$d aplik.</string>
-  <string name="block_record_notification_text">Skrivanje obavijesti od %1$s</string>
-  <string name="block_record_notification_title">Obavijest skrivena</string>
+  <string name="block_record_notification_more_text">Скривање обавештења од %1$s &amp; %2$d аплик.</string>
+  <string name="block_record_notification_text">Скривање обавештења од %1$s</string>
+  <string name="block_record_notification_title">Обавештење сакривено</string>
   <string name="bluetooth_tethered">"Дељење везе Bluetoothom"</string>
   <string name="call_status_dialing">"Бирање броја"</string>
   <string name="call_status_ringing">Звоњење</string>

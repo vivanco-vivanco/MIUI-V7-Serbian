@@ -2034,7 +2034,7 @@
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Светло тастера</string>
   <string name="pref_button_light_summary">Индикатор тастера мени, Почетна и назад</string>
-  <string name="pref_edge_handgrip">Kontrole Ruba</string>
+  <string name="pref_edge_handgrip">Контроле ивице</string>
   <string name="pref_operational_key">Тастер радње</string>
   <string name="pref_volume_wake_summary">Клик на тастер за подешавање гласноће буди уређај</string>
   <string name="pref_volume_wake_title">Пробуди тастерима за гласноћу</string>

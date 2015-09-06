@@ -202,8 +202,8 @@
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Изглед дијапројекције "</string>
   <string name="left_cancel">Померите на лево да поништите</string>
-  <string name="loading_all_messages">Учитавањеа…</string>
-  <string name="loading_conversations">Учитавањеа…</string>
+  <string name="loading_all_messages">Учитавање…</string>
+  <string name="loading_conversations">Учитавање…</string>
   <string name="loading_mms">Учитавање MMS-a…</string>
   <string name="manage_permission_app_label">Допуштења уређаја</string>
   <string name="me">ја</string>

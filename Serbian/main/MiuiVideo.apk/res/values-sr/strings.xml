@@ -314,7 +314,7 @@
   <string name="userdata_alert_title">Упозорење употребе података</string>
   <string name="variety">Истакнуто</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
-  <string name="video">Видео заспис</string>
+  <string name="video">Видеозапис</string>
   <string name="video_info_audio_bitrate_label">Брзина звучног записа:</string>
   <string name="video_info_audio_coding_label">Аудио кодирање:</string>
   <string name="video_info_audio_null">Недоступно</string>

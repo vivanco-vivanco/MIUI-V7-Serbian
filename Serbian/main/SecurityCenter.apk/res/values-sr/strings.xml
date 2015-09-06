@@ -240,7 +240,7 @@
   <string name="manual_item_white_list_summary">Спречи одабране апликације за оптимизовање</string>
   <string name="manual_item_white_list_title">Изузеци</string>
   <string name="manual_white_list_header">Изузетака: %d</string>
-  <string name="memory_check_content_none">Prazno</string>
+  <string name="memory_check_content_none">Празно</string>
   <string name="menu_item_about_content">Верзија %s</string>
   <string name="menu_item_about_summary">Верзија %s</string>
   <string name="menu_item_about_title">О апликацији</string>
@@ -527,7 +527,7 @@
   <string name="summary_virus">Откривено вируса: %2$d</string>
   <string name="summary_virus_cloudscan">Пошаљите и скенирајте називе и детаље апликација користећи online дефиниције вируса</string>
   <string name="summary_virus_update">Аутоматско ажурирање дефиниција вируса када је повезано на WLAN</string>
-  <string name="system_check_content">Rizika %1$d</string>
+  <string name="system_check_content">Ризика %1$d</string>
   <string name="system_header_title">Чишћењем %1$d процеса ослобођено %2$s меморије</string>
   <string name="text_antivirus">Учитај називе апликација и детаље</string>
   <string name="text_antivirus_oversea">Ажурирај дефиницију вируса</string>
