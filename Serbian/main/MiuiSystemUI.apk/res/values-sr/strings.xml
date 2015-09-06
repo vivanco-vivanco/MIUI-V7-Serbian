@@ -158,6 +158,11 @@
   <string name="return_to_incall_screen">Повратак на позив</string>
   <string name="screen_button_notification_text">"Да их укључите, истовремено притисните дирке \"Почетна\" и \"Напајање\"."</string>
   <string name="screen_button_notification_title">Навигационе дирке су искључене.</string>
+  <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite Natrag i Pregled u isto vrijeme da otkvačite.</string>
+  <string name="screen_pinning_description_accessible">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite Pregled da otkvačite.</string>
+  <string name="screen_pinning_negative">Ne hvala</string>
+  <string name="screen_pinning_positive">Razumijem</string>
+  <string name="screen_pinning_title">Zaslon je prikvačen</string>
   <string name="screenshot_failed_text">Није могуће сачувати снимак екрана. Меморија је можда у употреби.</string>
   <string name="screenshot_saved_text">"Додирните за приказ снимка екрана."</string>
   <string name="screenshot_saved_title">"Екран је снимљен."</string>

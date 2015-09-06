@@ -124,8 +124,8 @@
   <string name="cannot_send_message">"Не могу послати поруку"</string>
   <string name="cannot_send_message_reason">Порука нема исправног примиоца.</string>
   <string name="cant_delete_system_album">Не могу избрисати %s јер је то албум система."</string>
-  <string name="change_to_face_mode">Promijeni na lica</string>
-  <string name="change_to_photo_mode">Promijeni na fotografije</string>
+  <string name="change_to_face_mode">Poredaj po osobama</string>
+  <string name="change_to_photo_mode">Poredaj po albumima</string>
   <string name="choose_baby_sexy">Пол</string>
   <string name="choose_cloud_album">Одабери албум</string>
   <string name="choose_owner_relation">Однос</string>
@@ -188,7 +188,7 @@
   <string name="cool_portrait">Кул Портрет</string>
   <string name="create_baby_album">Направи дечији Албум</string>
   <string name="create_baby_album_dialog_msg">Направи албум за \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Kasnije također možete izraditi dječji album i u gornjem desnom izborniku</string>
+  <string name="create_baby_album_later_toast">Izradite dječji album bilo kada u Postavkama</string>
   <string name="create_new_cloud_folder">Направи нови Албум</string>
   <string name="create_new_face">Ново лице</string>
   <string name="create_quick_icon_on_desk">Направи пречице</string>
@@ -463,7 +463,7 @@
   <string name="not_auto_create_recent_album">Поништи стварање фаворита</string>
   <string name="not_is">Hије</string>
   <string name="not_now">Не сада</string>
-  <string name="not_remind_any_more">"Ne podsjećaj me kasnije"</string>
+  <string name="not_remind_any_more">"Не приказуј поново"</string>
   <string name="not_show_hidden_albums">Не приказуј скривени албум</string>
   <string name="old">Старо</string>
   <string name="only_show_camera_in_first_page">Прикажи само са фотоапарата</string>

@@ -290,7 +290,7 @@
   <string name="rename_alert">"Ако промените екстензију ове датотеке, можда нећете бити у могућности да је отворите."</string>
   <string name="rename_description">Преименовање…</string>
   <string name="rename_failed">"Не могу преименовати %1$s"</string>
-  <string name="rlv_last_refreshing_time">Задње скенирање %1$s</string>
+  <string name="rlv_last_refreshing_time">Ажурирано %1$s</string>
   <string name="rlv_loading_more">Само тренутак…</string>
   <string name="rlv_pull_to_refresh">Повуци за освежити</string>
   <string name="rlv_refreshing">Скенирање датотека…</string>
@@ -370,11 +370,11 @@
   <string name="tab_local">Локално</string>
   <string name="tab_more">Више</string>
   <string name="tab_path">MAPE</string>
-  <string name="tab_source">Апликације</string>
+  <string name="tab_source">АПЛИКАЦИЈЕ</string>
   <string name="tab_storage">МЕМОРИЈА</string>
   <string name="terabyteShort">TB</string>		  
   <string name="title_more_source">Још апликација</string>
-  <string name="title_recent">Недавно</string>
+  <string name="title_recent">НЕДАВНО</string>
   <string name="toast_file_not_can_read">Нису пронађене апликације за извршење ове радње.</string>
   <string name="tools">АЛАТИ</string>
   <string name="trans_task">Мрежни пренос</string>

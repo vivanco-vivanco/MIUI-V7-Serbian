@@ -1002,7 +1002,15 @@
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB меморија не може се искључити. Покушајте поново касније."</string>
   <string name="dlg_ok">Потврди</string>
+  <string name="dndm_alarm_content">Zvuk</string>
+  <string name="dndm_alarm_content_all">Dopusti sve</string>
+  <string name="dndm_alarm_content_call">Pozivi</string>
+  <string name="dndm_alarm_content_call_sms">Pozivi i poruke</string>
+  <string name="dndm_alarm_content_event">Upozorenja</string>
+  <string name="dndm_alarm_content_event_and_call">Upozorenja i pozivi</string>
+  <string name="dndm_alarm_content_event_and_sms">Upozorenja i poruke</string>
   <string name="dndm_alarm_content_not_all">Све допуштено</string>
+  <string name="dndm_alarm_content_sms">Poruke</string>
   <string name="dndm_auto_button_title">Понови \"Не ометај ме"\ Време</string>
   <string name="dndm_auto_setting_group">Заказано</string>
   <string name="dndm_auto_time_setting">Подешавање времена</string>
@@ -1784,6 +1792,7 @@
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Основна Едиција</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Стандардна Едиција</string>
   <string name="music_dirac_mode_piston_youth">Младо издање</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
@@ -3292,6 +3301,7 @@ WLAN Asistent"</string>
   <string name="wifi_context_menu_connect">Повежи</string>
   <string name="wifi_context_menu_forget">Заборави</string>
   <string name="wifi_datanetwork_switch_not_remind">"Не приказуј поново"</string>
+  <string name="wifi_dialog_remind_type_title">Mobilni podaci</string>
   <string name="wifi_disabled_generic">Онемогућено</string>
   <string name="wifi_disabled_help">WLAN веза је прекинута због слабог сигнала</string>
   <string name="wifi_disabled_network_failure">Избегавање слабе интернет везе</string>
@@ -3540,6 +3550,8 @@ WLAN Asistent"</string>
   <string name="wifi_suspend_efficiency_title">Побољшај учинак</string>
   <string name="wifi_suspend_optimizations">Оптимизација WLAN-a</string>
   <string name="wifi_suspend_optimizations_summary">Минимизуј потрошњу батерије када је WLAN укључен</string>
+  <string name="wifi_switch_to_gsm_message">Povezivanje s WLAN-om je odgođeno. Koristiti mobilnu podatkovnu vezu?</string>
+  <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tether_checkbox_text">Преносни хотспот</string>
   <string name="wifi_tether_configure_ap_text">Подешавање хотспота</string>
   <string name="wifi_tether_configure_ssid_default">АндроидAP</string>
@@ -3550,7 +3562,7 @@ WLAN Asistent"</string>
   <string name="wifi_tether_starting">Укључивање хотспота…</string>
   <string name="wifi_tether_stopping">Искључивање хотспота…</string>
   <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+  <string name="wifi_type_approval_dialog_title">Прописи</string>
   <string name="wifi_type_approval_title">Врста одобрења</string>
   <string name="wifi_unchanged">(непромењено)</string>
   <string name="wifi_unspecified">(није одређено)</string>

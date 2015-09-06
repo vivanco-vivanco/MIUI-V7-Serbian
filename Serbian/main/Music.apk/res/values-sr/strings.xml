@@ -148,7 +148,7 @@
   <string name="higher_quality_music_summary">Stream и преузимање датотека веће брзине преноса</string>
   <string name="i_know">У реду</string>
   <string name="i_know_it">У реду</string>
-  <string name="impunity_declaration">Овој апликацији треба повезивање са интернетом за приказ и стреам online музике.</string>
+  <string name="impunity_declaration">Овој апликацији треба повезивање са интернетом.</string>
   <string name="impunity_declaration_ignore">"Не приказуј поново"</string>
   <string name="impunity_declaration_negative_text">Затвори</string>
   <string name="impunity_declaration_positive_text">У реду и настави</string>
@@ -216,6 +216,9 @@
   <string name="nowplaying_menu_item_delete">Избриши</string>
   <string name="ok">"У реду"</string>
   <string name="online_music">Online Музика</string>
+  <string name="online_music_enabled_subtitle">Dodirnite za stream vaših omiljenih pjesama.</string>
+  <string name="online_music_enabled_summary">Slušajte i preuzmite omiljene pjesme. Pogledajte Billboard ljestvice i trenutan popis pjesama gdje god krenuli!</string>
+  <string name="online_music_enabled_title">Besplatan stream je ovdje</string>
   <string name="online_playlist_is_empty">Листа песама је празна</string>
   <string name="only_online_can_select_quality">Можете одабрати квалитет само за музику коју стримујете.</string>
   <string name="order_process_fail">"Није било могуће ауторизовати ваш рачун. Сачекајте неколико минута и покушајте поново."</string>

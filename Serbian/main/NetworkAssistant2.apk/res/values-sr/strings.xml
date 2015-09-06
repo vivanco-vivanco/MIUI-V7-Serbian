@@ -153,15 +153,16 @@
   <string name="lock_screen_warning_value">Упозорење употребе података</string>
   <string name="main_alert_message_month_limit_error">Ограничење података је нетачно</string>
   <string name="main_alert_message_no_imsi">Нема SIM картице</string>
-  <string name="main_alert_message_no_mobile_package">"Ограничење података није подешено"</string>
+  <string name="main_alert_message_no_mobile_package">"Подесите Ограничење података"</string>
   <string name="main_alert_message_slot_no_data_connection">"Слот SIM картице не подржава
 везу са подацима"</string>
   <string name="main_button_idel_traffic">Ограничење</string>
   <string name="main_button_normal_traffic">Премашено</string>
-  <string name="main_button_usage_adjust">Поставите ограничење употребе података</string>
-  <string name="main_button_usage_adjust_manual">Поставите ограничење употребе података</string>
+  <string name="main_button_usage_adjust">Подесите ограничење употребе података</string>
+  <string name="main_button_usage_adjust_manual">Подесите ограничење употребе података</string>
   <string name="main_button_usage_adjusting">Промена…</string>
-  <string name="main_button_usage_package_setting">Поставите ограничење употребе података</string>
+  <string name="main_button_usage_package_setting">Подесите ограничење употребе података</string>
+  <string name="main_message_no_package_by_dual">Подесите ограничење података за %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Искључивање макс. употребе података</string>
   <string name="main_primary_message_traffic_cur_normal">Испод ограничења података</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Ограничење података прекорачено</string>
