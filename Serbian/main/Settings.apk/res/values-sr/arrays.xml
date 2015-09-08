@@ -40,10 +40,12 @@
         <item>30 минута</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Мален</item>
-        <item>Нормалан</item>
-        <item>Велик</item>
-        <item>Огроман</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+		<item>XXXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Јако споро</item>
