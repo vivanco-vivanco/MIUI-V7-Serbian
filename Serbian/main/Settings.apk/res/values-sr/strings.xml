@@ -1356,7 +1356,6 @@
   <string name="install_no_market_app_summary">Допусти инсталацију апликација из других извора осим App Store</string>
   <string name="install_no_market_app_title">Непознати извори</string>
   <string name="install_preinstall_app">Учитавање апликација…</string>
-  <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
   <string name="install_text">Инсталирај</string>
   <string name="install_unknown_applications">Дозволи инсталацију апликација из непознатих извора</string>
   <string name="install_unknown_applications_title">Омогућује инсталирање апликација из извора који нису Google Play</string>
@@ -1989,7 +1988,6 @@
   <string name="page_layout_7">Игре</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Теме</string>
-  <string name="page_layout_confirm_message">"Ваш уређај треба поново да се покрене како би се променила ова подешавања. То траје око 1 минут."</string>
   <string name="page_layout_confirm_message">"Ваш уређај треба поново да се покрене како би се променила ова подешавања. То траје око 1 минут."</string>
   <string name="page_layout_confirm_title">Промена приказа времена</string>
   <string name="page_layout_godzilla_title">XXL</string>
