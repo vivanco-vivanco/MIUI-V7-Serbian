@@ -129,27 +129,27 @@
         <item quantity="one">"%1$d дан "</item>
      </plurals>
 	  <plurals name="number_of_images_to_upload">
-        <item quantity="other">Slika (%1$d) za učitati</item>
-        <item quantity="one">1 slika za učitati</item>
+        <item quantity="other">Слика (%1$d) за учитавање</item>
+        <item quantity="one">1 слика за учитавање</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Videozapisa (%1$d) za učitati</item>
-        <item quantity="one">1 videozapis za učitati</item>
+        <item quantity="other">Видеозаписа (%1$d) за учитавање</item>
+        <item quantity="one">1 видеозапис за учитавање</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Slika i videozapisa (%1$d) za učitati</item>
-        <item quantity="one">1 slika i videozapis za učitati</item>
+        <item quantity="other">Слика и видезаписа (%1$d) за учитавање</item>
+        <item quantity="one">1 слика и видеозапис за учитавање</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Učitavanje %1$d slika…</item>
-        <item quantity="one">Učitavanje 1 slike…</item>
+        <item quantity="other">Учитавање %1$d слика...</item>
+        <item quantity="one">Учитавање 1 слике...</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Učitavanje %1$d videozapisa…</item>
-        <item quantity="one">Učitavanje 1 videozapisa…</item>
+        <item quantity="other">Учитавање %1$d видеозаписа...</item>
+        <item quantity="one">Учитавање 1 видеозаписа</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Učitavanje %1$d slika i videozapisa…</item>
-        <item quantity="one">Učitavanje 1 slike i videozapisa…</item>
+        <item quantity="other">Учитавање %1$d слика и видезаписа…</item>
+        <item quantity="one">Учитавање 1 слике и видеозаписа…</item>
     </plurals>
 </resources>
