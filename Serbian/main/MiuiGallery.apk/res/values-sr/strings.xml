@@ -6,8 +6,8 @@
   <string name="accept_or_deny">%1$s је поделило албум %2$s са тобом.</string>
   <string name="activity_not_found">Нема пронађених апликација извршење ове радње].</string>
   <string name="add_account">Додај рачун</string>
-  <string name="add_automatically_alert_msg">Dodati fotografije od \"%1$s\" u ovaj album automatski?</string>
-  <string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
+  <string name="add_automatically_alert_msg">Додати фотографије од \"%1$s\" у овај албум аутоматски?</string>
+  <string name="add_automatically_alert_title">Додај фотографије аутоматски</string>
   <string name="add_event">Додај догађај</string>
   <string name="add_event_hint">Унесите назив</string>
   <string name="add_sharer">Додај члана</string>
@@ -52,9 +52,9 @@
   <string name="alert_secret_album_message">Пређите прстом према доле при дну ваших албума у Мi cloud за приказ сакривених албума.</string>
   <string name="alert_secret_album_set_pattern">Подесите узорак за откључавање</string>
   <string name="alert_secret_album_title">Додано у сакривени албум</string>
-  <string name="all_video_album_display_name">Svi videozapisi</string>
+  <string name="all_video_album_display_name">Сви видеозаписи</string>
   <string name="already_apply_album">Отворити %1$s?</string>
-  <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
+  <string name="already_create_baby_album">Дечији албум већ постоји у Mi Cloudu.</string>
   <string name="always_rotate_alert_msg">Можете укључити/искључити ову функцију у било којем тренутку у подешавањима Галерије</string>
   <string name="always_rotate_alert_positive_button_text">Укључи</string>
   <string name="always_rotate_alert_title">Ауто.ротација слика</string>
@@ -358,7 +358,7 @@
   <string name="impunity_declaration_settings">Обавештење о повезивању са интернетом</string>
   <string name="impunity_declaration_summary">Покажи обавештење повезивање са интернетом сваки пут кад се покрене апликација Галерија</string>
   <string name="impunity_declaration_title">Повезивање са интернетом</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">Da je sakrijete, kliknite na fotografiju i zadržite, a zatim odaberite \"Dodaj u skriveni album \" iz izbornika u donjem lijevom kutu.</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Да је сакријете, кликните на фотографију и задржите, а затим одаберите \"Додај у скривени албум \" из менија у доњем левом углу.</string>
   <string name="initial_cloud_button_text">Пријавите се</string>
   <string name="initial_cloud_text">Сачувајте и прегледајте ваше слике са било ког местa.</string>
   <string name="initializing_cloud">Покретање…</string>
@@ -391,10 +391,10 @@
   <string name="kick_sharer">Уклони пошиљаоца</string>
   <string name="kick_sharer_failed">"Не могу уклонити корисника"</string>
   <string name="kick_sharer_successfully">Корисник уклоњен</string>
-  <string name="last_chinese_new_year">Zadnja Kineska Nova godina</string>
-  <string name="last_new_year">Zadnja Nova godina</string>
-  <string name="last_valentine_day">Zadnje Valentinovo</string>
-  <string name="last_year_today">Lani</string>
+  <string name="last_chinese_new_year">Задња Кинеска Нова година</string>
+  <string name="last_new_year">Задња Нова година</string>
+  <string name="last_valentine_day">Задње Валентиново</string>
+  <string name="last_year_today">Прошле године</string>
   <string name="loading">Учитавање…</string>
   <string name="loading_failure">"Не могу учитати фотографију"</string>
   <string name="loading_image">Преузимање слике…</string>
@@ -443,7 +443,7 @@
   <string name="moman_camera_picture">Moman Camera слике</string>
   <string name="more">Више</string>
   <string name="more_face_album_name">Више лица</string>
-  <string name="mosaic">Mozaik</string>
+  <string name="mosaic">Мозаик</string>
   <string name="move">Премести</string>
   <string name="move_to_cloud_album">Премести у</string>
   <string name="mtgif">MTGIF</string>
@@ -504,7 +504,7 @@
   <string name="original_scale">Оригинална скала</string>
   <string name="other_category">Додатна подешавања</string>
   <string name="owner_album_subtitle">Подељено са %1$s чланова</string>
-  <string name="paint_brush">Kist</string>
+  <string name="paint_brush">Кист</string>
   <string name="paint_cancel_context">"Одбацити промене урађене на овој слици?"</string>
   <string name="paint_cancel_title">Одбаци промене</string>
   <string name="paint_crop_cancel_context">Сачувати исечену слику?</string>
@@ -542,7 +542,7 @@
   <string name="preparing_data_to_delete">Припрема за брисање слика…</string>
   <string name="priority_storage">Сачувај на SD картицу</string>
   <string name="priority_storage_summary">Кад је унутра SD картица, aутоматски преузимај датотеке на SD картицу</string>
-  <string name="project_available_tip">Otkriven zaslon</string>
+  <string name="project_available_tip">Откривен екран</string>
   <string name="projection">Пројекат</string>
   <string name="public_url_descript">Свако може приступити албуму користећи овај URL</string>
   <string name="publish_failed">"Не могу објавити"</string>
@@ -557,7 +557,7 @@
   <string name="recognizing_image">Препознавање слике…</string>
   <string name="recommanded_face_abandon_tip">Уклоњено из предлога</string>
   <string name="recommanded_face_added_tip">Додато у \"%s\"</string>
-  <string name="redeye">Crvene oči</string>
+  <string name="redeye">Црвене очи</string>
   <string name="redeye_tooltip">Дотакните за уклањање црвених очију</string>
   <string name="refocus_data_downloading">Преузимање преусмерених података…</string>
   <string name="relation_text_empty_alert">Додај појединости односа</string>
@@ -585,7 +585,7 @@
   <string name="request_sms_url_title">Савет</string>
   <string name="retry_to_create_album">Покушај поново</string>
   <string name="retry_to_request_qr_code">Покушај поново</string>
-  <string name="return_to_top">Dodinite \"Fotografija\" za povratak na vrh</string>
+  <string name="return_to_top">Додирните \"Фотографија\" за повратак на врх</string>
   <string name="rise">Подигни</string>
   <string name="rotate">Ротирај</string>
   <string name="rotate_tooltip">Повуците фотографију да би сте је ротирали</string>
@@ -604,7 +604,7 @@
   <string name="scan_qr_code_failure">Неуспело Скенирање QR кода.</string>
   <string name="screensaver_activate_mode">Дијапројекција чвара екрана</string>
   <string name="screensaver_activate_only_charging">Aктивирај чувара екрана само током пуњења</string>
-  <string name="script">Skripta</string>
+  <string name="script">Скрипта</string>
   <string name="sd_not_available">"Не могу приступити SD картици."</string>
   <string name="sdcard_root">Root директоријуму SD картице</string>
   <string name="secret_album_display_name">Сакривени албум</string>
@@ -653,8 +653,8 @@
   <string name="show_on_map">Покажи на картици</string>
   <string name="show_videos_only">Само видео записи</string>
   <string name="sina_weibo">Weibo</string>
-  <string name="single_device_project_dialog_checkbox_text">Zapamti ovaj zaslon</string>
-  <string name="single_device_project_dialog_title">Emitiraj na %s</string>
+  <string name="single_device_project_dialog_checkbox_text">Запамти овај екран</string>
+  <string name="single_device_project_dialog_title">Емитуј на %s</string>
   <string name="size_above">%1$s или више</string>
   <string name="size_below">%1$s или мање</string>
   <string name="size_between">%1$s do %2$s</string>
