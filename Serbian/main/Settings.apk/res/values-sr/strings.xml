@@ -1718,13 +1718,13 @@
   <string name="menu_duration_6h">6 сати</string>
   <string name="menu_item_show_more">Више</string>
   <string name="menu_key">"Мени"</string>
-  <string name="menu_new">Нов назив приступне тачке</string>
+  <string name="menu_new">Додај</string>
   <string name="menu_proc_stats_duration">Трајање</string>
   <string name="menu_proc_stats_type">Тип статистичких података</string>
   <string name="menu_proc_stats_type_background">У позадини</string>
   <string name="menu_proc_stats_type_cached">Кеширано</string>
   <string name="menu_proc_stats_type_foreground">У првом плану</string>
-  <string name="menu_restore">Поново подеси подразумевано</string>
+  <string name="menu_restore">Подеси подразумевано</string>
   <string name="menu_save">Сачувај</string>
   <string name="menu_show_system">Прикажи систем</string>
   <string name="menu_stats_last_unplugged">Током последњег искључивања за %1$s</string>

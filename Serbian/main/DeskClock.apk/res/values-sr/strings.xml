@@ -50,7 +50,7 @@
   <string name="delete_timezone_title">Избрисати временску зону</string>
   <string name="dialog_confirm_abort">Одбацити промене?</string>
   <string name="done">Готово</string>
-  <string name="edit_systemtime">Урди време система</string>
+  <string name="edit_systemtime">Уреди време система</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Сваки дан</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
