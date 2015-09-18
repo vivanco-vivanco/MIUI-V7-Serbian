@@ -11,6 +11,7 @@
     <plurals name="zen_mode_duration_minutes">
         <item quantity="other">%d min</item>
         <item quantity="one">1 minutu</item>
+	</plurals>	
     <plurals name="show_dev_countdown">
         <item quantity="other">Још %1$d корака и постаће те развојни програмер.</item>
         <item quantity="one">Још %1$d корак и постаће те развојни програмер.</item>
