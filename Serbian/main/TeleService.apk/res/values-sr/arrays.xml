@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ims_call_cap_types">
+        <item>Glas</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Glas</item>
+        <item>Video</item>
+        <item>CSGlas</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSGlas</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Glas</item>
+        <item>CSVoice</item>
+    </string-array>
     <string-array name="clir_display_values">
         <item>Здана поставка мреже</item>
         <item>Сакриј број</item>

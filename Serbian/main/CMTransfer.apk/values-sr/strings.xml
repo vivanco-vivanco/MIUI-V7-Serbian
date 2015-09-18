@@ -454,7 +454,7 @@
   <string name="rate_btn_ok">ОЦЕНИ СА 5 ЗВЕЗДИЦА</string>
   <string name="rate_des">Ако вам се свиђа, дајте нам 5 звездица!</string>
   <string name="rate_limit_speed">Невероватно! Пренешено при %s</string>
-  <string name="receive_file">>Прими датотеку</string>
+  <string name="receive_file">&gt;Прими датотеку</string>
   <string name="receiver_version_error">Верзија CM Трансфер-a на уређају који прима датотеке је застарела. &lt;br&gt;&lt;font color=#909090 &gt;Желите ли га одмах ажурирати?&lt;/font&gt;</string>
   <string name="receiver_version_error_result">&lt;font color=#909090 &gt;%d датотека/e није послато јер је &lt;/font&gt;верзија CM Трансфер-a на уређају који прима датотеке застарела.&lt;font color=#909090 &gt;. Молимо вас да ажурирате како би сте поново могли да шаљете датотеке.&lt;/font&gt;</string>
   <string name="recv_action_accept">Да</string>

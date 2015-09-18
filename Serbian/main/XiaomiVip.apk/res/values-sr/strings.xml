@@ -45,9 +45,9 @@
   <string name="promote">Ниво горе</string>
   <string name="query_level_fail">"Не могу добити информацију"</string>
   <string name="query_user_tasks_fail">"Не могу добити информацију задатка"</string>
+  <string name="seconds">%d сек.</string>
   <string name="take_awarded_package">Откупити</string>
   <string name="take_awarded_package_failed">"Не могу да откупим поклон. Сачекајте минут два и пробајте поново."</string>
-  <string name="seconds">%d сек.</string>
   <string name="task">изазови</string>
   <string name="task_begin">У току…</string>
   <string name="task_completed">Завршено</string>

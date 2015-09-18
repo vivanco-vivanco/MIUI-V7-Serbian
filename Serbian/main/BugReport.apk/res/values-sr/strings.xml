@@ -65,8 +65,8 @@
   <string name="modem_tool_log_start_toast">"Почетак записивања извештаја модема у %s"</string>
   <string name="modem_tool_log_stop">Стоп</string>
   <string name="modem_tool_log_stop_toast">"Заустави записивање извештаја модема из %s"</string>
-  <string name="network_err">"Не могу се повезати на мрежу."</string>
   <string name="network_disconnected">"Не могу се повезати на мрежу."</string>
+  <string name="network_err">"Не могу се повезати на мрежу."</string>
   <string name="network_unavailable_dialog_button_ok">У реду</string>
   <string name="network_unavailable_dialog_content">Ваш извештај ће бити послат када имате везу са подацима."</string>
   <string name="network_unavailable_dialog_title">"Не могу се повезати на мрежу"</string>
@@ -74,7 +74,6 @@
   <string name="non_system_app_select">Преузете апликације</string>
   <string name="packaging_dialog_content">Стварање извештаја…</string>
   <string name="plus_one_submit_dialog_content">"Ваше одабране повратне информације, заједно са извештајима грешака, ће бити послати на MI сервере."</string>
-  <string name="submit_dialog_not_wifi_content">"Ваше повратне информације, заједно са извештајима грешака и приложеним сликама, биће послате на Mi сервер кад је ваш уређај повезан са WLAN мрежом."</string>
   <string name="plus_one_submit_dialog_not_show_again">Запамти </string>
   <string name="power_consuming_problem1">Повећана потрошња батерије након ажурирања</string>
   <string name="power_consuming_problem2">Висока потрошња батерије коришћењем апликације</string>
@@ -96,6 +95,7 @@
   <string name="submit_dialog_cancel">Одустани</string>
   <string name="submit_dialog_confirm">Пошаљи</string>
   <string name="submit_dialog_content">"Ваше повратне информације, заједно са извештајима грешака и приложеним сликама,биће послати на MI сервере."</string>
+  <string name="submit_dialog_not_wifi_content">"Ваше повратне информације, заједно са извештајима грешака и приложеним сликама, биће послате на Mi сервер кад је ваш уређај повезан са WLAN мрежом."</string>
   <string name="submit_dialog_title">Пошаљи извештај o грешки</string>
   <string name="suggestion_description">Напишите овде свој предлог</string>
   <string name="suggestion_problem1">"Реците нам које функције би волели видети у будућности"</string>

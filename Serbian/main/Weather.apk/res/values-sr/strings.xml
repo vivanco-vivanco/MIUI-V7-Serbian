@@ -30,6 +30,7 @@
   <string name="activity_weathermain_locationg">Лоцирање…</string>
   <string name="activity_weathermain_locationg_error">"Не могу лоцирати"</string>
   <string name="add_city">Додај</string>
+  <string name="all_resources">Svi</string>
   <string name="app_label">Пружаоц врем. прогнозе</string>
   <string name="app_name">Време</string>
   <string name="application_screenorientation">Портрет</string>

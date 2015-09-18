@@ -126,11 +126,11 @@
   <string name="mdb_restore_label">MDB обнова</string>
   <string name="mdb_restore_mode">Начин рада обнове</string>
   <string name="mdb_usb_disconnection_exit">"USB није повезан"</string>
-  <string name="mount_storage">"Да"</string>
   <string name="media_projection_action_text">Започни</string>
   <string name="media_projection_dialog_text">"%s ће почети снимање свега што се налази на екрану."</string>
   <string name="media_projection_remember_text">"Не приказуј поново"</string>
   <string name="megabyte_per_second">MB/s</string>
+  <string name="mount_storage">"Да"</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Нема обавештења.</string>
   <string name="notification_otg_gamestick_in">Играчи контролер је повезан</string>
@@ -212,8 +212,8 @@
   <string name="usb_debugging_title">Омогућити решавање програмске грешке USB-у?</string>
   <string name="usb_device_confirm_prompt">Отворити %1$s када је укључен овај USB уређај?</string>
   <string name="usb_device_permission_prompt">Допустити апликацији %1$s приступ USB уређају?</string>
-  <string name="usb_mode_dont_ask">"Запамти овај одабир"</string>
   <string name="usb_function_charging_text">Повезано у начину пуњења</string>
+  <string name="usb_mode_dont_ask">"Запамти овај одабир"</string>
   <string name="usb_mode_mount_storage_title">Отворити USB меморију?</string>
   <string name="usb_mode_notification">USB меморија</string>
   <string name="usb_mtp_text">Датотеке</string>

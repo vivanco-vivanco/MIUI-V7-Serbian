@@ -1,5 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Izbrisati %d popisa pjesama?</item>
+        <item quantity="one">Izbrisati %d popis pjesama?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d izvođača</item>
+        <item quantity="one">%d izvođač</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d bendova</item>
+        <item quantity="one">%d band</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Reprodukcija će se zaustaviti za %d min.</item>
+        <item quantity="one">Reprodukcija će se zaustaviti za %d min.</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Izbrisati ovoliko %d pjesama?</item>
+        <item quantity="one">Izbrisati %d pjesmu?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Ukloniti %d songs?</item>
+        <item quantity="one">Ukloniti %d pjesmu?</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Odabrano stavaka %d</item>
+        <item quantity="one">%d odabrana stavka</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Pjesme su već označene kao favoriti.</item>
+        <item quantity="one">Pjesme je već označena kao favorit.</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">Песама: %d</item>
         <item quantity="one">1 песма</item>

@@ -92,7 +92,7 @@
   <string name="confirm_3g_switch">Јесте ли сигурни да желите поставити 3G услуге на овај SIM? То ће такође поставити овај сим SIM за видеопозиве на овај SIM аутоматски.</string>
   <string name="confirm_3g_switch_to_off">Јесте ли сигурни да желите искључити 3G услугу? То ће такође искључити услугу видеопозива аутоматски</string>
   <string name="confirm_device_info_full">SD картици понестаје простора, снимак је сачуван..</string>
- <string name="confirm_password_label">Потврди нову лозинку</string>
+  <string name="confirm_password_label">Потврди нову лозинку</string>
   <string name="confirm_save_info_saved">Снимак је сачуван</string>
   <string name="contactPhoto">Слика контакта</string>
   <string name="data_conn_under_roaming_hint">Омогућите роминг података у Подешавања -&gt; Мобилне мреже -&gt; Подешавања Мобилне мреже -&gt; Data Roaming</string>
@@ -178,7 +178,7 @@
   <string name="international_dialing_invalid_number">Број који сте унели није валидан. Свеједно наставити?</string>
   <string name="international_dialing_need_area_code">Потребан позивни број одредишта за позив.</string>
   <string name="international_dialing_no">Не. Користите оригинални број:</string>
- <string name="international_dialing_select_country">"Изгледа да сте одабрали интернационални позив. Одаберите своје одредиште."</string>
+  <string name="international_dialing_select_country">"Изгледа да сте одабрали интернационални позив. Одаберите своје одредиште."</string>
   <string name="international_dialing_title">Међународни позив</string>
   <string name="international_dialing_yes">Да. Користите број:</string>
   <string name="internet_call">Интернет позив</string>

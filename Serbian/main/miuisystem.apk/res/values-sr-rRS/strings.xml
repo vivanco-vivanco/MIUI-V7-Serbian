@@ -7,10 +7,10 @@
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="app_name_which_call">Апликација:%s</string>
-  <string name="app_version_which_call">Верзија апликације:%s</string>
   <string name="app_no_notification">Ништа</string>
   <string name="app_notificaiton_on_notificationBar">Панел обавештења</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Закљ. екран, панел обавештења</string>
+  <string name="app_version_which_call">Верзија апликације:%s</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Допусти</string>
@@ -25,6 +25,9 @@
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
   <string name="clear_and_bright"/>
+  <string name="cloud_state_disabled">Sinkronizacija s Mi Cloud je isključena</string>
+  <string name="cloud_state_finished">Sinkronizirano s Mi Cloud</string>
+  <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
   <string name="cold_dews"/>
   <string name="copy">Копирај</string>
   <string name="cut">Изрежи</string>
@@ -67,8 +70,8 @@
   <string name="license_host_unreachable">"Није могуће повезивање са мрежом. 
 Да би сте видели ове информације, 
 идите на: %s."</string>
-  <string name="loading">Учитавање……</string>
   <string name="light_snow"/>
+  <string name="loading">Учитавање……</string>
   <string name="lockscreen_access_pattern_cell_added">Додат је мобилни</string>
   <string name="lockscreen_access_pattern_cleared">Узорак је обрисан</string>
   <string name="lockscreen_access_pattern_detected">Узорак је довршен</string>
@@ -108,10 +111,10 @@
   <string name="partys_day"/>
   <string name="paste">Залепи</string>
   <string name="peace_day"/>
+  <string name="policy_name">Приватност: %s</string>
   <string name="presentation_payphone">Телефонска говорница</string>
   <string name="presentation_private">Приватан број</string>
   <string name="presentation_unknown">Непознат број</string>
-  <string name="policy_name">Приватност: %s</string>
   <string name="reboot_confirm_title">Ваш уређај ће се поново покренути</string>
   <string name="reboot_progress">Поновно покретање…</string>
   <string name="replace">Замени</string>

@@ -36,6 +36,7 @@
   <string name="msg_noantenna_message">Нема откривених слушалица.Неке функције неће бити доступне.</string>
   <string name="new_frequency">Нова фреквенција</string>
   <string name="next_station">Следећа станица</string>
+  <string name="notification_rec_title">Dodirni za pregled snimke</string>
   <string name="pre_station">Предходна станица</string>
   <string name="record_completed">Снимање завршено</string>
   <string name="record_file_location_format">Сачувано у %s</string>

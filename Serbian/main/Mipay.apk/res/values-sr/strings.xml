@@ -72,6 +72,7 @@
   <string name="mipay_check_sms_captcha_summary">Код за проверу је послат на ваш телефон %1$s</string>
   <string name="mipay_check_sms_captcha_wait">%1$ssek</string>
   <string name="mipay_choose_expiration_date">Одаберите датум истека</string>
+  <string name="mipay_choose_method_latest">Zadnje korišteno:</string>
   <string name="mipay_choose_method_latestа:">"Задње кориштено"</string>
   <string name="mipay_common_license">Кориснички споразум</string>
   <string name="mipay_counter_app_name">Банк. картице</string>

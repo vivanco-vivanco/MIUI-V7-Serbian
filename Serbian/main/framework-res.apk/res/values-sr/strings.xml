@@ -63,9 +63,11 @@
   <string name="aerr_title"/>
   <string name="allow">Дозволи</string>
   <string name="alwaysUse">Подразумевано користи за ову радњу.</string>
+  <string name="android_start_title">Pokretanje Androida...</string>
   <string name="android_system_label">Android систем</string>
   <string name="android_upgrading_apk">Оптимизовање апликације %1$d од %2$d.</string>
   <string name="android_upgrading_complete">Завршавање покретања.</string>
+  <string name="android_upgrading_fstrim">Optimiziranje pohrane.</string>
   <string name="android_upgrading_starting_apps">Покретање апликација.</string>
   <string name="android_upgrading_title">Андроид се надограђује…</string>
   <string name="anr_activity_application">"%2$s не реагује.
@@ -79,6 +81,7 @@
 
 Да ли желите да га затворите?"</string>
   <string name="anr_title"/>
+  <string name="app_no_restricted_accounts">Aplikacija ne podržava račune za ograničene profile</string>
   <string name="app_not_found">Није пронађена ниједна апликација која би могла да обави ову радњу</string>
   <string name="app_running_notification_text">Додирните за више информација или заустављање апликације.</string>
   <string name="app_running_notification_title">Апликација %1$s је покренута</string>
@@ -187,6 +190,15 @@
   <string name="deleteText">Избриши</string>
   <string name="deleted_key">Избрисали сте %1$s</string>
   <string name="deny">Одбиј</string>
+  <string name="description_direction_down">Kliznite prema dolje za %s.</string>
+  <string name="description_direction_left">Kliznite lijevo za %s.</string>
+  <string name="description_direction_right">Kliznite desno za %s.</string>
+  <string name="description_direction_up">Kliznite prema gore za %s.</string>
+  <string name="description_target_camera">Fotoaparat</string>
+  <string name="description_target_search">Pretraživanje</string>
+  <string name="description_target_silent">Bešumno</string>
+  <string name="description_target_soundon">Zvuk je uključen</string>
+  <string name="description_target_unlock">Otključaj</string>
   <string name="description_target_unlock_tablet">Превуците да бисте откључали.</string>
   <string name="dial_number_using">"Бирај број
 користећи %s"</string>
@@ -202,6 +214,7 @@
   <string name="dlg_ok">Потврди</string>
   <string name="done_label">Готово</string>
   <string name="double_tap_toast">Савет: Додирните двапут да бисте увећали и умањили приказ.</string>
+  <string name="downtime_condition_line_one">Do završetka prekida rada</string>
   <string name="downtime_condition_summary">Док се прекид рада не заврши у %1$s</string>
   <string name="durationDayHour">%1$d дан %2$d с</string>
   <string name="durationDayHours">%1$d дан %2$d с</string>
@@ -209,6 +222,7 @@
   <string name="durationHourMinute">%1$d с %2$d мин</string>
   <string name="durationHourMinutes">%1$d с %2$d мин</string>
   <string name="durationHours">%1$d с</string>
+  <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d мин %2$d сек</string>
   <string name="durationMinuteSeconds">%1$d мин %2$d сек</string>
   <string name="durationMinutes">%1$d мин</string>
@@ -255,6 +269,8 @@
   <string name="extmedia_format_title">Желите да формат. USB меморију?</string>
   <string name="extract_edit_menu_button">Измени</string>
   <string name="faceunlock_multiple_failures">Премашен је највећи дозвољени број покушаја Откључавања лицем</string>
+  <string name="factory_reset_message">Nije moguće upotrijebiti administratorsku aplikaciju jer joj nedostaju komponente ili je oštećena. Vaš će se uređaj sada izbrisati. Za pomoć se obratite svom administratoru.</string>
+  <string name="factory_reset_warning">Uređaj će se izbrisati</string>
   <string name="factorytest_failed">Фабричко тестирање није успело</string>
   <string name="factorytest_no_action">Није пронађен ниједан пакет који обезбеђује радњу FACTORY_TEST.</string>
   <string name="factorytest_not_system">Радња FACTORY_TEST је подржана само за пакете инсталиране у директоријуму /system/app.</string>
@@ -455,6 +471,8 @@
   <string name="launch_warning_title">Апликација је преусмерена</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Учитавање…</string>
+  <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
+  <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
   <string name="lock_to_app_description">"Качење екрана закључава екран и задржава исти приказ.
 
 Да бисте га откачили, истовремено додирните и задржите Назад и Преглед."</string>
@@ -661,9 +679,11 @@
   <string name="mmiFdnError">Рад је ограничен само на бројеве фиксног бирања.</string>
   <string name="month_day_year" formatted="false">%d. %B %Y.</string>
   <string name="more_item_label">Још</string>
+  <string name="muted_by">Zvuk je isklj. treća strana %1$s</string>
   <string name="needPuk">SIM картица је закључана PUK кодом. Унесите PUK кôд да бисте је откључали.</string>
   <string name="needPuk2">Унесите PUK2 да бисте деблокирали SIM картицу.</string>
   <string name="network_available_sign_in">Пријављивање на мрежу</string>
+  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Покрени %1$s</string>
   <string name="new_app_description">Зауставља стару апликацију без чувања.</string>
   <string name="next_button_label">Next</string>
@@ -698,6 +718,10 @@
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Налепи</string>
+  <string name="peerTtyModeFull">Način TTY FULL koji zahtijeva paralelni uređaj</string>
+  <string name="peerTtyModeHco">Način TTY HCO koji zahtijeva paralelni uređaj</string>
+  <string name="peerTtyModeOff">Način TTY OFF koji zahtijeva paralelni uređaj</string>
+  <string name="peerTtyModeVco">Način TTY VCO koji zahtijeva paralelni uređaj</string>
   <string name="perm_costs_money">ово ће вам можда бити наплаћено</string>
   <string name="permdesc_accessCoarseLocation">Дозвољава апликацији да преузме податке о вашој приближној локацији. Податке о овој локацији обезбеђују услуге лоцирања помоћу мрежних извора локација као што су мобилни предајници и Wi-Fi мреже. Ове услуге лоцирања морају да буду укључене и доступне уређају да би апликација могла да их користи. Апликације на основу овога могу да одреде где се приближно налазите.</string>
   <string name="permdesc_accessContentProvidersExternally">Дозвољава власнику да приступа добављачима садржаја из интерфејса. Никада не би требало да буде потребно за обичне апликације.</string>
@@ -726,6 +750,7 @@
   <string name="permdesc_backup">Дозвољава апликацији да управља системским механизмом за прављење резервне копије и враћање. Не користе је уобичајене апликације.</string>
   <string name="permdesc_batteryStats">Дозвољава апликацији да чита опште податке о тренутној употреби батерије на измаку. Можда ће апликацији дозволити да сазна детаљне информације о томе које апликације користите.</string>
   <string name="permdesc_bindAccessibilityService">Дозвољава власнику да се повеже са интерфејсом услуге приступачности највишег нивоа. Уобичајене апликације никада не би требало да је користе.</string>
+  <string name="permdesc_bindCarrierMessagingService">Omogućuje nositelju povezivanje sa sučeljem najviše razine usluge mobilnog operatera za slanje poruka. Ne bi trebalo biti potrebno za uobičajene aplikacije.</string>
   <string name="permdesc_bindConditionProviderService">Дозвољава власнику да се повеже са интерфејсом највишег нивоа услуге добављача услова. Не би требало никада да буде потребно за уобичајене апликације.</string>
   <string name="permdesc_bindDeviceAdmin">Омогућава да власник шаље своје намере администратору уређаја. Уобичајене апликације никада не би требало да је користе.</string>
   <string name="permdesc_bindDreamService">Дозвољава власнику да се повеже са интерфејсом услуге сањарења највишег нивоа. Уобичајене апликације никада не би требало да је користе.</string>
@@ -744,6 +769,7 @@
   <string name="permdesc_bindVoiceInteraction">Дозвољава власнику да се повеже са интерфејсом највишег нивоа услуге гласовне интеракције. Не би требало никада да буде потребно за уобичајене апликације.</string>
   <string name="permdesc_bindVpnService">Дозвољава власнику да се повеже са интерфејсом VPN услуге највишег нивоа. Уобичајене апликације никада не би требало да је користе.</string>
   <string name="permdesc_bindWallpaper">Дозвољава власнику да се повеже са интерфејсом позадине највишег нивоа. Уобичајене апликације никада не би требало да је користе.</string>
+  <string name="permdesc_bind_call_service">Omogućuje aplikaciji upravljanje time kada će i kako korisnik vidjeti zaslon tijekom poziva.</string>
   <string name="permdesc_bind_connection_service">Дозвољава интеракцију апликације са телефонским услугама ради упућивања/примања позива.</string>
   <string name="permdesc_bind_incall_service">Дозвољава апликацији да контролише када и како се кориснику приказује екран током позива.</string>
   <string name="permdesc_bind_trust_agent_service">Дозвољава апликацији да се веже за услугу Trust agents.</string>
@@ -779,6 +805,8 @@
   <string name="permdesc_clearAppUserData">Дозвољава апликацији да обрише податке корисника.</string>
   <string name="permdesc_configureWifiDisplay">Дозвољава апликацији да конфигурише Wi-Fi екране и повезује се са њима.</string>
   <string name="permdesc_confirm_full_backup">Дозвољава апликацији да покреће кориснички интерфејс за потврду прављења комплетне резервне копије. Ово не треба да користи ниједна апликација.</string>
+  <string name="permdesc_connection_manager">Aplikaciji omogućuje upravljanje telekomunikacijskim vezama.</string>
+  <string name="permdesc_controlVpn">Aplikaciji omogućuje upravljanje značajkama niske razine na virtualnim privatnim mrežama.</string>
   <string name="permdesc_controlWifiDisplay">Дозвољава апликацији да контролише функције Wi-Fi екрана ниског нивоа.</string>
   <string name="permdesc_control_incall_experience">Дозвољава апликацији да пружа кориснички доживљај током позива.</string>
   <string name="permdesc_control_keyguard">Дозвољава апликацији да контролише заштиту шифром.</string>
@@ -795,6 +823,7 @@
   <string name="permdesc_factoryTest">Покретање теста ниског нивоа који спроводи произвођач, које омогућава потпуни приступ хардверу телефона. Доступно је само када телефон покренут у режиму тестирања које спроводи произвођач.</string>
   <string name="permdesc_filter_events">Омогућава апликацији да региструје филтер улазног садржаја који филтрира стрим свих догађаја корисника пре њиховог слања. Злонамерна апликација може да контролише кориснички интерфејс система без интервенције корисника.</string>
   <string name="permdesc_flashlight">Дозвољава апликацији да контролише блиц.</string>
+  <string name="permdesc_fm">Omogućuje aplikaciji pristup FM radiju radi slušanja programa.</string>
   <string name="permdesc_forceBack">Дозвољава апликацији да принудно обустави било коју активност која се одвија у првом плану. Уобичајене апликације никада не би требало да је користе.</string>
   <string name="permdesc_forceStopPackages">Дозвољава апликацији да принудно заустави друге апликације.</string>
   <string name="permdesc_frameStats">Дозвољава апликацији да прикупља статистику о оквиру. Злонамерне апликације могу да прате статистику оквира прозора из других апликација.</string>
@@ -819,6 +848,7 @@
   <string name="permdesc_killBackgroundProcesses">Дозвољава апликацији да заустави позадинске процесе других апликација. Ово може да заустави друге апликације.</string>
   <string name="permdesc_launch_trust_agent_settings">Дозвољава апликацији да покрене активност која мења понашање поузданог агента.</string>
   <string name="permdesc_locationUpdates">Дозвољава апликацији да омогући/онемогући обавештења о ажурирању локација са радија. Не користе је уобичајене апликације.</string>
+  <string name="permdesc_magnify_display">Omogućuje aplikaciji uvećavanje sadržaja zaslona. Zlonamjerne aplikacije mogu izmijeniti sadržaj zaslona tako da uređaj postane neupotrebljiv.</string>
   <string name="permdesc_manageAccounts">Дозвољава апликацији да изврши радње попут додавања и уклањања налога, као и брисања одговарајућих лозинки.</string>
   <string name="permdesc_manageActivityStacks">Дозвољава апликацији да додаје, уклања и мења групе активности у којима се покрећу друге апликације. Злонамерне апликације могу да поремете понашање других апликација.</string>
   <string name="permdesc_manageAppTokens">Дозвољава апликацији да прави сопствене токене и да њима управља, заобилазећи уобичајени распоред по Z оси. Уобичајене апликације никада не би требало да је користе.</string>
@@ -830,6 +860,7 @@
   <string name="permdesc_manageUsb">Дозвољава апликацији да управља подешавањима и дозволама за USB уређаје.</string>
   <string name="permdesc_manageUsers">Дозвољава апликацијама да управљају корисницима на уређају, укључујући постављање упита, прављење и брисање.</string>
   <string name="permdesc_manageVoiceKeyphrases">Дозвољава власнику да управља кључним фразама за откривање усмених актуелних речи. Никада не би требало да буде потребно за уобичајене апликације.</string>
+  <string name="permdesc_markNetworkSocket">Dopušta aplikaciji izmjenu oznaka utičnica za usmjeravanje</string>
   <string name="permdesc_masterClear">Дозвољава апликацији да ресетује систем на фабричка подешавања и тиме избрише све податке, конфигурацију и инсталиране апликације.</string>
   <string name="permdesc_mediaContentControl">Дозвољава апликацији да контролише репродукцију медија и приступа информацијама о медијима (наслов, аутор...).</string>
   <string name="permdesc_mediaStorageWrite">Дозвољава апликацији да мења садржај интерне меморије медијума.</string>
@@ -876,6 +907,8 @@
   <string name="permdesc_receiveWapPush">Дозвољава апликацији да прима и обрађује WAP поруке. Ова дозвола укључује могућност праћења или брисања порука које вам се шаљу, а које вам се не приказују.</string>
   <string name="permdesc_recordAudio">Дозвољава апликацији да снима звук помоћу микрофона. Ова дозвола омогућава апликацији да снима звук у било ком тренутку без ваше потврде.</string>
   <string name="permdesc_recovery">Дозвољава апликацији да ступа у интеракцију са системом за опоравак и ажурирањима система.</string>
+  <string name="permdesc_register_call_provider">Aplikaciji omogućuje registriranje novih telekomunikacijskih veza.</string>
+  <string name="permdesc_register_sim_subscription">Aplikaciji omogućuje registriranje novih telekomunikacijskih SIM veza.</string>
   <string name="permdesc_removeDrmCertificates">Дозвољава апликацији да уклања DRM сертификате. Никада не би требало да се користи за обичне апликације.</string>
   <string name="permdesc_removeTasks">Дозвољава апликацији да уклања задатке и уништава њихове апликације. Злонамерне апликације могу да поремете понашање других апликација.</string>
   <string name="permdesc_reorderTasks">Дозвољава апликацији да премешта задатке у први план и у позадину. Апликација може да ради ово без вашег уноса.</string>
@@ -1037,6 +1070,7 @@
   <string name="permlab_backup">контрола резервне копије система и враћање почетних вредности</string>
   <string name="permlab_batteryStats">читање статистике о батерији</string>
   <string name="permlab_bindAccessibilityService">повезивање са услугом приступачности</string>
+  <string name="permlab_bindCarrierMessagingService">povezivanje s uslugom mobilnog operatera za slanje poruka</string>
   <string name="permlab_bindConditionProviderService">повежи са услугом добављача услова</string>
   <string name="permlab_bindDeviceAdmin">интеракција са администратором уређаја</string>
   <string name="permlab_bindDreamService">повезивање са услугом сањарења</string>
@@ -1055,6 +1089,7 @@
   <string name="permlab_bindVoiceInteraction">повежи са гласовним интерактором</string>
   <string name="permlab_bindVpnService">везивање за VPN услугу</string>
   <string name="permlab_bindWallpaper">обавезивање на позадину</string>
+  <string name="permlab_bind_call_service">interakcija sa zaslonom tijekom poziva</string>
   <string name="permlab_bind_connection_service">да ступа у интеракцију са телефонским услугама</string>
   <string name="permlab_bind_incall_service">комуницирај са екраном током позива</string>
   <string name="permlab_bind_trust_agent_service">Везивање за услугу Trust agents</string>
@@ -1090,6 +1125,8 @@
   <string name="permlab_clearAppUserData">брисање података других апликација</string>
   <string name="permlab_configureWifiDisplay">конфигурисање Wi-Fi екрана</string>
   <string name="permlab_confirm_full_backup">потврда прављења пуне резервне копије или операције враћања</string>
+  <string name="permlab_connection_manager">upravljanje telekomunikacijskim vezama</string>
+  <string name="permlab_controlVpn">upravljanje virtualnim privatnim mrežama</string>
   <string name="permlab_controlWifiDisplay">контрола Wi-Fi екрана</string>
   <string name="permlab_control_incall_experience">пружај кориснички доживљај током позива</string>
   <string name="permlab_control_keyguard">Контролиши приказивање и скривање заштите шифром</string>
@@ -1106,6 +1143,7 @@
   <string name="permlab_factoryTest">покретање у режиму фабричког тестирања</string>
   <string name="permlab_filter_events">филтрирање догађаја</string>
   <string name="permlab_flashlight">контрола осветљења</string>
+  <string name="permlab_fm">pristup FM radiju</string>
   <string name="permlab_forceBack">принудно затварање апликације</string>
   <string name="permlab_forceStopPackages">принудно заустављање других апликација</string>
   <string name="permlab_frameStats">преузимње статистике оквира</string>
@@ -1130,12 +1168,14 @@
   <string name="permlab_killBackgroundProcesses">затварање других апликација</string>
   <string name="permlab_launch_trust_agent_settings">Покрени мени подешавања поузданог агента.</string>
   <string name="permlab_locationUpdates">контрола обавештења о ажурирању локације</string>
+  <string name="permlab_magnify_display">uvećaj prikaz</string>
   <string name="permlab_manageAccounts">додавање или уклањање налога</string>
   <string name="permlab_manageActivityStacks">управљање групама активности</string>
   <string name="permlab_manageAppTokens">управљање токенима апликације</string>
   <string name="permlab_manageCaCertificates">управљање поузданим акредитивима</string>
   <string name="permlab_manageDeviceAdmins">додавање или уклањање администратора уређаја</string>
   <string name="permlab_manageDocs">управ. складиштењем докумената</string>
+  <string name="permlab_manageLocationPolicy">Upravljanje pravilima lokacije</string>
   <string name="permlab_manageMediaProjection">Управљај сесијама пројекције медија</string>
   <string name="permlab_manageNetworkPolicy">управљање смерницама за мрежу</string>
   <string name="permlab_manageUsb">управљање подешавањима и дозволама за USB уређаје</string>
@@ -1187,6 +1227,8 @@
   <string name="permlab_receiveWapPush">пријем текстуалних порука (WAP)</string>
   <string name="permlab_recordAudio">снимање аудио записа</string>
   <string name="permlab_recovery">Интеракција са системом за ажурирање и опоравак</string>
+  <string name="permlab_register_call_provider">registriranje novih telekomunikacijskih veza</string>
+  <string name="permlab_register_sim_subscription">registriranje novih telekomunikacijskih SIM veza</string>
   <string name="permlab_removeDrmCertificates">уклањај DRM сертификате</string>
   <string name="permlab_removeTasks">заустављање покренутих апликација</string>
   <string name="permlab_reorderTasks">промена редоследа покренутих апликација</string>
@@ -1279,6 +1321,8 @@
   <string name="phoneTypeWork">Посао</string>
   <string name="phoneTypeWorkMobile">Број пословног мобилног телефона</string>
   <string name="phoneTypeWorkPager">Пословни пејџер</string>
+  <string name="pinpuk_attempts">"
+Preostalo pokušaja :"</string>
   <string name="policydesc_disableCamera">Спречите коришћење свих камера уређаја.</string>
   <string name="policydesc_disableKeyguardFeatures">Спречавање неких функција закључавања тастатуре.</string>
   <string name="policydesc_encryptedStorage">Захтева да сачувани подаци апликације буду шифровани.</string>
@@ -1312,10 +1356,13 @@
   <string name="print_service_installed_message">Додирните да бисте омогућили</string>
   <string name="print_service_installed_title">Услуга %s је инсталирана</string>
   <string name="progress_erasing">Брисање USB меморије...</string>
+  <string name="progress_nomediapresent">Nema prisutnog prijenosnog medija…</string>
   <string name="progress_unmounting">Искључивање USB меморије...</string>
   <string name="quick_contacts_not_available">Није пронађена ниједна апликација за приказ овог контакта.</string>
   <string name="reason_service_unavailable">Услуга штампања није омогућена</string>
   <string name="reason_unknown">непознато</string>
+  <string name="reboot_confirm">Telefon će se ponovo pokrenuti.</string>
+  <string name="reboot_progress">Ponovno pokretanje…</string>
   <string name="reboot_safemode_confirm">Да ли желите да поново покренете систем у безбедном режиму? Ово ће онемогућити све инсталиране апликације независних произвођача. Оне ће бити враћене када поново покренете систем.</string>
   <string name="reboot_safemode_title">Поново покрени систем у безбедном режиму</string>
   <string name="recent_tasks_title">Недавно</string>
@@ -1382,6 +1429,7 @@
   <string name="screen_compat_mode_show">Увек приказуј</string>
   <string name="screen_lock">Закључај екран</string>
   <string name="search_go">Претражи</string>
+  <string name="search_hint">Pretraživanje…</string>
   <string name="searchview_description_clear">Обриши упит</string>
   <string name="searchview_description_query">Упит за претрагу</string>
   <string name="searchview_description_search">Претражи</string>
@@ -1457,6 +1505,7 @@
   <string name="sms_short_code_remember_undo_instruction">Ово можете да промените касније у Подешавања &gt; Апликације</string>
   <string name="smv_application">Апликација %1$s (процес %2$s) је прекршила самонаметнуте StrictMode смернице.</string>
   <string name="smv_process">Процес %1$s је прекршио самонаметнуте StrictMode смернице.</string>
+  <string name="ssl_ca_cert_noti_by_administrator">Administrator vašeg radnog profila</string>
   <string name="ssl_ca_cert_noti_by_unknown">Од стране непознате треће стране</string>
   <string name="ssl_ca_cert_noti_managed">Од стране %s</string>
   <string name="ssl_ca_cert_warning">Мрежа се можда надгледа</string>
@@ -1469,8 +1518,13 @@
   <string name="stk_cc_ussd_to_dial">USSD захтев је модификован за DIAL захтев.</string>
   <string name="stk_cc_ussd_to_ss">USSD захтев је модификован за SS захтев.</string>
   <string name="stk_cc_ussd_to_ussd">USSD захтев је модификован за нови USSD захтев.</string>
+  <string name="storage_external_usb">Vanjski USB prostor za pohranu</string>
+  <string name="storage_ic_usb1">Vanjska IC-USB pohrana1</string>
+  <string name="storage_ic_usb2">Vanjska IC-USB pohrana2</string>
   <string name="storage_internal">Интерна меморија</string>
+  <string name="storage_phone">Prostor za pohranu telefona</string>
   <string name="storage_sd_card">SD картица</string>
+  <string name="storage_uicc">UICC pohrana</string>
   <string name="storage_usb">USB меморија</string>
   <string name="submit">Пошаљи</string>
   <string name="sync_binding_label">Синхронизација</string>
@@ -1479,11 +1533,17 @@
   <string name="sync_too_many_deletes">Премашено је ограничење за брисање</string>
   <string name="sync_too_many_deletes_desc">Постоје избрисане ставке (%1$d) за %2$s, налог %3$s. Шта желите да урадите?</string>
   <string name="sync_undo_deletes">Опозови брисања</string>
+  <string name="system_error_manufacturer">Na vašem uređaju postoji interni problem. Obratite se proizvođaču za više pojedinosti.</string>
+  <string name="system_error_wipe_data">Na vašem uređaju postoji interni problem i možda neće biti stabilan dok ga ne vratite na tvorničko stanje.</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Додирните да бисте подесили.</string>
   <string name="tethered_notification_title">Активно повезивање са интернетом преко мобилног уређаја или врућа тачка</string>
   <string name="textSelectionCABTitle">Избор текста</string>
   <string name="text_copied">Текст је копиран у привремену меморију.</string>
+  <string name="throttle_warning_notification_message">Dodirnite kako biste saznali više o upotrebi mobilnih podataka.</string>
+  <string name="throttle_warning_notification_title">Upotreba velike količine mobilnih podataka</string>
+  <string name="throttled_notification_message">Dodirnite da biste saznali više o upotrebi mobilnih podataka.</string>
+  <string name="throttled_notification_title">Prekoračeno je ograničenje za podatke na mobilnom uređaju</string>
   <string name="time_of_day" formatted="false">%H.%M.%S</string>
   <string name="time_picker_decrement_hour_button">Смањивање сати</string>
   <string name="time_picker_decrement_minute_button">Смањивање минута</string>
@@ -1492,6 +1552,8 @@
   <string name="time_picker_increment_hour_button">Повећавање сати</string>
   <string name="time_picker_increment_minute_button">Повећавање минута</string>
   <string name="time_picker_increment_set_pm_button">Подеси по подне</string>
+  <string name="toolbar_collapse_description">Sažmi</string>
+  <string name="transient_navigation_confirmation_long">Kliznite prstima s ruba zaslona da otkrijete traku sustava</string>
   <string name="turn_off_radio">Искључи бежични сигнал</string>
   <string name="turn_on_radio">Укључи бежични сигнал</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Додирните двапут да бисте контролисали зум</string>
@@ -1517,6 +1579,7 @@
   <string name="usb_storage_stop_title">USB складиште је у употреби</string>
   <string name="usb_storage_title">USB је повезан</string>
   <string name="use_a_different_app">Користите другу апликацију</string>
+  <string name="use_physical_keyboard">Fizička tipkovnica</string>
   <string name="user_owner_label">Личне апликације</string>
   <string name="user_switched">Актуелни корисник %1$s.</string>
   <string name="user_switching_message">Пребацивање на %1$s…</string>
@@ -1546,28 +1609,49 @@
   <string name="wait">Сачекај</string>
   <string name="wallpaper_binding_label">Позадина</string>
   <string name="web_user_agent_target_content">"Мобилни "</string>
+  <string name="webpage_unresponsive">"Страница је престала да се одазива.
+
+ Да ли желите да је затворите?"</string>
+  <string name="websearch">Веб-претрага</string>
+  <string name="webviewchromium_accessibility_content_view">Web-prikaz</string>
+  <string name="webviewchromium_accessibility_date_picker_month">Mjesec</string>
+  <string name="webviewchromium_accessibility_date_picker_week">Tjedan</string>
+  <string name="webviewchromium_accessibility_date_picker_year">Godina</string>
+  <string name="webviewchromium_accessibility_datetime_picker_date">Datum</string>
+  <string name="webviewchromium_accessibility_datetime_picker_time">Vrijeme</string>
+  <string name="webviewchromium_accessibility_time_picker_ampm">Doba dana</string>
+  <string name="webviewchromium_accessibility_time_picker_hour">Sat</string>
+  <string name="webviewchromium_accessibility_time_picker_milli">Milisekunda</string>
+  <string name="webviewchromium_accessibility_time_picker_minute">Minuta</string>
   <string name="webviewchromium_accessibility_time_picker_second">Секунда</string>
   <string name="webviewchromium_actionbar_share">Дели</string>
   <string name="webviewchromium_actionbar_web_search">Претраживање weba</string>
   <string name="webviewchromium_color_picker_button_black">Црн</string>
   <string name="webviewchromium_color_picker_button_blue">Плав</string>
+  <string name="webviewchromium_color_picker_button_cancel">Одустани</string>
   <string name="webviewchromium_color_picker_button_cyan">Циан</string>
   <string name="webviewchromium_color_picker_button_green">Зелен</string>
   <string name="webviewchromium_color_picker_button_magenta">Магента</string>
+  <string name="webviewchromium_color_picker_button_more">Више</string>
   <string name="webviewchromium_color_picker_button_red">Црвен</string>
+  <string name="webviewchromium_color_picker_button_set">Подеси</string>
   <string name="webviewchromium_color_picker_button_white">Бели</string>
   <string name="webviewchromium_color_picker_button_yellow">Жут</string>
-  <string name="webviewchromium_color_picker_button_cancel">Одустани</string>
-  <string name="webviewchromium_color_picker_button_more">Више</string>
-  <string name="webviewchromium_color_picker_button_set">Подеси</string>
+  <string name="webviewchromium_color_picker_dialog_title">Odabir boje</string>
   <string name="webviewchromium_color_picker_hue">Тон</string>
   <string name="webviewchromium_color_picker_saturation">Засићеност</string>
   <string name="webviewchromium_color_picker_value">Вредност</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Грешка копирања у остави</string>
-  <string name="webviewchromium_date_picker_dialog_other_button_label">Други</string>
   <string name="webviewchromium_date_picker_dialog_clear">Избриши</string>
+  <string name="webviewchromium_date_picker_dialog_other_button_label">Други</string>
   <string name="webviewchromium_date_picker_dialog_set">Подеси</string>
   <string name="webviewchromium_date_picker_dialog_title">Подешавање датума</string>
+  <string name="webviewchromium_date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
+  <string name="webviewchromium_low_memory_error">Prethodna operacija nije izvršena jer nema dovoljno memorije</string>
+  <string name="webviewchromium_media_player_error_button">U redu</string>
+  <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Videozapis nije valjan za strujanje na ovom uređaju.</string>
+  <string name="webviewchromium_media_player_error_text_unknown">Videozapis se ne može reproducirati.</string>
+  <string name="webviewchromium_media_player_error_title">Videozapis se ne može reproducirati</string>
   <string name="webviewchromium_media_player_loading_video">Учитавање видеозаписа</string>
   <string name="webviewchromium_month_picker_dialog_title">Подешавање месеца</string>
   <string name="webviewchromium_opening_file_error">Одабрана датотека није отворена</string>
@@ -1583,10 +1667,6 @@
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_time_picker_dialog_title">Подеси време</string>
   <string name="webviewchromium_week_picker_dialog_title">Подешавање дана</string>
-  <string name="webpage_unresponsive">"Страница је престала да се одазива.
-
- Да ли желите да је затворите?"</string>
-  <string name="websearch">Веб-претрага</string>
   <string name="week">недеља</string>
   <string name="weeks">недеље(а)</string>
   <string name="whichApplication">Довршавање радње помоћу</string>
@@ -1600,6 +1680,11 @@
   <string name="whichViewApplication">Отворите помоћу</string>
   <string name="whichViewApplicationNamed">Отворите помоћу апликације %1$s</string>
   <string name="wifi_available_sign_in">Пријавите се на Wi-Fi мрежу</string>
+  <string name="wifi_display_notification_connected_message">Povezan sa zaslonom %1$s</string>
+  <string name="wifi_display_notification_connected_title">Emitiranje zaslona</string>
+  <string name="wifi_display_notification_connecting_message">Povezivanje sa zaslonom %1$s</string>
+  <string name="wifi_display_notification_connecting_title">Emitiranje zaslona</string>
+  <string name="wifi_display_notification_disconnect">Isključi</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Додирните за подешавања</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct је укључен</string>
@@ -1612,9 +1697,13 @@
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Коме:</string>
   <string name="wifi_p2p_turnon_message">Покрените Wi-Fi Direct. Тиме ћете искључити клијента/хотспот за Wi-Fi.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Није могуће повезати са Wi-Fi мрежом</string>
   <string name="wifi_watchdog_network_disabled_detailed">" има лошу интернет везу."</string>
   <string name="wireless_display_route_description">Бежични екран</string>
+  <string name="work_profile_deleted">Radni je profil izbrisan</string>
+  <string name="work_profile_deleted_description">Radni je profil izbrisan jer nedostaje administratorska aplikacija.</string>
+  <string name="work_profile_deleted_details">Administratorska aplikacija radnog profila nedostaje ili je oštećena. Zbog toga su radni profil i povezani podaci izbrisani. Za pomoć se obratite svom administratoru.</string>
   <string name="write_fail_reason_cancelled">Отказано је</string>
   <string name="write_fail_reason_cannot_write">Грешка при исписивању садржаја</string>
   <string name="year">година</string>
@@ -1622,4 +1711,7 @@
   <string name="years">годинe(а)</string>
   <string name="yes">Потврди</string>
   <string name="zen_mode_forever">Бесконачно</string>
+  <string name="zen_mode_next_alarm_line_one">Do sljedećeg alarma</string>
+  <string name="zen_mode_next_alarm_summary">Do sljedećeg alarma u %1$s</string>
+  <string name="zen_mode_until">Do %1$s</string>
 </resources>

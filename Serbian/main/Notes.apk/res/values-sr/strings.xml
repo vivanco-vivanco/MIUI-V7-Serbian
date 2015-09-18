@@ -11,8 +11,8 @@
   <string name="alert_message_delete_note">Избрисати ову белешку?</string>
   <string name="alert_message_delete_notes">Избрисати %1$s?</string>
   <string name="alert_message_edit_anyway">Ако уредите ову белешку, нешто од садржаја може бити изгубљено.</string>
-  <string name="alert_title_edit_anyway">Ова белешка садржи неподржани садржај</string>
   <string name="alert_title_delete">Избриши белешку</string>
+  <string name="alert_title_edit_anyway">Ова белешка садржи неподржани садржај</string>
   <string name="all_terms">%1$s и %2$s</string>
   <string name="app_name">Белешке</string>
   <string name="app_widget">Белешке</string>
@@ -23,8 +23,8 @@
   <string name="call_record_folder_name">Белешке позива</string>
   <string name="default_folder_name">"Мапа без назива"</string>
   <string name="dlg_desc_confirm_alarm_silent">Активни аларми неце звонити када је тон звона утишан.</string>
-  <string name="dlg_title_confirm_alarm_silent">Утишај аларме</string>
   <string name="dlg_info_creating_message">Израда поруке…</string>
+  <string name="dlg_title_confirm_alarm_silent">Утишај аларме</string>
   <string name="enable_sync">Синхронизуј</string>
   <string name="enable_sync_desc">Синхронизовати ваше белешке са вашим Mi Рачуном (%1$s)?</string>
   <string name="error_contact_not_exist">Контакт не постоји</string>

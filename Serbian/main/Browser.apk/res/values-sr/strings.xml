@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Почетна страница</string>
-  <string name="action_menu_text_fullscreen">Пуни екран</string>
+  <string name="abc_action_bar_home_description">Navigiraj na početnu</string>
+  <string name="abc_action_bar_up_description">Navigiraj gore</string>
+  <string name="abc_action_menu_overflow_description">Više</string>
+  <string name="abc_action_mode_done">Završeno</string>
   <string name="accessibility_button_clear">Обриши унос</string>
   <string name="accessibility_content_view">Web-приказ</string>
   <string name="accessibility_date_picker_month">Месец</string>
@@ -17,15 +20,22 @@
   <string name="account">Рачун</string>
   <string name="account_prifix">Рачун:</string>
   <string name="action">Пријава</string>
+  <string name="action_menu_text_add_bookmark">Dodaj oznaku</string>
   <string name="action_menu_text_bandwidth">Bandwidth</string>
   <string name="action_menu_text_bandwidth_off">Bandwidth/Искљ.</string>
   <string name="action_menu_text_bandwidth_on">Bandwidth/Укљ.</string>
   <string name="action_menu_text_bookmark">Додај ознаку</string>
+  <string name="action_menu_text_bookmark_added">Oznaka dodana</string>
+  <string name="action_menu_text_copy_url">Kopiraj poveznicu</string>
+  <string name="action_menu_text_create_qr_code">QR kod</string>
   <string name="action_menu_text_exit">Излаз</string>
+  <string name="action_menu_text_find_in_page">Pronađi na stranici</string>
+  <string name="action_menu_text_fullscreen">Пуни екран</string>
   <string name="action_menu_text_history">Ознаке &amp; Историја</string>
   <string name="action_menu_text_nightmode">Ноћни мод</string>
   <string name="action_menu_text_nightmode_off">Ноћни мод искљ.</string>
   <string name="action_menu_text_nightmode_on">Ноћни мод укљ.</string>
+  <string name="action_menu_text_refresh">Osvježi</string>
   <string name="action_menu_text_setting">Подешавања</string>
   <string name="action_menu_text_share">Дели</string>
   <string name="action_menu_text_snapshot">Спреми страницу</string>
@@ -81,6 +91,7 @@
   <string name="autologin_bar_login_text">Пријава</string>
   <string name="autologin_bar_text">Пријавите се као</string>
   <string name="back">Назад</string>
+  <string name="back_button_label">Natrag</string>
   <string name="block">Блокирај</string>
   <string name="block_ads_choice_block">Блокирај</string>
   <string name="block_ads_choice_continue">Настави</string>
@@ -187,6 +198,9 @@
   <string name="contextmenu_set_wallpaper">Постави као позадинску слику</string>
   <string name="contextmenu_sharelink">Дели везу</string>
   <string name="contextmenu_view_image">Приказ слике</string>
+  <string name="contextmenu_webpage_capture">Spremi kao snimku zaslona</string>
+  <string name="contextmenu_webpage_html">Spremi kao HTML datoteku</string>
+  <string name="contextmenu_webpage_snapshot">Spremi stranicu</string>
   <string name="copy_link">Копирај везу</string>
   <string name="copy_to_clipboard_failure_message">Копирање у међуспремник није успело</string>
   <string name="copy_url">copy url</string>
@@ -259,9 +273,11 @@
   <string name="file_picker">Одабери путању</string>
   <string name="filename_empty_alert_message">"Назив не може бити празан"</string>
   <string name="filename_illegal_alert_message">Неважечи знак је уклоњен из назива датотеке.</string>
+  <string name="find_new_version">Dostupna su ažuriranja</string>
   <string name="find_next">Пронађи следеће</string>
   <string name="find_on_page">Пронађи на страници</string>
   <string name="find_on_page_cancel">Одустани</string>
+  <string name="find_on_page_hint">Pronađi na stranici</string>
   <string name="find_on_page_next">Дање</string>
   <string name="find_on_page_prev">Назад</string>
   <string name="find_previous">Пронађи предходно</string>
@@ -312,6 +328,7 @@
   <string name="js_disable_confirm_title">Онемогућити JavaScript?</string>
   <string name="js_engine_flags">Постављање JS застава</string>
   <string name="last_month">Последњи месец</string>
+  <string name="license_activity_title">Sustav WebView dozvola</string>
   <string name="loading_tips">Повуците доле за освежавање</string>
   <string name="local_bookmarks">Mi</string>
   <string name="location">Адреса</string>
@@ -369,6 +386,8 @@
   <string name="miui_quicksearch_enable_pref_title">Трака претраге у панелу обавештења</string>
   <string name="miui_search_notification_message">Додирните за отварање траке претраге</string>
   <string name="miui_search_notification_title">Брзо претраживање</string>
+  <string name="miui_startpage">Početna stranica</string>
+  <string name="miuichromium_error_page_diagnostic">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_mobile">Мобилна мрежа</string>
   <string name="miuichromium_error_page_reason_network">"Не могу повезати на мрежу"</string>
   <string name="miuichromium_error_page_reason_server">Није могуће учитати ову страницу</string>
@@ -403,6 +422,7 @@
   <string name="new_folder_name_lable">Натив групе</string>
   <string name="new_incognito_tab">Нова анонимна картица</string>
   <string name="new_tab">Нова картица</string>
+  <string name="next_button_label">Dalje</string>
   <string name="no_matches">Нема подударања</string>
   <string name="not_remind_again">Запамти мој одабир</string>
   <string name="notif_install_successful">Преузимање завршено</string>
@@ -425,6 +445,7 @@
   <string name="pref_accessibility_url_shortcut_enter_title">Брзи унос URL-a</string>
   <string name="pref_adblock_counts">Блокирано %d</string>
   <string name="pref_adblock_title">Блокирање реклама</string>
+  <string name="pref_auto_update_under_wifi">Autom. ažuriraj na WLAN-u</string>
   <string name="pref_autofill_enabled">Аутоматско попуњавање образаца</string>
   <string name="pref_autofill_enabled_summary">Попуњавање образаца са једним додиром</string>
   <string name="pref_autofill_profile_editor">Текст аутоматског испуњавања</string>
@@ -488,6 +509,7 @@
   <string name="pref_extras_reset_default_summary">Врати на задате вредности</string>
   <string name="pref_extras_reset_default_title">Врати на задато</string>
   <string name="pref_extras_title">Напредно</string>
+  <string name="pref_extras_title_version">Verzija</string>
   <string name="pref_extras_website_settings">Подешавања web-локације</string>
   <string name="pref_extras_website_settings_summary">Напредна подешавања за појединачне web-локације</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Спреми датотеке на задату локацију Претраживача"</string>
@@ -565,6 +587,7 @@
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Низ корисничког агента</string>
   <string name="pref_ua_title">Управљање корисничким агентом</string>
+  <string name="pref_version_info">Verzija</string>
   <string name="pref_version_summary">Верзија: %s</string>
   <string name="pref_video_preload_dialogtitle">Предучитавање видео записа</string>
   <string name="pref_video_preload_summary">: Предучитај видео записе када сервер то допусти</string>
@@ -628,11 +651,14 @@
   <string name="same_folder_name_warning">Група са истим називом већ постоји </string>
   <string name="save">У реду</string>
   <string name="save_bookmark">Спреми ознаку</string>
+  <string name="save_button_text">Spremi</string>
   <string name="save_dialog_title">Спреми</string>
   <string name="save_file_already_exist_alert_message">Датотека са истим називом већ постоји, желите ли преписати?</string>
   <string name="save_file_already_exist_alert_title">Преписати датотеку?</string>
   <string name="save_image_failed">"Не могу сачувати слику"</string>
   <string name="save_image_success">Слика сачувана</string>
+  <string name="save_page_capture_tip">Otvori panel obavijesti za prikaz snimke zaslona.</string>
+  <string name="save_page_capture_to_camera">Snimka zaslona spremljena</string>
   <string name="save_password_message">Желите ли да претраживач запамти ову лозинку?</string>
   <string name="save_password_never">Никад</string>
   <string name="save_password_notnow">Не сада</string>
@@ -661,6 +687,7 @@
   <string name="search_tupian">Слика</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
+  <string name="secure_download_in_xiaomi_market">Preuzmite u App Store</string>
   <string name="security_warning">Сигурносно упозорење</string>
   <string name="select_dot">Одабери текст</string>
   <string name="select_download_device">Изабери уређај</string>
@@ -673,6 +700,8 @@
   <string name="show_check_security_url_check_tip_dialog_description">Овај URL web странице ће бити послат на Xiaomi сервере ради провере да ли је сигуран. Можете искључити ту функцију у било које време у поставкама.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Провери сигурност URL-a</string>
   <string name="sign_in_to" formatted="false">Пријавите се у %s1 \"%s2\"</string>
+  <string name="skip_button_label">Preskoči</string>
+  <string name="skip_current_version">Preskoči ovu verziju</string>
   <string name="snapshot_failed">"Не могу сачувати за изванмрежно читање"</string>
   <string name="snapshot_go_live">Иди уживо</string>
   <string name="snapshot_successed">Сачувано за изванмрежно читање</string>
@@ -688,6 +717,7 @@
   <string name="ssl_unknown">Непозната грешка сертификата.</string>
   <string name="ssl_untrusted">"Сертификат није из провереног ауторизованог седишта."</string>
   <string name="ssl_warnings_header">Ова страница има проблем са сигурносним сертификатом.</string>
+  <string name="start_save_page_capture">Spremanje snimke zaslona…</string>
   <string name="stop">Заустави</string>
   <string name="stop_loading">СТОП</string>
   <string name="storage_internal">Унутрашња меморија</string>
@@ -714,6 +744,7 @@
   <string name="suggest_access_item_singer_albums">Албума: %d</string>
   <string name="suggest_access_item_singer_pop">Популарних песама: %d</string>
   <string name="suggest_access_music">Mi Музика</string>
+  <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
   <string name="sync_item_browser_summary">Синх. податке на ваш cloud, и учините кориштење претраживача на различитим уређајима једноставним</string>
   <string name="sync_item_browser_title">Синх. претраживач</string>
   <string name="tab_history">Историја</string>
@@ -733,6 +764,7 @@
   <string name="too_many_windows_dialog_title">"Не могу отворити више картица"</string>
   <string name="ua_switcher_desktop">Захтев за desktop страницом</string>
   <string name="up_to_loading_tips">Отпусти за освежавање</string>
+  <string name="update_no_network_toast">"Ne mogu se povezati na mrežu"</string>
   <string name="uploads_disabled">Учитавање датотека је онемогућено</string>
   <string name="url_copy_done">URL копиран у међуспремник</string>
   <string name="url_find_on_page_result">Прикажи у прегледачу</string>
@@ -750,10 +782,25 @@
   <string name="v5_deselect_all">Поништи</string>
   <string name="v5_edit_mode_title_empty">0 одабрано</string>
   <string name="v5_select_all">Одабери све</string>
+  <string name="version_check_button_checking">Provjera</string>
+  <string name="version_check_button_default">Provjera ažuriranja</string>
+  <string name="version_check_button_download_failed">Nastavi s preuzimanjem</string>
+  <string name="version_check_button_downloading">Preuzimanje</string>
+  <string name="version_check_button_install">Instaliraj</string>
+  <string name="version_check_button_newest">Nema dostupnih ažuriranja</string>
+  <string name="version_check_button_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="version_check_button_resume_download">Nastavi s preuzimanjem</string>
+  <string name="version_check_button_update">Ažuriraj</string>
+  <string name="version_check_failed">"Ne mogu provjeriti ažuriranja"</string>
+  <string name="version_dialog_buttion_ok">U redu</string>
+  <string name="version_dialog_buttion_update">Ažuriraj</string>
+  <string name="version_update_file_download_toast">Preuzimanje</string>
+  <string name="version_update_file_not_found">"Ne mogu pronaći ažuriranja"</string>
   <string name="video_activity_name">Фаворити</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">Нефаворити</string>
   <string name="video_collect_success">Омиљено</string>
+  <string name="video_download_downloaded">Preuzeto</string>
   <string name="video_download_downloading">Преузимам</string>
   <string name="video_download_fail">Грешка</string>
   <string name="video_download_pause">Паузирано</string>

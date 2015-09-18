@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Обрисати одабране снимке?</string>
+  <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="app_name">Снимач</string>
   <string name="back">Натраг</string>
   <string name="button_queue_for_wifi">Чекај</string>
@@ -26,8 +27,8 @@
   <string name="error_sdcard_access">"Не могу приступити простору за сачувавање"</string>
   <string name="error_sdcard_unmounted">Убаците SD картицу</string>
   <string name="fm_record">Снимке FM-a (%d)</string>
-  <string name="low_battery_error">Мање од 5% батерије преостало, да снимање ње буде изгубљено, снимање је било заустављено и сачувано.</string>
   <string name="loading_recording">Учитавање</string>
+  <string name="low_battery_error">Мање од 5% батерије преостало, да снимање ње буде изгубљено, снимање је било заустављено и сачувано.</string>
   <string name="message_file_size_error">Снимање је достигло максималну дужину снимања подржану за %s</string>
   <string name="no_downloading_file">Нема преузетих датотека</string>
   <string name="no_file">Празно</string>

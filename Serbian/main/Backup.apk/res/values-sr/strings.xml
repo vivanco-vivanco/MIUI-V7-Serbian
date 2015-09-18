@@ -78,6 +78,7 @@
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Обрисати</string>
   <string name="delete_backup_process">Брисање…</string>
+  <string name="delete_backup_title">Izbriši Sig. kopiju</string>
   <string name="delete_failed_backup_confirm">Ова сиг. копија садржи грешке.</string>
   <string name="deselect_all">Поништи одабир</string>
   <string name="digit_percent">%</string>
@@ -176,8 +177,8 @@
   <string name="sdcard_no_enough_space">Недовољно простора</string>
   <string name="sdcard_no_enough_space_message">"Нема довољно простора за складиштење на SD картици."</string>
   <string name="sdcard_unmounted">Убаците сада SD картицу</string>
-  <string name="select_all">Одабери све</string>
   <string name="see_backup_files_on_router">Преглед Сиг. копија на Mi Рутеру %s</string>
+  <string name="select_all">Одабери све</string>
   <string name="select_backup_item">Одаберите ставке</string>
   <string name="select_storage_location">Одаберите локацију сиг. копије</string>
   <string name="service_stoped">Услуга заустављена</string>

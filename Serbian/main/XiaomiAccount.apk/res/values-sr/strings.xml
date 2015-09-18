@@ -46,9 +46,9 @@
   <string name="account_user_using_facebook_avatar">Употреби Facebook слику профила</string>
   <string name="account_user_using_qq_avatar">Употреби QQ слику профила</string>
   <string name="account_user_using_weibo_avatar">Употреби Sina Weibo слику профила</string>
-  <string name="account_xiaomi_service">Услуге</string>
   <string name="account_vip_level">Рачун</string>
   <string name="account_vip_task">Напредак</string>
+  <string name="account_xiaomi_service">Услуге</string>
   <string name="activate_desc_2_intl_sim_cards">2 међунарона SMS-a ће бити послата за активирање SIM картице</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a ће бити послата за активирање SIM kartice</string>
   <string name="activate_desc_intl_sim_card">Међународни SMS ће бити послат за активирање SIM kartice</string>
@@ -212,8 +212,9 @@
   <string name="login_with_email_or_id">Пријавите се са другим рачуном</string>
   <string name="logout_failed">"Не могу се одјавити"</string>
   <string name="mi_account_dspt_provision">"Пријавите се на Mi Cloud, MIUI Продавницу тема и Друге Mi Услуге, од било где да се налазите."</string>
-  <string name="mi_support_service">Подршка</string>
   <string name="mi_account_identity_title">Потврдите свој идентитет</string>
+  <string name="mi_pass">Mi Pass</string>
+  <string name="mi_support_service">Подршка</string>
   <string name="mibi_balance">Mi Кредита %s</string>
   <string name="micloud_account_name">Mi Рачун</string>
   <string name="micloud_area_code_title">Код земље</string>
@@ -298,13 +299,14 @@
   <string name="passport_failed_to_send_activate_email">"Не могу послати e-пошту активације"</string>
   <string name="passport_find_password_on_web_msg">Посетите account.mi.com да ресетујете своју лозинку.</string>
   <string name="passport_forget_password">Заборављена лозинка</string>
+  <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
   <string name="passport_get_back_pwd">Добијање лозинке рачуна</string>
   <string name="passport_get_verify_code">Набавите код</string>
   <string name="passport_getting_verify_code">Набавка</string>
-  <string name="passport_input_captcha_hint">Унесите код</string>
   <string name="passport_identitfication_expired">Провера кода је истекла, започните испочетка</string>
-  <string name="passport_input_password_hint">Унесите лозинку</string>
+  <string name="passport_input_captcha_hint">Унесите код</string>
   <string name="passport_input_password_for_login">Овај је број повезан са постојећим рачуном, унесите своју лозинку</string>
+  <string name="passport_input_password_hint">Унесите лозинку</string>
   <string name="passport_input_phone_hint">Унесите тел.број</string>
   <string name="passport_input_vcode_hint">Унесите код за проверу</string>
   <string name="passport_input_verify_code_hint">Унесите код за проверу</string>
@@ -315,6 +317,7 @@
   <string name="passport_login_instead_reg">Користи овај број</string>
   <string name="passport_login_instead_reg_with_email">Користи ову E-пошту</string>
   <string name="passport_login_notice">Пријава…</string>
+  <string name="passport_login_short">Prijavite se</string>
   <string name="passport_login_title">Пријавите се на ваш Mi Рачун</string>
   <string name="passport_login_with_email_or_id">Пријавите се са адресом E-поште или ID Mi Рачуна</string>
   <string name="passport_next">Даље</string>
@@ -372,6 +375,7 @@
   <string name="passport_skip_setup_account_title">Прескочи подешавања</string>
   <string name="passport_title_reg">Изради Рачун</string>
   <string name="passport_trust_device">Веруј овом уређају</string>
+  <string name="passport_user_agreement">Korisnički Sporazum</string>
   <string name="passport_user_agreement_p1">Сагласни сте са </string>
   <string name="passport_user_agreement_p2">Кориснички споразум</string>
   <string name="passport_user_agreement_p3">и</string>
@@ -384,10 +388,10 @@
   <string name="passport_wait_for_sms_prompt">"Започети сада поново? Испорука поруке провере може трајати до 10 минута када је телефон доступан у мрежи вашег оператера."</string>
   <string name="passport_welcome_skip_login">Прескочи овај корак</string>
   <string name="passport_wrong_captcha">Унети код није исправан</string>
+  <string name="passport_wrong_password">Погрешна лозинка</string>
   <string name="passport_wrong_phone_number_format">Формат броја телефона који сте унели није важећи</string>
   <string name="passport_wrong_vcode">Унешени код није исправан</string>
   <string name="passport_xiaomi_account_dspt">Користите свој Mi Рачун за пријаву на Mi Cloud, MIUI Продавницу Тема,и друге Mi Услуге, са било ког места.</string>
-  <string name="passport_wrong_password">Погрешна лозинка</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Пријава на ваш Mi Рачун захтева интернет везу. Осим тога, приступ локацији, Mi Cloud, и Mi VIP ће се укључити аутоматски.</string>
   <string name="password">Унесите вашу лозинку</string>

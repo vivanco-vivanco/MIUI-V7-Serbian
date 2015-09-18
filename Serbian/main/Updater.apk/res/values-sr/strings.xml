@@ -125,6 +125,8 @@
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Ne mogu ući u Recovery"</string>
   <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
+  <string name="recovery_power_not_enough_msg">Priključite punjač da napravite ažuriranje ako je baterija na manje od 30%</string>
+  <string name="recovery_power_not_enough_title">Slaba baterija</string>
   <string name="repeat">Покушај поново</string>
   <string name="set_auto">Провери има ли ажурирања аутоматски</string>
   <string name="set_auto_msg">Аутоматски преузми када је повезан на WLAN.</string>
@@ -150,6 +152,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_token_expired_warning">Weibo рачун је истекао. Морате се поново пријавити</string>
   <string name="sina_token_invalid_warning">Weibo рачун је истекао. Морате се поново пријавити</string>
   <string name="sogou_uninstall_msg">Sogou тастатура (Mi Edition) више није компатибилна са MIUI 7. Промените тастатуру или ажурирајте на новију Sogou верзију.</string>
+  <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
+  <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>
+  <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
   <string name="space_not_enough_msg">"Ваш уређај нема довољно меморије за преузимање овог ажурирања. Очистите простор за сачувавање на уређају и покусајте поново."</string>
   <string name="space_not_enough_title">Нема довољно простора за сачувавање</string>
   <string name="stable_build">Стабилно</string>
@@ -187,8 +192,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="updater_nolog">Нема извода ажурирања</string>
   <string name="updater_nonetwork">"Не могу се повезати на мрежу"</string>
   <string name="updater_nonetwork_clause">"Не могу се повезати на мрежу"</string>
-  <string name="upgrade_close">Затвори</string>
   <string name="updater_wait_for_unzip">Распакивање ажурирања…</string>
+  <string name="upgrade_close">Затвори</string>
   <string name="upgrade_kernel">Kernel система захтева ажурирање</string>
   <string name="upgrade_kernel_msg">"Верзија kernela коју користите не одговара MIUI ROM-u. Морате надоградити kernel ручно. Погледајте Xiaomi поступак надоградње: 
 "</string>

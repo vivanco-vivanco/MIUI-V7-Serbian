@@ -83,7 +83,6 @@
   <string name="express_address_info">Детаљи адресе</string>
   <string name="express_address_name">назив</string>
   <string name="express_address_region">Регија</string>
-  <string name="express_banner_header">%1$s / Број за праћење</string>
   <string name="express_address_warning_no_area">Регија је потребна</string>
   <string name="express_address_warning_no_full_address">Aдреса је потребна</string>
   <string name="express_address_warning_no_name">Име је потребно</string>
@@ -91,6 +90,7 @@
   <string name="express_addressee_info">Детаљи наслова</string>
   <string name="express_addressee_name">Назив насловника</string>
   <string name="express_addressee_region">Регија насловника</string>
+  <string name="express_banner_header">%1$s / Број за праћење</string>
   <string name="express_cancel_order">Одустани</string>
   <string name="express_company_list_empty">Нема компанија</string>
   <string name="express_company_phone_prefix">Контакт:</string>
@@ -136,10 +136,11 @@
   <string name="express_inquiry_trace_success">Праћено</string>
   <string name="express_inquiry_trace_user_notice_content">"Обавијестити ћемо вас о промени статуса ваше поруџбине."</string>
   <string name="express_inquiry_untrace">Не прати</string>
-  <string name="express_location_failed">"Не могу вас лоцирати. Унесите своју адресу."</string>
   <string name="express_inquiry_untrace_success">Није праћено</string>
+  <string name="express_location_failed">"Не могу вас лоцирати. Унесите своју адресу."</string>
   <string name="express_no_address">Празно</string>
   <string name="express_no_order">Нема поруџбина</string>
+  <string name="express_no_order_info">Nema informacija o narudžbi</string>
   <string name="express_order_confirmation">Потврда поруџбине</string>
   <string name="express_order_detail">Детаљи</string>
   <string name="express_order_failed">Није успело</string>
@@ -184,9 +185,10 @@
   <string name="express_view_status">Прати</string>
   <string name="expresss_inquiry_all_logistics">Све</string>
   <string name="expresss_inquiry_frequently_used_logistics">Често коришћено</string>
-  <string name="follow_label">Прати %1$s</string>
-  <string name="follow_success">Не пратим %1$s.</string>
   <string name="fail_to_add_account">"Није могуће додати рачун"</string>
+  <string name="follow_label">Прати %1$s</string>
+  <string name="follow_processing">Pratim</string>
+  <string name="follow_success">Не пратим %1$s.</string>
   <string name="fraud_number_online_identification">Блокирај телефонске рекламе </string>
   <string name="gallery">Галерија</string>
   <string name="general_cancel_favorite_ok">Фаворит уклоњен</string>
@@ -531,6 +533,7 @@
   <string name="user_agreement4">Правила о приватности</string>
   <string name="user_notice_identify_summary_format">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
+  <string name="user_notice_title">Napomena</string>
   <string name="user_notice_yp_detail_summary_format">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="voicemail">Говорна пошта</string>

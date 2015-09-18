@@ -122,6 +122,8 @@
   <string name="allow_data_usage_title">Веза са подацима у ромингу</string>
   <string name="allow_mock_location">Дозволи лажне локације</string>
   <string name="allow_mock_location_summary">Дозволи лажне локације</string>
+  <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
+  <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Изабрали сте да дозволите овој апликацији да прави виџете и приступа њиховим подацима.</string>
   <string name="amber_alerts_summary">Примање билтена о отмицама деце</string>
@@ -164,6 +166,7 @@
   <string name="apn_save_msg">Сачувајте промене APN-a?</string>
   <string name="apn_server">Сервер</string>
   <string name="apn_settings">Називи приступних тачака</string>
+  <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="apn_type">Тип назива приступне тачке</string>
   <string name="apn_user">Корисничко име</string>
   <string name="app_backup">Сиг. копија</string>
@@ -377,8 +380,8 @@
   <string name="bluetooth_ask_enablement_and_discovery_detected">" жели укључити Bluetooth и ваш уређај учинити видљивим на %1$d сек."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Апликација жели да укључи Bluetooth и учини телефон видљивим за друге уређаје. Ово можете касније да промените у подешавањима Bluetoothа.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" жели укључити Bluetooth и ваш уређај учинити видљивим другим уређајима. То можете променити касније у подешавањима Bluetootha."</string>
-  <string name="bluetooth_ask_enablement_detected">" жели да укључи Bluetooth."</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s жели укључити Bluetooth и Bluetooth емитовање ради комуникације са осталим уређајима у близини. То можете променити касније у подешавањима Bluetootha.</string>
+  <string name="bluetooth_ask_enablement_detected">" жели да укључи Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">Апликација жели да учини телефон видљивим за друге Bluetooth уређаје. Ово можете касније да промените у подешавањима Bluetooth-а.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s жели укључити Bluetooth емитовање ради комуникације са осталим уређајима у близини. То можете променити касније у подешавањима Bluetootha.</string>
   <string name="bluetooth_auto_connect">Аутоматско повезивање</string>
@@ -695,9 +698,9 @@
   <string name="common_settings">Брза подешавања</string>
   <string name="complete_settings">Општа подешавања</string>
   <string name="computing_size">Израчунавање...</string>
-  <string name="config_charging_function_name">Пуњење</string>
   <string name="condition_provider_security_warning_summary">Пружаоц услуга %1$s моћи ће додати услове за приказ начину Не ометај.</string>
   <string name="condition_provider_security_warning_title">Желите ли да омогућите услугу %1$s?</string>
+  <string name="config_charging_function_name">Пуњење</string>
   <string name="config_list_label">Конфигурисане мреже</string>
   <string name="configure_input_method">Подешавање метода уноса</string>
   <string name="confirm_action">У реду</string>
@@ -933,6 +936,7 @@
   <string name="device_cpu4_info">"4-језгрени"</string>
   <string name="device_cpu8_info">"8-језгрени"</string>
   <string name="device_edit_title">Преименуј уређај</string>
+  <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
   <string name="device_info_default">Непознато</string>
   <string name="device_info_label">Информације о уређају</string>
   <string name="device_info_not_available">Није доступно</string>
@@ -1037,17 +1041,17 @@
   <string name="dndm_vip_call_button_title">Допусти позиве од измена</string>
   <string name="dndm_vip_call_setting_detal">Изузеци</string>
   <string name="dndm_vip_call_setting_title">Изузеци</string>
-  <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_contact">"Сви"</string>
+  <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Додирни за конфигурисање</string>
   <string name="dndm_vip_list_contact">"Сви контакти"</string>
   <string name="dndm_vip_list_custom">Изузеци</string>
   <string name="dndm_vip_list_custom_group">Изузеци</string>
   <string name="dndm_vip_list_group">Попис изузетака</string>
+  <string name="dndm_vip_user_setting_title">Попис изузетака</string>
   <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Укључите Не ометај ако Mi Band открије да спавате у року од сат времена пре заказаног времена почетка"</string>
   <string name="dndm_wristband_detailed2">"Искључите Не ометај ме ако Mi Band открије да сте будни у року од сат времена пре заказаног временског завршетка"</string>
-  <string name="dndm_vip_user_setting_title">Попис изузетака</string>
   <string name="do_not_disturb_mode">Не ометај ме</string>
   <string name="dock_audio_media_disabled">Све звукове</string>
   <string name="dock_audio_media_enabled">Само медијске звукове</string>
@@ -1103,6 +1107,14 @@
   <string name="drive_mode_title">Аутомобилски начин</string>
   <string name="drive_mode_voice_report">Излаз претварања текста у говор</string>
   <string name="dtmf_tone_enable_title">Тонови приликом додира нумеричке тастатуре</string>
+  <string name="edge_mode_back">Natrag</string>
+  <string name="edge_mode_back_summary">Dvaput dodirnite rub telefona za natrag</string>
+  <string name="edge_mode_clean">Brisanje predmemorije sustava</string>
+  <string name="edge_mode_clean_summary">Kliznite na oba ruba istovremeno da izbrišete predmemoriju sustava</string>
+  <string name="edge_mode_photo">Snimanje fotografije</string>
+  <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite rub telefona da aktivirate okidač i dodirnite ponovno za snimanje fotografije</string>
+  <string name="edge_mode_screenshot">Snimka zaslona</string>
+  <string name="edge_mode_screenshot_summary">Dvaput dodirnite oba ruba telefona da napravite snimak zaslona</string>
   <string name="emergency_tone_alert">Упозорење</string>
   <string name="emergency_tone_silent">Бешумно</string>
   <string name="emergency_tone_summary">Подешавање понашања када се успоставља хитни позив</string>
@@ -1147,6 +1159,12 @@
   <string name="encryption_continue_button">Настави</string>
   <string name="encryption_interstitial_header">Енкрипција</string>
   <string name="encryption_interstitial_message_password">"Овај уређај можете додатно заштити захтевањем лозинке како би се покренуо.Док се уређај не покрене, не може примати позиве, поруке ни обавештења, укључујући аларме. </string>
+  <string name="encryption_interstitial_message_pattern">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem uzroka kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. 
+
+Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
+  <string name="encryption_interstitial_message_pin">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem PIN-a kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. 
+
+Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
   <string name="enforce_read_external_confirm_message">"Када је SD картица заштићена, апликације морају да захтевају дозволу за читање података из спољне меморије.
 
 Неке апликације можда неће функционисати док их програмери не буду ажурирали."</string>
@@ -1283,7 +1301,10 @@
   <string name="google_backup_section_title">Google меморија &amp; обнова</string>
   <string name="google_wallet">Google новчаник</string>
   <string name="gsm_to_wifi_connect_type_title">GSM -&gt; WLAN</string>
+  <string name="hand_mode_notification_summary">Dodirnite za više.</string>
+  <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
   <string name="handy_mode">Управљање једном руком</string>
+  <string name="handy_mode_enable">Upravljanje jednom rukom</string>
   <string name="handy_mode_enter_ask">Питај пре уласка у начин управљања једном руком</string>
   <string name="handy_mode_size">Величина екрана</string>
   <string name="handy_mode_tips">Пређите прстом лево или десно од дугмића Почетна да померите екран ближе једној страни.</string>
@@ -1571,8 +1592,8 @@
   <string name="lockpassword_pattern_set_toast">Шаблон је подешен</string>
   <string name="lockpassword_pin_contains_non_digits">PIN мора да садржи само цифре 0–9.</string>
   <string name="lockpassword_pin_fixed_length">PIN мора садржати %d знакова</string>
-  <string name="lockpassword_pin_recently_used">Администратор уређаја не допуста употребу недавног PIN-a.</string>
   <string name="lockpassword_pin_no_sequential_digits">Узастопно растући или падајући след бројева или понављање бројева није допуштено</string>
+  <string name="lockpassword_pin_recently_used">Администратор уређаја не допуста употребу недавног PIN-a.</string>
   <string name="lockpassword_pin_set_toast">PIN је подешен</string>
   <string name="lockpassword_pin_too_long">PIN мора да има мање од %d цифре(ара).</string>
   <string name="lockpassword_pin_too_short">Минимални број цифара у PIN-у је %d</string>
@@ -1670,7 +1691,7 @@
   <string name="master_clear_summary">Брише све податке у телефону</string>
   <string name="master_clear_title">Враћање фабричких података</string>
   <string name="max_cpu6_info">"6 језгрени "</string>
-  <string name="max_cpu8_info">"8 језгрени "</string>	
+  <string name="max_cpu8_info">"8 језгрени "</string>
   <string name="media_button">Медијско дугме</string>
   <string name="media_category">Медија</string>
   <string name="media_feedback_enable_title">Вибрирај уз ритам</string>
@@ -1845,6 +1866,7 @@
   <string name="music_headset_calibrate_volume_down">Смањење гласноће</string>
   <string name="music_headset_calibrate_volume_up">Повећање гласноће</string>
   <string name="music_headset_calibrate_wrong_key">"То је грешка дугмади"</string>
+  <string name="music_headset_function">Funkcija tipaka</string>
   <string name="music_headset_mode_music">Контрола репродукције музике</string>
   <string name="music_headset_mode_settings">Управљачки тастери слушалица</string>
   <string name="music_headset_mode_volume">Контрола нивоа гласноће</string>
@@ -2046,8 +2068,6 @@
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Мобилни сигнал</string>
   <string name="power_center">Енергија</string>
-  <string name="power_hide_mode_summary">"Штедите батерију ограничавањем појединих позадинских процеса апликација, WLAN-a, мобилне везе са подацима и GPS-a"</string>
-  <string name="power_hide_mode_title">Управљање коришћењем батерије апликација</string>
   <string name="power_charge_remaining">%1$s до завршетка пуњења</string>
   <string name="power_charging">%1$d%% – %2$s</string>
   <string name="power_charging_duration">%1$d%% – %2$s до напуњености</string>
@@ -2057,6 +2077,8 @@
   <string name="power_discharge_remaining">Преостало је %1$s</string>
   <string name="power_discharging_duration">%1$d%% – још приближно %2$s</string>
   <string name="power_flashlight">Лампа</string>
+  <string name="power_hide_mode_summary">"Штедите батерију ограничавањем појединих позадинских процеса апликација, WLAN-a, мобилне везе са подацима и GPS-a"</string>
+  <string name="power_hide_mode_title">Управљање коришћењем батерије апликација</string>
   <string name="power_idle">Уређај у мировању</string>
   <string name="power_mgr">Батерија</string>
   <string name="power_mode">Подешавања енергије</string>
@@ -2138,7 +2160,7 @@
   <string name="privacy_mode_enable_sum">Сакриј поруке, белешке,слике, подешавања и долазне позиве</string>
   <string name="privacy_mode_enable_title">Гост начин</string>
   <string name="privacy_mode_summary">Закључај поједине апликације или сакри личне информације</string>
-  <string name="privacy_mode_title">Подешавања приватности</string> 
+  <string name="privacy_mode_title">Подешавања приватности</string>
   <string name="privacy_protect_title">Заштита приватности</string>
   <string name="privacy_relative">Приватност</string>
   <string name="privacy_settings">Створи Сиг. копију &amp; поништи</string>
@@ -2202,6 +2224,11 @@
   <string name="quick_launch_shortcut">Претрага + %1$s</string>
   <string name="quick_launch_summary">Подешавање тастерских пречица за покретање апликација</string>
   <string name="quick_launch_title">Брзо покретање</string>
+  <string name="quiet">Ne ometaj me</string>
+  <string name="quiet_group">Ne ometaj me</string>
+  <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
+  <string name="quiet_mode">Utišaj sve smetnje</string>
+  <string name="quiet_off_mode">Uvijek dopusti smetnje</string>
   <string name="radioInfo_cid">ИД клијента</string>
   <string name="radioInfo_data_connected">Повезано</string>
   <string name="radioInfo_data_connecting">Повезивање</string>
@@ -2274,8 +2301,8 @@
   <string name="remove_account_label">Уклони налог</string>
   <string name="remove_device_admin">Деактивирај</string>
   <string name="remove_from_frequently_fragment">Уклонити %s из брзих подешавања?</string>
-  <string name="repeat">Понови</string>
   <string name="remove_managed_profile_label">Уклони радни профил</string>
+  <string name="repeat">Понови</string>
   <string name="repeat_title">Понови</string>
   <string name="reset_app_preferences">Ресетуј подешавања аплик.</string>
   <string name="reset_app_preferences_button">Ресетуј апликације</string>
@@ -2855,8 +2882,8 @@ Google-ов приступ синхронизацији података за м
   <string name="tether_settings_title_usb_bluetooth">Дељење везе</string>
   <string name="tether_settings_title_wifi">Преносни хотспот</string>
   <string name="tethering_help_button_text">Помоћ</string>
-  <string name="theme_settings_title">Теме</string>
   <string name="tethering_settings_not_available">Подешавања дељења везе нису доступне овом кориснику</string>
+  <string name="theme_settings_title">Теме</string>
   <string name="time_picker_title">Време</string>
   <string name="time_zone_auto_stub">Одабир временске зоне</string>
   <string name="timezone_settings">Временска зона</string>
@@ -3025,10 +3052,10 @@ Google-ов приступ синхронизацији података за м
   <string name="usage_type_video">"Видеозапис"</string>
   <string name="usage_type_wake_lock">Задржи у активном стању</string>
   <string name="usage_type_wifi_running">WLAN укључен</string>
-  <string name="usb_charging_summary">Искључи све остале функције USB повезивања за убрзање пуњења.</string>
-  <string name="usb_charging_title">Убрзај пуњење</string>
   <string name="usb_audio_disable_routing">Онемогући USB аудио.</string>
   <string name="usb_audio_disable_routing_summary">Онемогући ауто. усмеравање на USB аудиопериферију</string>
+  <string name="usb_charging_summary">Искључи све остале функције USB повезивања за убрзање пуњења.</string>
+  <string name="usb_charging_title">Убрзај пуњење</string>
   <string name="usb_connection_category">Повежи као</string>
   <string name="usb_eject">Искључи USB меморију</string>
   <string name="usb_eject_summary">Искључите USB меморију, тако да је можете уклонити на сигуран начин</string>
@@ -3171,12 +3198,12 @@ Google-ов приступ синхронизацији података за м
   <string name="vibrate_in_silent_title">Вибрација ако је бешумно</string>
   <string name="vibrate_input_devices">Употреби вибрацију</string>
   <string name="vibrate_input_devices_summary">Преусмери вибрацију на играчки контролер када су повезани.</string>
-  <string name="virtual_sim_category_title">Виртуелни SIM</string>
-  <string name="virtual_sim_description">Поуздана међународна роминг услуга</string>
-  <string name="virtual_sim_title">Роминг мрежа података</string>
   <string name="vibrate_on_touch_title">Вибрација на додир</string>
   <string name="vibrate_when_ringing_title">Вибрација код звоњења</string>
   <string name="view_install_log">Прикажи записник грешака</string>
+  <string name="virtual_sim_category_title">Виртуелни SIM</string>
+  <string name="virtual_sim_description">Поуздана међународна роминг услуга</string>
+  <string name="virtual_sim_title">Роминг мрежа података</string>
   <string name="virus_scan">Скенирање</string>
   <string name="virus_scan_app_continue">Настави скенирање</string>
   <string name="virus_scan_app_find_risk">Пронађено ризика: %d</string>

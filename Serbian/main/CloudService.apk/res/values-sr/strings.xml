@@ -3,8 +3,8 @@
   <string name="access_denied">Приступ одбијен</string>
   <string name="account">Рачун</string>
   <string name="activate">Активирај</string>
-  <string name="activating">Активирање</string>
   <string name="activate_number_change_dialog_message">Одаберите велики број који је потребно активирати, приликом VOIP позива, позвана странка ће видети овај број</string>
+  <string name="activating">Активирање</string>
   <string name="alert_notif_title_dspt">Није синхронизовано</string>
   <string name="antispam_sync">Подеси "Не ометај ме"</string>
   <string name="app_name">Mi Cloud</string>
@@ -31,6 +31,7 @@
   <string name="click_to_enabled">Додирни за синхронизацију.</string>
   <string name="cloud_back_up_button_ok">Насилно заустави</string>
   <string name="cloud_back_up_close_info">Додирни за израду Сиг.копије</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">"Зауставите израду сиг. копије у току? Ако зауставите сада, нећете бити у могућности користити ову Сиг. копију за враћање апликација."</string>
   <string name="cloud_back_up_interval_long">7 дана</string>
   <string name="cloud_back_up_interval_short">1 дан</string>
@@ -48,8 +49,8 @@
   <string name="cloudservice_new_sync">Синхронизација. %s са Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Користите Mi Cloud за синхронизацију података, проналазак свог телефона,</string>
   <string name="contact">Контакти</string>
-  <string name="disable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
   <string name="deskclock_backup">Направи Сиг. копију Сатова</string>
+  <string name="disable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
   <string name="enableAll">Синхронизуј све</string>
   <string name="enable_cloud_service_notification">Морате активирати Mi Cloud</string>
   <string name="enable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
@@ -117,7 +118,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_check_sim_notify_title">Поново активирај Mi Cloud</string>
   <string name="micloud_check_sim_title">"Изгледа да сте променили SIM картице. пријави те се
 на ваш Mi Рачун за активирање Mi Cloud."</string>
-  <string name="micloud_detail_download_syncing">Преузимање %s</string> 
+  <string name="micloud_detail_download_syncing">Преузимање %s</string>
   <string name="micloud_detail_fail">"Не могу синхро."</string>
   <string name="micloud_detail_lastest">Синхронизовано</string>
   <string name="micloud_detail_pending">На чекању</string>
@@ -155,9 +156,9 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_main_set_internet">Мрежа</string>
   <string name="micloud_main_space_full">Недовољно простора за складиштење</string>
   <string name="micloud_main_space_low">Понестаје простора…</string>
+  <string name="micloud_main_stop_sync">Синхр. заустављена</string>
   <string name="micloud_main_suggest_setting">"Чека се WLAN веза за синхронизацију
 Додирните тастер подешавања за приказ више опција"</string>
-  <string name="micloud_main_stop_sync">Синхр. заустављена</string>
   <string name="micloud_main_suggest_sync">"Не могу синхронизовати све"</string>
   <string name="micloud_main_sync_exception">грешка синхро.</string>
   <string name="micloud_main_sync_init">Прикупљање информација</string>
@@ -240,9 +241,6 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="microsoft_cloud_price">око 80 RMB годишње</string>
   <string name="more_activity_in_upgrade_space">Сазнајте више на &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi поруке</string>
-  <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
-  <string name="mx_sub_dspt_provision_with_voip">Интернет позиви</string>
-  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
   
   
@@ -255,7 +253,11 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   
   
 Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
+  <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
+  <string name="mx_dspt_provision_with_voip2">Pravila o Privatnosti</string>
   <string name="mx_sub_dspt_provision">Mi порука</string>
+  <string name="mx_sub_dspt_provision_with_voip">Интернет позиви</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Даље</string>
   <string name="noRemind">"Не подсећај ме"</string>
   <string name="no_sim">"Нема SIM картице"</string>
@@ -267,8 +269,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="pref_summary_sync_display_photo_on_wifi_only">"WLAN мреже"</string>
   <string name="pref_title_sync_contacts_title">Синхронизуј податке</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Користи само WLAN за синхро. фотографија.</string>
-  <string name="pref_title_sync_video_on_wifi_only">Користи само WLAN за синхро. видеозаписа.</string>
   <string name="pref_title_sync_my_profile_title">Синхронизуј профил</string>
+  <string name="pref_title_sync_video_on_wifi_only">Користи само WLAN за синхро. видеозаписа.</string>
   <string name="privacy_policy">Правила о приватности</string>
   <string name="remind_later">Не сада</string>
   <string name="restoreSync">Синхронизуј сада</string>

@@ -106,11 +106,11 @@
   <string name="get_order_dialog_msg">Добијање детаља наруџбине…</string>
   <string name="get_order_fail_msg">"Не могу добити детаље наруџбине"</string>
   <string name="high_speed_channel">Xunlei убрзање преузимања (уз плаћање):</string>
+  <string name="immediately_a_renewal">Обнови сада</string>
   <string name="input_valid_address">Унесите путању датотеке</string>
   <string name="install">Инсталирај</string>
   <string name="installing">Инсталирање...</string>
   <string name="invalid_address">Путања датотеке коју сте унели није важећа</string>
-  <string name="immediately_a_renewal">Обнови сада</string>
   <string name="keep_queued_download">Задржи</string>
   <string name="media_filter">МЕДИЈА</string>
   <string name="member_cost">Годишње</string>
@@ -158,6 +158,8 @@
   <string name="privacy_tip_content">"Користити Кsunlei Ацелератор за убрзање преузимања? URL домаћина преузимања ће бити учитан на ksuneli сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере да ли је имате активне претплате на ову услугу."</string>
   <string name="privacy_tip_ok">У реду</string>
   <string name="privacy_tip_title">Користи Xunlei Ацелератор?</string>
+  <string name="quit_btn">Izlaz</string>
+  <string name="rebind_btn">Dodaj ponovo</string>
   <string name="recommend_downloading">Преузимање...</string>
   <string name="recommend_failed">Није успело</string>
   <string name="recommend_install">Инсталиај</string>
@@ -197,6 +199,8 @@
   <string name="third_web_filesize">Величина:</string>
   <string name="third_web_savepath">Локација</string>
   <string name="third_web_title">Сачувај</string>
+  <string name="title_tips">Pažnja</string>
+  <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
   <string name="toast_xunlei_engine_open">"Xunlei убрзање преузимања укључено.
 Ова функција се не препоручује изван кине"</string>
   <string name="turn_off_xunlei_message">Можете искључити спорију брзину преузимања.</string>
@@ -210,6 +214,8 @@
   <string name="vip_expire_show_info">Истекло је Xunlei чланство\\обновите га сада и можете добити 5% попуста."</string>
   <string name="vip_expire_today_show_info">Истекло је Xunlei чланство\\обновите га сада и можете добити 5% попуста."</string>
   <string name="vip_show_info">5 милиона чланова.\\убрзајте преузимање на свим вашим уређајима</string>
+  <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei Račun uklonjen</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Убрзати преузимање</string>

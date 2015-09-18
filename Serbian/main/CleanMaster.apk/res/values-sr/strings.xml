@@ -7,7 +7,7 @@
   <string name="activity_title_deep_clean">Темељно чишћење</string>
   <string name="activity_title_garbage_cleanup">Чистач</string>
   <string name="activity_title_ignored_image">Игнорисано</string>
-  <string name="activity_title_image_gallery">>Избриши дупликате</string>
+  <string name="activity_title_image_gallery">&gt;Избриши дупликате</string>
   <string name="activity_title_large_file">Велике датотеке</string>
   <string name="activity_title_news">Новости</string>
   <string name="activity_title_privacy_cache">Кеш меморија. приватности</string>
@@ -141,12 +141,14 @@
   <string name="hints_storage_clean_size">Ослобођено %s унутрашње меморије</string>
   <string name="hints_storage_free">Слободно</string>
   <string name="hints_storage_free_size">%s доступно, више ставки може бити очишћено​</string>
+  <string name="hints_storage_news">Novosti sigurnosti</string>
   <string name="hints_title_garbage">смеће</string>
   <string name="item_title_process_mode">Одаберите радњу</string>
   <string name="last_check_canceled">Претходно скенирање је отказано</string>
   <string name="mainbtn_text_quick_cleanup">Очисти %s</string>
   <string name="memeory_check_content">%1$d аплик., меморија %2$s</string>
   <string name="msg_cleanup_db_update_checking">Провера ажурирања...</string>
+  <string name="msg_cleanup_db_update_time_unknown">Zadnje ažuriranje nepoznato</string>
   <string name="msg_update_error_code_already_running">Ажурирање</string>
   <string name="msg_update_error_code_network_error">"Не могу се повезати на мрежу"</string>
   <string name="msg_update_error_code_no_newer_db">чистач је у току са ажурирањима</string>
@@ -183,6 +185,7 @@
   <string name="pref_title_garbage_auto_clean_content">Cтавке за чишћење</string>
   <string name="pref_title_garbage_cleanup_check_size">Ограничење величине смећа</string>
   <string name="pref_title_garbage_cleanup_check_time">Планирано</string>
+  <string name="pref_title_garbage_cleanup_size">Ograničenje veličine smeća</string>
   <string name="pref_title_garbage_process_mode">Обавештења</string>
   <string name="pref_title_manual_check_cleanup_db_update">Провери за ажурирања</string>
   <string name="pref_title_open_optimizer_cloud_scan">Учитај</string>
@@ -231,7 +234,7 @@
   <string name="toast_resolve_apk_error">Решавање грешке Apk</string>
   <string name="toast_scaning_similar_image">Провера фотографија…</string>
   <string name="toast_select_image_need_delete">Одаберите фотографије за брисање</string>
-   <string name="toast_select_white_need_remove">Одаберите ставке за уклањање</string>
+  <string name="toast_select_white_need_remove">Одаберите ставке за уклањање</string>
   <string name="toast_selecte_group_restore_succeed">Фотографије враћене</string>
   <string name="toast_uninstall_success">Деинсталирање завршено</string>
   <string name="white_list_ad_header">Реклама: %d</string>

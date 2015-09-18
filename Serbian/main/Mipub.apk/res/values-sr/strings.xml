@@ -20,8 +20,10 @@
   <string name="batch_deleting_progress_message">Брисање…</string>
   <string name="bookmark_empty">Нема ознака</string>
   <string name="bookmark_list_title">Фаворити</string>
-  <string name="confirm_delete_all_conversations">Све нити ће бити избрисане.</string>
+  <string name="cannot_send_message">"Ne mogu poslati ovu poruku"</string>
   <string name="check_network">Подешавања мреже</string>
+  <string name="compressing">Slika je prevelika. Sažimanje…</string>
+  <string name="confirm_delete_all_conversations">Све нити ће бити избрисане.</string>
   <string name="confirm_delete_conversation">Цела нит ће бити избрисана.</string>
   <string name="confirm_delete_group_message">Све групне поруке ће бити избрисане.</string>
   <string name="confirm_delete_locked_message">Избрисати закључану поруку?</string>
@@ -56,6 +58,7 @@
   <string name="done">Готово</string>
   <string name="edit">Уреди</string>
   <string name="edit_phrase">Уреди израз</string>
+  <string name="empty_mipub_list">Prazno</string>
   <string name="enable_password_protect">Омогућите заштиту лозинком</string>
   <string name="enable_visible_pattern_title">Направите узорак видљивим</string>
   <string name="english_subject_limit">мах 40 знакова</string>
@@ -75,6 +78,7 @@
   <string name="file_width_height">Величина:</string>
   <string name="follow_finished">Пратећи број</string>
   <string name="follow_forbidden">"Не мгу пратити овај број"</string>
+  <string name="followed_accounts">Prateći računi</string>
   <string name="hms_add_image_progress_message">обрада</string>
   <string name="hms_uri_param_err">"URL не може бити празан"</string>
   <string name="invalid_conversation">Неважећи разговор</string>

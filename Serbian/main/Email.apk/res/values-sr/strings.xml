@@ -250,6 +250,7 @@
   <string name="attachment_decoding">Прилог је преузет у потпуности, у току је декодирање, причекајте.</string>
   <string name="attachment_download_all">Преузми све</string>
   <string name="attachment_image">Слика</string>
+  <string name="attachment_list_search_hint">Traži privitke</string>
   <string name="attachment_mgr_name">Привићи</string>
   <string name="attachment_not_exists">Прилог није доступан!</string>
   <string name="attachment_not_found">"Не могу преузети прилог."</string>
@@ -328,8 +329,6 @@
   <string name="confirm_send_message_with_no_subject">"Ова порука нема предмет."</string>
   <string name="confirm_send_title">Послати поруку?</string>
   <string name="contact_content_provider">Контактирајте даваоца садржаја</string>
-  <string name="contact_info_string">Прикажи податке о контакту за %1$s</string>
-  <string name="contact_info_string_default">Прикажи податке о контакту</string>
   <string name="contact_edit_set_black_list">Подеси листу блокираних</string>
   <string name="contact_edit_set_black_list_from">Избриши сву пошту тог пошиљаоца</string>
   <string name="contact_edit_set_black_list_receive">Избриши пошту тог примаоца</string>
@@ -340,6 +339,8 @@
   <string name="contact_edit_set_vip">Подеси VIP</string>
   <string name="contact_edit_title_permission">"Допуштења контаката"</string>
   <string name="contact_edit_title_phone_contact">Попис контаката телефона</string>
+  <string name="contact_info_string">Прикажи податке о контакту за %1$s</string>
+  <string name="contact_info_string_default">Прикажи податке о контакту</string>
   <string name="contact_list_add_btn">Додај</string>
   <string name="contact_list_search_hint">Тражење контаката</string>
   <string name="contact_list_title">Контакти</string>
@@ -348,6 +349,7 @@
   <string name="content_description_today">%1$s o теми %2$s, %3$s у %4$s, %5$s</string>
   <string name="contextmenu_add">Додај у контакте</string>
   <string name="contextmenu_add_contact">Додај контакт</string>
+  <string name="contextmenu_call">Poziv</string>
   <string name="contextmenu_copy">Копирај</string>
   <string name="contextmenu_copylink">Копирај URL везе</string>
   <string name="contextmenu_create">Изради нови контакт</string>
@@ -367,8 +369,8 @@
   <string name="conversation_list_net_check">"Није могуће повезивање на мрежу"</string>
   <string name="conversation_overload_toast">Ова e-пошта је превелика за учитавањe, прођите све поново на PC касније</string>
   <string name="conversation_photo_welcome_text">Додирните слику пошаљиоца да би сте обрисали тај разговор.</string>
-  <string name="copy_email">Копирање e-адресе</string>
   <string name="copied">Копирано</string>
+  <string name="copy_email">Копирање e-адресе</string>
   <string name="copy_number">Копирање телефонског броја</string>
   <string name="create_action">Изради нови</string>
   <string name="custom_from_account_label">Пошаљи као:</string>
@@ -495,6 +497,7 @@
   <string name="folder_sent_name_en3">Послате ставке</string>
   <string name="folder_sent_name_en4">[Gmail]/Послата пошта</string>
   <string name="folder_shortcut_widget_label">Мапа e-поште</string>
+  <string name="folder_synchronization_mail_settings">Postavke sinkronizacije mapa</string>
   <string name="folder_trash_name_cn0">Избрисано</string>
   <string name="folder_trash_name_cn1">Смеће</string>
   <string name="folder_trash_name_cn2">[Gmail]/смеће</string>
@@ -524,6 +527,7 @@
   <string name="general_preference_text_zoom_small">Мален</string>
   <string name="general_preference_text_zoom_tiny">Ситан</string>
   <string name="generic_attachment_problem">"Не могу приложити датотеку."</string>
+  <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke &gt; Aplikacije sustava i pokušajte ponovo."</string>
   <string name="gmail_acceleration">Користи proxy сервер за Gmail Рачун</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy сервер за приступ Gmail рачуну?</string>
   <string name="gmail_login_verify">Додај Gmail Рачун</string>
@@ -730,6 +734,7 @@
   <string name="outbox_alert_description_provision_error">Грешка Одредаба с сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_reject_by_server">Одбијено од %s</string>
   <string name="outbox_alert_description_sent_failed">"Величина прилога прелази ограниченје сервера."</string>
+  <string name="outbox_alert_description_time_out">Грешка мрежног повезивања</string>
   <string name="outbox_alert_duplicate_click">"Још синхронизујем…"</string>
   <string name="outbox_alert_edit_resend">Уреди и поново пошаљи</string>
   <string name="outbox_alert_failed_edit_resend">"Немогу послати. уреди и пошаљи поново."</string>
@@ -737,7 +742,6 @@
   <string name="outbox_alert_rw_io_error">Догодила се грешка. Сачекајте минут или два и покушајте поново.</string>
   <string name="outbox_alert_select_operation">Одаберите радњу</string>
   <string name="outbox_alert_title_sent_failed">"Не могу послати e-пошту"</string>
-  <string name="outbox_alert_description_time_out">Грешка мрежног повезивања</string>
   <string name="outbox_no_mails">Празно</string>
   <string name="parase_setup_data">Добивање података…</string>
   <string name="password_changed_prompt">"Не могу се пријавити."</string>
@@ -973,8 +977,8 @@
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
-  <string name="sort_attachment">Поређај по</string>
   <string name="smtp_password_error">Грешка лозинке одлазног сервера</string>
+  <string name="sort_attachment">Поређај по</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">Писао:</string>
   <string name="special_text_2">Писао：</string>

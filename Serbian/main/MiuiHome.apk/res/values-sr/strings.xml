@@ -39,10 +39,10 @@
   <string name="cant_remove_folder">"Није могуће уклонити мапу"</string>
   <string name="cant_remove_retained_app">Није могуће уклонити ову апликацију</string>
   <string name="cant_remove_system_app">"Није могуће уклонити апликацију система"</string>
-  <string name="choose_theme">Тема</string>
   <string name="children_folder_title">Деца</string>
   <string name="children_mode_exit">Излаз</string>
   <string name="children_mode_tips">Назад у Подешавања и управљај приступ апликацијама.</string>
+  <string name="choose_theme">Тема</string>
   <string name="choose_wallpaper">Одабери слику позадине</string>
   <string name="chooser_wallpaper">Одабери слику позадине</string>
   <string name="cloud_app_restore_title">На чекању</string>
@@ -59,9 +59,9 @@
   <string name="delete">Избриши</string>
   <string name="delete_wallpaper_message">Избрисати слику позадине: %1$d?</string>
   <string name="delete_wallpapers_message">Избрисати слике позадине: %1$d?</string>
+  <string name="deselect_all">Поништи одабир</string>
   <string name="disable">Онемогући</string>
   <string name="disable_wallpaper_scroll">Искључи померање слике</string>
-  <string name="deselect_all">Поништи одабир</string>
   <string name="download_action">Преузми</string>
   <string name="edit_folder_title">Уреди назив мапе</string>
   <string name="editing_add_widget_tips">Уреди widgete</string>
@@ -137,6 +137,7 @@
   <string name="install">Инсталирај</string>
   <string name="invalid_contact_shortcut">Неважећи контакт</string>
   <string name="is_setting_wallpaper_message">Подешавање слике позадине…</string>
+  <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
   <string name="loading_desktop">Учитавање покретача...</string>
   <string name="loading_wallpaper">Учитавање...</string>
   <string name="local_wallpaper">Преузето</string>
@@ -197,8 +198,8 @@
   <string name="recommend_apps_tips">"Овој функцији треба повезивање на интернет да ради нормално. За искључивање ове функције, додирните назив ове мапе."</string>
   <string name="reset_scene_prompt">Екран ће се вратити на задата подешавања.</string>
   <string name="scroll_tip_format_when_announce_accessibility">на страници %1$d, %2$d апликација</string>
-  <string name="select_frame">Оквир</string>
   <string name="select_all">Одабери све</string>
+  <string name="select_frame">Оквир</string>
   <string name="select_photo">Фотографија</string>
   <string name="setting_wallpaper_tip">Помакни или увећај за прилагођавање</string>
   <string name="settings_shortcut">Подешавања</string>

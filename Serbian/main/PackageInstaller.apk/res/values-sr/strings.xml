@@ -101,7 +101,8 @@
   <string name="uninstall_update_title">Деинсталирати ово ажурирање?</string>
   <string name="uninstalling">Деинсталирање…</string>
   <string name="unknown">Непознато</string>
-  <string name="unknown_apps_dlg_text">Ваш телефон и лични подаци изложенији су нападима апликација из непознатих извора. Сагласни сте да сте искључиво сами одговорни за губитак података или било какву штету насталу на вашем уређају која може бити изазвана коришћењем ове апликације. Можете искључити ово обавештење у подешавањима.</string>  <string name="unknown_apps_dlg_title">Инсталирање је блокирано</string>
+  <string name="unknown_apps_dlg_text">Ваш телефон и лични подаци изложенији су нападима апликација из непознатих извора. Сагласни сте да сте искључиво сами одговорни за губитак података или било какву штету насталу на вашем уређају која може бити изазвана коришћењем ове апликације. Можете искључити ово обавештење у подешавањима.</string>
+  <string name="unknown_apps_dlg_title">Инсталирање је блокирано</string>
   <string name="unknown_installer">Непознат PC алат</string>
   <string name="virus_scan_caller_unknown">Непознато</string>
   <string name="virus_scan_clear">Уклони</string>

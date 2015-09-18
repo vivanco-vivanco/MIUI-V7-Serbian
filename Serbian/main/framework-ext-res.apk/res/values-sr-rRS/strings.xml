@@ -42,7 +42,11 @@
   <string name="paste">Залепи</string>
   <string name="perm_send_push_dspt">Допусти Mi push поруке</string>
   <string name="perm_send_push_lab">Пошаљи push поруку</string>
+  <string name="permdesc_manageLocationPolicy">Omogućuje aplikaciji upravljanje pravila lokacije i određivanje pravila za specifične aplikacije.</string>
+  <string name="permlab_manageLocationPolicy">Upravljaj pravilima lokacije</string>
   <string name="reboot_confirm_title">Ваш уређај ће се поново покренути</string>
+  <string name="reboot_info_auto_boot">Vaš telefon će se uključiti u %s prema rasporedu auto pokretanja</string>
+  <string name="reboot_info_shutdown_alarm">Vaš telefon će se uključiti i oglasiti alarm u %s</string>
   <string name="reboot_progress">Поновно покретање…</string>
   <string name="replace">Замени</string>
   <string name="screen_button_disabled_message">Навигационе дирке су искључене. Да их поново укључите, притисните дирку \"Почетна\" и \"Напајање\" истовремено.</string>

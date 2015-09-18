@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokirati ove brojeve telefona (%1$d)?</item>
+        <item quantity="one">Blokirati ovaj broj telefona?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+       <item quantity="other">Odblokirati ove brojeve telefona (%1$d)?</item>
+       <item quantity="one">Odblokirati ovaj broj telefona?</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Бр. контаката са бројевима телефона: %d</item>
         <item quantity="one">1 контакт са бројем телефона</item>

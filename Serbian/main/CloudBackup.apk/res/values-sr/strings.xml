@@ -18,7 +18,7 @@
   <string name="cloud_app_check_data">Добијање података са MiCloud-a…</string>
   <string name="cloud_app_current_device">Тренутни уређај</string>
   <string name="cloud_app_dont_restore">"Подеси као нови уређај"</string>
-  <string name="cloud_app_no_data">>Нема откривених претходно инсталираних апликација</string>
+  <string name="cloud_app_no_data">&gt;Нема откривених претходно инсталираних апликација</string>
   <string name="cloud_app_no_network">"Не могу се повезати на мрежу"</string>
   <string name="cloud_app_other_devices">Остали уређаји</string>
   <string name="cloud_app_restore_app_and_data">Подеси свој уређај</string>

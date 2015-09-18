@@ -23,6 +23,7 @@
   <string name="acessibility_cal_notification">Обавести календара</string>
   <string name="acessibility_selected_marker_description">Изабрани догађај</string>
   <string name="acessibility_snooze_notification">Одлоѕи обавештење</string>
+  <string name="action_label">Vrati</string>
   <string name="action_text_new_event">Нови догађај</string>
   <string name="action_text_online">Online</string>
   <string name="action_text_today">Данас</string>
@@ -35,9 +36,9 @@
   <string name="agenda_view">Распоред</string>
   <string name="agenda_yesterday">Јуче, %1$s</string>
   <string name="alarm_label">У реду</string>
-  <string name="alert_title">Обавести календара</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Истекао</string>
+  <string name="alert_title">Обавести календара</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">Годишњица</string>
   <string name="app_label">Календар</string>
@@ -309,11 +310,12 @@
   <string name="timezone_label">Временска ѕона</string>
   <string name="today">Данас</string>
   <string name="today_at_time_fmt">Данас у %s</string>
-  <string name="topic_dialog_title">Претплата, Откажи претплату</string>
-  <string name="topic_event_list_header_label">Недавна Активност</string>		  
-  <string name="topic_list_header_label">Претплате</string>
   <string name="today_no_events">Нема догађаја</string>
   <string name="tomorrow">Сутра</string>
+  <string name="tomorrow_at_time_fmt">Сутра у %s</string>
+  <string name="topic_dialog_title">Претплата, Откажи претплату</string>
+  <string name="topic_event_list_header_label">Недавна Активност</string>
+  <string name="topic_list_header_label">Претплате</string>
   <string name="travel_airport">Ваздушна лука</string>
   <string name="travel_carriage_number_text">Ауто</string>
   <string name="travel_eta_advice">%2$s мин. вожње до %1$s.</string>
@@ -341,7 +343,6 @@
   <string name="travel_seat_number_text">Седиште</string>
   <string name="travel_train_number_text">Воз</string>
   <string name="travel_train_station">Жел. колодвор</string>
-  <string name="tomorrow_at_time_fmt">Сутра у %s</string>
   <string name="view_all_matches">Прикажи све</string>
   <string name="view_event_calendar_label">Календар:</string>
   <string name="view_event_organizer_label">Организатор:</string>

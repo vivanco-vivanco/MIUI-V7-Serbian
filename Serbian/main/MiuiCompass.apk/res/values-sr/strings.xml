@@ -49,6 +49,7 @@
   <string name="menu_calibrate">Калибрација компаса</string>
   <string name="mobiledata_alert_dialog_message">Повезати се са интернетом за калибрацију надморске висине?</string>
   <string name="mobiledata_alert_dialog_title">Упозорење употребе података</string>
+  <string name="pressure">%.1f</string>
   <string name="pressure_title">Притисак</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Протресите за калибрацију</string>
