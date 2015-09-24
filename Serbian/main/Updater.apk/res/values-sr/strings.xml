@@ -120,13 +120,13 @@
   <string name="previous">Претходно</string>
   <string name="progress_title_checking">Провера за ажурирања…</string>
   <string name="reboot">Поново покрени</string>
-  <string name="recovery_failed_button">U redu</string>
-  <string name="recovery_failed_msg">"Vaš uređaj nema dovoljno memorije za ulaz u Recovery i ažurirati vaš sustav. Pokušajte pomoću Mi PC Suite:
+  <string name="recovery_failed_button">У реду</string>
+  <string name="recovery_failed_msg">"Ваш уређај нема довољно меморије за улаз у Recovery и ажурирати ваш систем. Покушајте помоћу Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">"Ne mogu ući u Recovery"</string>
-  <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
-  <string name="recovery_power_not_enough_msg">Priključite punjač da napravite ažuriranje ako je baterija na manje od 30%</string>
-  <string name="recovery_power_not_enough_title">Slaba baterija</string>
+  <string name="recovery_failed_notification_msg">"Не могу ући у Recovery"</string>
+  <string name="recovery_failed_title">Користите Mi PC Suite за ажурирање вашег система</string>
+  <string name="recovery_power_not_enough_msg">Прикључите пуњач да направите ажурирање ако је батерија мања од 30%</string>
+  <string name="recovery_power_not_enough_title">Слаба батерија</string>
   <string name="repeat">Покушај поново</string>
   <string name="set_auto">Провери има ли ажурирања аутоматски</string>
   <string name="set_auto_msg">Аутоматски преузми када је повезан на WLAN.</string>

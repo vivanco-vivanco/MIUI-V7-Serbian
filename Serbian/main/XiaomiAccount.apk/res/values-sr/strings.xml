@@ -299,7 +299,7 @@
   <string name="passport_failed_to_send_activate_email">"Не могу послати e-пошту активације"</string>
   <string name="passport_find_password_on_web_msg">Посетите account.mi.com да ресетујете своју лозинку.</string>
   <string name="passport_forget_password">Заборављена лозинка</string>
-  <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
+  <string name="passport_forget_password_no_underline">Заборављена лозинка</string>
   <string name="passport_get_back_pwd">Добијање лозинке рачуна</string>
   <string name="passport_get_verify_code">Набавите код</string>
   <string name="passport_getting_verify_code">Набавка</string>
@@ -317,7 +317,7 @@
   <string name="passport_login_instead_reg">Користи овај број</string>
   <string name="passport_login_instead_reg_with_email">Користи ову E-пошту</string>
   <string name="passport_login_notice">Пријава…</string>
-  <string name="passport_login_short">Prijavite se</string>
+  <string name="passport_login_short">Пријавите се</string>
   <string name="passport_login_title">Пријавите се на ваш Mi Рачун</string>
   <string name="passport_login_with_email_or_id">Пријавите се са адресом E-поште или ID Mi Рачуна</string>
   <string name="passport_next">Даље</string>
@@ -375,7 +375,7 @@
   <string name="passport_skip_setup_account_title">Прескочи подешавања</string>
   <string name="passport_title_reg">Изради Рачун</string>
   <string name="passport_trust_device">Веруј овом уређају</string>
-  <string name="passport_user_agreement">Korisnički Sporazum</string>
+  <string name="passport_user_agreement">Кориснички Споразум</string>
   <string name="passport_user_agreement_p1">Сагласни сте са </string>
   <string name="passport_user_agreement_p2">Кориснички споразум</string>
   <string name="passport_user_agreement_p3">и</string>

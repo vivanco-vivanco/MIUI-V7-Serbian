@@ -250,7 +250,7 @@
   <string name="attachment_decoding">Прилог је преузет у потпуности, у току је декодирање, причекајте.</string>
   <string name="attachment_download_all">Преузми све</string>
   <string name="attachment_image">Слика</string>
-  <string name="attachment_list_search_hint">Traži privitke</string>
+  <string name="attachment_list_search_hint">Тражи прилоге</string>
   <string name="attachment_mgr_name">Привићи</string>
   <string name="attachment_not_exists">Прилог није доступан!</string>
   <string name="attachment_not_found">"Не могу преузети прилог."</string>
@@ -349,7 +349,7 @@
   <string name="content_description_today">%1$s o теми %2$s, %3$s у %4$s, %5$s</string>
   <string name="contextmenu_add">Додај у контакте</string>
   <string name="contextmenu_add_contact">Додај контакт</string>
-  <string name="contextmenu_call">Poziv</string>
+  <string name="contextmenu_call">Позив</string>
   <string name="contextmenu_copy">Копирај</string>
   <string name="contextmenu_copylink">Копирај URL везе</string>
   <string name="contextmenu_create">Изради нови контакт</string>
@@ -497,7 +497,7 @@
   <string name="folder_sent_name_en3">Послате ставке</string>
   <string name="folder_sent_name_en4">[Gmail]/Послата пошта</string>
   <string name="folder_shortcut_widget_label">Мапа e-поште</string>
-  <string name="folder_synchronization_mail_settings">Postavke sinkronizacije mapa</string>
+  <string name="folder_synchronization_mail_settings">Подешавања синхронизације мапа</string>
   <string name="folder_trash_name_cn0">Избрисано</string>
   <string name="folder_trash_name_cn1">Смеће</string>
   <string name="folder_trash_name_cn2">[Gmail]/смеће</string>
@@ -527,7 +527,7 @@
   <string name="general_preference_text_zoom_small">Мален</string>
   <string name="general_preference_text_zoom_tiny">Ситан</string>
   <string name="generic_attachment_problem">"Не могу приложити датотеку."</string>
-  <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke &gt; Aplikacije sustava i pokušajte ponovo."</string>
+  <string name="get_database_exception">"Избришите податке ове апликације у Подешавањима &gt; Апликације система и покушајте поново."</string>
   <string name="gmail_acceleration">Користи proxy сервер за Gmail Рачун</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy сервер за приступ Gmail рачуну?</string>
   <string name="gmail_login_verify">Додај Gmail Рачун</string>

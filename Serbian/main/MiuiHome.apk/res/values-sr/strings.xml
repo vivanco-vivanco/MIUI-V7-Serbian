@@ -137,7 +137,7 @@
   <string name="install">Инсталирај</string>
   <string name="invalid_contact_shortcut">Неважећи контакт</string>
   <string name="is_setting_wallpaper_message">Подешавање слике позадине…</string>
-  <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
+  <string name="is_system_wallpaper_message">"Не моги избрисати ресурсе система"</string>
   <string name="loading_desktop">Учитавање покретача...</string>
   <string name="loading_wallpaper">Учитавање...</string>
   <string name="local_wallpaper">Преузето</string>

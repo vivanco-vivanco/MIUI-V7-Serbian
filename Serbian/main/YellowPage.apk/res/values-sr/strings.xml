@@ -140,7 +140,7 @@
   <string name="express_location_failed">"Не могу вас лоцирати. Унесите своју адресу."</string>
   <string name="express_no_address">Празно</string>
   <string name="express_no_order">Нема поруџбина</string>
-  <string name="express_no_order_info">Nema informacija o narudžbi</string>
+  <string name="express_no_order_info">Нема информација о наруџбини</string>
   <string name="express_order_confirmation">Потврда поруџбине</string>
   <string name="express_order_detail">Детаљи</string>
   <string name="express_order_failed">Није успело</string>
@@ -153,7 +153,7 @@
   <string name="express_order_state_dispatching">Достављам</string>
   <string name="express_order_state_dispatching_failed">Није успело</string>
   <string name="express_order_state_failed">Није успело</string>
-  <string name="express_order_state_ordered">Нручено</string>
+  <string name="express_order_state_ordered">Наручено</string>
   <string name="express_order_state_picked">Подигнуто</string>
   <string name="express_order_state_picking_failed">Није успело подизање</string>
   <string name="express_order_state_processing">Обрада</string>
@@ -187,7 +187,7 @@
   <string name="expresss_inquiry_frequently_used_logistics">Често коришћено</string>
   <string name="fail_to_add_account">"Није могуће додати рачун"</string>
   <string name="follow_label">Прати %1$s</string>
-  <string name="follow_processing">Pratim</string>
+  <string name="follow_processing">Пратим</string>
   <string name="follow_success">Не пратим %1$s.</string>
   <string name="fraud_number_online_identification">Блокирај телефонске рекламе </string>
   <string name="gallery">Галерија</string>
@@ -533,7 +533,7 @@
   <string name="user_agreement4">Правила о приватности</string>
   <string name="user_notice_identify_summary_format">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
-  <string name="user_notice_title">Napomena</string>
+  <string name="user_notice_title">Напомена</string>
   <string name="user_notice_yp_detail_summary_format">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="voicemail">Говорна пошта</string>

@@ -109,8 +109,8 @@
   <string name="unkown">Nepoznato</string>
   <string name="unread_calls">Непрочитани позиви</string>
   <string name="unread_calls_count">%d непрочитаних позива</string>
-  <string name="user_agreement">Pravila o Privatnosti</string>
-  <string name="user_agreement4">Правила о приватности</string>
+  <string name="user_agreement">Правила о Приватности</string>
+  <string name="user_agreement4">Правила о Приватности</string>
   <string name="voip_btn_mute">Утишај</string>
   <string name="voip_btn_speaker">Звучник</string>
   <string name="voip_btn_switch_camera">Промени камеру</string>

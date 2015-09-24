@@ -103,8 +103,8 @@
   <string name="recover_from_micloud">Обнови користећи MiCloud</string>
   <string name="recover_home_settings">Врати подешавања почетног екрана</string>
   <string name="recover_miui_settings">Врати подешавања MIUI система</string>
-  <string name="recover_settings">Obnovi postavke Početnog zaslona</string>
-  <string name="recover_settings_description">Držite uređaj uključenim</string>
+  <string name="recover_settings">Врати подешавања Почетног екрана</string>
+  <string name="recover_settings_description">Држите уређај укљученим</string>
   <string name="recovering">Обнављам %s</string>
   <string name="restore_from_cloud">Обнови из MiClouda</string>
   <string name="restoreing_file_tile">Обнављање датотека: %d</string>

@@ -44,7 +44,7 @@
   <string name="auto_nickname">"Аутоматски"</string>
   <string name="auto_set_nickname">"Аутоматски"</string>
   <string name="batch_delete">Избриши серију</string>
-  <string name="blacklist">Blokiraj</string>
+  <string name="blacklist">Блокирај</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth веза је прекинута</string>
   <string name="blurbJoinContactDataWith">Изаберите контакт који желите да придружите контакту %s.</string>
   <string name="btn_rotation">Ротација</string>
@@ -209,7 +209,7 @@
   <string name="contact_detail_profile_switch_off_success_toast">Картице контакта су искључене</string>
   <string name="contact_detail_profile_switch_on">"Види контакте' профилна фотографија"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Не могу искључити картице</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Dodirnite da uključite kartice kontakata</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Додирните да укључите картицу контаката</string>
   <string name="contact_detail_profile_switch_on_success_toast">Картице контаката су укључене</string>
   <string name="contact_directory_description">Каталог %1$s</string>
   <string name="contact_edit_title_edit">"Измени контакт"</string>
@@ -382,7 +382,7 @@
   <string name="email_mobile">Пошаљи имејл на мобилни телефон</string>
   <string name="email_other">Пошаљи имејл</string>
   <string name="email_work">Пошаљи имејл на пословну имејл адресу</string>
-  <string name="emergency_number_label">Broj za hitne slučajeve</string>
+  <string name="emergency_number_label">Број за хитне случајеве</string>
   <string name="emptyGroup">Нема људи у овој групи.</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">Унесите име особе</string>
@@ -510,7 +510,7 @@
   <string name="in_call_show_long_press_to_record">Притисни &amp; држи за снимање</string>
   <string name="in_call_show_pick_video">Одабери видеозапис</string>
   <string name="in_call_show_preview">Преглед</string>
-  <string name="in_call_show_preview_reshoot">Pokušaj ponovo</string>
+  <string name="in_call_show_preview_reshoot">Покушај поново</string>
   <string name="in_call_show_recording">Снимање...</string>
   <string name="in_call_show_reshoot">Сними поново</string>
   <string name="in_call_show_save_completed">Видеозапис профила је сачуван</string>
@@ -1055,7 +1055,7 @@
   <string name="resource_see_more">Прикажи више</string>
   <string name="resource_select">Одабери</string>
   <string name="resource_select_ringtone_confirm">Одабрати овај звук?</string>
-  <string name="resource_select_ringtone_confirm_picker">Odabrati ovaj zvuk?</string>
+  <string name="resource_select_ringtone_confirm_picker">Одабрати овај звук?</string>
   <string name="resource_selected">Истакнуто</string>
   <string name="resource_send">Пошаљи</string>
   <string name="resource_server_alert_dialog_title">"Враћамо се одмах…"</string>

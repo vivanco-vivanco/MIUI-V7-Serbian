@@ -92,7 +92,7 @@
   <string name="baby_birthday">Рођендан</string>
   <string name="baby_lock_wallpaper">Слика закљ. екрана</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Одаберите албум</string>
-  <string name="baby_lock_wallpaper_cancelled">Promijenjeno na zadanu pozadinu zaklj. zaslona</string>
+  <string name="baby_lock_wallpaper_cancelled">Промењено на задату позадину закљ. екрана</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Применити тренутна подешавања?</string>
   <string name="baby_lock_wallpaper_title">"Употреби фотографију детета као позадину закључаног екрана"</string>
   <string name="baby_name_cannot_empty">Унесите име</string>
@@ -124,7 +124,7 @@
   <string name="camera_setas_wallpaper">Позадине</string>
   <string name="camera_view_none_message">Снимљене фотографије ће овде бити приказане.</string>
   <string name="cancel">Одустани</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Otkazati dječju sliku pozadine i resetirati zadanu pozadinu zaklj. zaslona?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Отказати дечију слику позадине и рестартовати задату позадину закљ. екрана?</string>
   <string name="cancel_hint">Радња отказана</string>
   <string name="cannot_delete_sharer_photo">"Не могу избрисати %s ставке учитане од стране других корисника."</string>
   <string name="cannot_remove_creator">"Не могу уклонити аутора"</string>
@@ -295,10 +295,10 @@
   <string name="fail_to_pick_email">Неважећа E-пошта</string>
   <string name="fail_to_sync_album">"Не могу синхронизовати албум. Проверите вашу везу за пренос података и покушајте поново."</string>
   <string name="family_member_invitation_text">Остали чланови породице</string>
-  <string name="file_finish">Sinkr. s MiCloud</string>
+  <string name="file_finish">Синхр. са MiCloud</string>
   <string name="file_not_exist_message">"Датотека не постоји"</string>
   <string name="file_size">Вел. датотеке</string>
-  <string name="file_uploading">Sinkr. sa…</string>
+  <string name="file_uploading">Синхр. са…</string>
   <string name="filllight">Испуни светлом</string>
   <string name="finish_create_baby_album_toast">Направљен је албум за \"%s\" у Mi Cloudu</string>
   <string name="finish_fill_baby">Направи</string>
@@ -331,7 +331,7 @@
   <string name="group_by_time">По времену</string>
   <string name="has_invalid_recipient">Неважећи примаоц: %1$s</string>
   <string name="height">Висина</string>
-  <string name="hidden_album_display_name">Skriveni album</string>
+  <string name="hidden_album_display_name">Скривени албум</string>
   <string name="highlight">Истицања</string>
   <string name="highlight_abbr">И</string>
   <string name="home_my_captured_items">" снимци фотоапарата"</string>
@@ -456,9 +456,9 @@
   <string name="multiface_crop_help">Додирните лице за почетак.</string>
   <string name="must_pick_file">Одабери слику</string>
   <string name="name_wrong">"Ово није %s"</string>
-  <string name="need_to_turn_on_network">Povežite se na mrežu</string>
+  <string name="need_to_turn_on_network">Повежите се на мрежу</string>
   <string name="need_to_turn_on_sync">Додирните за укључивање Mi Clouda</string>
-  <string name="need_to_turn_on_wlan">Povežite se na WLAN</string>
+  <string name="need_to_turn_on_wlan">Повежите се на WLAN</string>
   <string name="negative">Негативан</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Не могу се повезати на мрежу"</string>
@@ -481,7 +481,7 @@
   <string name="not_now">Не сада</string>
   <string name="not_remind_any_more">"Не приказуј поново"</string>
   <string name="not_show_hidden_albums">Не приказуј скривени албум</string>
-  <string name="number_of_uploading_finish">Sve datoteke učitane na Mi Cloud</string>
+  <string name="number_of_uploading_finish">Све датотеке учитане на Mi Cloud</string>
   <string name="old">Старо</string>
   <string name="only_show_camera_in_first_page">Прикажи само са фотоапарата</string>
   <string name="only_show_camera_in_first_page_summary">Прикажи само фотографије са фотоапарата вашег Mi Clouda.</string>
@@ -629,10 +629,10 @@
   <string name="send_public_url">Пошаљи URL албума</string>
   <string name="sepia">Сепија</string>
   <string name="set_as_baby_lock_wallpaper">Подешено за позадину закљ. екрана</string>
-  <string name="set_baby_icon_picker_default_title">Postavi ikonu djeteta</string>
-  <string name="set_bg_file_exist_message">Konflikt između imena fotografija</string>
-  <string name="set_bg_picker_default_title">Postavite gornje sličice</string>
-  <string name="set_bg_unknow_reasons">Nepoznata pogreška</string>
+  <string name="set_baby_icon_picker_default_title">Подеси икону детета</string>
+  <string name="set_bg_file_exist_message">Конфликт између имена фотографија</string>
+  <string name="set_bg_picker_default_title">Подесите горње сличице</string>
+  <string name="set_bg_unknow_reasons">Непозната грешка</string>
   <string name="set_hidden_album">Сакриј</string>
   <string name="set_label_all_albums">Све</string>
   <string name="set_label_local_albums">Локално</string>
@@ -692,7 +692,7 @@
   <string name="sync_album_in_proecess">Синхронизација албума…</string>
   <string name="sync_album_set_error">Не могу синхронизовати фотографије. Проверите своју везу за пренос података и покушајте поново."</string>
   <string name="sync_album_summary">Учитајте своје фотографије на ваш Cloud</string>
-  <string name="sync_cloud_space_full">MiCloud je pun</string>
+  <string name="sync_cloud_space_full">MiCloud је пун</string>
   <string name="sync_history_power_on">Синхронизуј историју слика само током пуњења</string>
   <string name="sync_in_progress_message">Преузимање албума…</string>
   <string name="sync_ok">Синхр. у реду</string>
@@ -721,10 +721,10 @@
   <string name="too_many_recipients">"Не можете додати више од %2$s приматеља (тренутно сте додали %1$s)."</string>
   <string name="try_to_send">Послато</string>
   <string name="ubifocus_data_invalid">Неки подаци ове слике су изгубљени</string>
-  <string name="ubifocus_data_missing">Nedostaju podaci za ovu sliku</string>
+  <string name="ubifocus_data_missing">Недостају подаци за ову слику</string>
   <string name="ubifocus_guide_text">Додирни &amp; држи за поновно фокусирање</string>
   <string name="ubifocus_map_error">Поједини подаци ове слике садрже грешке</string>
-  <string name="ubifocus_refocus_data_invalid">"Ne mogu ponovno fokusirati jer neki podaci ove slike su nevažeći"</string>
+  <string name="ubifocus_refocus_data_invalid">"Не могу поново фокусирати јер неки подаци ове слике су неважећи"</string>
   <string name="ubifocus_refocus_data_missing">"Не могу поново фокусирати јер неки подаци ове слике недостају"</string>
   <string name="ubifocus_refocus_download_tip">"Морате преузети податке ове слике пре поновног фокусирања."</string>
   <string name="uc">UC</string>

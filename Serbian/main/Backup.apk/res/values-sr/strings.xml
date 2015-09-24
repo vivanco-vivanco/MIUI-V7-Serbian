@@ -78,7 +78,7 @@
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Обрисати</string>
   <string name="delete_backup_process">Брисање…</string>
-  <string name="delete_backup_title">Izbriši Sig. kopiju</string>
+  <string name="delete_backup_title">Избриши Сиг. копију</string>
   <string name="delete_failed_backup_confirm">Ова сиг. копија садржи грешке.</string>
   <string name="deselect_all">Поништи одабир</string>
   <string name="digit_percent">%</string>

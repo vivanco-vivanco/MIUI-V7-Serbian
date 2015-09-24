@@ -25,9 +25,9 @@
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
   <string name="clear_and_bright"/>
-  <string name="cloud_state_disabled">Sinkronizacija s Mi Cloud je isključena</string>
-  <string name="cloud_state_finished">Sinkronizirano s Mi Cloud</string>
-  <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
+  <string name="cloud_state_disabled">Синхронизација са Mi Cloud је искључена</string>
+  <string name="cloud_state_finished">Синхронизовано са Mi Cloud</string>
+  <string name="cloud_state_syncing">Синхронизовано са Mi Cloud</string>
   <string name="cold_dews"/>
   <string name="copy">Копирај</string>
   <string name="cut">Изрежи</string>

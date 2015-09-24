@@ -122,8 +122,8 @@
   <string name="allow_data_usage_title">Веза са подацима у ромингу</string>
   <string name="allow_mock_location">Дозволи лажне локације</string>
   <string name="allow_mock_location_summary">Дозволи лажне локације</string>
-  <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
-  <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
+  <string name="allow_usage_access_message">Ако допустите приступ, та апликација може видети уопштене информације о апликацијама на вашем уређају, на пример, колико их често употребљавате.</string>
+  <string name="allow_usage_access_title">Желите ли да допустите приступ?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Изабрали сте да дозволите овој апликацији да прави виџете и приступа њиховим подацима.</string>
   <string name="amber_alerts_summary">Примање билтена о отмицама деце</string>
@@ -166,7 +166,7 @@
   <string name="apn_save_msg">Сачувајте промене APN-a?</string>
   <string name="apn_server">Сервер</string>
   <string name="apn_settings">Називи приступних тачака</string>
-  <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
+  <string name="apn_settings_not_available">Подешавања приступне тачке нису доступна овом кориснику</string>
   <string name="apn_type">Тип назива приступне тачке</string>
   <string name="apn_user">Корисничко име</string>
   <string name="app_backup">Сиг. копија</string>
@@ -936,7 +936,7 @@
   <string name="device_cpu4_info">"4-језгрени"</string>
   <string name="device_cpu8_info">"8-језгрени"</string>
   <string name="device_edit_title">Преименуј уређај</string>
-  <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
+  <string name="device_feedback">Пошаљи повр. информације о уређају</string>
   <string name="device_info_default">Непознато</string>
   <string name="device_info_label">Информације о уређају</string>
   <string name="device_info_not_available">Није доступно</string>
@@ -1107,14 +1107,14 @@
   <string name="drive_mode_title">Аутомобилски начин</string>
   <string name="drive_mode_voice_report">Излаз претварања текста у говор</string>
   <string name="dtmf_tone_enable_title">Тонови приликом додира нумеричке тастатуре</string>
-  <string name="edge_mode_back">Natrag</string>
-  <string name="edge_mode_back_summary">Dvaput dodirnite rub telefona za natrag</string>
-  <string name="edge_mode_clean">Brisanje predmemorije sustava</string>
-  <string name="edge_mode_clean_summary">Kliznite na oba ruba istovremeno da izbrišete predmemoriju sustava</string>
-  <string name="edge_mode_photo">Snimanje fotografije</string>
-  <string name="edge_mode_photo_summary">Dok ste u sučelju kamere, dodirnite rub telefona da aktivirate okidač i dodirnite ponovno za snimanje fotografije</string>
-  <string name="edge_mode_screenshot">Snimka zaslona</string>
-  <string name="edge_mode_screenshot_summary">Dvaput dodirnite oba ruba telefona da napravite snimak zaslona</string>
+  <string name="edge_mode_back">Назад</string>
+  <string name="edge_mode_back_summary">Двапут додирни руб телефона за назад</string>
+  <string name="edge_mode_clean">Брисање бафера система</string>
+  <string name="edge_mode_clean_summary">Клизните на оба руба истовремено избришите бафер система</string>
+  <string name="edge_mode_photo">Снимање фотографије</string>
+  <string name="edge_mode_photo_summary">Док сте у интерфејсу камере, додирните руб телефона да активирате окидач и додирните поново за снимање фотографије</string>
+  <string name="edge_mode_screenshot">Снимак екрана</string>
+  <string name="edge_mode_screenshot_summary">Двапут додирните оба руба телефона да направите снимак екрана</string>
   <string name="emergency_tone_alert">Упозорење</string>
   <string name="emergency_tone_silent">Бешумно</string>
   <string name="emergency_tone_summary">Подешавање понашања када се успоставља хитни позив</string>
@@ -1158,13 +1158,13 @@
   <string name="encrypt_talkback_dialog_require_pin">Захтевање PIN-a?</string>
   <string name="encryption_continue_button">Настави</string>
   <string name="encryption_interstitial_header">Енкрипција</string>
-  <string name="encryption_interstitial_message_password">"Овај уређај можете додатно заштити захтевањем лозинке како би се покренуо.Док се уређај не покрене, не може примати позиве, поруке ни обавештења, укључујући аларме. </string>
-  <string name="encryption_interstitial_message_pattern">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem uzroka kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. 
+  <string name="encryption_interstitial_message_password">"Овај уређај можете додатно заштити захтевањем лозинке како би се покренуо. Док се уређај не покрене, не може примати позиве, поруке ни обавештења, укључујући аларме. </string>
+  <string name="encryption_interstitial_message_pattern">"Овај уређај можете додатно заштити захтевањем узрока како би се покренуо. Док се уређај не покрене, не може примати позиве, поруке ни обавештења, укључујући аларме. 
 
-Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
-  <string name="encryption_interstitial_message_pin">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem PIN-a kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. 
+Тиме се штите подаци на украденим или изгубљеним уређајима."</string>
+  <string name="encryption_interstitial_message_pin">"Овај уређај можете додатно заштити захтевањем PIN-a како би се покренуо. Док се уређај не покрене, не може примати позиве, поруке ни обавештења, укључујући аларме. 
 
-Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
+Тиме се штите подаци на украденим или изгубљеним уређајима."</string>
   <string name="enforce_read_external_confirm_message">"Када је SD картица заштићена, апликације морају да захтевају дозволу за читање података из спољне меморије.
 
 Неке апликације можда неће функционисати док их програмери не буду ажурирали."</string>
@@ -1301,10 +1301,10 @@ Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
   <string name="google_backup_section_title">Google меморија &amp; обнова</string>
   <string name="google_wallet">Google новчаник</string>
   <string name="gsm_to_wifi_connect_type_title">GSM -&gt; WLAN</string>
-  <string name="hand_mode_notification_summary">Dodirnite za više.</string>
-  <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
+  <string name="hand_mode_notification_summary">Додирните за више.</string>
+  <string name="hand_mode_notification_title">Користите контроле руба</string>
   <string name="handy_mode">Управљање једном руком</string>
-  <string name="handy_mode_enable">Upravljanje jednom rukom</string>
+  <string name="handy_mode_enable">Управљање једном руком</string>
   <string name="handy_mode_enter_ask">Питај пре уласка у начин управљања једном руком</string>
   <string name="handy_mode_size">Величина екрана</string>
   <string name="handy_mode_tips">Пређите прстом лево или десно од дугмића Почетна да померите екран ближе једној страни.</string>
@@ -1866,7 +1866,7 @@ Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
   <string name="music_headset_calibrate_volume_down">Смањење гласноће</string>
   <string name="music_headset_calibrate_volume_up">Повећање гласноће</string>
   <string name="music_headset_calibrate_wrong_key">"То је грешка дугмади"</string>
-  <string name="music_headset_function">Funkcija tipaka</string>
+  <string name="music_headset_function">Функција тастера</string>
   <string name="music_headset_mode_music">Контрола репродукције музике</string>
   <string name="music_headset_mode_settings">Управљачки тастери слушалица</string>
   <string name="music_headset_mode_volume">Контрола нивоа гласноће</string>
@@ -2224,11 +2224,11 @@ Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
   <string name="quick_launch_shortcut">Претрага + %1$s</string>
   <string name="quick_launch_summary">Подешавање тастерских пречица за покретање апликација</string>
   <string name="quick_launch_title">Брзо покретање</string>
-  <string name="quiet">Ne ometaj me</string>
-  <string name="quiet_group">Ne ometaj me</string>
-  <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
-  <string name="quiet_mode">Utišaj sve smetnje</string>
-  <string name="quiet_off_mode">Uvijek dopusti smetnje</string>
+  <string name="quiet">Не ометај ме</string>
+  <string name="quiet_group">Не ометај ме</string>
+  <string name="quiet_important_interruptions_mode">Допусти само изузецима</string>
+  <string name="quiet_mode">Утишај све сметње</string>
+  <string name="quiet_off_mode">Увек допусти сметње</string>
   <string name="radioInfo_cid">ИД клијента</string>
   <string name="radioInfo_data_connected">Повезано</string>
   <string name="radioInfo_data_connecting">Повезивање</string>
