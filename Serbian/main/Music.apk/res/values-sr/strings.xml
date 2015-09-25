@@ -2,8 +2,8 @@
 <resources>
   <string name="account">Рачун</string>
   <string name="account_and_cloud">Рачун</string>
-  <string name="action_item_add">Додај</string>
-  <string name="action_item_add_song">Додај</string>
+  <string name="action_item_add">Додај на листу песама</string>
+  <string name="action_item_add_song">Додај на листу песама</string>
   <string name="action_item_add_to_current_playlist">Тренутна листа песама</string>
   <string name="action_item_add_to_favorite_playlist">Листа песама фаворита</string>
   <string name="action_item_add_to_new_playlist">Ново</string>
@@ -36,7 +36,7 @@
   <string name="audio_picker_title">Одабери песму</string>
   <string name="auto_download_in_wifi">Аутоматски преузми омиљене песме преко WLAN-a</string>
   <string name="auto_payment">Аутом. обнови</string>
-  <string name="avail_services">Доступне услуге</string>
+  <string name="avail_services">Доступно</string>
   <string name="available_playlist_name_format">Нова листа песама %d</string>
   <string name="avoid_to_use_traffic_summary">"Немој користити мобилну мрежу за stream музике"</string>
   <string name="avoid_to_use_traffic_title">Користи само WLAN за stream</string>
@@ -48,9 +48,9 @@
   <string name="can_not_find_resource">"Не могу пронаћи изворе"</string>
   <string name="cancel">Одустани</string>
   <string name="channel_list_fragment_title">Радио</string>
-  <string name="chinese_female">Кинески женски певачи</string>
-  <string name="chinese_group">Кинеске комбинације</string>
-  <string name="chinese_male">Кинески мушки певачи</string>
+  <string name="chinese_female">Женски извођачи (Кина)</string>
+  <string name="chinese_group">Бендови (Кина)</string>
+  <string name="chinese_male">Кинески извођачи (Кина)</string>
   <string name="choose_download_quality">Одабери квалитет преузимања</string>
   <string name="choose_stream_quality">Одабери квалитет streama</string>
   <string name="click_modify">Додирните за уређивање текста песме</string>
@@ -62,11 +62,11 @@
   <string name="cp_info_first">Streaming service is provided by Ultimate Inc.</string>
   <string name="create_playlist">Направи нови списак песама</string>
   <string name="create_playlist_failure">"Не могу направити листу песама"</string>
-  <string name="current_services">Тренутне слуге</string>
+  <string name="current_services">Тренутно</string>
   <string name="data_usage_warning">Употреба података</string>
   <string name="data_usage_warning_summary">Коришћење ваше мобилне податковне мреже за streaming високо квалитетне музике може повећати трошкове употребе података.</string>
   <string name="delete">Избриши</string>
-  <string name="delete_file_as_well">Избриши и локалну датотеку</string>
+  <string name="delete_file_as_well">Трајно избриши ову песму</string>
   <string name="delete_file_end">Избриши у потпуности</string>
   <string name="delete_file_start">Избриши одабране датотеке</string>
   <string name="desc_online_personal_radio">Само за тебе</string>
@@ -113,9 +113,9 @@
   <string name="empty_page_no_document">Нема датотека са звуком.</string>
   <string name="empty_page_no_track">Нема песама.</string>
   <string name="enabled">Омогућено</string>
-  <string name="english_female">Европски и амерички женски певачи</string>
-  <string name="english_group">Европске и америчке комбинације</string>
-  <string name="english_male">Европски и амерички мушки певачи</string>
+  <string name="english_female">Женски извођачи (US/Европа)</string>
+  <string name="english_group">Бендови (US/Европа)</string>
+  <string name="english_male">Мушки извођачи (US/Европа)</string>
   <string name="eq_auto">Прилагођено</string>
   <string name="eq_blues">Блуз</string>
   <string name="eq_classical">Класична</string>
@@ -198,11 +198,13 @@
   <string name="impunity_declaration_title">Услови пружања услуге</string>
   <string name="in_searching_please_wait">Претраживање…</string>
   <string name="is_loading_data">Учитавање још траје. Сачекајте минут/два и покушајте поново.</string>
-  <string name="is_scanning">Скенирање, молимо причекајте.</string>
-  <string name="is_scanning_support_online">Скенирање, молимо сачекајте или одаберите услугу са интернета.</string>
-  <string name="japan_korea_female">Јапански и Корејски женски певачи</string>
-  <string name="japan_korea_group">Јапанске и Корејске комбинације </string>
-  <string name="japan_korea_male">Јапански и корејски мушки певачи</string>
+  <string name="is_scanning">Провера простора за меморију...</string>
+  <string name="is_scanning_support_online">Провера простора за меморију....</string>
+  
+  (У међувремену, можете слушати музику на мрежи)"</string>
+  <string name="japan_korea_female">Женски извођачи (Јапан/Кореја)</string>
+  <string name="japan_korea_group">Бендови (Јапан/Кореја) </string>
+  <string name="japan_korea_male">Мушки извођачи (Јапан/Кореја)</string>
   <string name="ktv_playlist">KTV листа репродукције</string>
   <string name="like">Свиђа ми се</string>
   <string name="list_detail_title">Детаљи</string>
@@ -217,7 +219,7 @@
   <string name="lrc_search_failed">"Не могу пронаћи текст"</string>
   <string name="lrc_searching">"Претраживање…"</string>
   <string name="lyric">Текст</string>
-  <string name="lyric_is_empty">Текст је недоступан</string>
+  <string name="lyric_is_empty">Текст није доступан</string>
   <string name="lyric_open_other_connect">Преузми текст користећи мобилну мрежу</string>
   <string name="lyric_setting">Подешавање текста</string>
   <string name="male_artist">Мушки извођачи</string>
@@ -303,11 +305,11 @@
   <string name="ok">"У реду"</string>
   <string name="online_music">Online Музика</string>
   <string name="online_music_enabled_subtitle">Додирните за стримовање ваших омиљених песама.</string>
-  <string name="online_music_enabled_summary">Слушајте и преузмите омиљене песме. Погледајте Billboard лествице и тренутну листу песама где год кренули!</string>
+  <string name="online_music_enabled_summary">Слушајте и преузмите омиљене песме. Погледајте најбоље песме и тренутну листу где год кренули!!</string>
   <string name="online_music_enabled_title">Бесплатан стрим је овде</string>
   <string name="online_playlist_is_empty">Листа песама је празна</string>
   <string name="only_online_can_select_quality">Можете одабрати квалитет само за музику коју стримујете.</string>
-  <string name="order_pending">Чека се потврда</string>
+  <string name="order_pending">Чекање потврде</string>
   <string name="order_process_fail">"Није било могуће ауторизовати ваш рачун. Сачекајте неколико минута и покушајте поново."</string>
   <string name="page_local_setting">Подешавања</string>
   <string name="pay">Плати:</string>
@@ -322,7 +324,7 @@
   <string name="playlist_unavailable">"Нажалост, попис није доступан. Да га избришете, притисните и држите, а затим одаберите избриши."</string>
   <string name="please_download_first">Морате преузети ту песму пре да бисте је могли поставити као звук звона</string>
   <string name="please_search_or_select">Претражите или подесите поље</string>
-  <string name="please_select_song">Молимо одаберите једну песму</string>
+  <string name="please_select_song">Одаберите једну песму</string>
   <string name="preset_music_playlist">Листа Мi Музике</string>
   <string name="presonal_center">Подешавање рачуна</string>
   <string name="price">Цена:</string>
@@ -371,12 +373,12 @@
   <string name="set_lyric_successful">Текст је сачуван</string>
   <string name="set_ringtones_failed">Не могу поставити звук звона.</string>
   <string name="set_ringtones_successful">%s успешно постављено за звук звона.</string>
-  <string name="share_append_text">Из @Mi Музика</string>
-  <string name="share_chooser_title">Дели</string>
-  <string name="share_description">Из Mi Музика</string>
-  <string name="share_end_note">Из Mi Музика</string>
-  <string name="share_text_list">Открио сам супер листу песама на Mi Музика:</string>
-  <string name="share_text_song">Открио сам супер песму на Mi Музика</string>
+  <string name="share_append_text">Од @MIUI</string>
+  <string name="share_chooser_title">Дели путем</string>
+  <string name="share_description">Од Mi Музика</string>
+  <string name="share_end_note">Од Mi Музика</string>
+  <string name="share_text_list">Попис песама од Mi Музика:</string>
+  <string name="share_text_song">Песма у Mi Музика</string>
   <string name="similar_songs">Сличне песме</string>
   <string name="sleep_mode">Време спавања</string>
   <string name="sleep_mode_canceled">Sleep mode искључен</string>
@@ -419,9 +421,9 @@
   <string name="title_online_song">Популарне песме</string>
   <string name="title_online_suggest">Могло би вам се свидети</string>
   <string name="title_search_history">Историја претраживања</string>
-  <string name="title_search_hot">Врућа питања</string>
+  <string name="title_search_hot">Популарно</string>
   <string name="today_update">Музика је ажурирана</string>
-  <string name="too_freq">Пречесте радње</string>
+  <string name="too_freq">Превише захтева послатих са овог уређаја</string>
   <string name="tos">Услови Пружања Услуге</string>
   <string name="track_list_control_download">"Преузми"</string>
   <string name="track_list_control_edit_add_tracks">Додај песме</string>
@@ -443,7 +445,7 @@
   <string name="upgrade_immediate">Ажурирај сада</string>
   <string name="upgrade_nobeta">"Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Извините на неугодности :("</string>
   <string name="upgrade_remind">Ажурирање доступно</string>
-  <string name="upgrade_services">Услуге надоградње</string>
+  <string name="upgrade_services">Ажурирања</string>
   <string name="upgrade_suggest">" Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Ажурирајте на најновију верзију апликације Музика за слушање музике високог квалитета."</string>
   <string name="upgrade_to">Надогради на</string>
   <string name="upgrade_waringing">"Бићете у могућности да слушате само музику сачувану у офлајн режиму."</string>

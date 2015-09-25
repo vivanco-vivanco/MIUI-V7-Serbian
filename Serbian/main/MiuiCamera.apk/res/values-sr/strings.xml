@@ -585,7 +585,7 @@
   <string name="toast_burst_snap_forbidden_when_hdr_open">Брзо узастопно снимање није подржано када је HDR УКЉУЧЕН.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Брзо узастопно снимање није подржано када ISO није 'аутоматски'."</string>
   <string name="toast_cannot_preview_image_when_screen_locked">""Не могу прегледати слике док је уређај закључан"</string>
-  <string name="toast_start_audio_capture">Направите звук на окидању</string>
+  <string name="toast_start_audio_capture">Направи звук код снимања фотографије</string>
   <string name="ubi_focus_capture_fail">"Не могу снимити фотографију"</string>
   <string name="ubi_focus_exit_button_text">Искључи</string>
   <string name="ubifocus_capture_warning_message">За најбоље резултате, ваша фотографија би требала садржати објекте и близу (мање од 1 метра од објектива) и далеко</string>

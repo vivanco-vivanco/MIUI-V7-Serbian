@@ -197,6 +197,7 @@
   <string name="hints_last_virus_scan_yesterday_virus">Скениранo jучер: Опасно</string>
   <string name="hints_loading_text">Учитавање…</string>
   <string name="hints_need_quick_scan">Препоручује се брзо скенирање</string>
+  <string name="hints_need_quick_scan">Скенирајте редовно свој уређај</string>
   <string name="hints_power_percent_title">Батерије</string>
   <string name="hints_remember_choice">Запамти предности</string>
   <string name="hints_risk_apk_list_item_summary">Ризик (apk)</string>

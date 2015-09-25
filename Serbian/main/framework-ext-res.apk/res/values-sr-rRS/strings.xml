@@ -21,10 +21,10 @@
   <string name="global_actions_reboot">"Поново покрени"</string>
   <string name="global_actions_shutdown">"Искључи"</string>
   <string name="global_actions_silent_mode">"Бешумни начин"</string>
-  <string name="handy_mode_enter_dlg_msg">Ући у управљање једном руком?</string>
-  <string name="handy_mode_enter_dlg_title">Управљање једном руком</string>
+  <string name="handy_mode_enter_dlg_msg">Ући у рад једном руком?</string>
+  <string name="handy_mode_enter_dlg_title">Рад једном руком</string>
   <string name="handy_mode_summary">Да затворите притисните празан простор на искљ. екрану</string>
-  <string name="handy_mode_title">Управљање једном руком</string>
+  <string name="handy_mode_title">Рад једном руком</string>
   <string name="internal_livetalk_enable">Користите доплату пакета за домаће позиве</string>
   <string name="internal_remain_mins">%1$s мин. преостало (домаћи позиви)</string>
   <string name="international_livetalk_enable">Користите доплату пакета за међународне позиве</string>

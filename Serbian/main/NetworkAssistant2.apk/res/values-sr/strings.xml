@@ -111,6 +111,8 @@
   <string name="firewall_fragment_tab_title_nonsys">Инсталирано</string>
   <string name="firewall_fragment_tab_title_sys">Систем</string>
   <string name="firewall_network_restrict_notify_message">Додирни за промену подешавања.</string>
+  <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s не може користити %2$s."</string>
   <string name="firewall_network_restrict_notify_title">"%1$s није допуштено повезивање на %2$s."</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Међународни роминг</string>

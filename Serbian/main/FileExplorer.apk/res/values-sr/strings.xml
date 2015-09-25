@@ -80,6 +80,11 @@
   <string name="create_share_link_description">Створи везу за дељење…</string>
   <string name="cution">Савети</string>
   <string name="data_capacity">Подаци %1$s</string>
+  <string name="data_consumption_cancel">Излаз</string>
+  <string name="data_consumption_checkbox_hint">"Не приказуј поново"</string>
+  <string name="data_consumption_confirm">У реду</string>
+  <string name="data_consumption_message">Овој апликацији треба повезивање интернетом путем WLAN-a за нормални рад.</string>
+  <string name="data_consumption_title">Повезивање са интернетом</string>
   <string name="decompress_cancel">Откажи</string>
   <string name="decompress_confirm">Распакуј</string>
   <string name="decompress_destination_error">"Распакивање није успело: не моу овде распаковати датотеке."</string>
@@ -261,6 +266,7 @@
   <string name="notification_dialog_confirm">У реду</string>
   <string name="notification_dialog_content">Аутоматски обавести и организуј када су датотеке додате или промењене у %1$s.</string>
   <string name="notification_dialog_title">Обавештења</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Обавештења</string>
   <string name="notification_summary">"%1$s још не подржава ову функцију"</string>
   <string name="notification_title">Обавести кад су нове датотеке додате %1$s</string>

@@ -74,7 +74,7 @@
   <string name="accessibility_toggle_speak_password_preference_title">Изговарај лозинке</string>
   <string name="account_add">Додај</string>
   <string name="account_autostar_label">Аутом. покретање</string>
-  <string name="account_list">Сви</string>
+  <string name="account_list">Остали рачуни</string>
   <string name="account_settings">Налози</string>
   <string name="account_settings_menu_auto_sync">Ауто синх. података</string>
   <string name="account_settings_menu_auto_sync_personal">Ауто синх. личних података</string>
@@ -1962,6 +1962,7 @@
   <string name="oldman_mode_entry_title">Лите начин</string>
   <string name="oldman_mode_settings_caption">Подешавање Лите начина</string>
   <string name="oldman_mode_summary">Користи поједностављени почетни екран и мени</string>
+  <string name="oldman_mode_summary_cta">Lite начину треба повезивање на интернет и да може прочитати ваш контакте, поруке, и детаље локације за нормални рад.</string>
   <string name="online_resource_entry">Онлајн извори</string>
   <string name="only_one_home_message">Подешавања почетног екрана ће бити сакривена док не инсталирате другу апликацију за почетни екран.</string>
   <string name="only_when_charging">Само кад је прикључено</string>
@@ -2104,7 +2105,8 @@
   <string name="preference_change_password_title">Промени лозинку</string>
   <string name="preferred_app_settings">Задато</string>
   <string name="preferred_app_settings_default">Задато</string>
-  <string name="preferred_app_settings_reset">"Обнови задато"</string>
+  <string name="preferred_app_settings_reset">"Врати на задато"</string>
+  <string name="preferred_app_settings_reset_button">Врати</string>
   <string name="preferred_app_settings_reset_message">Подешавање задатих апликација ће бити враћене на MIUI фабричка подешавања</string>
   <string name="preferred_application_title">Жељена: %s</string>
   <string name="preferred_application_warning_message">Замена ваше задате апликације %1$s може повећати потрошњу батерије, смањите брзину, те контакте уређаја излажете ризику. У замену користи %2$s.</string>

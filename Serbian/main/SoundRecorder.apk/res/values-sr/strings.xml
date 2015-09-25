@@ -72,6 +72,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Одабери снимак</string>
+  <string name="record_quliaty_preference_title">Квалитет снимања</string>
   <string name="recording">Снимање…</string>
   <string name="recording_stopped">Заустављено</string>
   <string name="rename">Преименуј</string>
