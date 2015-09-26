@@ -38,7 +38,7 @@
   <string name="action_menu_text_refresh">Освежи</string>
   <string name="action_menu_text_setting">Подешавања</string>
   <string name="action_menu_text_share">Дели</string>
-  <string name="action_menu_text_snapshot">Спреми страницу</string>
+  <string name="action_menu_text_snapshot">Сачувај страницу</string>
   <string name="action_menu_text_video">Видео</string>
   <string name="actionbar_share">Подели</string>
   <string name="actionbar_web_search">Претраживање weba</string>
@@ -79,7 +79,7 @@
   <string name="autofill_profile_editor_name">Пуно име:</string>
   <string name="autofill_profile_editor_phone_number">Телефон:</string>
   <string name="autofill_profile_editor_phone_number_invalid">Неважећи број телефона.</string>
-  <string name="autofill_profile_editor_save_profile">Спреми</string>
+  <string name="autofill_profile_editor_save_profile">Сачувај</string>
   <string name="autofill_profile_editor_state">Држава/покрајна/регија:</string>
   <string name="autofill_profile_editor_zip_code">Поштански број:</string>
   <string name="autofill_profile_successful_delete">Текст аутоматског уписивања избрисан.</string>
@@ -108,12 +108,12 @@
   <string name="bookmark_needs_url">Ознака мора имати локацију.</string>
   <string name="bookmark_not_saved">"Није било могуће спремити ознаку."</string>
   <string name="bookmark_rename_group">Преименуј групу</string>
-  <string name="bookmark_saved">Спремљено у ознаке</string>
+  <string name="bookmark_saved">Сачувано у ознаке</string>
   <string name="bookmark_this_page_to_readmodelist">Додај страницу на попис читања</string>
   <string name="bookmark_title">Назив ознаке</string>
   <string name="bookmark_title_lable">Наслов</string>
   <string name="bookmark_to_readmodelist_not_saved">"Не могу додати на попис читања."</string>
-  <string name="bookmark_to_readmodelist_saved">Спремљено на попис читања.</string>
+  <string name="bookmark_to_readmodelist_saved">Сачувано на попис читања.</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"Већ сте обележили овај URL"</string>
   <string name="bookmark_url_lable">URL</string>

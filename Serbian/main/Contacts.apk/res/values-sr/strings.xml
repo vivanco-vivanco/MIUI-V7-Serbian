@@ -972,7 +972,7 @@
   <string name="resource_delete_confirm">Избрисати одабране елементе?</string>
   <string name="resource_delta_update_failed">Преузимам тему поново…</string>
   <string name="resource_delta_update_successful">Тема ажурирана</string>
-  <string name="resource_delta_update_total">%1$d делта ажурирање спремљено %2$s</string>
+  <string name="resource_delta_update_total">%1$d делта ажурирање сачувано %2$s</string>
   <string name="resource_detail">Детаљи</string>
   <string name="resource_detail_comment_title">Коментари</string>
   <string name="resource_detail_jump_to_online_title">Мрежно</string>
@@ -1050,7 +1050,7 @@
   <string name="resource_ringtone_default">Мелодија звона</string>
   <string name="resource_ringtone_playing_error">Грешка</string>
   <string name="resource_ringtone_volume_mute">Звоно је утишано</string>
-  <string name="resource_save_to_note">Спреми у белешке</string>
+  <string name="resource_save_to_note">Сачувај у белешке</string>
   <string name="resource_search_list_empty">"Ништа није пронађено."</string>
   <string name="resource_see_more">Прикажи више</string>
   <string name="resource_select">Одабери</string>

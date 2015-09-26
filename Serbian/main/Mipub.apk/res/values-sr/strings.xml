@@ -46,8 +46,8 @@
   <string name="converting_to_text_message">претраживање у SMS…</string>
   <string name="copy_message_text">Копирај текст</string>
   <string name="copy_message_text_success">Текст успешно копиран!</string>
-  <string name="copy_to_sdcard">Спреми прилог</string>
-  <string name="copy_to_sdcard_fail">Немогуће спремити прилог</string>
+  <string name="copy_to_sdcard">Сачувај прилог</string>
+  <string name="copy_to_sdcard_fail">Немогуће сачувати прилог</string>
   <string name="copy_to_sdcard_success">Прилог сачуван %s</string>
   <string name="current_service_number">Тренутни број услуге</string>
   <string name="delete">Избриши</string>

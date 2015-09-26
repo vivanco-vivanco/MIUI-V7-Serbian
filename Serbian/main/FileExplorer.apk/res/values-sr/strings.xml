@@ -317,7 +317,7 @@
   <string name="operation_rename_message">Преименуј мапу</string>
   <string name="operation_resume">Старт</string>
   <string name="operation_resume_all">Настави све</string>
-  <string name="operation_save">Спреми</string>
+  <string name="operation_save">Сачувај</string>
   <string name="operation_send">Пошаљи</string>
   <string name="operation_show_sys">Покажи све скривене датотеке</string>
   <string name="operation_unfavorite">Нефаворити</string>
@@ -454,7 +454,7 @@
   <string name="user_guide_kuaipan_copy">Копирајте датотеке са вашег уређаја, затим их залепите на KuaiPan</string>
   <string name="user_guide_kuaipan_lable">KuaiPan припада вама</string>
   <string name="user_guide_other_version">Пријавите се са својим Mi рачуном(%1$s) и преузмите на mi.kuaipan.cn.</string>
-  <string name="user_guide_save_file">Спремите ваше датотеке помоћу KuaiPana.</string>
+  <string name="user_guide_save_file">Сачувајте ваше датотеке помоћу KuaiPana.</string>
   <string name="user_guide_summary">Кратак преглед</string>
   <string name="user_guide_upload_to_kuaipan">Сачувајте ставке на KuaiPan са вашег телефона</string>
   <string name="utf8_summary">Задано кодирање FTP система</string>

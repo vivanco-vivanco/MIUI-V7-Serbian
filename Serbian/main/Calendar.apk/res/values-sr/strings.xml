@@ -141,8 +141,8 @@
   <string name="event_view">Прикажи догађај</string>
   <string name="every_weekday">Радним данима (Пон - Пет)</string>
   <string name="exist_calendar">Календар већ постоји</string>
-  <string name="from_google_group_calendar">Гоогле календар</string>
-  <string name="gadget_no_events">Нема скорих догађаја календара</string>
+  <string name="from_google_group_calendar">Google календар</string>
+  <string name="gadget_no_events">Нема скоријих догађаја календара</string>
   <string name="gadget_title">Календар</string>
   <string name="goto_today">Данас</string>
   <string name="hide_controls">Сакриј контроле</string>
@@ -159,7 +159,7 @@
   <string name="label_recent_events">Недавни догађаји</string>
   <string name="loading">"Учитавање…"</string>
   <string name="local_calendar_display_name">Локални календар</string>
-  <string name="local_owner_account_name">Спремљено на овом уређају</string>
+  <string name="local_owner_account_name">Сачувано на овом уређају</string>
   <string name="lunar_date">Месечев датум</string>
   <string name="menu_about_preferences">O Календару</string>
   <string name="menu_general_preferences">Општа подешавања</string>

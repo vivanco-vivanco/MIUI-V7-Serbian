@@ -3295,8 +3295,8 @@ Google-ов приступ синхронизацији података за м
   <string name="vpn_routes">Руте прослеђивања</string>
   <string name="vpn_routes_hint">нпр. 10.0.0.0/8</string>
   <string name="vpn_safe">Сигурност</string>
-  <string name="vpn_save">"Спреми"</string>
-  <string name="vpn_save_login">Спреми податке о рачуну</string>
+  <string name="vpn_save">"Сачувај"</string>
+  <string name="vpn_save_login">Сачувај податке о рачуну</string>
   <string name="vpn_search_domains">Домене DNS претраживања</string>
   <string name="vpn_server">Адреса сервера</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
@@ -3551,7 +3551,7 @@ WLAN Asistent"</string>
   <string name="wifi_setup_next">"Даље"</string>
   <string name="wifi_setup_not_connected">Није повезан</string>
   <string name="wifi_setup_refresh_list">Освежи попис</string>
-  <string name="wifi_setup_save">"Спреми"</string>
+  <string name="wifi_setup_save">"Сачувај"</string>
   <string name="wifi_setup_skip">"Прескочи"</string>
   <string name="wifi_setup_status_connecting">Повезивање…</string>
   <string name="wifi_setup_status_eap_not_supported">EAP није подржан.</string>

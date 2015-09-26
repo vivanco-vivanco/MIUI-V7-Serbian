@@ -99,7 +99,7 @@
   <string name="dlg_edit_keyword">Уреди кључну реч</string>
   <string name="dlg_import_blacklist">Додавање…</string>
   <string name="dlg_import_whitelist">Додавање…</string>
-  <string name="dlg_keyword_ok">Спремљено</string>
+  <string name="dlg_keyword_ok">Сачувано</string>
   <string name="dlg_message_not_open_stranger_identify">За укључивање ове функције, идите на Подешавања &gt; Телефон.</string>
   <string name="dlg_no_block">Одблокирати овај број и обновити позиве са овог броја у историју позива?</string>
   <string name="dlg_no_block_ok">Одблокирај</string>

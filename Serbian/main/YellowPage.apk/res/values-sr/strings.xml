@@ -76,7 +76,7 @@
   <string name="download_failed_storage">Преузимање неуспешно, проверите вашу SD картицу</string>
   <string name="downloading">Преузимање</string>
   <string name="enable_now">Омогући сада</string>
-  <string name="exapress_save_address_to_contact">Спреми адресу у контакту</string>
+  <string name="exapress_save_address_to_contact">Сачувај адресу у контакту</string>
   <string name="express_add_new_address">Додати адресу</string>
   <string name="express_address_delete_warning">Јесте ли сигурни?</string>
   <string name="express_address_deleted">Адреса избрисана</string>
@@ -245,7 +245,7 @@
   <string name="menu_follow_yellow_page">Прати</string>
   <string name="menu_remove_black_list">Уклонити са листе забрањених</string>
   <string name="menu_remove_from_favorite">Уклони из фаворита</string>
-  <string name="menu_save_contact">Спреми број контакту</string>
+  <string name="menu_save_contact">Сачувај број контакту</string>
   <string name="minimum_price">од %d RMB</string>
   <string name="mishop_web_payment_title">MiStore благајна</string>
   <string name="more_coupons">Сви купони</string>

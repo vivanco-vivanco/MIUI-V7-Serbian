@@ -670,7 +670,7 @@
   <string name="missed_call_notify_once">1x</string>
   <string name="missed_call_notify_ten_times">10x</string>
   <string name="missed_call_notify_thrice">3x</string>
-  <string name="missed_call_notify_times_summary">Изаберите колико пута желите да вас се подсјети о пропуштеном позиву (5-минутни интервал)</string>
+  <string name="missed_call_notify_times_summary">Изаберите колико пута желите да вас се подсети о пропуштеном позиву (5-минутни интервал)</string>
   <string name="missed_call_notify_times_title">Подсетник пропуштених позива</string>
   <string name="missed_call_notify_twice">2x</string>
   <string name="mmiCancelled">Отказан је MMI код</string>
@@ -1090,8 +1090,8 @@
   <string name="rsp_unlock_success">RUIM даваоц услуга откључавање неуспешно.</string>
   <string name="ruim_unlock_failed">RUIM UIM захтев откључавања неуспешан.</string>
   <string name="ruim_unlock_success">RUIM UIM откључавање успешно.</string>
-  <string name="save">спреми</string>
-  <string name="saving_account">Спремање</string>
+  <string name="save">Сачувај</string>
+  <string name="saving_account">Чување</string>
   <string name="search_networks">Претражи мреже</string>
   <string name="selectContact">Одабир контаката</string>
   <string name="select_automatically">Одабери аутоматски</string>
@@ -1155,7 +1155,7 @@
   <string name="sip_edit_title">Детаљи SIP рачуна</string>
   <string name="sip_menu_add">Додај</string>
   <string name="sip_menu_discard">Одбаци</string>
-  <string name="sip_menu_save">спреми</string>
+  <string name="sip_menu_save">сачувај</string>
   <string name="sip_receive_calls">Прими долазни позив</string>
   <string name="sip_receive_calls_summary">Скраћење трајања батерије</string>
   <string name="sip_settings">интернет позиви</string>
