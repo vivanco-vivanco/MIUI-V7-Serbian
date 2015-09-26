@@ -5,8 +5,8 @@
         <item quantity="one">Одложи аларм за %d мин.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Аларми ће се искључити након %d минута</item>
-        <item quantity="one">Аларми ће се искључити након %d минута</item>
+        <item quantity="other">Аларм ће се искључити након %d минута</item>
+        <item quantity="one">Аларм ће се искључити након %d минута</item>
     </plurals>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d сек.</item>

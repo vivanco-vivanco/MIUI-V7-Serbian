@@ -80,9 +80,11 @@
   <string name="menu_title_pick_rom_file">Одаберите пакет ажурирања</string>
   <string name="menu_title_recovery">Поново покренуте у Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://www.miui.website"&gt;Иди на MIUI Adria форум&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">Доступно је ажурирање</string>
+  <string name="miui_summary_has_new_version">" Доступно је ажурирање "</string>
   <string name="miui_summary_no_new_version">Нема доступних ажурирања</string>
   <string name="miui_summary_now_version">"Тренутна верзија "</string>
+  <string name="miui_summary_slogan">"  Ваш по дизајну  "</string>
+  <string name="miui_summary_updating">"  Ажурирам...  "</string>
   <string name="monthly_build">Месечно</string>
   <string name="my_best_update">Најбоље ажурирање</string>
   <string name="my_expect_update">Очекивања</string>

@@ -124,6 +124,7 @@
   <string name="error_info_cant_send_folder">"Не могу послати ову врсту датотеке."</string>
   <string name="error_open_file_failed_no_app_found">Нема нађених апликација да изврше ову радњу.</string>
   <string name="expand_all">Све</string>
+  <string name="extract">Распакуј</string>
   <string name="fail_to_create_folder">Недовољно простора или мапа већ постоји.</string>
   <string name="fail_to_create_folder_unknown">"Не могу направити мапу"</string>
   <string name="fail_to_rename">Датотека са истим називом већ постоји.</string>
@@ -196,6 +197,9 @@
   <string name="load_err">"Не могу учитати"</string>
   <string name="load_more">Прикажи више</string>
   <string name="loading">Учитавам</string>
+  <string name="local_image">Фотографије</string>
+  <string name="local_music">Музика</string>
+  <string name="local_video">Видеозаписи</string>
   <string name="login_reg_content">Сачувајте датотеке и синхронизујте их на више уређаја.</string>
   <string name="login_reg_content0">Користите KuaiPan из било ког места.</string>
   <string name="megabyteShort">MB</string>
@@ -215,6 +219,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Не могу изрезати"</string>
+  <string name="move_to">Премести у…</string>
   <string name="multi_select_title">Одабрано: %1$s</string>
   <string name="my_app">Подаци аплик.</string>
   <string name="my_app_desc"/>
@@ -372,6 +377,9 @@
   <string name="search_statistic_tag">Ознака</string>
   <string name="search_title">Тражи</string>
   <string name="search_title_hint">Тражи</string>
+  <string name="select_image">Одабери фотографију</string>
+  <string name="select_music">Одабери песму</string>
+  <string name="select_video">Одабери видеозапис</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ова врста датотеке није позната.</string>
   <string name="server_control_advanced_settings">FTP подешавања</string>
@@ -395,10 +403,13 @@
   <string name="stay_awake_title">Држати будним</string>
   <string name="stop_server">Заустави FTP сервер</string>
   <string name="storage_info">%1$s доступно</string>
-  <string name="storage_info_detail">Доступно:%1$s Укупно:%1$s</string>
+  <string name="storage_info_detail">Доступно:%1$s Укупно:%2$s</string>
   <string name="storage_internal">Унутрашња меморија</string>
+  <string name="storage_internal_description">Унутрашња меморија</string>
   <string name="storage_sd_card">SD картица</string>
+  <string name="storage_sd_card_description">SD картица</string>
   <string name="storage_usb">USB меморија</string>
+  <string name="storage_usb_description">USB меморија</string>
   <string name="storage_warning">"Не могу користити спољашњу меморију"</string>
   <string name="sys_size_enable">" доступно"</string>
   <string name="system_alert">Интернет повезивање</string>

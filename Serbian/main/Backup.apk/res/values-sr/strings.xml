@@ -94,14 +94,17 @@
   <string name="enable_encrypt_xiaomi_account">Сиг. копија од %1$s, обришите тренутни рачун, и пријавите се као %2$s да вратите корисничке податке.</string>
   <string name="err_authentication_failed">Провера аутентичности није успела</string>
   <string name="err_bakfile_broken">"Не могу користити ову Сиг. копију."</string>
+  <string name="err_filesystem_mount">"Не могу приступити простору за меморију рутера"</string>
   <string name="err_low_storage">Недовољно простора</string>
+  <string name="err_router_disconnected">"Проверите прикључак вашег рутера и покушајте поново."</string>
+  <string name="err_router_files_delete">"Не могу обрисати Сиг. копије на рутеру"</string>
   <string name="err_unknown">Непозната грешка</string>
   <string name="err_version_too_old">Сиг. копија је престара.</string>
   <string name="err_version_unsupported">"Верзија Сиг. копије није подржана."</string>
   <string name="every_day">Сваки дан</string>
   <string name="exchange_account">Промени рачун</string>
   <string name="fail">Није успело</string>
-  <string name="feature_title_account">Račun</string>
+  <string name="feature_title_account">Рачун</string>
   <string name="feature_title_call_log">Историја позива</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Учитавање...</string>
@@ -187,6 +190,7 @@
   <string name="software_backup_info">Подаци апликације</string>
   <string name="start_backup">Започни стварање Сиг. копије</string>
   <string name="start_restore">Врати</string>
+  <string name="state_mounting">Приступ простору за меморију рутера…</string>
   <string name="state_waiting">Само тренутак…</string>
   <string name="succeed">Завршено</string>
   <string name="summary_err_backup_encrypting">Пријавите се на ваш Mi Рачун.</string>

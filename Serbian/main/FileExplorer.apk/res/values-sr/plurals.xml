@@ -152,4 +152,12 @@
         <item quantity="few">Примљено датотека (%1$d) апл. %2$s</item>
         <item quantity="many">Примљено датотека (%1$d) апл. %2$s</item>
     </plurals>
+	<plurals name="file_count">
+	<item quantity="other">Ставки: %d</item>
+	<item quantity="zero">Ставки: %d</item>
+	<item quantity="one">Ставки: %d</item>
+	<item quantity="two">Ставки: %d</item>
+	<item quantity="few">Ставки: %d</item>
+	<item quantity="many">Ставки: %d</item>
+	</plurals>
 </resources> 

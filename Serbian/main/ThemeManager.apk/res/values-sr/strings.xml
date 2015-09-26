@@ -348,6 +348,7 @@
   <string name="theme_precast_update_notification_title">Ажурирано на MIUI 7</string>
   <string name="theme_provision_default_theme_title">Задато</string>
   <string name="theme_provision_loading_tips">Само тренутак…</string>
+  <string name="theme_provision_oper_button_next">Даље</string>
   <string name="theme_provision_title">Одаберите тему</string>
   <string name="theme_purchased_list_empty">"Немате купљених тема."</string>
   <string name="theme_purchased_non_local">Онлине</string>
