@@ -57,7 +57,7 @@
   <string name="button_text_view_file">Прикажи</string>
   <string name="cache_title_empty_folder">Празна мапа (%d)</string>
   <string name="cache_title_empty_folder2">Празна мапа</string>
-  <string name="cache_title_system_cache">Предмеморија</string>
+  <string name="cache_title_system_cache">Кеш меморија</string>
   <string name="cancel">Одустани</string>
   <string name="clean_content_all">Све</string>
   <string name="clean_content_one">1 ставку</string>
@@ -102,10 +102,10 @@
   <string name="hints_apk_header_left">Инстал.аплик.</string>
   <string name="hints_apk_version">Верзија %s</string>
   <string name="hints_app_uninstall_residual">Очистити остатке осталих датотека?</string>
-  <string name="hints_cache_header_left">Предмеморија</string>
-  <string name="hints_cleanfinish">Čišćenje je završeno</string>
-  <string name="hints_deepclean_scanning">Skeniranje %s</string>
-  <string name="hints_finish_quick_cleanup">Gotovo</string>
+  <string name="hints_cache_header_left">Кеш меморија</string>
+  <string name="hints_cleanfinish">Чишћење је завршено</string>
+  <string name="hints_deepclean_scanning">Скенирање %s</string>
+  <string name="hints_finish_quick_cleanup">Готово</string>
   <string name="hints_finish_quick_cleanup_title">Очишћено %s отпада</string>
   <string name="hints_finish_quick_scan">Скенирање завршено</string>
   <string name="hints_garbage_cleanup_result_danger">Очистите унутрашњу меморију</string>
@@ -239,7 +239,7 @@
   <string name="toast_uninstall_success">Деинсталирање завршено</string>
   <string name="white_list_ad_header">Реклама: %d</string>
   <string name="white_list_apk_header">Инстал. пакета: %d</string>
-  <string name="white_list_cache_header">Предмеморија: %d</string>
+  <string name="white_list_cache_header">Кеш меморија: %d</string>
   <string name="white_list_large_file_header">Вел.датотека: %d</string>
   <string name="white_list_residual_header">Остатак: %d</string>
   <string name="white_list_title">Изузеци</string>
