@@ -38,7 +38,6 @@
   <string name="backup_items_sysdata_tailer">"  подаци система,"</string>
   <string name="backup_new">Ново:</string>
   <string name="backup_progress">Стварање Сиг. копије…</string>
-  <string name="backup_recently">" (најновије Сиг. копије) "</string>
   <string name="backup_report">Прикажи детаље</string>
   <string name="backup_update">Ажурирај</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>

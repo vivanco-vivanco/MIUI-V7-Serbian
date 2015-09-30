@@ -178,7 +178,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_member_advantage">Набавите више простора за меморију.</string>
   <string name="micloud_member_buy_content" formatted="false">"Ваљаност %s-%s-%s
 
-%s Mi Кредита годишње"</string>
+%s Mi Кредита"</string>
   <string name="micloud_member_buy_title">Потврдите наруџбину</string>
   <string name="micloud_member_net_error_alert_message">"Нисте повезани са интернетом."</string>
   <string name="micloud_member_net_error_alert_title">"Не могу се повезати на мрежу"</string>

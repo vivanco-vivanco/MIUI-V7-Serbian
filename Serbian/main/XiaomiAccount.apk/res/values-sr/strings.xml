@@ -327,6 +327,7 @@
   <string name="passport_phone_num_hint_text">Број телефона</string>
   <string name="passport_prev">Назад</string>
   <string name="passport_privacy_policy">Правила о Приватности</string>
+  <string name="provision_skip_login">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
   <string name="passport_provision_skip_login">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">Провера у 2 корака</string>
   <string name="passport_quick_login_dialog_title">Провера лозинке</string>

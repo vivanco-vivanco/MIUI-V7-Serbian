@@ -21,6 +21,8 @@
   <string name="auth_activity_title">Xunlei Рачун</string>
   <string name="auth_fail">"Не могу добити ауторизацију"</string>
   <string name="bind_xunlei_account">Додај Xunlei Рачун</string>
+  <string name="bt_download">Preuzmi</string>
+  <string name="bt_xunlei_open_info">Koristiti Xunlei Engine za otvaranje ovih veza?</string>
   <string name="button_sort_by_date">Поређано по датуму</string>
   <string name="button_sort_by_size">Поређано по величини</string>
   <string name="cancel">Одустани</string>
@@ -31,10 +33,12 @@
   <string name="confirm_delete_downloads_message">%d преузимања ће бити избрисана.</string>
   <string name="confirm_delete_the_download_item_message">Нрисати ова преузимања?</string>
   <string name="create_task">Изради задатак</string>
+  <string name="delete">Избриши</string>
   <string name="delete_download">Избриши</string>
   <string name="delete_downloads_records">Избрисати преузимања</string>
   <string name="delete_the_downloaded_file">Преузете датотеке ће бити избрисане.</string>
   <string name="deselect_all">Означи све</string>
+  <string name="deselect_subfile_all">Poništi odabir</string>
   <string name="determine">У реду</string>
   <string name="dialog_cannot_resume">Преузимања је прекинуто и не може да се настави.</string>
   <string name="dialog_confirm_delete_checkbox_message">Избриши локалне датотеке такође</string>
@@ -93,12 +97,15 @@
   <string name="downloading_empty">Празно</string>
   <string name="downloads_operating">Радим</string>
   <string name="dredge_xunlei_account">Израдите Xunlei Рачун</string>
-  <string name="edit_hint"> Унесите повезницу (http или https)</string>
+  <string name="edit_hint"> Unesite http, torrent, ili eMule</string>
   <string name="editmode_menu_delete">Избриши</string>
   <string name="editmode_menu_share">Дели</string>
+  <string name="engine_open">Otvori</string>
   <string name="experience_xunlei_account_speed">Xunlei чланови могу уживати у преузимању великом брзном</string>
   <string name="expire_notification_msg">Чланство Xunlei ускоро истиче</string>
   <string name="expire_today_notification_msg">Чланство Xunlei данас истиче</string>
+  <string name="extract_file">Raspakiranje datoteke…</string>
+  <string name="file_exist_hint">Ova datoteka već čeka da bude preuzeta</string>
   <string name="file_picker">Одаберите локацију</string>
   <string name="free_high_speed_channel">Xunlei убрзање преузимања(бесплатно)</string>
   <string name="free_speedup_exp">Испробајте Xunlei убрзање преузимања бесплатно</string>
@@ -106,6 +113,7 @@
   <string name="get_order_dialog_msg">Добијање детаља наруџбине…</string>
   <string name="get_order_fail_msg">"Не могу добити детаље наруџбине"</string>
   <string name="high_speed_channel">Xunlei убрзање преузимања (уз плаћање):</string>
+  <string name="hint">Pažnja</string>
   <string name="immediately_a_renewal">Обнови сада</string>
   <string name="input_valid_address">Унесите путању датотеке</string>
   <string name="install">Инсталирај</string>
@@ -126,11 +134,15 @@
   <string name="missing_title">&lt;Неознато&gt;</string>
   <string name="network_error">"Не могу се повезати на мрежу"</string>
   <string name="new_add">Ново</string>
+  <string name="new_add_bt">Dodaj torrent</string>
   <string name="no_downloads">Нема преузимања.</string>
+  <string name="no_file_hint">Ova datoteka već čeka da bude preuzeta</string>
   <string name="no_vip_info">Набавите Xunlei чланство за убрзање преузимања</string>
   <string name="no_vip_show_info">"Убрзајте преузимање на свим вашим уређајима са Xunlei"</string>
   <string name="one_month">1 месец</string>
+  <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
   <string name="open">Отвори</string>
+  <string name="open_vip_hint">Dodirnite da povećate brzinu preuzimanja do 50%</string>
   <string name="open_download">Отвори</string>
   <string name="open_xunlei_speed_service">Покрени Xunlei убрзање преузимања</string>
   <string name="original_price">Целина</string>
@@ -145,6 +157,7 @@
   <string name="paused_waiting_for_network">Чекање на мобилну мрежу</string>
   <string name="paused_waiting_to_retry">Чекам понови покушај</string>
   <string name="period_of_validity">"Ваљаност: "</string>
+  <string name="play">Reproduciraj</string>
   <string name="pref_download_revert_default">Задато</string>
   <string name="pref_download_settings_title">Ограничење величине преузимања</string>
   <string name="pref_download_storage_path">Направи нову мапу за преузимање</string>
@@ -180,6 +193,8 @@
   <string name="save_path">"Сачувај преузимања у: "</string>
   <string name="select_all">Одабери све</string>
   <string name="select_operation_items">Одаберите ставке</string>
+  <string name="select_sub_file_download">Odaberite datoteku za preuzimanje</string>
+  <string name="select_subfile_all">Odaberi sve</string>
   <string name="selected_count">Одабрано %1$d od %2$d</string>
   <string name="setting_close_debug">Дебуг начин искључен</string>
   <string name="setting_debug_fail">"Не могу ући у Дебуг начин"</string>
@@ -192,6 +207,12 @@
   <string name="storage_internal">Унутрашња меморија</string>
   <string name="storage_sd_card">SD картица</string>
   <string name="storage_usb">USB картица</string>
+  <string name="subbt_downloading">Preuzimanje…</string>
+  <string name="subbt_fail">Nije uspjelo</string>
+  <string name="subbt_pause">Pauzirano</string>
+  <string name="subbt_wait">Na čekanju…</string>
+  <string name="task_detail">Zadaci</string>
+  <string name="task_detail_notfound_confirm">U redu</string>
   <string name="third_web_cancel">Одустани</string>
   <string name="third_web_confirm">У реду</string>
   <string name="third_web_default">Запамти ову локацију</string>
@@ -203,6 +224,8 @@
   <string name="title_unbind_xunlei">Уклони Xunlei Рачун</string>
   <string name="toast_xunlei_engine_open">"Xunlei убрзање преузимања укључено.
 Ова функција се не препоручује изван кине"</string>
+  <string name="torrent_file_error">"Ne mogu analizirati ovu torrent datoteku"</string>
+  <string name="torrent_no_subfile">Nema poddatoteka u ovom torrentu</string>
   <string name="turn_off_xunlei_message">Можете искључити спорију брзину преузимања.</string>
   <string name="turn_off_xunlei_tips">Xunlei убрзање преузимања је искључено</string>
   <string name="turn_off_xunlei_title">Искључи Xunlei</string>
@@ -224,6 +247,7 @@
   <string name="xunlei_gaosu">Xunlei убрзање преузимања</string>
   <string name="xunlei_member_annual_fee">Годишње</string>
   <string name="xunlei_member_one_month">Месечно</string>
+  <string name="xunlei_open_info">Koristiti Xunlei Engine za otvaranje ovih veza?</string>
   <string name="xunlei_speed_service">Xunlei убрзање преузимања</string>
   <string name="xunlei_switch">Xunlei алат преузимања</string>
 </resources>
