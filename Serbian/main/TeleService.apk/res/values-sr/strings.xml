@@ -300,8 +300,8 @@
   <string name="dial_pad_autocomplete">Самодовршавање бирања бројева</string>
   <string name="dial_related_setting_catory">Бирање</string>
   <string name="dialerKeyboardHintText">Бирајте помоћу тастатуре</string>
-  <string name="dialog_activate_livetalk">Potvrdi</string>
-  <string name="dialog_call_ordinary_telephone">Koristi SIM karticu</string> 
+  <string name="dialog_activate_livetalk">Потврди</string>
+  <string name="dialog_call_ordinary_telephone">Користи SIM картицу</string> 
   <string name="dialog_hang_up">Прекид позива</string>
   <string name="dialog_network_priority_title">Приоритети</string>
   <string name="dialog_no">Не</string>
@@ -416,7 +416,7 @@
   <string name="error_type_account_301">Унесени код није исправан</string>
   <string name="error_type_account_302">Унесени код је већ коришћен</string>
   <string name="error_type_account_500">"Не могу се повезати са мобилном мрежом"</string>
-  <string name="error_type_account_inner">Interna pogreška</string>
+  <string name="error_type_account_inner">Интерна грешка</string>
   <string name="error_type_network">Грешка мреже</string>
   <string name="error_type_unknown">Непозната грешка</string>
   <string name="error_updating_title">Грешка подешавања позива</string>

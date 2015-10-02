@@ -144,7 +144,7 @@
   <string name="choosertitle_sharevia">Дели путем</string>
   <string name="clear">Очисти</string>
   <string name="clear_history">Очисти историју</string>
-  <string name="clear_most_visited">Povijest zapisa</string>
+  <string name="clear_most_visited">Историја записа</string>
   <string name="clear_history_group">Очисти сву историју</string>
   <string name="clear_search_history">Очисти историју</string>
   <string name="clip_dialog_title">Отворите копирану везу?</string>
@@ -316,13 +316,13 @@
   <string name="history_saved_webpage">Спреми страницу</string>
   <string name="history_track">Историја</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="homepage_delete_card_menu">Izbriši</string>
-  <string name="homepage_get_location">Dobivanje lokacije</string>
-  <string name="homepage_get_location_failed">"Ne mogu dobiti informacije, odaberite grad"</string>
-  <string name="homepage_more_cards">Više kartica</string>
-  <string name="homepage_more_sites">Više web stranica</string>
-  <string name="homepage_search_hint">Pretraži</string>
-  <string name="homepage_top_card_menu">Na vrh</string>
+  <string name="homepage_delete_card_menu">Избриши</string>
+  <string name="homepage_get_location">Добијање локације</string>
+  <string name="homepage_get_location_failed">"Не могу добити информације, одаберите град"</string>
+  <string name="homepage_more_cards">Више картица</string>
+  <string name="homepage_more_sites">Више web страница</string>
+  <string name="homepage_search_hint">Претражи</string>
+  <string name="homepage_top_card_menu">На врх</string>
   <string name="homepage_set">Почетна страница постављена</string>
   <string name="http">http://</string>
   <string name="in_incognito">Анониман мод је активан, неће остати историја претраживача.</string>
@@ -414,11 +414,11 @@
   <string name="miuishare_account_activate_confirmation">Потребна је активација</string>
   <string name="miuishare_account_activate_ok">Активирај</string>
   <string name="miuishare_account_login_cancel">Одустани</string>
-  <string name="miuishare_account_login_confirmation">Prvo se prijavite</string>
+  <string name="miuishare_account_login_confirmation">Прво се пријавите</string>
   <string name="miuishare_account_login_ok">Пријава</string>
-<string name="miuishare_account_need_activate">Weibo račun treba biti povezan sa vašim Mi Računom. Prijaviti se sa Mi Računom?</string>
-  <string name="miuishare_account_need_login">Weibo račun treba biti povezan sa vašim trenutnim Mi Računom. Prijaviti se sada za dijeljenje?</string>  <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">"Ne mogu se povezati na mrežu"</string>
+<string name="miuishare_account_need_activate">Weibo рачун треба бити повезан са вашим Mi Рачуном. Пријавите се са Mi Рачуном?</string>
+  <string name="miuishare_account_need_login">Weibo рачу треба бити повезан са вашим тренутним Mi Рачуном. Пријавите се сада за дељење?</string>  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">"Не могу се повезати на мрежу"</string>
   <string name="miuishare_publish">Пошаљи</string>
   <string name="miuishare_share_done">Подељенo</string>
   <string name="miuishare_share_editor_title">Подели</string>
@@ -428,11 +428,11 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB меморија је потребна за измену ове путање</string>
   <string name="month_picker_dialog_title">Подесите месец</string>
-  <string name="nav_bottom_bar_back">Natrag</string>
-  <string name="nav_bottom_bar_close_all">Zatvori sve</string>
-  <string name="nav_bottom_bar_new_tab">Nova kartica</string>
-  <string name="nav_screen_container_tab_incognito">Anonimna kartica</string>
-  <string name="nav_screen_container_tab_normal">Redovna kartica</string>
+  <string name="nav_bottom_bar_back">Назад</string>
+  <string name="nav_bottom_bar_close_all">Затвори све</string>
+  <string name="nav_bottom_bar_new_tab">Нова картица</string>
+  <string name="nav_screen_container_tab_incognito">Анонимна картица</string>
+  <string name="nav_screen_container_tab_normal">Редовна картица</string>
   <string name="move_to_up_folder">Један ниво горе</string>
   <string name="name">Текст</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Повезати се на ову мрежу</string>
@@ -466,7 +466,7 @@
   <string name="pref_adblock_counts">Блокирано %d</string>
   <string name="pref_adblock_title">Блокирање реклама</string>
   <string name="pref_auto_update_under_wifi">Ауто. ажурирај на WLAN-у</string>
-  <string name="pref_category_hint">Kategorija</string>
+  <string name="pref_category_hint">Категорија</string>
   <string name="pref_autofill_enabled">Аутоматско попуњавање образаца</string>
   <string name="pref_autofill_enabled_summary">Попуњавање образаца са једним додиром</string>
   <string name="pref_autofill_profile_editor">Текст аутоматског испуњавања</string>
@@ -524,9 +524,9 @@
   <string name="pref_development_viewport">Користите широк преглед </string>
   <string name="pref_development_visual_indicator">Омогућите визуални показивач</string>
   <string name="pref_enable_adblock_notification">Прикажи обавештења Блокирања реклама</string>
-  <string name="pref_enable_news">Vijesti</string>
-  <string name="pref_enable_novels">Romani</string>
-  <string name="pref_enable_videos">Videozapisi</string>
+  <string name="pref_enable_news">Вести</string>
+  <string name="pref_enable_novels">Романи</string>
+  <string name="pref_enable_videos">Видеозаписи</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Изађи затварањем задње картице</string>
   <string name="pref_extras_reset_default">Врати на задато</string>
   <string name="pref_extras_reset_default_dlg">Вратити подешавања на задате вредности?</string>
@@ -561,9 +561,9 @@
   <string name="pref_inverted_category">Обрнуто рендирање екрана</string>
   <string name="pref_inverted_contrast">Контраст</string>
   <string name="pref_key_gesture_title">Дугмад &amp; геста</string>
-  <string name="pref_notifications_hint">Obavijesti</string>
-  <string name="pref_notifications_receive">Nova obavijest</string>
-  <string name="pref_notifications_title">Obavijesti</string>
+  <string name="pref_notifications_hint">Обавештења</string>
+  <string name="pref_notifications_receive">Нова обавештења</string>
+  <string name="pref_notifications_title">Обавештења</string>
   <string name="pref_key_title">Подешавања Дугмади</string>
   <string name="pref_link_prefetch_dialogtitle">Предучитавање web страница</string>
   <string name="pref_link_prefetch_summary">Допустити претраживачу  повезаних web страница у позадини</string>
@@ -798,7 +798,7 @@
   <string name="url_find_on_page_result">Прикажи у прегледачу</string>
   <string name="url_find_on_page_result_item">Прикажи саб текст за \"%s\"</string>
   <string name="url_hint">Унеси URL или претражи web</string>
-  <string name="url_hint_from_search">Unesite ključnu riječ</string>
+  <string name="url_hint_from_search">>Унесите кључну реч</string>
   <string name="url_opened_in_background">Отвори у позадинској картици</string>
   <string name="url_suggest_indicator_bookmark">Ознаке/Историја</string>
   <string name="url_suggest_indicator_hoturl">Популарно</string>

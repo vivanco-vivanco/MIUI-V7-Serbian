@@ -1,528 +1,1814 @@
 ﻿{
-  "account": "Račun",
-  "account_and_cloud": "Račun",
-  "action_item_add": "Dodaj na popis pjesama",
-  "action_item_add_song": "Dodaj na popis pjesama",
-  "action_item_add_to_current_playlist": "Trenutan popis pjesama",
-  "action_item_add_to_favorite_playlist": "Popis pjesama favorita",
-  "action_item_add_to_new_playlist": "Novo",
-  "action_item_cancel": "Odustani",
-  "action_item_delete": "Izbrisati",
-  "action_item_download": "Preuzimanje",
-  "action_item_favorite": "Favorit",
-  "action_item_follow": "Slijedi",
-  "action_item_hide": "Sakrij",
-  "action_item_multiple": "Uredi",
-  "action_item_play_all": "Reproduciraj sve",
-  "action_item_remove": "Ukloni",
-  "action_item_remove_from_favorite": "Ukloni favorite",
-  "action_item_send": "Pošalji",
-  "action_item_share": "Podijeli",
-  "add_music": "Dodaj pjesme",
-  "album_name": "Album",
-  "album_search_title": "Album",
-  "all_artist": "Svi izvođači",
-  "all_music": "Sve pjesme",
-  "all_tracks": "Sve pjesme",
-  "all_tracks_short": "Sve pjesme",
-  "artist": "Izvođači",
-  "artist_is_empty": "Ime Izvođača ne može biti prazno.",
-  "artist_name": "Izvođač",
-  "artist_search_title": "Izvođač",
-  "artist_view": "Izvođač",
-  "atmd_music": "Ultimativno",
-  "audio_picker_title": "Odaberi pjesmu",
-  "auto_download_in_wifi": "Automatski preuzmi favorite preko WLAN-a",
-  "auto_payment": "Autom. obnovi",
-  "avail_services": "Dostupne usluge",
-  "available_playlist_name_format": "Novi popis pjesama %d",
-  "avoid_to_use_traffic_summary": "Nemoj koristiti mobilnu mrežu za stream glazbe",
-  "avoid_to_use_traffic_title": "Koristi samo WLAN za stream",
-  "baidu_music": "Baidu glazba",
-  "bill_list_fragment_title": "Grafikon",
-  "bluetooth_device": "Bluetooth uređaj",
-  "buffering": "Buffering…",
-  "button_add": "Dodaj",
-  "can_not_find_resource": "Ne mogu pronaći izvore",
-  "cancel": "Odustani",
-  "channel_list_fragment_title": "Radio",
-  "chinese_female": "Ženski izvođači (Kina)",
-  "chinese_group": "Bendovi (Kina)",
-  "chinese_male": "Muški izvođači (Kina)",
-  "choose_download_quality": "Odaberi kvalitetu preuzimanja",
-  "choose_stream_quality": "Odaberi kvalitetu streama",
-  "click_modify": "Dodirnite za uređivanje teksta",
-  "click_to_shuffle": "Slučajni odabir za sve",
-  "click_to_view_new_local_audios": "Dodirnite za pregled detalja.",
-  "close_music_time": "Preostalo vremena: ",
-  "cloud_enable": "Sinkr. glazbu s Mi Cloud",
-  "cloud_settings": "Postavke sinkronizacije",
-  "cp_info_first": "Streaming uslugu pruža Ultimate Inc.",
-  "create_playlist": "Izradi novi popis pjesama",
-  "create_playlist_failure": "Ne mogu izraditi popis pjesama",
-  "current_services": "Trenutno",
-  "data_usage_warning": "Uporaba podataka",
-  "data_usage_warning_summary": "Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.",
-  "delete": "Izbriši",
-  "delete_file_as_well": "Trajno izbriši ovu pjesmu",
-  "delete_file_end": "Izbriši u potpunosti",
-  "delete_file_start": "Izbriši odabrane datoteke",
-  "desc_online_personal_radio": "Samo za tebe",
-  "device_connected": "Povezano",
-  "device_not_connected": "Nije povezano",
-  "dialog_button_create_playlist": "Izradi popis pjesama",
-  "dialog_button_editor_choice": "Istaknuto",
-  "dialog_button_find_music": "Otkrij",
-  "dialog_button_login": "Prijavite se i sinkronizirajte vašu glazbu",
-  "dialog_button_scan_tracks": "Pretraživanje glazbe na ovom uređaju",
-  "dialog_hint_music_error": "Nema pjesama.",
-  "dialog_title_add_playlist": "Dodaj popis pjesama",
-  "dialog_title_delete_playlist": "Izbriši popis pjesama",
-  "dialog_title_delete_tracks": "Izbriši",
-  "dialog_title_name_playlist": "Naziv popisa pjesama",
-  "dialog_title_remove_tracks": "Ukloni",
-  "dialog_title_track_picker": "Odaberi pjesme",
-  "disallow_add_to_personal_radio": "Osobni Radio je čitanje samo",
-  "done": "Gotovo",
-  "download": "Preuzmi",
-  "download_all_song": "Preuzmi sve",
-  "download_auto_after_favorite_summary": "Automatski preuzmi pjesme koje su favoriti",
-  "download_auto_after_favorite_title": "Preuzimanje favorita",
-  "download_auto_cancel": "Preuzimanje favorita je isključeno",
-  "download_auto_message": "Pjesme koje ste označili favoritima preuzet će se automatski kada ste povezani na WLAN. Možete isključiti ovu značajku bilo kada u Postavkama.",
-  "download_auto_quality_alert_sub_title_for_expired": "Vaš probni dio ili pretplata je istekla. Odaberite drugu kvalitetu preuzimanja.",
-  "download_auto_quality_alert_sub_title_for_login": "Da biste aktivirali, prijavite se sada na svoj Mi Račun.",
-  "download_auto_quality_alert_title": "Kvaliteta preuzete glazbe",
-  "download_auto_when_all_network": "Koristi mobilnu mreže i WLAN",
-  "download_auto_when_free_network": "Koristi samo WLAN",
-  "download_auto_when_free_network_summary": "Dodatne postavke za pjesme koje su vam favoriti",
-  "download_completed": "Preuzeto",
-  "download_method": "Preuzmi",
-  "download_processing": "Preuzimanje…",
-  "download_quality": "Kvaliteta preuzimanja",
-  "download_quality_summary": "Dodatne postavke za pjesme koje ste preuzeli",
-  "download_while_playing_summary": "Automatski preuzmi pjesme koje streamate online",
-  "download_while_playing_title": "Preuzmi tijekom streaminga",
-  "empty_page_no_album": "Nema albuma.",
-  "empty_page_no_artist": "Nema izvođača.",
-  "empty_page_no_document": "Nema datoteka sa zvukom.",
-  "empty_page_no_track": "Nema pjesama.",
-  "enabled": "Omogućeno",
-  "english_female": "Ženski izvođači (US/Europe)",
-  "english_group": "Bendovi (US/Europe)",
-  "english_male": "Muški izvođači (US/Europe)",
-  "eq_auto": "Prilagođeno",
-  "eq_blues": "Bluz",
-  "eq_classical": "Klasična",
-  "eq_country": "Country",
-  "eq_dance": "Dance",
-  "eq_delete": "Ukloni",
-  "eq_delete_success": "Gotovo",
-  "eq_electronic": "Elektronska",
-  "eq_flat": "Flat",
-  "eq_hiphop": "Hip Hop",
-  "eq_jazz": "Jazz",
-  "eq_metal": "Metal",
-  "eq_pop": "Pop",
-  "eq_preset_create": "Izradi",
-  "eq_preset_format": "Podešenja korisnika %d",
-  "eq_preset_hint": "Naziv podešenja",
-  "eq_preset_rename": "Preimenuj",
-  "eq_preset_select": "Odaberi podešenje",
-  "eq_rock": "Rock",
-  "equalizer": "Equalizer",
-  "error_forbidden": "Sinkronizacija je isključena zbog problema s vašim Mi Računom.",
-  "error_not_acceptable": "Sinkronizacija je isključena",
-  "error_title": "Ne mogu sinkronizirati s Mi Računom",
-  "error_unauthorized": "Sinkronizacija je isključena zbog previše pokušaja prijave",
-  "expired": "Istekao",
-  "expires": "Ističe ovaj mjesec:",
-  "fail_to_play": "Ne mogu reproducirati pjesmu",
-  "favorite_canceled": "Uklonjeno iz favorita",
-  "favorite_playlist": "Favoriti",
-  "favorite_singer": "Omiljeni pjevači",
-  "favorite_succeed": "Dodano u favorite",
-  "favorite_tracks": "Favoriti",
-  "favourite_music_left_half": "Za dodavanje pjesama na popis pjesama, dodirnite",
-  "favourite_music_right_half": "Ikonu favorita s desne strane naslova pjesme",
-  "female_artist": "Ženski izvođači",
-  "file_not_found": "Datoteka ne postoji",
-  "filter_by_duration": "Po duljini",
-  "filter_by_duration_format": "${v}",  
-  "filter_by_duration_max": "5 min",
-  "filter_by_duration_min": "0 sek",
-  "filter_by_duration_prefix": "Sakrij datoteke kraće od ",
-  "filter_by_duration_summary": "Sakrij kratke audio datoteke",
-  "filter_by_folder": "Filtriraj po mapama",
-  "filter_by_folder_summary": "Odaberite mape za prikaz",
-  "filter_by_size": "Po veličini",
-  "filter_by_size_max": "2MB",
-  "filter_by_size_min": "0KB",
-  "filter_by_size_prefix": "Sakrij datoteke manje od ",
-  "filter_by_size_summary": "Sakrij male audio datoteke",
-  "find_music": "Traži pjesme~",
-  "format_not_support": "Ovaj format nije podržan.",
-  "format_unsupported_or_corrupted": "Ovaj format nije podržan ili je datoteka oštećena",
-  "fragment_more": "Više",
-  "fragment_title_artist": "IZVOĐAČI",
-  "fragment_title_artist_album": "ALBUMI",
-  "fragment_title_bill": "POPIS PJESAMA",
-  "fragment_title_channel": "FM",
-  "fragment_title_personal": "OSOBNO",
-  "fragment_title_recommend": "ISTAKNUTO",
-  "group_artist": "Bendovi",
-  "handle_later": "Ne sada",
-  "headset_settings": "Slušalice &amp; efekti zvuka",
-  "high_quality": "Viša",
-  "higher_quality_music": "Visoka kvaliteta zvuka",
-  "higher_quality_music_summary": "Stream i preuzimanje datoteka veće brzine prijenosa",
-  "home_tab_local": "Moja glazba",
-  "home_tab_online": "Otkrijte",
-  "i_know": "U redu",
-  "i_know_it": "U redu",
-  "impunity_declaration_content1": "Dodirom Slažem se, pristajete na uvjete navedenim u našem \"",
-  "impunity_declaration": "Ova aplikacija treba povezivanje s internetom.",
-  "impunity_declaration_content3": " i ",
-  "impunity_declaration_content4": "Pravila o Privatnosti",
-  "impunity_declaration_content5": ".",
-  "impunity_declaration_ignore": "Ne prikazuj ponovo",
-  "impunity_declaration_negative_text": "Zatvori",
-  "impunity_declaration_positive_text": "U redu",
-  "impunity_declaration_settings": "Prikaži Uvjeti pružanja usluge",
-  "impunity_declaration_summary": "Prikaži skočni prozor Uvjeti pružanja usluge za Baidu Online Music Service svaki puta kada se otvori aplikacija Glazba",
-  "impunity_declaration_title": "Uvjeti pružanja usluge",
-  "in_searching_please_wait": "Pretraživanje…",
-  "is_loading_data": "Učitavanje još traje. Pričekajte minutu/dvije i pokušajte ponovo.",
-  "is_scanning": "Provjera prostora za pohranu…",
-  "is_scanning_support_online": "Provjera prostora za pohranu…
-  
-  (U međuvremenu, možete slušati glazbu online)",
-  "japan_korea_female": "Ženski izvođači (Japan/Koreja)",
-  "japan_korea_group": "Bendovi (Japan/Koreja)",
-  "japan_korea_male": "Muški izvođači (Japan/Koreja)",
-  "ktv_playlist": "KTV popis reprodukcije",
-  "like": "Sviđa mi se",
-  "list_detail_title": "Detalji",
-  "list_item_play_FM_radio": "Dodirnite za reprodukciju FM Radija",
-  "list_item_play_all_tracks": "Reproduciraj sve pjesme",
-  "listview_index_of_total": "%1$d/%2$d",
-  "loading_hint": "Učitavanje…",
-  "local_music": "Izvanmrežno",
-  "local_music_is_not_available": "Lokalna glazba nije dostupna.",
-  "local_tracks_short": "Izvanmrežno",
-  "login_first": "Prijavite se prvo u svoj Mi Račun",
-  "lrc_search_failed": "Ne mogu pronaći tekst",
-  "lrc_searching": "Pretraživanje…",
-  "lyric": "Tekst",
-  "lyric_is_empty": "Tekst nije dostupan",
-  "lyric_open_other_connect": "Preuzmi tekst koristeći mobilnu mrežu",
-  "lyric_setting": "Postavke teksta",
-  "male_artist": "Muški izvođači",
-  "max_sleep_time": "90",
-  "message_delete_playlist": "Izbrisati popis pjesama %s ?",
-  "metered_alert": "Upozorenje uporabe podataka",
-  "metered_alert_msg": "Korištenje vaše mobilne mreže za slušanje glazbe će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, to može dovesti do visokih dodatnih troškova.",
-  "metered_allow": "Stream",
-  "metered_disallow": "Odustani",
-  "metered_play_toast": "Korištenje mobilne podatkovne veze za streaming",
-  "min_sleep_time": "1",
-  "miuishare_account_activate_confirmation": "Potrebna je aktivacija",
-  "miuishare_account_activate_ok": "Aktiviraj",
-  "miuishare_account_login_cancel": "Odustani",
-  "miuishare_account_login_confirmation": "Potrebna je prijava",
-  "miuishare_account_login_ok": "Prijavite se",
-  "miuishare_account_need_activate": "Weibo dijeljenje zahtijeva vaš Weibo račun povezan sa Mi Računom koji trenutno nije aktiviran. Aktivirati vaš račun?",
-  "miuishare_account_need_login": "Weibo dijeljenje zahtijeva vaš Weibo račun povezan sa Mi Računom koji trenutno nije prijavljen. Prijaviti se sada?",
-  "miuishare_app_name": "MiuiShare",
-  "miuishare_no_network": "Nema mreža za dijeljenje",
-  "miuishare_publish": "Pošalji",
-  "miuishare_share_done": "Dijeljeni sadržaj je poslan.",
-  "miuishare_share_editor_title": "Dijeli",
-  "miuishare_title_more": "Više",
-  "miuishare_title_share": "Dijeli",
-  "miuishare_wechat_timeline_title": "Wechat Timeline",
-  "miuishare_weibo_title": "Weibo",
-  "modify_lyric": "Uredi tekst",
-  "modify_progress": "Promjena brzine pomicanja teksta",
-  "modify_progress_helper": "Prijeđite prstom prema gore ili dolje za podešavanje teksta",
-  "modify_song_info": "Uređivanje informacija pjesme",
-  "monthly_price": "Mi Kredita",
-  "more": "Više",
-  "more_about_artist": "Više o %s",
-  "more_online_artist": "Više",
-  "more_online_billboard": "Više",
-  "more_online_fm": "Više",
-  "more_online_recommend": "Više",
-  "more_online_release": "Više",
-  "more_online_song": "Više",
-  "more_online_suggest": "Više",
-  "multichoice": "Odaberi",
-  "music_browser_label": "Glazba",
-  "music_filter": "Filtriraj audio datoteke",
-  "music_quality": "Kvaliteta glazbe",
-  "music_settings": "Glazba",
-  "my_account": "Mi Račun",
-  "my_music": "Moja glazba",
-  "my_music_empty_goto_online": "Nema pronađenih pjesama",
-  "my_playlist": "Moj popis pjesama",
-  "name_online_personal_radio": "Radio",
-  "nav_local_all": "Sve",
-  "nav_local_artist": "Omiljeni izvođači",
-  "nav_local_favorite": "Omiljene pjesme",
-  "nav_local_song": "Preuzeto",
-  "nav_online_artist": "Izvođači",
-  "nav_online_billboard": "Ljestvice",
-  "nav_online_fm": "Radio",
-  "nav_online_playlist": "Popis pjesama",
-  "network_failure": "Provjerite vezu i pokušajte ponovo.",
-  "network_request_error": "\"Ne mogu se povezati na mrežu\"",
-  "network_settings_error": "\"Ne mogu se povezati na mrežu\"",
-  "network_traffic": "Uporaba podataka",
-  "no_album_info": "Nema detalja o albumu",
-  "no_artist_info": "Nema detalja o izvođaču",
-  "no_enough_info": "Premalo detalja o pjesmi",
-  "no_favorites_songs": "Prazno",
-  "no_file_picker_find": "Aplikacija Datoteke nije instalirana na ovom uređaju",
-  "no_introduction": "Nema sažetka.",
-  "no_local_songs": "Prazno",
-  "no_local_songs_selected": "Ne mogu poslati pjesme, jer one nisu preuzete",
-  "no_local_source_find": "Ne mogu pronaći pjesmu",
-  "no_online_song_selected": "Nema odabranih pjesama",
-  "no_results_return": "Nema rezultata pretraživanja",
-  "no_song": "Nema pjesama",
-  "no_song_downloaded": "Ne mogu se povezati na poslužitelj",
-  "normal_quality": "Dobro",
-  "not_login": "Niste prijavljeni",
-  "not_selected": "Odaberi pjesmu",
-  "nowplaying_menu_item_delete": "Izbriši",
-  "ok": "U redu",
-  "one_month": "1 mmjesec",
-  "online_music_enabled_subtitle": "Dodirnite za stream vaših omiljenih pjesama.",
-  "online_music_enabled_summary": "Slušajte i preuzmite omiljene pjesme. Pogledajte Billboard ljestvice i trenutan popis pjesama gdje god krenuli!",
-  "online_music_enabled_title": "Besplatan stream je ovdje",
-  "online_playlist_is_empty": "Popis pjesama je prazan",
-  "only_online_can_select_quality": "Možete odabrati kvalitetu samo za glazbu koju stremate.",
-  "order_pending": "Čekanje potvrde",
-  "order_process_fail": "Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno.",
-  "page_local_setting": "Postavke",
-  "pay": "Plati:",
-  "pay_now": "Plati sada",
-  "payment_fail": "Plaćanje nije uspjelo",
-  "payment_success": "Plaćanje završeno",
-  "period_format": "%1$s-%2$s",
-  "play_all_song": "Reproduciraj sve",
-  "playback_failed_no_title_by_bad_file": "\"Format ove pjesme nije podržan ili datoteka ne postoji.\"",
-  "playlist_deleted_message": "Popis pjesama izbrisan.",
-  "playlist_renamed_message": "Popis pjesama preimenovan.",
-  "playlist_unavailable": "Nažalost, popis nije dostupan. Da ga izbrišete, pritisnite i držite, a zatim odaberite izbriši.",
-  "please_download_first": "Morate preuzeti tu pjesmu prije nego što je možete postaviti kao zvuk zvona",
-  "please_search_or_select": "Pretražite ili odaberite polje",
-  "please_select_song": "Molimo odaberite jednu pjesmu",
-  "preset_music_playlist": "Mi Glazba popis pjesama",
-  "presonal_center": "Postavke računa",
-  "price": "Cijena:",
-  "priority_storage": "Koristi vanjsku SD karticu",
-  "priority_storage_summary": "Automatsko preuzimanje na vanjsku SD karticu ako je dostupna",
-  "project_device": "Mi Telefon",
-  "project_device_mobile": "Mobilni uređaj",
-  "really_pay": "Platiti sada?",
-  "recommend_fragment_title": "Istaknuto",
-  "remaining": "Preostalo ovaj mjesec:",
-  "remove": "Ukloni",
-  "renew": "Obnovi:",
-  "renew_1": "Obnovi",
-  "renew_period": "Period obnove:",
-  "retry": "Pokušaj ponovno",
-  "ringtone_not_support": "Format ove pjesme nije podržan.",
-  "search_album": "Potražite album na internetu",
-  "search_for_album": "Album",
-  "search_for_artist": "Izvođač",
-  "search_hint": "Pretražite",
-  "search_lyric": "Potražite tekst na internetu",
-  "search_title": "Pretražite",
-  "search_title_album": "Albumi",
-  "search_title_singer": "Izvođači",
-  "search_title_song": "Pjesme",
-  "sel_svc": "Odaberite uslugu",
-  "select_album": "Odaberi album",
-  "select_all": "Odaberi sve",
-  "select_device": "Odaberi uređaj",
-  "select_displayed_folders": "Odaberite mape za prikaz",
-  "select_local_album": "Odaberi album",
-  "select_local_lyric": "Odaberi tekst",
-  "select_lyric": "Odaberi tekst",
-  "select_none": "Poništi odabir",
-  "send_to": "Dijeli",
-  "send_to_title": "Pošalji na &amp;&amp;#35;40;%1$s&amp;&amp;#35;41;",
-  "server_error": "Pogreška poslužitelja. Pokušajte ponovo kasnije",
-  "service_stop": "Usluga je obustavljena",
-  "set_album_successful": "Albuma je spremljen",
-  "set_as_ring": "Postavi za zvuk zvona",
-  "set_id3_failed": "Ne mogu spremiti informacije",
-  "set_id3_not_have_read_or_write_permission": "Nemate dopuštenje za uređivanje ove datoteke",
-  "set_id3_not_support_format": "Ne mogu urediti format ove datoteke",
-  "set_id3_successful": "Informacije pjesme su spremljene",
-  "set_lyric_successful": "Tekst je spremljen",
-  "set_ringtones_failed": "\"Ne mogu postaviti zvuk zvona\"",
-  "set_ringtones_successful": "%s postavljen za zvuk zvona.",
-  "share_append_text": "Od @MIUI",
-  "share_chooser_title": "Dijeli putem",
-  "share_description": "Iz Mi Glazba",
-  "share_end_note": "Iz Mi Glazba",
-  "share_text_list": "Popis pjesama od Mi Glazba: ",
-  "share_text_song": "Pjesma u Mi Glazba: ",
-  "similar_songs": "Slične pjesme",
-  "sleep_mode": "Sleep timer",
-  "sleep_mode_canceled": "Sleep mode isključen",
-  "sleep_mode_summary": "Zaustavi reprodukciju nakon određenog vremena",
-  "sleep_mode_title": "Sleep timer",
-  "song_is_empty": "Naziv pjesme ne može biti prazan.",
-  "song_name": "Pjesma",
-  "song_not_find": "Ova pjesma nije dostupna.",
-  "song_unit": "stavki",
-  "sort_by_language": "Jezik",
-  "sort_by_name": "Naziv",
-  "sort_by_time": "Datum",
-  "source_from": "\"Izvor: %1$s\"",
-  "start_to_download": "Preuzimanje…",
-  "start_to_play": "Reproduciraj",
-  "stream_quality": "Kvaliteta streama",
-  "streamloadingtext": "Povezivanje na ${v}",
-  "suggest_text": "Osobe kojima se ovo sviđa",
-  "support_online_only": "Samo stream",
-  "sync_only_in_wifi": "Sinkr. sam preko WLAN-a",
-  "sync_only_in_wifi_summary": "Sinkronizirajte svoju glazbu na svim svojim uređajima s Mi Cloudom. Korištenje mobilne podatkovne veze za sinkronizaciju glazbe će povećati uporabu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.",
-  "tab_album": "Albumi",
-  "tab_album_list": "Albumi",
-  "tab_artist": "Izvođači",
-  "tab_artist_list": "Izvođači",
-  "tab_chinese": "Kineski",
-  "tab_europa_america": "Zapadni",
-  "tab_folder": "Mape",
-  "tab_japanese_korean": "J-Pop/K-Pop",
-  "tab_local_folder_list": "Mape",
-  "tab_local_track_list": "Pjesme",
-  "tab_track": "Pjesme",
-  "tab_track_list": "Pjesme",
-  "take_effect_afater_restart": "Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.",
-  "title_online_artist": "Izvođači u trendu",
-  "title_online_billboard": "Ljestvice",
-  "title_online_fm": "Radio",
-  "title_online_recommend": "Istaknuti popisi pjesama",
-  "title_online_release": "Novo",
-  "title_online_song": "Popularne pjesme",
-  "title_online_suggest": "Moglo bi vas se svidjeti",
-  "title_search_history": "Povijest pretraživanja",
-  "title_search_hot": "Vrući upiti",
-  "too_freq": "Prečeste radnje",
-  "tos": "Uvjeti Pružanja Usluge",
-  "track_list_control_download": "Preuzmi",
-  "track_list_control_edit_add_tracks": "Dodaj pjesme",
-  "track_list_control_edit_delete_playlist": "Izbriši",
-  "track_list_control_edit_rename_playlist": "Preimenuj",
-  "track_list_control_play": "Reproduciraj",
-  "track_main_fragment_tab_album": "Albumi",
-  "track_main_fragment_tab_track": "Pjesme",
-  "track_search_title": "Pjesma",
-  "track_view": "Pjesma",
-  "trigger_to_scan_media_library_finish": "Osvježeno",
-  "trigger_to_scan_media_library_processing": "Još traje osvježavanje\\u2026",
-  "trigger_to_scan_media_library_start": "Osvježavanje\\u2026",
-  "ultra_high_quality": "Najviša",
-  "unknown_album_name": "Nepoznati album",
-  "unknown_artist_name": "Nepoznati izvođač",
-  "upgrade": "Nadogradnja:",
-  "upgrade_force": "Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete.",
-  "upgrade_immediate": "Ažuriraj sada",
-  "upgrade_nobeta": "Obustavljamo našu trenutnu streaming uslugu, dok ne riješimo probleme oko autorskih prava. Žao nam je zbog neugodnosti :(",
-  "upgrade_remind": "Dostupno je ažuriranje",
-  "upgrade_services": "Usluge nadogradnje",
-  "upgrade_suggest": "Obustavljamo našu trenutnu streaming uslugu zbog pitanja autorskih prava. Ažurirajte na najnoviju verziju aplikacije Glazba za slušanje glazbe visoke kvalitete.",
-  "upgrade_to": "Nadogradi na",
-  "upgrade_waringing": "Moći ćete samo slušati glazbu pohranjenu na vašem uređaju.",
-  "valid_period": "Vrijedi do: ",
-   "Ntracks_search_result": {
-        "one": "\"${v} pronađena pjesma\"",
-		"other": "\"${v} pronađeno pjesama\""
-    },
-    "Nexpired_remind": {
-        "one": "\"${v} dan preostao\"",
-		"other": "\"${v} dana preostalo\""
-    },
-    "NTrackstoDownload": {
-        "other": "\"${v} pjesama će biti preuzeto\"",
-        "one": "\"1 pjesma će biti preuzeta\""
-    },
-	"NPlaylist_delete_confirm": {
-        "one": "Izbrisati %d popis pjesama?",
-		"other": "Izbrisati ${v} popisa pjesama?"
-    },
-	"Nnew_tracks_count": {
-        "one": "\"1 nova\"",
-		"other": "\"${v} novih\""
-    },
-    "Ntracks_count": {
-        "one": "\"${v} pjesma\"",
-		"other": "\"${v} pjesama\""
-    },
-	"Ntracks_similar_count": {
-        "one": "\"${v} slična pjesma\"",
-		"other": "\"${v} sličnih pjesama\""
-    },
-    "Nartists_count": {
-        "one": "${v} izvođač",
-		"other": "${v} izvođača"
-    },
-    "Ngroups_count": {
-        "one": "${v} bend",
-		"other": "${v} bendova"
-    },
-    "dialog_delete_descript": {
-        "one": "Izbrisati ${v} pjesmu?",
-		"other": "Izbrisati ovoliko ${v} pjesama?"
-    },
-    "dialog_remove_descript": {
-        "one": "Ukloniti ${v} pjesmu?",
-		"other": "Ukloniti ovoliko ${v} pjesama?"
-    },
-    "Ntracks_add_to_playlist": {
-		"one": "1 pjesma dodana na popis",
-		"other": "Dodano ${v} pjesama na popis"
-	},
-	"Ntracks_remove_from_playlist": {
-		"one": "1 pjesma uklonjena s popisa",
-		"other": "Uklonjeno ${v} pjesama s popisa"
-    },
-    "artist_list_fragment_item_count_format": {
-        "one": "\"1 pjesma\"",
-		"other": "${v} pjesama"
-    },
-    "Nquit_warning": {
-        "one": "\"Reprodukcija će se zaustaviti za ${v} min.\"",
-		"other": "Reprodukcija će se zaustaviti za ${v} min."
-    },
-    "send_songs_toast": {
-        "one": "\"1 pjesma će biti poslana\"",
-		"other": "Poslano će biti ${v} pjesama"
-    },
-    "folder_songs_count": {
-        "one": "\"1 pjesma\"",
-		"other": "${v} pjesama"
-    },
-	"Nnew_local_audios": {
-       "one": "\"${v} pjesma dodana\"",
-		"other": "\"Dodano ${v} pjesama\""
-    },
-    "multichoice_title": {
-        "one": "\"${v} stavka odabrana\"",
-		"other": "\"${v} stavaka odabrano\""
-    },
-    "song_already_favorite": {
-	    "one": "Pjesma je već označena kao favorit.",
-		"other": "Pjesme su već označene kao favoriti."
-},       
-   "vip_expiration_message": "Nakon što istekne vaše članstvo, biti će te samo u mogućnosti na streaming glazbe od 128Kbps. Zbog zakonskih ograničenja, neke pjesme nće biti dostupne za preuzimanje.",
-   "vip_expiration_title": "Članstvo uskoro istječe",
-   "vip_recommend_title": "Nabavite višu kvalitetu glazbe",
-   "vip_required": "\"Žao nam je, VIP je potreban\"",
+    "resources": {
+        "string": [
+            {
+                "_name": "account",
+                "__text": "Рачун"
+            },
+            {
+                "_name": "account_and_cloud",
+                "__text": "Рачун"
+            },
+            {
+                "_name": "action_item_add",
+                "__text": "Додај на листу песама"
+            },
+            {
+                "_name": "action_item_add_song",
+                "__text": "Додај на листу песама"
+            },
+            {
+                "_name": "action_item_add_to_current_playlist",
+                "__text": "Тренутна листа песама"
+            },
+            {
+                "_name": "action_item_add_to_favorite_playlist",
+                "__text": "Листа песама фаворита"
+            },
+            {
+                "_name": "action_item_add_to_new_playlist",
+                "__text": "Ново"
+            },
+            {
+                "_name": "action_item_cancel",
+                "__text": "Одустани"
+            },
+            {
+                "_name": "action_item_delete",
+                "__text": "Избрисати"
+            },
+            {
+                "_name": "action_item_download",
+                "__text": "Преузимање"
+            },
+            {
+                "_name": "action_item_favorite",
+                "__text": "Фаворит"
+            },
+            {
+                "_name": "action_item_follow",
+                "__text": "Следи"
+            },
+            {
+                "_name": "action_item_hide",
+                "__text": "Сакриј"
+            },
+            {
+                "_name": "action_item_multiple",
+                "__text": "У реду"
+            },
+            {
+                "_name": "action_item_play_all",
+                "__text": "Репродукуј све"
+            },
+            {
+                "_name": "action_item_remove",
+                "__text": "Уклони"
+            },
+            {
+                "_name": "action_item_remove_from_favorite",
+                "__text": "Уклони фаворите"
+            },
+            {
+                "_name": "action_item_send",
+                "__text": "Пошаљи"
+            },
+            {
+                "_name": "action_item_share",
+                "__text": "Подели"
+            },
+            {
+                "_name": "add_music",
+                "__text": "Додај песме"
+            },
+            {
+                "_name": "album_name",
+                "__text": "Албум"
+            },
+            {
+                "_name": "album_search_title",
+                "__text": "Албум"
+            },
+            {
+                "_name": "all_artist",
+                "__text": "Сви извођачи"
+            },
+            {
+                "_name": "all_music",
+                "__text": "Све песме"
+            },
+            {
+                "_name": "all_tracks",
+                "__text": "Све песме"
+            },
+            {
+                "_name": "all_tracks_short",
+                "__text": "Све"
+            },
+            {
+                "_name": "artist",
+                "__text": "Извођачи"
+            },
+            {
+                "_name": "artist_is_empty",
+                "__text": "Име Извођача не може бити празно."
+            },
+            {
+                "_name": "artist_name",
+                "__text": "Извођач"
+            },
+            {
+                "_name": "artist_search_title",
+                "__text": "\"Извођач\""
+            },
+            {
+                "_name": "artist_view",
+                "__text": "\"Извођач\""
+            },
+            {
+                "_name": "atmd_music",
+                "__text": "Ултимативно"
+            },
+            {
+                "_name": "atmd_tel",
+                "__text": "Подршка: 0755-86699030"
+            },
+            {
+                "_name": "audio_picker_title",
+                "__text": "Одабери песму"
+            },
+            {
+                "_name": "auto_download_in_wifi",
+                "__text": "Аутоматски преузми омиљене песме преко WLAN-a"
+            },
+            {
+                "_name": "auto_payment",
+                "__text": "Аутом. обнови"
+            },
+            {
+                "_name": "avail_services",
+                "__text": "Доступно"
+            },
+            {
+                "_name": "available_playlist_name_format",
+                "__text": "Нова листа песама %d"
+            },
+            {
+                "_name": "avoid_to_use_traffic_summary",
+                "__text": "\"Немој користити мобилну мрежу за stream музике\""
+            },
+            {
+                "_name": "avoid_to_use_traffic_title",
+                "__text": "Користи само WLAN за stream"
+            },
+            {
+                "_name": "baidu_music",
+                "__text": "Baidu музика"
+            },
+            {
+                "_name": "bill_list_fragment_title",
+                "__text": "Графикон"
+            },
+            {
+                "_name": "bluetooth_device",
+                "__text": "Bluetooth уређај"
+            },
+            {
+                "_name": "buffering",
+                "__text": "Стављање у бафер…"
+            },
+            {
+                "_name": "button_add",
+                "__text": "Додај"
+            },
+            {
+                "_name": "can_not_find_resource",
+                "__text": "\"Не могу пронаћи изворе\""
+            },
+            {
+                "_name": "cancel",
+                "__text": "Одустани"
+            },
+            {
+                "_name": "channel_list_fragment_title",
+                "__text": "Радио"
+            },
+            {
+                "_name": "chinese_female",
+                "__text": "Женски извођачи (Кина)"
+            },
+            {
+                "_name": "chinese_group",
+                "__text": "Бендови (Кина)"
+            },
+            {
+                "_name": "chinese_male",
+                "__text": "Кинески извођачи (Кина)"
+            },
+            {
+                "_name": "choose_download_quality",
+                "__text": "Одабери квалитет преузимања"
+            },
+            {
+                "_name": "choose_stream_quality",
+                "__text": "Одабери квалитет streama"
+            },
+            {
+                "_name": "click_modify",
+                "__text": "Додирните за уређивање текста песме"
+            },
+            {
+                "_name": "click_to_shuffle",
+                "__text": "Додирните да преместите све"
+            },
+            {
+                "_name": "click_to_view_new_local_audios",
+                "__text": "Додирните за преглед детаља."
+            },
+            {
+                "_name": "close_music_time",
+                "__text": "\"Преостало времена: \""
+            },
+            {
+                "_name": "cloud_enable",
+                "__text": "Синхр. музику са Mi Cloud"
+            },
+            {
+                "_name": "cloud_settings",
+                "__text": "Подешавања синхронизације"
+            },
+            {
+                "_name": "cp_info_first",
+                "__text": "Streaming service is provided by Ultimate Inc."
+            },
+            {
+                "_name": "create_playlist",
+                "__text": "Направи нови списак песама"
+            },
+            {
+                "_name": "create_playlist_failure",
+                "__text": "\"Не могу направити листу песама\""
+            },
+            {
+                "_name": "current_services",
+                "__text": "Тренутно"
+            },
+            {
+                "_name": "data_usage_warning",
+                "__text": "Употреба података"
+            },
+            {
+                "_name": "data_usage_warning_summary",
+                "__text": "Коришћење ваше мобилне податковне мреже за streaming високо квалитетне музике може повећати трошкове употребе података."
+            },
+            {
+                "_name": "delete",
+                "__text": "Избриши"
+            },
+            {
+                "_name": "delete_file_as_well",
+                "__text": "Трајно избриши ову песму"
+            },
+            {
+                "_name": "delete_file_end",
+                "__text": "Избриши у потпуности"
+            },
+            {
+                "_name": "delete_file_start",
+                "__text": "Избриши одабране датотеке"
+            },
+            {
+                "_name": "desc_online_personal_radio",
+                "__text": "Само за тебе"
+            },
+            {
+                "_name": "device_connected",
+                "__text": "Повезано"
+            },
+            {
+                "_name": "device_not_connected",
+                "__text": "Није повезано"
+            },
+            {
+                "_name": "dialog_button_create_playlist",
+                "__text": "Направи листу песама"
+            },
+            {
+                "_name": "dialog_button_editor_choice",
+                "__text": "Истакнуто"
+            },
+            {
+                "_name": "dialog_button_find_music",
+                "__text": "Откриј"
+            },
+            {
+                "_name": "dialog_button_login",
+                "__text": "Пријавите се и синхронизујте вашу музику"
+            },
+            {
+                "_name": "dialog_button_scan_tracks",
+                "__text": "Претраживање музике на овом уређају"
+            },
+            {
+                "_name": "dialog_delete_descript",
+                "__text": "Избрисати %s?"
+            },
+            {
+                "_name": "dialog_hint_music_error",
+                "__text": "Нема песама."
+            },
+            {
+                "_name": "dialog_hint_network_error",
+                "__text": "\"Не могу се повезати на мрежу.\""
+            },
+            {
+                "_name": "dialog_remove_descript",
+                "__text": "Уклонити %s?"
+            },
+            {
+                "_name": "dialog_title_add_playlist",
+                "__text": "Додај листу песама"
+            },
+            {
+                "_name": "dialog_title_delete_playlist",
+                "__text": "Избриши попис песама"
+            },
+            {
+                "_name": "dialog_title_delete_tracks",
+                "__text": "Избриши"
+            },
+            {
+                "_name": "dialog_title_name_playlist",
+                "__text": "Назив листе песама"
+            },
+            {
+                "_name": "dialog_title_remove_tracks",
+                "__text": "Уклони"
+            },
+            {
+                "_name": "dialog_title_track_picker",
+                "__text": "Одабери песме"
+            },
+            {
+                "_name": "disallow_add_to_personal_radio",
+                "__text": "Лични Радио је читање само"
+            },
+            {
+                "_name": "done",
+                "__text": "Готово"
+            },
+            {
+                "_name": "download",
+                "__text": "Преузми"
+            },
+            {
+                "_name": "download_all_song",
+                "__text": "Преузми све"
+            },
+            {
+                "_name": "download_auto_after_favorite_summary",
+                "__text": "Аутоматски преузми песме које су вам фаворити"
+            },
+            {
+                "_name": "download_auto_after_favorite_title",
+                "__text": "Преузимање фаворита"
+            },
+            {
+                "_name": "download_auto_cancel",
+                "__text": "Преузимање фаворита укључено"
+            },
+            {
+                "_name": "download_auto_message",
+                "__text": "\"Песме које сте означили као фаворите преузеће се аутоматски кад сте повезани на WLAN. Можете искључити ову функцију било кад у Поставкама.\""
+            },
+            {
+                "_name": "download_auto_quality_alert_sub_title_for_expired",
+                "__text": "Ваш пробни период или претплата је истекла. Одаберите други квалитет преузимања."
+            },
+            {
+                "_name": "download_auto_quality_alert_sub_title_for_login",
+                "__text": "Да бисте активирали, пријавите се сада на свој Mi Рачун."
+            },
+            {
+                "_name": "download_auto_quality_alert_title",
+                "__text": "Квалитет преузимања музике"
+            },
+            {
+                "_name": "download_auto_when_all_network",
+                "__text": "Користи мобилну мрежу и WLAN"
+            },
+            {
+                "_name": "download_auto_when_free_network",
+                "__text": "Користи само WLAN"
+            },
+            {
+                "_name": "download_auto_when_free_network_summary",
+                "__text": "Додатнa подешавања за песме које су вам фаворити"
+            },
+            {
+                "_name": "download_completed",
+                "__text": "Преузето"
+            },
+            {
+                "_name": "download_method",
+                "__text": "Преузми"
+            },
+            {
+                "_name": "download_processing",
+                "__text": "Преузимање…"
+            },
+            {
+                "_name": "download_quality",
+                "__text": "Квалитет преузимања"
+            },
+            {
+                "_name": "download_quality_summary",
+                "__text": "Додатна подешавања за песме које сте преузели"
+            },
+            {
+                "_name": "download_while_playing_summary",
+                "__text": "Аутоматски преузми песме које очитавате online"
+            },
+            {
+                "_name": "download_while_playing_title",
+                "__text": "Слушај за време преузимања"
+            },
+            {
+                "_name": "empty_page_no_album",
+                "__text": "Нема албума."
+            },
+            {
+                "_name": "empty_page_no_artist",
+                "__text": "Нема извођача."
+            },
+            {
+                "_name": "empty_page_no_document",
+                "__text": "Нема датотека са звуком."
+            },
+            {
+                "_name": "empty_page_no_track",
+                "__text": "Нема песама."
+            },
+            {
+                "_name": "enabled",
+                "__text": "Омогућено"
+            },
+            {
+                "_name": "english_female",
+                "__text": "Женски извођачи (US/Европа)"
+            },
+            {
+                "_name": "english_group",
+                "__text": "Бендови (US/Европа)"
+            },
+            {
+                "_name": "english_male",
+                "__text": "Мушки извођачи (US/Европа)"
+            },
+            {
+                "_name": "eq_auto",
+                "__text": "Прилагођено"
+            },
+            {
+                "_name": "eq_blues",
+                "__text": "Блуз"
+            },
+            {
+                "_name": "eq_classical",
+                "__text": "Класична"
+            },
+            {
+                "_name": "eq_country",
+                "__text": "Земља"
+            },
+            {
+                "_name": "eq_dance",
+                "__text": "Плес"
+            },
+            {
+                "_name": "eq_delete",
+                "__text": "Уклони"
+            },
+            {
+                "_name": "eq_delete_success",
+                "__text": "Готово"
+            },
+            {
+                "_name": "eq_electronic",
+                "__text": "Електронска"
+            },
+            {
+                "_name": "eq_flat",
+                "__text": "Стан"
+            },
+            {
+                "_name": "eq_hiphop",
+                "__text": "Хип Хоп"
+            },
+            {
+                "_name": "eq_jazz",
+                "__text": "Џез"
+            },
+            {
+                "_name": "eq_metal",
+                "__text": "Метал"
+            },
+            {
+                "_name": "eq_pop",
+                "__text": "Поп"
+            },
+            {
+                "_name": "eq_preset_create",
+                "__text": "Направи"
+            },
+            {
+                "_name": "eq_preset_format",
+                "__text": "Подешавања корисника %d"
+            },
+            {
+                "_name": "eq_preset_hint",
+                "__text": "Назив подешавања"
+            },
+            {
+                "_name": "eq_preset_rename",
+                "__text": "Преименуј"
+            },
+            {
+                "_name": "eq_preset_select",
+                "__text": "Одабери подешавање"
+            },
+            {
+                "_name": "eq_rock",
+                "__text": "Rock"
+            },
+            {
+                "_name": "equalizer",
+                "__text": "Еквалајзер"
+            },
+            {
+                "_name": "error_forbidden",
+                "__text": "Синхронизација је искључена због проблема са вашим Mi Рачуном."
+            },
+            {
+                "_name": "error_not_acceptable",
+                "__text": "Синхронизација је искључена"
+            },
+            {
+                "_name": "error_title",
+                "__text": "\"Не могу синхронизовати са Mi Рачуном\""
+            },
+            {
+                "_name": "error_unauthorized",
+                "__text": "Синхронизација је искључена због превише покушаја пријава."
+            },
+            {
+                "_name": "expired",
+                "__text": "Истекао"
+            },
+            {
+                "_name": "expires",
+                "__text": "Истиче овај месец:"
+            },
+            {
+                "_name": "fail_to_play",
+                "__text": "\"Не могу репродуковати песму\""
+            },
+            {
+                "_name": "favorite_canceled",
+                "__text": "Уклоњено из фаворита"
+            },
+            {
+                "_name": "favorite_playlist",
+                "__text": "Фаворити"
+            },
+            {
+                "_name": "favorite_singer",
+                "__text": "Омиљени певачи"
+            },
+            {
+                "_name": "favorite_succeed",
+                "__text": "Додато у фаворите"
+            },
+            {
+                "_name": "favorite_tracks",
+                "__text": "Фаворити"
+            },
+            {
+                "_name": "favourite_music_left_half",
+                "__text": "За додавање песама на листу песама, додирните"
+            },
+            {
+                "_name": "favourite_music_right_half",
+                "__text": "Икону фаворита са десне стране иконе песме"
+            },
+            {
+                "_name": "female_artist",
+                "__text": "Женски извођачи"
+            },
+            {
+                "_name": "file_not_found",
+                "__text": "\"Датотека не постоји\""
+            },
+            {
+                "_name": "filter_by_duration",
+                "__text": "По дужини"
+            },
+            {
+                "_name": "filter_by_duration_format",
+                "__text": "%2$dm %5$2ds"
+            },
+            {
+                "_name": "filter_by_duration_max",
+                "__text": "5 мин"
+            },
+            {
+                "_name": "filter_by_duration_min",
+                "__text": "0 сек"
+            },
+            {
+                "_name": "filter_by_duration_prefix",
+                "__text": "\"Сакриј датотеке краће од \""
+            },
+            {
+                "_name": "filter_by_duration_summary",
+                "__text": "\"Сакриј кратке аудио датотеке\""
+            },
+            {
+                "_name": "filter_by_folder",
+                "__text": "По мапама"
+            },
+            {
+                "_name": "filter_by_folder_summary",
+                "__text": "Одаберите мапе за приказ"
+            },
+            {
+                "_name": "filter_by_size",
+                "__text": "По величини"
+            },
+            {
+                "_name": "filter_by_size_max",
+                "__text": "2MB"
+            },
+            {
+                "_name": "filter_by_size_min",
+                "__text": "0KB"
+            },
+            {
+                "_name": "filter_by_size_prefix",
+                "__text": "\"Сакриј датотеке мање од \""
+            },
+            {
+                "_name": "filter_by_size_summary",
+                "__text": "Сакриј мале аудио датотеке\""
+            },
+            {
+                "_name": "find_music",
+                "__text": "Тражи песме~"
+            },
+            {
+                "_name": "format_not_support",
+                "__text": "\"Овај формат није подржан."
+            },
+            {
+                "_name": "format_unsupported",
+                "__text": "\"Овај формат није подржан.\""
+            },
+            {
+                "_name": "fragment_more",
+                "__text": "Више"
+            },
+            {
+                "_name": "fragment_title_artist",
+                "__text": "ИЗВОЂАЧИ"
+            },
+            {
+                "_name": "fragment_title_artist_album",
+                "__text": "АЛБУМИ"
+            },
+            {
+                "_name": "fragment_title_bill",
+                "__text": "ЛИСТА ПЕСАМА"
+            },
+            {
+                "_name": "fragment_title_channel",
+                "__text": "FM"
+            },
+            {
+                "_name": "fragment_title_personal",
+                "__text": "ЛИЧНО"
+            },
+            {
+                "_name": "fragment_title_recommend",
+                "__text": "ИСТАКНУТО"
+            },
+            {
+                "_name": "group_artist",
+                "__text": "Бендови"
+            },
+            {
+                "_name": "handle_later",
+                "__text": "Не сада"
+            },
+            {
+                "_name": "headset_settings",
+                "__text": "Слушалице & ефекти звука"
+            },
+            {
+                "_name": "high_quality",
+                "__text": "Виша"
+            },
+            {
+                "_name": "higher_quality_music",
+                "__text": "Висок квалитет звука"
+            },
+            {
+                "_name": "higher_quality_music_summary",
+                "__text": "Stream и преузимање датотека веће брзине преноса"
+            },
+            {
+                "_name": "home_tab_local",
+                "__text": "Моја Музика"
+            },
+            {
+                "_name": "home_tab_online",
+                "__text": "Откријте"
+            },
+            {
+                "_name": "i_know",
+                "__text": "У реду"
+            },
+            {
+                "_name": "i_know_it",
+                "__text": "У реду"
+            },
+            {
+                "_name": "impunity_declaration",
+                "__text": "Овој апликацији треба повезивање са интернетом."
+            },
+            {
+                "_name": "impunity_declaration_content1",
+                "__text": "\"Додиром Слажем се, пристајете на услове наведене у нашим \""
+            },
+            {
+                "_name": "impunity_declaration_content3",
+                "__text": "\" и \""
+            },
+            {
+                "_name": "impunity_declaration_content4",
+                "__text": "Правила о Приватности"
+            },
+            {
+                "_name": "impunity_declaration_content5",
+                "__text": "."
+            },
+            {
+                "_name": "impunity_declaration_ignore",
+                "__text": "\"Не приказуј поново\""
+            },
+            {
+                "_name": "impunity_declaration_negative_text",
+                "__text": "Затвори"
+            },
+            {
+                "_name": "impunity_declaration_positive_text",
+                "__text": "У реду и настави"
+            },
+            {
+                "_name": "impunity_declaration_settings",
+                "__text": "Прикажи \"Услови пружања услуге\""
+            },
+            {
+                "_name": "impunity_declaration_summary",
+                "__text": "Прикажи искачући прозор \"Услови пружања услуге\" за Baidu Online Music Service сваки пут када се отвори апликација \"Музика\""
+            },
+            {
+                "_name": "impunity_declaration_title",
+                "__text": "Услови пружања услуге"
+            },
+            {
+                "_name": "in_searching_please_wait",
+                "__text": "Претраживање…"
+            },
+            {
+                "_name": "is_loading_data",
+                "__text": "Учитавање још траје. Сачекајте минут/два и покушајте поново."
+            },
+            {
+                "_name": "is_scanning",
+                "__text": "Провера простора за меморију..."
+            },
+            {
+                "_name": "is_scanning_support_online",
+                "__text": "Провера простора за меморију...."
+            },
+            {
+                "_name": "japan_korea_female",
+                "__text": "Женски извођачи (Јапан/Кореја)"
+            },
+            {
+                "_name": "japan_korea_group",
+                "__text": "Бендови (Јапан/Кореја) "
+            },
+            {
+                "_name": "japan_korea_male",
+                "__text": "Мушки извођачи (Јапан/Кореја)"
+            },
+            {
+                "_name": "ktv_playlist",
+                "__text": "KTV листа репродукције"
+            },
+            {
+                "_name": "like",
+                "__text": "Свиђа ми се"
+            },
+            {
+                "_name": "list_detail_title",
+                "__text": "Детаљи"
+            },
+            {
+                "_name": "list_item_play_FM_radio",
+                "__text": "Додирните за репродукцију FM Радија"
+            },
+            {
+                "_name": "list_item_play_all_tracks",
+                "__text": "Додирните за репродукцију свих песама"
+            },
+            {
+                "_name": "listview_index_of_total",
+                "__text": "%1$d/%2$d"
+            },
+            {
+                "_name": "loading_hint",
+                "__text": "Учитавање…"
+            },
+            {
+                "_name": "local_music",
+                "__text": "Офлајн"
+            },
+            {
+                "_name": "local_music_is_not_available",
+                "__text": "Локална музика није доступна."
+            },
+            {
+                "_name": "local_tracks_short",
+                "__text": "Офлајн"
+            },
+            {
+                "_name": "login_first",
+                "__text": "Пријавите се прво у свој Mi Рачун"
+            },
+            {
+                "_name": "lrc_search_failed",
+                "__text": "\"Не могу пронаћи текст\""
+            },
+            {
+                "_name": "lrc_searching",
+                "__text": "\"Претраживање…\""
+            },
+            {
+                "_name": "lyric",
+                "__text": "Текст"
+            },
+            {
+                "_name": "lyric_is_empty",
+                "__text": "Текст није доступан"
+            },
+            {
+                "_name": "lyric_open_other_connect",
+                "__text": "Преузми текст користећи мобилну мрежу"
+            },
+            {
+                "_name": "lyric_setting",
+                "__text": "Подешавање текста"
+            },
+            {
+                "_name": "male_artist",
+                "__text": "Мушки извођачи"
+            },
+            {
+                "_name": "max_sleep_time",
+                "__text": "90"
+            },
+            {
+                "_name": "message_delete_playlist",
+                "__text": "Избрисати попис песама %s ?"
+            },
+            {
+                "_name": "metered_alert",
+                "__text": "Упозорење употребе података"
+            },
+            {
+                "_name": "metered_alert_msg",
+                "__text": "\"Коришћење ваше мобилне мреже за слушање музике ће повећати вашу употребу података. Ако прекорачите ваше месечно ограничење, то може довести до високих додатних трошкова.\""
+            },
+            {
+                "_name": "metered_allow",
+                "__text": "Стримовање"
+            },
+            {
+                "_name": "metered_disallow",
+                "__text": "Одустани"
+            },
+            {
+                "_name": "metered_play_toast",
+                "__text": "Коришћење мобилне податковне мреже за streaming"
+            },
+            {
+                "_name": "min_sleep_time",
+                "__text": "1"
+            },
+            {
+                "_name": "miuishare_account_activate_confirmation",
+                "__text": "Потребна је активација"
+            },
+            {
+                "_name": "miuishare_account_activate_ok",
+                "__text": "Активирај"
+            },
+            {
+                "_name": "miuishare_account_login_cancel",
+                "__text": "Одустани"
+            },
+            {
+                "_name": "miuishare_account_login_confirmation",
+                "__text": "Потребна је пријава"
+            },
+            {
+                "_name": "miuishare_account_login_ok",
+                "__text": "Пријавите се"
+            },
+            {
+                "_name": "miuishare_account_need_activate",
+                "__text": "Weibo дељење захтева ваш Weibo рачун повезан са Mi Рачуном који тренутно није активиран. Активирати ваш рачун?"
+            },
+            {
+                "_name": "miuishare_account_need_login",
+                "__text": "Weibo дељење захтева ваш Weibo рачун повезан са Mi Рачуном, који тренутно није пријављен. Пријавите се сада?"
+            },
+            {
+                "_name": "miuishare_app_name",
+                "__text": "MiuiShare"
+            },
+            {
+                "_name": "miuishare_no_network",
+                "__text": "Нема мрежа за дељење"
+            },
+            {
+                "_name": "miuishare_publish",
+                "__text": "Пошаљи"
+            },
+            {
+                "_name": "miuishare_share_done",
+                "__text": "Дељени садржај је послат."
+            },
+            {
+                "_name": "miuishare_share_editor_title",
+                "__text": "Дели"
+            },
+            {
+                "_name": "miuishare_title_more",
+                "__text": "Више"
+            },
+            {
+                "_name": "miuishare_title_share",
+                "__text": "Дели"
+            },
+            {
+                "_name": "miuishare_wechat_timeline_title",
+                "__text": "Wechat Timeline"
+            },
+            {
+                "_name": "miuishare_weibo_title",
+                "__text": "Weibo"
+            },
+            {
+                "_name": "modify_lyric",
+                "__text": "Уреди текст"
+            },
+            {
+                "_name": "modify_progress",
+                "__text": "Промена брзине помицања текста"
+            },
+            {
+                "_name": "modify_progress_helper",
+                "__text": "Помакните горе или доле за подешавање напретка текста"
+            },
+            {
+                "_name": "modify_song_info",
+                "__text": "Уређивање информација песме"
+            },
+            {
+                "_name": "monthly_price",
+                "__text": "Mi Кредита"
+            },
+            {
+                "_name": "more",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_about_artist",
+                "__text": "Више о %s"
+            },
+            {
+                "_name": "more_online_artist",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_billboard",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_fm",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_recommend",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_release",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_song",
+                "__text": "Више"
+            },
+            {
+                "_name": "more_online_suggest",
+                "__text": "Више"
+            },
+            {
+                "_name": "multichoice",
+                "__text": "Одабери"
+            },
+            {
+                "_name": "music_browser_label",
+                "__text": "Музика"
+            },
+            {
+                "_name": "music_filter",
+                "__text": "Филтрирај аудио датотеке"
+            },
+            {
+                "_name": "music_quality",
+                "__text": "Квалитет музике"
+            },
+            {
+                "_name": "music_settings",
+                "__text": "Музика"
+            },
+            {
+                "_name": "my_account",
+                "__text": "Mi Рачун"
+            },
+            {
+                "_name": "my_music",
+                "__text": "Моја Музика"
+            },
+            {
+                "_name": "my_music_empty",
+                "__text": "Листа песама је празна"
+            },
+            {
+                "_name": "my_music_empty_goto_online",
+                "__text": "Нема пронађених песама"
+            },
+            {
+                "_name": "my_playlist",
+                "__text": "Моја листа песама"
+            },
+            {
+                "_name": "name_online_personal_radio",
+                "__text": "Радио"
+            },
+            {
+                "_name": "nav_local_all",
+                "__text": "Све"
+            },
+            {
+                "_name": "nav_local_artist",
+                "__text": "Омиљени извођачи"
+            },
+            {
+                "_name": "nav_local_favorite",
+                "__text": "Омиљене песме"
+            },
+            {
+                "_name": "nav_local_song",
+                "__text": "Преузето"
+            },
+            {
+                "_name": "nav_online_artist",
+                "__text": "Извођачи"
+            },
+            {
+                "_name": "nav_online_billboard",
+                "__text": "Лествице"
+            },
+            {
+                "_name": "nav_online_fm",
+                "__text": "Радио"
+            },
+            {
+                "_name": "nav_online_playlist",
+                "__text": "Попис песама"
+            },
+            {
+                "_name": "network_error",
+                "__text": "\"Не могу се повезати на мрежу.\""
+            },
+            {
+                "_name": "network_failure",
+                "__text": "Проверите везу и покушајте поново."
+            },
+            {
+                "_name": "network_request_error",
+                "__text": "\"Не могу се повезати на мрежу\""
+            },
+            {
+                "_name": "network_settings_error",
+                "__text": "\"Не могу се повезати на мрежу\""
+            },
+            {
+                "_name": "network_traffic",
+                "__text": "Употреба података"
+            },
+            {
+                "_name": "no_album_info",
+                "__text": "Нема детаља о албуму"
+            },
+            {
+                "_name": "no_artist_info",
+                "__text": "Нема детаља о извоћачу"
+            },
+            {
+                "_name": "no_enough_info",
+                "__text": "Премало детаља о песми"
+            },
+            {
+                "_name": "no_favorites_songs",
+                "__text": "Празно"
+            },
+            {
+                "_name": "no_file_picker_find",
+                "__text": "\"Апликација Датотеке није инсталирана на овом уређају\""
+            },
+            {
+                "_name": "no_introduction",
+                "__text": "Нема извода."
+            },
+            {
+                "_name": "no_local_songs",
+                "__text": "Празно"
+            },
+            {
+                "_name": "no_local_songs_selected",
+                "__text": "\"Не могу послати песме, јер оне нису преузете\""
+            },
+            {
+                "_name": "no_local_source_find",
+                "__text": "\"Не могу пронаћи песму\""
+            },
+            {
+                "_name": "no_online_song_selected",
+                "__text": "Нема одабраних песама"
+            },
+            {
+                "_name": "no_results_return",
+                "__text": "Нема резултата претраживања"
+            },
+            {
+                "_name": "no_song",
+                "__text": "Нема песама"
+            },
+            {
+                "_name": "no_song_downloaded",
+                "__text": "\"Не могу се повезати на сервер\""
+            },
+            {
+                "_name": "normal_quality",
+                "__text": "Добро"
+            },
+            {
+                "_name": "not_login",
+                "__text": "Нисте пријављени"
+            },
+            {
+                "_name": "not_selected",
+                "__text": "Одабери песму"
+            },
+            {
+                "_name": "nowplaying_menu_item_delete",
+                "__text": "Избриши"
+            },
+            {
+                "_name": "ok",
+                "__text": "\"У реду\""
+            },
+            {
+                "_name": "online_music",
+                "__text": "Online Музика"
+            },
+            {
+                "_name": "online_music_enabled_subtitle",
+                "__text": "Додирните за стримовање ваших омиљених песама."
+            },
+            {
+                "_name": "online_music_enabled_summary",
+                "__text": "Слушајте и преузмите омиљене песме. Погледајте најбоље песме и тренутну листу где год кренули!!"
+            },
+            {
+                "_name": "online_music_enabled_title",
+                "__text": "Бесплатан стрим је овде"
+            },
+            {
+                "_name": "online_playlist_is_empty",
+                "__text": "Листа песама је празна"
+            },
+            {
+                "_name": "only_online_can_select_quality",
+                "__text": "Можете одабрати квалитет само за музику коју стримујете."
+            },
+            {
+                "_name": "order_pending",
+                "__text": "Чекање потврде"
+            },
+            {
+                "_name": "order_process_fail",
+                "__text": "\"Није било могуће ауторизовати ваш рачун. Сачекајте неколико минута и покушајте поново.\""
+            },
+            {
+                "_name": "page_local_setting",
+                "__text": "Подешавања"
+            },
+            {
+                "_name": "pay",
+                "__text": "Плати:"
+            },
+            {
+                "_name": "pay_now",
+                "__text": "Плати сада"
+            },
+            {
+                "_name": "payment_fail",
+                "__text": "Плаћање није успело"
+            },
+            {
+                "_name": "payment_success",
+                "__text": "Плаћање завршено"
+            },
+            {
+                "_name": "period_format",
+                "__text": "%1$s-%2$s"
+            },
+            {
+                "_name": "play_all_song",
+                "__text": "Репродукуј све"
+            },
+            {
+                "_name": "playback_failed_no_title_by_bad_file",
+                "__text": "\"Формат ове песме није подржан или датотека не постоји.\""
+            },
+            {
+                "_name": "playlist_deleted_message",
+                "__text": "Листа песама избрисана."
+            },
+            {
+                "_name": "playlist_renamed_message",
+                "__text": "Листа песама преименована."
+            },
+            {
+                "_name": "playlist_unavailable",
+                "__text": "\"Нажалост, попис није доступан. Да га избришете, притисните и држите, а затим одаберите избриши.\""
+            },
+            {
+                "_name": "please_download_first",
+                "__text": "Морате преузети ту песму пре да бисте је могли поставити као звук звона"
+            },
+            {
+                "_name": "please_search_or_select",
+                "__text": "Претражите или подесите поље"
+            },
+            {
+                "_name": "please_select_song",
+                "__text": "Одаберите једну песму"
+            },
+            {
+                "_name": "preset_music_playlist",
+                "__text": "Листа Мi Музике"
+            },
+            {
+                "_name": "presonal_center",
+                "__text": "Подешавање рачуна"
+            },
+            {
+                "_name": "price",
+                "__text": "Цена:"
+            },
+            {
+                "_name": "priority_storage",
+                "__text": "Користи спољашњу SD картицу"
+            },
+            {
+                "_name": "priority_storage_summary",
+                "__text": "Аутоматско преузимање на спољашњу SD картицу ако је доступна"
+            },
+            {
+                "_name": "project_device",
+                "__text": "Mi Телефон"
+            },
+            {
+                "_name": "project_device_mobile",
+                "__text": "Мобилни уређај"
+            },
+            {
+                "_name": "quit_warining",
+                "__text": "Репродукција ће престати за %d мин."
+            },
+            {
+                "_name": "really_pay",
+                "__text": "Платити сада?"
+            },
+            {
+                "_name": "recommend_fragment_title",
+                "__text": "Истакнуто"
+            },
+            {
+                "_name": "remaining",
+                "__text": "Преостало је овај месец:"
+            },
+            {
+                "_name": "remove",
+                "__text": "Уклони"
+            },
+            {
+                "_name": "renew",
+                "__text": "Обнови:"
+            },
+            {
+                "_name": "renew_1",
+                "__text": "Обнови"
+            },
+            {
+                "_name": "renew_period",
+                "__text": "Период обнове:"
+            },
+            {
+                "_name": "retry",
+                "__text": "Покушај поново"
+            },
+            {
+                "_name": "ringtone_not_support",
+                "__text": "\"Формат ове песме није подржан.\""
+            },
+            {
+                "_name": "search_album",
+                "__text": "Потражите албум на интернету"
+            },
+            {
+                "_name": "search_for_album",
+                "__text": "Албум"
+            },
+            {
+                "_name": "search_for_artist",
+                "__text": "Извођач"
+            },
+            {
+                "_name": "search_hint",
+                "__text": "Потражи"
+            },
+            {
+                "_name": "search_lyric",
+                "__text": "Потражите текст на интернету"
+            },
+            {
+                "_name": "search_title",
+                "__text": "Потражите"
+            },
+            {
+                "_name": "search_title_album",
+                "__text": "Албуми"
+            },
+            {
+                "_name": "search_title_singer",
+                "__text": "Извођачи"
+            },
+            {
+                "_name": "search_title_song",
+                "__text": "Песме"
+            },
+            {
+                "_name": "sel_svc",
+                "__text": "Одаберите услугу"
+            },
+            {
+                "_name": "select_album",
+                "__text": "Одабери албум"
+            },
+            {
+                "_name": "select_all",
+                "__text": "Одабери све"
+            },
+            {
+                "_name": "select_device",
+                "__text": "Одабери уређај"
+            },
+            {
+                "_name": "select_displayed_folders",
+                "__text": "Одаберите мапе за приказ"
+            },
+            {
+                "_name": "select_local_album",
+                "__text": "Одабери албум"
+            },
+            {
+                "_name": "select_local_lyric",
+                "__text": "Одабери текст"
+            },
+            {
+                "_name": "select_lyric",
+                "__text": "Одабери текст"
+            },
+            {
+                "_name": "select_none",
+                "__text": "Поништи одабир"
+            },
+            {
+                "_name": "send_to",
+                "__text": "Дели"
+            },
+            {
+                "_name": "send_to_title",
+                "__text": "Пошаљи (%1$s)"
+            },
+            {
+                "_name": "server_error",
+                "__text": "Грешка сервера. Покушајте поново касније"
+            },
+            {
+                "_name": "service_stop",
+                "__text": "Услуга је обустављена"
+            },
+            {
+                "_name": "set_album_successful",
+                "__text": "Албум је подешен"
+            },
+            {
+                "_name": "set_as_ring",
+                "__text": "Подеси за звук звона"
+            },
+            {
+                "_name": "set_id3_failed",
+                "__text": "\"Не могу сачувати информације\""
+            },
+            {
+                "_name": "set_id3_not_have_read_or_write_permission",
+                "__text": "\"Немате допуштење за уређивање ове датотеке\""
+            },
+            {
+                "_name": "set_id3_not_support_format",
+                "__text": "\"Не могу уредити формат ове датотеке\""
+            },
+            {
+                "_name": "set_id3_successful",
+                "__text": "Информације песме су сачуване"
+            },
+            {
+                "_name": "set_lyric_successful",
+                "__text": "Текст је сачуван"
+            },
+            {
+                "_name": "set_ringtones_failed",
+                "__text": "Не могу поставити звук звона."
+            },
+            {
+                "_name": "set_ringtones_successful",
+                "__text": "%s успешно постављено за звук звона."
+            },
+            {
+                "_name": "share_append_text",
+                "__text": "Од @MIUI"
+            },
+            {
+                "_name": "share_chooser_title",
+                "__text": "Дели путем"
+            },
+            {
+                "_name": "share_description",
+                "__text": "Од Mi Музика"
+            },
+            {
+                "_name": "share_end_note",
+                "__text": "Од Mi Музика"
+            },
+            {
+                "_name": "share_text_list",
+                "__text": "Попис песама од Mi Музика:"
+            },
+            {
+                "_name": "share_text_song",
+                "__text": "Песма у Mi Музика"
+            },
+            {
+                "_name": "similar_songs",
+                "__text": "Сличне песме"
+            },
+            {
+                "_name": "sleep_mode",
+                "__text": "Време спавања"
+            },
+            {
+                "_name": "sleep_mode_canceled",
+                "__text": "Sleep mode искључен"
+            },
+            {
+                "_name": "sleep_mode_summary",
+                "__text": "Заустави репродукцију након одређеног времена"
+            },
+            {
+                "_name": "sleep_mode_title",
+                "__text": "Време спавања"
+            },
+            {
+                "_name": "song_is_empty",
+                "__text": "Назив песме не може бити празан."
+            },
+            {
+                "_name": "song_name",
+                "__text": "Песма"
+            },
+            {
+                "_name": "song_not_find",
+                "__text": "\"Oва песма није доступна.\""
+            },
+            {
+                "_name": "song_unit",
+                "__text": "ставки"
+            },
+            {
+                "_name": "sort_by_language",
+                "__text": "Језик"
+            },
+            {
+                "_name": "sort_by_name",
+                "__text": "Назив"
+            },
+            {
+                "_name": "sort_by_time",
+                "__text": "Датум"
+            },
+            {
+                "_name": "source_from",
+                "__text": "Извор: %1$s"
+            },
+            {
+                "_name": "start_to_download",
+                "__text": "Преузимање..."
+            },
+            {
+                "_name": "start_to_play",
+                "__text": "Репродукуј"
+            },
+            {
+                "_name": "stream_quality",
+                "__text": "Квалитет стрима"
+            },
+            {
+                "_name": "streamloadingtext",
+                "__text": "Повезивање на %s"
+            },
+            {
+                "_name": "suggest_text",
+                "__text": "Особе којима се ово свиђа"
+            },
+            {
+                "_name": "support_online_only",
+                "__text": "Само стрим"
+            },
+            {
+                "_name": "sync_only_in_wifi",
+                "__text": "Синхр. сам преко WLAN-a"
+            },
+            {
+                "_name": "sync_only_in_wifi_summary",
+                "__text": "Синхронизујте своју музику са својим уређајима са Mi Cloudom. Коришћење мобилне везе са подацима за музику ће повећати употребу података. Ако прекорачите своје месечно ограничење, ваш оператер вам може наплатити додатне трошкове."
+            },
+            {
+                "_name": "tab_album",
+                "__text": "Албуми"
+            },
+            {
+                "_name": "tab_album_list",
+                "__text": "Албуми"
+            },
+            {
+                "_name": "tab_artist",
+                "__text": "Извођачи"
+            },
+            {
+                "_name": "tab_artist_list",
+                "__text": "Извођачи"
+            },
+            {
+                "_name": "tab_chinese",
+                "__text": "Кинески"
+            },
+            {
+                "_name": "tab_europa_america",
+                "__text": "Западни"
+            },
+            {
+                "_name": "tab_folder",
+                "__text": "Мапе"
+            },
+            {
+                "_name": "tab_japanese_korean",
+                "__text": "J-Поп/K-Поп"
+            },
+            {
+                "_name": "tab_local_folder_list",
+                "__text": "Мапе"
+            },
+            {
+                "_name": "tab_local_track_list",
+                "__text": "Песме"
+            },
+            {
+                "_name": "tab_track",
+                "__text": "Песме"
+            },
+            {
+                "_name": "tab_track_list",
+                "__text": "Песме"
+            },
+            {
+                "_name": "take_effect_afater_restart",
+                "__text": "Морате поново покренути апликацију да ова подешавања ступе на снагу."
+            },
+            {
+                "_name": "title_online_artist",
+                "__text": "Извођачи у тренду"
+            },
+            {
+                "_name": "title_online_billboard",
+                "__text": "Лествице"
+            },
+            {
+                "_name": "title_online_fm",
+                "__text": "Радио"
+            },
+            {
+                "_name": "title_online_recommend",
+                "__text": "Истакнути пописи песама"
+            },
+            {
+                "_name": "title_online_release",
+                "__text": "Ново"
+            },
+            {
+                "_name": "title_online_song",
+                "__text": "Популарне песме"
+            },
+            {
+                "_name": "title_online_suggest",
+                "__text": "Могло би вам се свидети"
+            },
+            {
+                "_name": "title_search_history",
+                "__text": "Историја претраживања"
+            },
+            {
+                "_name": "title_search_hot",
+                "__text": "Популарно"
+            },
+            {
+                "_name": "today_update",
+                "__text": "Музика је ажурирана"
+            },
+            {
+                "_name": "too_freq",
+                "__text": "Превише захтева послатих са овог уређаја"
+            },
+            {
+                "_name": "tos",
+                "__text": "Услови Пружања Услуге"
+            },
+            {
+                "_name": "track_list_control_download",
+                "__text": "\"Преузми\""
+            },
+            {
+                "_name": "track_list_control_edit_add_tracks",
+                "__text": "Додај песме"
+            },
+            {
+                "_name": "track_list_control_edit_delete_playlist",
+                "__text": "\"Избриши\""
+            },
+            {
+                "_name": "track_list_control_edit_rename_playlist",
+                "__text": "Преименуј"
+            },
+            {
+                "_name": "track_list_control_play",
+                "__text": "\"Репродукуј\""
+            },
+            {
+                "_name": "track_main_fragment_tab_album",
+                "__text": "Албуми"
+            },
+            {
+                "_name": "track_main_fragment_tab_track",
+                "__text": "Песме"
+            },
+            {
+                "_name": "track_search_title",
+                "__text": "Песма"
+            },
+            {
+                "_name": "track_view",
+                "__text": "Песма"
+            },
+            {
+                "_name": "trigger_to_scan_media_library_finish",
+                "__text": "Освежено"
+            },
+            {
+                "_name": "trigger_to_scan_media_library_processing",
+                "__text": "Још траје освежавање…"
+            },
+            {
+                "_name": "trigger_to_scan_media_library_start",
+                "__text": "Освежавање…"
+            },
+            {
+                "_name": "ultra_high_quality",
+                "__text": "Највиша"
+            },
+            {
+                "_name": "unknown_album_name",
+                "__text": "Непознати албум"
+            },
+            {
+                "_name": "unknown_artist_name",
+                "__text": "Непознати извођач"
+            },
+            {
+                "_name": "upgrade",
+                "__text": "Надоградња:"
+            },
+            {
+                "_name": "upgrade_force",
+                "__text": "\"Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Ажурирајте на најновију верзију апликације Музика за слушање музике високог квалитета.\""
+            },
+            {
+                "_name": "upgrade_immediate",
+                "__text": "Ажурирај сада"
+            },
+            {
+                "_name": "upgrade_nobeta",
+                "__text": "\"Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Извините на неугодности :(\""
+            },
+            {
+                "_name": "upgrade_remind",
+                "__text": "Ажурирање доступно"
+            },
+            {
+                "_name": "upgrade_services",
+                "__text": "Ажурирања"
+            },
+            {
+                "_name": "upgrade_suggest",
+                "__text": "\" Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Ажурирајте на најновију верзију апликације Музика за слушање музике високог квалитета.\""
+            },
+            {
+                "_name": "upgrade_to",
+                "__text": "Надогради на"
+            },
+            {
+                "_name": "upgrade_waringing",
+                "__text": "\"Бићете у могућности да слушате само музику сачувану у офлајн режиму.\""
+            },
+            {
+                "_name": "valid_period",
+                "__text": "\"Вреди то: \""
+            },
+            {
+                "_name": "vip_expiration_message",
+                "__text": "\"Након што истекне ваше чланство, бићете само у могућности да стримујете музику од 128Kbps. Због законских ограничења, неке песме неће бити доступне за преузимање.\""
+            },
+            {
+                "_name": "vip_expiration_title",
+                "__text": "Чланство ускоро истиче"
+            },
+            {
+                "_name": "vip_recommend_title",
+                "__text": "Набавите виши квалитет музике"
+            },
+            {
+                "_name": "vip_required",
+                "__text": "Жао нам је, VIP је потребан"
+            }
+        ]
+    }
 }

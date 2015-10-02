@@ -283,10 +283,10 @@
   <string name="operator_setted_error_notify_title">Грешка SIM картице</string>
   <string name="other_exception_summary">"Немате повезивања са интернетом"</string>
   <string name="other_exception_title">Провера других проблема</string>
-  <string name="package_change_notification_summary">Dodirnite da saznate više.</string>
-  <string name="package_change_notification_title">Podesite ograničenje podataka automatski</string>
-  <string name="package_setted_error_notification_summary">Dodirnite za prikaz detalja o uporabi podataka.</string>
-  <string name="package_setted_error_notification_titile">"Ne mogu postaviti plan podataka"</string>
+  <string name="package_change_notification_summary">Додирните да сазнате више.</string>
+  <string name="package_change_notification_title">Подесите ограничење података аутоматски</string>
+  <string name="package_setted_error_notification_summary">Додирните за приказ детаља о употреби података.</string>
+  <string name="package_setted_error_notification_titile">"Не могу подесити план података"</string>
   <string name="pay_charge">Доплата</string>
   <string name="per_month_pkg_traffic_settings">Подеси ограничење података</string>
   <string name="permission_exception_summary">"Неке апликације немају допуштење за повезивање на интернет"</string>
