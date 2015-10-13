@@ -442,6 +442,7 @@
   <string name="fdn_disabled">Бројеви за фиксно бирање су искњучени</string>
   <string name="fdn_enable_puk2_requested">Лозинка није тачна, PIN2 је блокиран. Промените PIN2 и покушајте поново!</string>
   <string name="fdn_enabled">Бројеви за фиксно бирање су укључени</string>
+  <string name="fdn_full">"FDN није ажуриран јер је листа пуна."</string>
   <string name="fdn_failed">Операција FDN није успела.</string>
   <string name="fdn_invalid_number">FDN није ажуриран јер не може премашивати 20 речи.</string>
   <string name="fdn_service_unavailable">FDN услуга није доступна.</string>

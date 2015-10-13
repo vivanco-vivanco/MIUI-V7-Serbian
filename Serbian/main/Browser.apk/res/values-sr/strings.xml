@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Почетна страница</string>
-  <string name="abc_action_bar_home_description">Навигација на почетну</string>
-  <string name="abc_action_bar_up_description">Навигација горе</string>
+  <string name="abc_action_bar_home_description">На почетну</string>
+  <string name="abc_action_bar_up_description">Горе</string>
   <string name="abc_action_menu_overflow_description">Више</string>
   <string name="abc_action_mode_done">Завршено</string>
   <string name="accessibility_button_clear">Обриши унос</string>
@@ -22,8 +22,8 @@
   <string name="action">Пријава</string>
   <string name="action_menu_text_add_bookmark">Додај ознаку</string>
   <string name="action_menu_text_bandwidth">Bandwidth</string>
-  <string name="action_menu_text_bandwidth_off">Bandwidth/Искљ.</string>
-  <string name="action_menu_text_bandwidth_on">Bandwidth/Укљ.</string>
+  <string name="action_menu_text_bandwidth_off">Уштеда/Искљ.</string>
+  <string name="action_menu_text_bandwidth_on">Уштеда/Укљ.</string>
   <string name="action_menu_text_bookmark">Додај ознаку</string>
   <string name="action_menu_text_bookmark_added">Ознака додата</string>
   <string name="action_menu_text_copy_url">Копирај линк</string>
@@ -144,7 +144,7 @@
   <string name="choosertitle_sharevia">Дели путем</string>
   <string name="clear">Очисти</string>
   <string name="clear_history">Очисти историју</string>
-  <string name="clear_most_visited">Историја записа</string>
+  <string name="clear_most_visited">Недавно</string>
   <string name="clear_history_group">Очисти сву историју</string>
   <string name="clear_search_history">Очисти историју</string>
   <string name="clip_dialog_title">Отворите копирану везу?</string>
@@ -319,7 +319,7 @@
   <string name="homepage_delete_card_menu">Избриши</string>
   <string name="homepage_get_location">Добијање локације</string>
   <string name="homepage_get_location_failed">"Не могу добити информације, одаберите град"</string>
-  <string name="homepage_more_cards">Више картица</string>
+  <string name="homepage_more_cards">Више услуга</string>
   <string name="homepage_more_sites">Више web страница</string>
   <string name="homepage_search_hint">Претражи</string>
   <string name="homepage_top_card_menu">На врх</string>
@@ -465,7 +465,7 @@
   <string name="pref_accessibility_url_shortcut_enter_title">Брзи унос URL-a</string>
   <string name="pref_adblock_counts">Блокирано %d</string>
   <string name="pref_adblock_title">Блокирање реклама</string>
-  <string name="pref_auto_update_under_wifi">Ауто. ажурирај на WLAN-у</string>
+  <string name="pref_auto_update_under_wifi">Ажурирај користећи WLAN</string>
   <string name="pref_category_hint">Категорија</string>
   <string name="pref_autofill_enabled">Аутоматско попуњавање образаца</string>
   <string name="pref_autofill_enabled_summary">Попуњавање образаца са једним додиром</string>
@@ -525,7 +525,7 @@
   <string name="pref_development_visual_indicator">Омогућите визуални показивач</string>
   <string name="pref_enable_adblock_notification">Прикажи обавештења Блокирања реклама</string>
   <string name="pref_enable_news">Вести</string>
-  <string name="pref_enable_novels">Романи</string>
+  <string name="pref_enable_novels">Књиге</string>
   <string name="pref_enable_videos">Видеозаписи</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Изађи затварањем задње картице</string>
   <string name="pref_extras_reset_default">Врати на задато</string>
@@ -562,7 +562,7 @@
   <string name="pref_inverted_contrast">Контраст</string>
   <string name="pref_key_gesture_title">Дугмад &amp; геста</string>
   <string name="pref_notifications_hint">Обавештења</string>
-  <string name="pref_notifications_receive">Нова обавештења</string>
+  <string name="pref_notifications_receive">Обавештења</string>
   <string name="pref_notifications_title">Обавештења</string>
   <string name="pref_key_title">Подешавања Дугмади</string>
   <string name="pref_link_prefetch_dialogtitle">Предучитавање web страница</string>
@@ -811,10 +811,10 @@
   <string name="v5_deselect_all">Поништи</string>
   <string name="v5_edit_mode_title_empty">0 одабрано</string>
   <string name="v5_select_all">Одабери све</string>
-  <string name="version_check_button_checking">Провера</string>
-  <string name="version_check_button_default">Провера ажурирања</string>
+  <string name="version_check_button_checking">Проверавам...</string>
+  <string name="version_check_button_default">Провери за ажурирања</string>
   <string name="version_check_button_download_failed">Настави са преузимањем</string>
-  <string name="version_check_button_downloading">Преузимање</string>
+  <string name="version_check_button_downloading">Преузимање...</string>
   <string name="version_check_button_install">Инсталирај</string>
   <string name="version_check_button_newest">Нема доступних ажурирања</string>
   <string name="version_check_button_no_network">"Не могу се повезати на мрежу"</string>

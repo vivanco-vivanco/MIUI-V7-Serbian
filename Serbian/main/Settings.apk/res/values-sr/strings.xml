@@ -1112,7 +1112,7 @@
   <string name="edge_mode_clean">Брисање бафера система</string>
   <string name="edge_mode_clean_summary">Клизните на оба руба истовремено избришите бафер система</string>
   <string name="edge_mode_photo">Снимање фотографије</string>
-  <string name="edge_mode_photo_summary">Док сте у интерфејсу камере, додирните руб телефона да активирате окидач и додирните поново за снимање фотографије</string>
+  <string name="edge_mode_photo_summary">Док сте у систему камере, додирните двапут руб телефона да снимите фотографију</string>
   <string name="edge_mode_screenshot">Снимак екрана</string>
   <string name="edge_mode_screenshot_summary">Двапут додирните оба руба телефона да направите снимак екрана</string>
   <string name="emergency_tone_alert">Упозорење</string>
@@ -2711,6 +2711,7 @@
   <string name="sound_category_system_title">Систем</string>
   <string name="sound_effects_enable_title">Звукови додира</string>
   <string name="sound_settings">"Звук"</string>
+  <string name="sound_vibrate_settings">Звук &amp; Вибрација</string>
   <string name="spellchecker_language">Језик</string>
   <string name="spellchecker_quick_settings">Подешавање</string>
   <string name="spellchecker_security_warning">Овај алат за проверу правописа може прикупљати сав текст који уписујете, укључујући личне податке као што су лозинке и бројеви кредитних картица. Долази са апликације %1$s. Употребљавати тај алат за проверу правописа?</string>
@@ -2749,10 +2750,10 @@
   <string name="status_bar_settings_custom_carrier">Уреди назив провајдера услуга</string>
   <string name="status_bar_settings_custom_notification">Управљај обавештењима</string>
   <string name="status_bar_settings_custom_wifi_name">Уреди назив WLAN-a</string>
-  <string name="status_bar_settings_enable_notification">Допусти обавештења</string>
+  <string name="status_bar_settings_enable_notification">Прикажи обавештења</string>
   <string name="status_bar_settings_expandable_under_keyguard">Прикажи на закључаном екрану</string>
   <string name="status_bar_settings_long_click_sort">Кликни &amp; држи за преузети пречицу</string>
-  <string name="status_bar_settings_manage_notification">Управљај обавештењима</string>
+  <string name="status_bar_settings_manage_notification">Обавештења апликација</string>
   <string name="status_bar_settings_no_carrier">Ништа</string>
   <string name="status_bar_settings_notification_bar">Панел обавештења</string>
   <string name="status_bar_settings_notification_led">Светло обавештења</string>
@@ -2763,7 +2764,7 @@
   <string name="status_bar_settings_show_carrier_summary">Назив оператера се и даље приказује на Закљ. екрану и панелу обавештења када је ова функција искључена</string>
   <string name="status_bar_settings_show_flow_info">Прикажи детање тока</string>
   <string name="status_bar_settings_show_home_message">Значка иконе апликације</string>
-  <string name="status_bar_settings_show_keyguard_notification">Прикажи пливајућа обавештења</string>
+  <string name="status_bar_settings_show_keyguard_notification">Пливајућа обавештења и закљ. екран</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Прикажи пливајућа обавештења на закључаном екрану и свуда другде</string>
   <string name="status_bar_settings_show_network_speed">Прикажи брзину везе</string>
   <string name="status_bar_settings_show_notificationBar_notification">Прикажиу панелу</string>

@@ -530,6 +530,8 @@
   <string name="traffic_saving_msg_today">Уштеда данас</string>
   <string name="traffic_saving_need_optimize">Може бити оптимизовано</string>
   <string name="traffic_saving_notification_button_start">Активирај</string>
+  <string name="traffic_saving_notify_no_apps_saving">Нема аплик. које користе уштеду</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Додирните за укључивање уштеде.</string>
   <string name="traffic_saving_notify_start_content">Уштеда за овај месец %s</string>
   <string name="traffic_saving_notify_start_title">Ваша употреба података је смањена</string>
   <string name="traffic_saving_one_key_optimize">Оптимизуј за уштеду података</string>

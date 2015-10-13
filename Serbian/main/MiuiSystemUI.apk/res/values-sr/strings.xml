@@ -197,7 +197,8 @@
   <string name="status_bar_settings_airplane">"Авионски начин"</string>
   <string name="status_bar_settings_signal_meter_disconnected">"Нема интернет везе"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">"WLAN је повезан"</string>
-  <string name="status_bar_style_settings">Obavijesti</string>
+  <string name="status_bar_style_settings">Обавештења</string>
+  <string name="task_access_locked_app_msg">"Садржај апликације је сакривен."</string>
   <string name="title_usb_accessory">USB додатак</string>
   <string name="torch_activity_hint">Држи [икону] за укључивање лампе на екрану</string>
   <string name="torch_activity_name">Лампа</string>

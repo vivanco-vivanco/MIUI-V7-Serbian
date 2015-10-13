@@ -1275,6 +1275,7 @@
   <string name="voicemail_status_configure_voicemail">Подесите говорну пошту.</string>
   <string name="voicemail_status_messages_waiting">Није могућа веза са сервером. Нове говорне поруке су на чекању.</string>
   <string name="voicemail_status_voicemail_not_available">Није могуће повезати се са сервером говорне поште.</string>
+  <string name="voip_name">Mi Voice</string>
   <string name="websiteLabelsGroup">Веб-сајт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Избриши податке</string>

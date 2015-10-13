@@ -12,7 +12,7 @@
   <string name="notif_receive_cancel">Непослатих датотека: %1$s</string>
   <string name="notif_receive_lockscreen">Додирните за приказ детаља</string>
   <string name="notif_receive_progress">Примање: %1$s…</string>
-  <string name="notif_receive_success">Прмљено: %1$s</string>
+  <string name="notif_receive_success">Примљено: %1$s</string>
   <string name="notif_send_cancel">Пренос датотека на %1$s прекинут</string>
   <string name="notif_send_cancel_multi">Пренос датотека на %1$s+%2$ прекинут</string>
   <string name="notif_send_progress">Пренос датотека на %1$s…</string>
@@ -42,7 +42,7 @@
   <string name="receiver_video_file_current">Примање %2$d​ од %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ од %1$s</string>
   <string name="send_file_time_format_m">м:с</string>
-  <string name="send_file_time_format_s">с секунда</string>
+  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Немој слати"</string>
   <string name="sender_complete">Готово</string>
   <string name="sender_fail">"Не могу послати"</string>
