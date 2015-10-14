@@ -305,7 +305,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="sync_dspt_entrance_provision_confirm_open">Користи Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Не можете користити Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
-  <string name="sync_dspt_provision">""Синхронизација ваше фотографије, контакте, белешке, и више између ваших уређаја или приступите на "
+  <string name="sync_dspt_provision">"Синхронизација ваше фотографије, контакте, белешке, и више између ваших уређаја или приступите на "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Можете укључити/искључити ту функцију било када у поставкама.
