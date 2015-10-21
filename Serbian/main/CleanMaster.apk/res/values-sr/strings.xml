@@ -279,8 +279,6 @@
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podataka u panelu obavijesti</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
   <string name="tips_of_virus_scan">Skenirajte redovito svoj uređaj za virusima da ga zadržite sigurnim</string>
-  <string name="title_auto_cleaner">Аутоматски очистити?</string>
-  <string name="title_delete_cache">Избрисати податке бафера?</string>
   <string name="title_delete_clipboard">Садржај бафера</string>
   <string name="title_delete_large_file">Избрисати oве датотеке?</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
