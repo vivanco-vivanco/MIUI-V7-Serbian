@@ -4,11 +4,15 @@
   <string name="all_call_livetalk_remain_mins">Преостало минута: (%1$s домаће) | %2$s (%3$s)</string>
   <string name="alwaysUsePrompt">"Запамти овај избор"</string>
   <string name="auto_start_warning_allow">Допусти</string>
+  <string name="apply_password_action">Postavi zaporku</string>
+  <string name="apply_password_confirm_dlg_msg">Potrebna zaporka za %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Ova zaporka će se koristiti za %s</string>
   <string name="auto_start_warning_deny">Одбиј</string>
   <string name="auto_start_warning_title">Допустити %s ауто. покретање?</string>
   <string name="call_record_or">" Или "</string>
   <string name="call_record_sample_prefix_miui">Позив</string>
   <string name="caller_info_name_delimiter">" Или "</string>
+  <string name="cancel_action">Odustani</string>
   <string name="copy">Копирај</string>
   <string name="cut">Изрежи</string>
   <string name="fc_dialog_body">Послати извештај о грешци Mi за анализу? Овај извештај може садржати личне податке. Ваш извештај ће се користити за помоћ при решавању ове грешке и никада се неће делити у комерцијалном контексту.</string>
@@ -60,6 +64,9 @@
   <string name="screen_rotation_freeze_message">Ауто. ротација онемогућена.</string>
   <string name="select">Одабери</string>
   <string name="select_all">Одабери све</string>
+  <string name="set_password_action">Postavite zaporku</string>
+  <string name="set_password_message">Postaviti novu zaporku?</string>
+  <string name="set_password_title">Postavite zaporku</string>
   <string name="shutdown_confirm_title">"Ваш телефон ће се искључити."</string>
   <string name="shutdown_progress">"Искључивање…"</string>
   <string name="sim_added_reboot_confirm">Поново покрени</string>

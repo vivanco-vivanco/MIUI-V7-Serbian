@@ -47,5 +47,10 @@
         <item>Датотека</item>
         <item>Направи Сиг. копију  деинсталирај</item>
         <item>Деинсталирај</item>
+	</string-array>
+	<string-array name="auto_alert_apps_time">
+        <item>Svakih 7 dana</item>
+        <item>Svakih 15 dana</item>
+        <item>Svakih 30 dana</item>
     </string-array>
 </resources>

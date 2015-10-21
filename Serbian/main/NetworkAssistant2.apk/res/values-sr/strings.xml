@@ -515,6 +515,7 @@
   <string name="traffic_saving_button_start">Укључи</string>
   <string name="traffic_saving_button_stop">Искључи</string>
   <string name="traffic_saving_can_optimized">Оптимизуј</string>
+  <string name="traffic_saving_detail">Detalji</string>
   <string name="traffic_saving_history_title">Историја</string>
   <string name="traffic_saving_history_total_money">Укупна уштеда</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -525,6 +526,7 @@
   <string name="traffic_saving_history_total_rate">Уштеда</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Уштеђено података</string>
+  <string name="traffic_saving_mobile_usage">Uporaba podataka</string>
   <string name="traffic_saving_msg_month">Месечна уштеда:</string>
   <string name="traffic_saving_msg_not_started">Искључено</string>
   <string name="traffic_saving_msg_today">Уштеда данас</string>
@@ -544,6 +546,7 @@
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Аутоматски активирај уштеду података ради смањивања промета мобилне мреже са подацима.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg operatera.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Активирај</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Уштеда података</string>
   <string name="traffic_saving_toast_start_mobile">Уштеда података укључена</string>
   <string name="traffic_saving_toast_start_none_mobile">Уштеда почиње приликом коришћења нових података</string>

@@ -20,6 +20,7 @@
   <string name="account_error_shorter_user_name">Име мора бити дуже од 2 знака</string>
   <string name="account_error_user_birthday">Рођендан који сте унели није важећи</string>
   <string name="account_learn_more_title">Направите Mi Рачун бесплатно</string>
+  <string name="account_limit_update_birthday">Žao nam je, ne možemo obraditi vaš zahtjev u ovom trenutku.</string>
   <string name="account_name">Рачун: %1$s</string>
   <string name="account_no_set">Ништа</string>
   <string name="account_none">Ништа</string>

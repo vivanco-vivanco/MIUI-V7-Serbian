@@ -691,6 +691,10 @@
         <item>Ручно повезивање</item>
         <item>Увек питај</item>
     </string-array>
+	<string-array name="common_password_business_names">
+        <item>Zaklj. zaslona</item>
+        <item>Dječji način</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 минута</item>
         <item>15 минута</item>

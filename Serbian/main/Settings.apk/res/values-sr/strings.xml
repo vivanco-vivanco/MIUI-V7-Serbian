@@ -94,6 +94,19 @@
   <string name="add_auto_startup_application">Додај апликацију</string>
   <string name="add_device_admin">Активирај</string>
   <string name="add_device_admin_msg">Желите ли да активирате администратор уређаја?</string>
+  <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
+  <string name="add_fingerprint_done_title">Done!</string>
+  <string name="add_fingerprint_finished_button_text">Done</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj otisak prsta, stavite prst na senzor.
+Provjerite da li vaš prst pokriva unutarnji rub senzora"</string>
+  <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta</string>
+  <string name="add_fingerprint_instruction_title">Postavite prst na skener otiska prsta</string>
+  <string name="add_fingerprint_move_finger_title">Maknite prst</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
+  <string name="add_fingerprint_put_finger_msg">Nakon pritiska na senzor, maknite prst i ponovite.</string>
+  <string name="add_fingerprint_put_finger_title">Stavite prst</string>
+  <string name="add_fingerprint_text">Dodaj otisak prsta</string>
+  <string name="add_fingerprint_toast_text">Postavite prst na skener</string>
   <string name="adding_profile_owner_warning">"Ако наставите, вашим ће корисником управљати администратор, који може и сачувати повезане податке, као и ваше личне податке.
 
 Администратор може надзирати подешавања, приступ, апликације и податке повезане са овим Корисником и њима управљати, укључујући мрежну активност и податке о локацији вашег уређаја."</string>
@@ -198,7 +211,7 @@
   <string name="app_notification_sensitive_summary">Када је уређај заључан, сакриј осетљиви садржај у обавештењима те апликације</string>
   <string name="app_notification_sensitive_title">Осетљиво</string>
   <string name="app_notifications_dialog_done">Готово</string>
-  <string name="app_notifications_switch_label">Прикажи обавештења</string>
+  <string name="app_notifications_switch_label">Oбавештења</string>
   <string name="app_notifications_title">Обавештења апликације</string>
   <string name="app_ops_never_used">(Никада није коришћено)</string>
   <string name="app_ops_running">Активно</string>
@@ -220,7 +233,9 @@
   <string name="applications_settings">Апликације</string>
   <string name="applications_settings_header">Подешавања апликације</string>
   <string name="applications_settings_summary">Управљање апликацијама, подешавање пречица за брзо покретање</string>
+  <string name="apply_fingerprint_to_category_title">Primijeni otisak prsta za…</string>
   <string name="apply_now_button_text">Ажурирај</string>
+  <string name="apply_password_to_category_title">Primijeni zaporku za…</string>
   <string name="apply_update_fail">Ажурирање система није успело.</string>
   <string name="apps_with_restrictions_header">Апликације са ограничењима</string>
   <string name="apps_with_restrictions_settings_button">Прошири подешавања апликације</string>
@@ -912,6 +927,10 @@
   <string name="default_sound">Задати звук</string>
   <string name="default_usb_mode">USB веза</string>
   <string name="delete">Избриши</string>
+  <string name="delete_fingerprint_confirm_msg">Ukloniti otisak prsta?</string>
+  <string name="delete_fingerprint_text">Ukloni</string>
+  <string name="delete_legacy_fingerprint">Izbriši</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati podatke o otisku prsta?</string>
   <string name="deny">Одбиj</string>
   <string name="deny_sms_message">"Не допустити инсталираним апликацијама слање SMS-a"</string>
   <string name="deny_sms_title">Закључај SMS</string>
@@ -1213,6 +1232,11 @@
   <string name="filter_apps_running">Покретање</string>
   <string name="filter_apps_third_party">Преузето</string>
   <string name="filter_dlg_title">Избор опција филтера</string>
+  <string name="fingerprint_and_password_entrance_title">Zaporka &amp; Otisak prsta</string>
+  <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
+  <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
+  <string name="fingerprint_identify_try_again_msg">"Nije moguće skenirati, pokušajte ponovo"</string>
+  <string name="fingerprint_list_title">Otisak prsta</string>
   <string name="finish_application">Присилно застави</string>
   <string name="finish_button_label">Заврши</string>
   <string name="firmware_version">Андроид верзија</string>
@@ -1356,6 +1380,7 @@
   <string name="incoming_call_breathing_light_color_title">Боја LED-a код позива</string>
   <string name="incoming_call_breathing_light_freq_title">Фреквенција треперења LED-a код позива</string>
   <string name="incoming_call_volume_title">Звук звона</string>
+  <string name="information_dialog_button_text">Shvaćam</string>
   <string name="input_method">Метод улаза</string>
   <string name="input_method_selector">Бирање метода уноса</string>
   <string name="input_method_selector_always_hide_title">Увек сакриј</string>
@@ -1403,6 +1428,7 @@
   <string name="join_many_items_last">%1$s и %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s и %2$s</string>
+  <string name="keep_legacy_fingerprint">Čuvaj</string>
   <string name="keep_screen_on">Не закључавај</string>
   <string name="keep_screen_on_summary">Екран неће бити у режиму спавања током пуњења</string>
   <string name="kernel_version">Верзија језгра</string>
@@ -1690,6 +1716,7 @@
   <string name="master_clear_progress_title">Брисање</string>
   <string name="master_clear_summary">Брише све податке у телефону</string>
   <string name="master_clear_title">Враћање фабричких података</string>
+  <string name="max_fingerprint_number_reached">"Nije moguće dodati više od 5 otisaka prstiju. Da dodate otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
   <string name="max_cpu6_info">"6 језгрени "</string>
   <string name="max_cpu8_info">"8 језгрени "</string>
   <string name="media_button">Медијско дугме</string>
@@ -2033,6 +2060,7 @@
   <string name="page_layout_page2_title">Преглед</string>
   <string name="page_layout_small_title">Ситан</string>
   <string name="passwordIncorrect">Лозинка коју сте унели није тачна</string>
+  <string name="password_entrance_title">Zaporka</string>
   <string name="password_guard">Лозинка</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Перформансе</string>
@@ -2518,6 +2546,7 @@
   <string name="search_wallpaper">слика позадине</string>
   <string name="search_wifi">wlan</string>
   <string name="search_wifi_display">бежични екран</string>
+  <string name="secure_keyguard_business_title">Zaporka zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Будући да сте укључили услугу приступачности, ваш уређај неће употребљавати PIN или лозинку за закључавање екран за боље шифровање података.</string>
   <string name="security_enable_widgets_disabled_summary">Онемогућио администратор</string>
   <string name="security_enable_widgets_title">Омогући widgete</string>
@@ -2733,7 +2762,7 @@
   <string name="status_bar_and_notification_bar">Панел обавештења и статусна трака</string>
   <string name="status_bar_app_disable_notification">Сакриј обавештења</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Закљ. екран, Панел обавештења</string>
-  <string name="status_bar_app_enable_on_notificationBar">Прикажи у панелу Обавештења</string>
+  <string name="status_bar_app_enable_on_notificationBar">Панел Обавештења</string>
   <string name="status_bar_filter_item_description">За подешавање обавештења, идите у мени Општа подешавања &gt;Обавештења &gt; Управљање обавештењима</string>
   <string name="status_bar_filter_item_preview_image">Преглед</string>
   <string name="status_bar_key_position_custom">Прилагођена позиција тастера</string>
@@ -2972,9 +3001,11 @@ Google-ов приступ синхронизацији података за м
   <string name="tts_status_ok">%1$s је у потпуности подржан</string>
   <string name="tts_status_requires_network">%1$s захтева везу са мрежом</string>
   <string name="tts_status_title">Статус задатог језика</string>
+  <string name="turn_off_common_password_confirm_msg">Zaporka će također biti isključena.</string>
   <string name="turn_off_radio">Искључи радио</string>
   <string name="turn_off_security_lock">Искључи закључавање екрана</string>
   <string name="turn_on_radio">Укључи радио</string>
+  <string name="turn_on_security_lock">Dodaj sigurnosnu zaporku</string>
   <string name="uicc_eject">Искључи UICC меморију</string>
   <string name="uicc_eject_summary">Искључите UICC меморију, тако да је можете уклонити на сигуран начин</string>
   <string name="uicc_format">Избриши UICC меморију</string>

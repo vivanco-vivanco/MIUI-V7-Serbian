@@ -158,8 +158,8 @@
   <string name="return_to_incall_screen">Повратак на позив</string>
   <string name="screen_button_notification_text">"Да их укључите, истовремено притисните дирке \"Почетна\" и \"Напајање\"."</string>
   <string name="screen_button_notification_title">Навигационе дирке су искључене.</string>
-  <string name="screen_pinning_description">Ово се не приказује док не одзначите. Додирните и задржите Назад и преглед у исто време да откачите.</string>
-  <string name="screen_pinning_description_accessible">Ово се приказује све док не одзначите. Додирните и задржите преглед да Одкачите.</string>
+  <string name="screen_pinning_description">Ово се не приказује док не одзначите. Додирните и задржите \"Почетна\" и \"Напајање\" у исто време да откачите.</string>
+  <string name="screen_pinning_description_accessible">Ово се приказује све док не одзначите. Додирните у исто време \"Почетна\" и \"Напајање\" да откачите.</string>
   <string name="screen_pinning_negative">Не хвала</string>
   <string name="screen_pinning_positive">Разумем</string>
   <string name="screen_pinning_title">Екран је прикачен</string>
