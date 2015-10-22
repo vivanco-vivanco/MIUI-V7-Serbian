@@ -87,7 +87,7 @@
   <string name="shutdown_alarm_title">Искључи аларм</string>
   <string name="silent_alarm_summary">Бешумно</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
-  <string name="skip_alarm_once_hint">Isključi jednom u %s</string>
+  <string name="skip_alarm_once_hint">Искључи једном у %s</string>
   <string name="slider_text">Повуците горе за гашење аларма</string>
   <string name="snooze_confirm_cancel">Откажи одлагање</string>
   <string name="snooze_duration_title">Трајање одлагања</string>
@@ -112,10 +112,10 @@
   <string name="timer_start_alarm">"Време је истекло!"</string>
   <string name="timer_title">Коментар</string>
   <string name="timezone_exist_error_message">"Већ приказујете временску зону"</string>
-  <string name="today">Danas</string>
-  <string name="tomorrow">Sutra</string>
-  <string name="turn_off_a_repeat_alarm">Isključite ponavljajući alarm</string>
-  <string name="turn_off_this_repeat_alarm">Isključite ovaj ponavljajući alarm</string>
+  <string name="today">Данас</string>
+  <string name="tomorrow">Сутра</string>
+  <string name="turn_off_a_repeat_alarm">Искључите понављајући аларм</string>
+  <string name="turn_off_this_repeat_alarm">Искључите овај понављајући аларм</string>
   <string name="vibrate_pref_summary">Вибрација када се огласи аларм</string>
   <string name="vibrate_when_ringing">Вибрација код позива</string>
   <string name="volume_button_setting_summary">Подешавање тастера гласноће током оглашавања аларма</string>

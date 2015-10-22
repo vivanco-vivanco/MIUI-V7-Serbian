@@ -62,7 +62,7 @@
   <string name="androidesk_wallpapers">Андроид слике позадине</string>
   <string name="aperture">Отвор бленде</string>
   <string name="app_name">Галерија</string>
-  <string name="app_name_edit_picture">Uredi sliku</string>
+  <string name="app_name_edit_picture">Уреди слику</string>
   <string name="app_name_view_picture">Прикажи слику</string>
   <string name="apply">Примени</string>
   <string name="appwidget_empty_text">Нема фотографија.</string>
@@ -121,9 +121,9 @@
   <string name="by_others">Остало</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno. Da ubrzate ovaj proces, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će biti poredane postupno.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Poredano fotografija iz %1$s do sada. Preostale fotografije će uskoro biti poredane.</string>  
+  <string name="calculated_pictures_time_tip">Поређано фотографија из %1$s до сада. Преостале фотографије ће бити поређане постепено. Да убрзате овај процес, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Поређано фотографија из %1$s до сада. Преостале фотографије ће бити поређане постепено.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Поређано фотографија из %1$s до сада. Преостале фотографије ће ускоро бити поређане.</string>  
   <string name="camera_black_white">Фотоапарат црно бело</string>
   <string name="camera_connected">Фотоапарат укључен.</string>
   <string name="camera_disconnected">Фотоапарат је искључен.</string>
@@ -765,7 +765,7 @@
   <string name="view_baby_album">Прикажи дечији албум</string>
   <string name="view_baby_info">Уреди информације о детету</string>
   <string name="view_face_album">Погледај албум</string>
-  <string name="view_queuing_status">Provjerite status</string>
+  <string name="view_queuing_status">Проверите статус</string>
   <string name="view_sharers">Погледај учеснике</string>
   <string name="vignette">Вињета</string>
   <string name="wallpaper">Слика позадине</string>

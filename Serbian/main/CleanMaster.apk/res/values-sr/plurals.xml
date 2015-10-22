@@ -5,36 +5,36 @@
         <item quantity="one">%d група</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">Prije %1$d min.</item>
-        <item quantity="zero">Prije %1$d min.</item>
-        <item quantity="one">Prije %1$d min.</item>
-        <item quantity="two">Prije %1$d min.</item>
-        <item quantity="few">Prije %1$d min.</item>
-        <item quantity="many">Prije %1$d min.</item>
+        <item quantity="other">Пре %1$d мин.</item>
+        <item quantity="zero">Пре %1$d мин.</item>
+        <item quantity="one">Пре %1$d мин.</item>
+        <item quantity="two">Пре %1$d мин.</item>
+        <item quantity="few">Пре %1$d мин.</item>
+        <item quantity="many">Пре %1$d мин.</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">Prije %1$d sati</item>
-        <item quantity="zero">Prije %1$d sati</item>
-        <item quantity="one">Prije %1$d sat</item>
-        <item quantity="two">Prije %1$d sata</item>
-        <item quantity="few">Prije %1$d sati</item>
-        <item quantity="many">Prije %1$d sati</item>
+        <item quantity="other">Пре %1$d сати</item>
+        <item quantity="zero">Пре %1$d сати</item>
+        <item quantity="one">Пре %1$d сат</item>
+        <item quantity="two">Пре %1$d сата</item>
+        <item quantity="few">Пре %1$d сати</item>
+        <item quantity="many">Пре %1$d сати</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">Prije %1$d dana</item>
-        <item quantity="zero">Prije %1$d dana</item>
-        <item quantity="one">Prije %1$d dan</item>
-        <item quantity="two">Prije %1$d dana</item>
-        <item quantity="few">Prije %1$d dana</item>
-        <item quantity="many">Prije %1$d dana</item>
+        <item quantity="other">Пре %1$d дана</item>
+        <item quantity="zero">Пре %1$d дана</item>
+        <item quantity="one">Пре %1$d дан</item>
+        <item quantity="two">Пре %1$d дана</item>
+        <item quantity="few">Пре %1$d дана</item>
+        <item quantity="many">Пре %1$d дана</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Preuzelo %1$d osoba</item>
+        <item quantity="other">Преузело %1$d особа</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Preuzelo %1$d osoba</item>
+        <item quantity="other">Преузело %1$d особа</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Preuzelo %1$d osoba</item>
+        <item quantity="other">Преузело %1$d особа</item>
     </plurals>
 </resources>

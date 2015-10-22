@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string name="app_label">HTML pregledač</string>
-   <string name="app_name_which_call">Aplikacija: %s</string>
-   <string name="app_version_which_call">Verzija: %s</string>
-   <string name="license_host_unreachable">"Ne mogu se povezati s mrežom. Za pregled ove informacije,
-idite na %s"</string>
-   <string name="loading">Učitavanje…</string>
-   <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
-   <string name="policy_name">Pravilo:%s</string>
+   <string name="app_label">HTML претраживач</string>
+   <string name="app_name_which_call">Апликација: %s</string>
+   <string name="app_version_which_call">Верзија: %s</string>
+   <string name="license_host_unreachable">"Не могу се повезати са мрежом. за преглед ове информације,
+идидте на %s"</string>
+   <string name="loading">Учитавање...</string>
+   <string name="mibi_license">Mi Кредит Услови Пружања Услуге</string>
+   <string name="policy_name">Правило:%s</string>
 </resources>

@@ -49,8 +49,8 @@
         <item>Деинсталирај</item>
 	</string-array>
 	<string-array name="auto_alert_apps_time">
-        <item>Svakih 7 dana</item>
-        <item>Svakih 15 dana</item>
-        <item>Svakih 30 dana</item>
+        <item>Сваких 7 дана</item>
+        <item>Сваких 15 дана</item>
+        <item>Сваких 30 дана</item>
     </string-array>
 </resources>
