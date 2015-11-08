@@ -694,6 +694,7 @@
 	<string-array name="common_password_business_names">
         <item>Zaklj. zaslona</item>
         <item>Dječji način</item>
+        <item>File explorer</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 минута</item>
