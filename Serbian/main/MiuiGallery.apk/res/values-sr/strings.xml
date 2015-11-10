@@ -789,4 +789,8 @@
   <string name="yes">Да</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">Џепна камера</string>
+  <string name="contact_tip">Kontakti</string>
+  <string name="input_a_name">Unesite ime</string>
+  <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
+  <string name="kilobyteShort">KB</string>
 </resources>

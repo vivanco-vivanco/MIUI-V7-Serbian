@@ -86,4 +86,15 @@ ID Уређај мора бити исправан IMEI или MAC адреса.
   <string name="sync_notification_title_format">Синхронизујем: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF детаљи активације</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS poruka poslana za aktiviranje \"Pronađi uređaj\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS poruka poslana sa SIM kartice %s za aktiviranje \"Pronađi uređaj\"</string>
+  <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
+  <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
+  <string name="activate_feature_verify_mx_token">Provjera Mi Računa</string>
+  <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice otkazano</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s otkazano</string>
+  <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
+  <string name="activate_phone_success_notif_title_msim">SIM kartica %s aktivirana</string>
+  <string name="activate_popup_desc_find_device_postfix">SMS aktivacije će biti poslan nakon promjenite SIM kartice.</string>
+  <string name="activate_status_desc_completed_with_sms_sent">SMS poslan za aktiviranje SIM-a</string>
 </resources>

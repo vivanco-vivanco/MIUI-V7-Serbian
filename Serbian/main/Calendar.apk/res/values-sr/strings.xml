@@ -363,4 +363,5 @@
   <string name="yearly">Годишње (сваке %s)</string>
   <string name="yearly_plain">Годишње</string>
   <string name="zhushen"/>
+  <string name="notification_online">Novi događaj %1$s: %2$s</string>
 </resources>

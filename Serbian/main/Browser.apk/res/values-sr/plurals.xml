@@ -20,4 +20,20 @@
        <item quantity="other">Блокирано ставки: %d</item>
        <item quantity="one">%d ставка блокирана</item>
     </plurals>
+	    <plurals name="video_download_clear_info">
+        <item quantity="other">Uspješno uklonjeno %1$d videozapisa.</item>
+        <item quantity="one">Uspješno uklonjen %1$d videozapis.</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Izbrisati %1$d videozapisa?</item>
+        <item quantity="one">Izbrisati %1$d videozapis?</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">Uspješno uklonjeno %1$d stavki iz povijesti.</item>
+        <item quantity="one">Uspješno uklonjena %1$d stavka iz povijesti.</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Izbrisati %1$d stavki iz povijesti?</item>
+        <item quantity="one">Izbrisati %1$d stavku iz povijesti?</item>
+     </plurals>
 </resources> 

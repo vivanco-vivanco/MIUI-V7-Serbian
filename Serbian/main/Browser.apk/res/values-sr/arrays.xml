@@ -97,4 +97,8 @@
        <item>yahoo</item>
        <item>bing</item>
     </string-array>
+	  <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+     </string-array>
 </resources>

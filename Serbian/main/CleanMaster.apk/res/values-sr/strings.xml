@@ -321,4 +321,7 @@
   <string name="white_list_title">Изузеци</string>
   <string name="year_month_day_format">dd.MMM.yyyy</string>
   <string name="yesterday">Јуче</string>
+  <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
+  <string name="start_install">Instaliraj sada</string>
+  <string name="there_is_no">Sve izgleda dobro, vratiti se kasnije</string>
 </resources>

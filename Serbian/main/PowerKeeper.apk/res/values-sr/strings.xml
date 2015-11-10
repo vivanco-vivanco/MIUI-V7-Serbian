@@ -132,4 +132,6 @@
   <string name="still">Слика</string>
   <string name="ui">Стандардно</string>
   <string name="user_define_mode">Назив</string>
+  <string name="app_list_total">Aplikacija: %d</string>
+  <string name="config_mode_title">Postavke</string>
 </resources>

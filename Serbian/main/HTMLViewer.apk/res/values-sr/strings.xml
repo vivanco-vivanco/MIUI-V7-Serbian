@@ -8,4 +8,7 @@
    <string name="loading">Учитавање...</string>
    <string name="mibi_license">Mi Кредит Услови Пружања Услуге</string>
    <string name="policy_name">Правило:%s</string>
+   <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
+   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+   <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>
 </resources>

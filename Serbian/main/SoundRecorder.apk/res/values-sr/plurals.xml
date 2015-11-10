@@ -4,4 +4,12 @@
         <item quantity="other">Preuzeto(%d ) snimaka</item>
         <item quantity="one">%d snimka preuzeta</item>
     </plurals>
+	     <plurals name="local_records_count">
+        <item quantity="other">Stavaka: %d</item>
+        <item quantity="one">Stavaka: %d</item>
+     </plurals>
+     <plurals name="unsynced_records_count">
+        <item quantity="other">%d nije sinkr.</item>
+        <item quantity="one">%d nije sinkr.</item>
+     </plurals>
 </resources> 

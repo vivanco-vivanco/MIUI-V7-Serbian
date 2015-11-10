@@ -70,4 +70,8 @@
 
 Додирните текст %s  да бисте покренули преузимање следећи пут када се повежете са WLAN мрежом."</string>
   <string name="wifi_required_title">Преузимање је превелико за мрежу оператера.</string>
+  <string name="download_apk_desktop_installing">Instaliranje…</string>
+  <string name="download_apk_desktop_pause">Pauzirano</string>
+  <string name="download_apk_desktop_pending">Na čekanju</string>
+  <string name="download_apk_desktop_running">Preuzimanje…</string>
 </resources>

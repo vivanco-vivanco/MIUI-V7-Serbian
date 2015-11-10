@@ -594,4 +594,9 @@
   <string name="wifi_exception_summary">Тест повезивања доступне WLAN мреже</string>
   <string name="wifi_exception_title">Тест WLAN мреже</string>
   <string name="wifi_network_blocked_notification_title">Нема повезивања са интернетом</string>
+  <string name="firewall_restrict_android_dialog_content">"Ako ne dopustite Androidu povezivanje s internetom, neke ključne značajke mogu biti time pogođene kao što je WLAN hotspot."</string>
+  <string name="firewall_restrict_android_dialog_title">Pažnja</string>
+  <string name="kilobyte_per_second">Kb/s</string>
+  <string name="megabyte_per_second">Mb/s</string>
+  <string name="traffic_saving_wifi_usage">WLAN uporaba</string>
 </resources>

@@ -250,4 +250,6 @@
   <string name="widget_favorite_contacts_style">Промена величине</string>
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Тражење</string>
+   <string name="apply_negative_action">"Ne postavljaj"</string>
+  <string name="cant_edit_lock_screen">"Ne mogu urediti stil zaklj. zaslona."</string>
 </resources>

@@ -80,4 +80,10 @@
        <item quantity="other">Додато песама: %d</item>
 	   <item quantity="one">Додата %d песма</item>
     </plurals>
+	     <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Preuzeti odabrane pjesme?"</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Nadogradite Premium pretplatu da biste preuzeli više."</item>
+   </plurals>
 </resources> 

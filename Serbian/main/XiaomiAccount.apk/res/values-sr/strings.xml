@@ -464,4 +464,7 @@
   <string name="wipe_data_dialog_title">"Неке ставке нису биле синхронизоване."</string>
   <string name="wrong_captcha">Код који сте унели је нетачан</string>
   <string name="wrong_vcode">Код провере које сте унели је нетачан</string>
+  <string name="passport_login_check_find_device">Provjera statusa Pronađi uređaj…</string>
+  <string name="passport_login_check_find_device_failed">"Ne mogu provjeriti status 'Pronađi uređaj'. Provjerite mrežnu vezu."</string>
+  <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s). Prijavite se da aktivirate ovaj uređaj.</string>
 </resources>
