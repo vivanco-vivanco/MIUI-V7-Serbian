@@ -63,7 +63,7 @@
         <item>2 дана</item>
     </string-array>
 	<string-array name="entries_date_type_rightvalue">
-        <item>Primljeno</item>
-        <item>Poslano</item>
+        <item>Примљено</item>
+        <item>Послато</item>
      </string-array>
 </resources>

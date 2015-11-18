@@ -1083,13 +1083,13 @@
   <string name="yes">Да</string>
   <string name="you_are_in_mobile_network">Послати дневник коришћењем мобилне везе са подацима? Ако прекорачите преко вашег ограничења података, ваш мобилни оператер вам може наплатити додатне трошкове.</string>
   <string name="zip_viewer_no_file">Нема датотека</string>
-  <string name="att_download_failed_network_slow">Mreža je spora, pokušajte preuzmeti kasnije</string>
-  <string name="calendar_remind_dialog_title">Podsjeti</string>
-  <string name="calendar_remind_gridview_month_later">Mjesec kasnije</string>
-  <string name="calendar_remind_gridview_nextweek">Drugi tjedan</string>
-  <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
-  <string name="calendar_remind_gridview_tomorrow">Sutra</string>
-  <string name="calendar_remind_gridview_tonight">Večeras</string>
-  <string name="calendar_remind_gridview_weekend">Vikend</string>
-  <string name="reply_add_bodycontent">Dodati brzi odgovor u sadržaj poruke?</string>
+  <string name="att_download_failed_network_slow">Мрежа је спора, покушајте преузети касније</string>
+  <string name="calendar_remind_dialog_title">Подсети</string>
+  <string name="calendar_remind_gridview_month_later">Месец касније</string>
+  <string name="calendar_remind_gridview_nextweek">Други дан</string>
+  <string name="calendar_remind_gridview_pick_date">Одабери датум</string>
+  <string name="calendar_remind_gridview_tomorrow">Сутра</string>
+  <string name="calendar_remind_gridview_tonight">Вечерас</string>
+  <string name="calendar_remind_gridview_weekend">Викенд</string>
+  <string name="reply_add_bodycontent">Додати брзи одговор у садржај поруке?</string>
 </resources>

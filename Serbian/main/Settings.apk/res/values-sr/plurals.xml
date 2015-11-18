@@ -77,11 +77,11 @@
         <item quantity="one">Још %1$d корак до улаза у пријављивање грешака.</item>
     </plurals>
 	     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s aplik. ne može prikazati obavijesti"</item>
-        <item quantity="one">"1 aplik. ne može prikazati obavijesti"</item>
+        <item quantity="other">"%s аплик. не може приказати обавештења"</item>
+        <item quantity="one">"1 аплик. не може приказати обавештења"</item>
      </plurals>
      <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s aplik. može prikazati obavijesti</item>
-        <item quantity="one">1 aplik. može prikazati obavijesti</item>
+        <item quantity="other">%s аплик. може приказати обавештења</item>
+        <item quantity="one">1 аплик. може приказати обавештење</item>
      </plurals>
 </resources> 

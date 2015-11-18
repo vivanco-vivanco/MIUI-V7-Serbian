@@ -356,14 +356,14 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="disable_find_device_success">"Pronađi uređaj" je isključeno.</string>
-  <string name="enable_find_device_success">"Pronađi uređaj" je uključeno.</string>
-  <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
-  <string name="find_device_error_unknown">Nepoznata pogreška.</string>
-  <string name="find_device_reading_status">Učitavanje statusa…</string>
-  <string name="find_device_reading_status_failure">"Ne mogu učitati status."</string>
-  <string name="micloud_all_sub_resend_sms">"Kada uključite "Pronađi uređaj", SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove značajke kada je otkrivena SIM kartica.
+  <string name="disable_find_device_success">"Pronђи уређај" је искључено.</string>
+  <string name="enable_find_device_success">"Пронађи уређај" је укључено.</string>
+  <string name="find_device_error_password_changed">Лозинка рачун је недавно промењена.</string>
+  <string name="find_device_error_unknown">Непозната грешка.</string>
+  <string name="find_device_reading_status">Учитавање статуса…</string>
+  <string name="find_device_reading_status_failure">"Не могу учитати статус."</string>
+  <string name="micloud_all_sub_resend_sms">"Када укључите "Пронађи уређај", SMS активације може бити послат након што примените SIM картице."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Ова функција може затражити ваш број телефона. Ваш оператер вам може наплатити SMS поруку коришћену за активирање ове функције када је откривена SIM картица.
 
-Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
+Ова функција шифрује и шаље ID вашег уређаја на Mi сервере."</string>
 </resources>

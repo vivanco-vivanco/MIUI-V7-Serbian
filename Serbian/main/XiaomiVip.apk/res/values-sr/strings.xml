@@ -65,29 +65,29 @@
   <string name="upgraded">Ниво Горе!</string>
   <string name="use">Користи</string>
   <string name="validity">Истиче на %s</string>
-  <string name="achieve_condition">Nagrađen za:</string>
-  <string name="achieved">ZARAĐENO</string>
-  <string name="achieved_time">Zarađeno na %s</string>
-  <string name="achievement_progress" formatted="false">Napredak: %d/%d</string>
-  <string name="achievements">Nagrade</string>
-  <string name="acquired_time_x">Primljeno %s</string>
-  <string name="awards">Nagrade</string>
-  <string name="copy_and_use">Otkupi</string>
-  <string name="daily_task">Dnevni izazovi</string>
-  <string name="device_answer_phone_times">Odgovorenih poziva</string>
-  <string name="device_charge_times">Napunjeno puta</string>
-  <string name="device_unlock_screen_times">Zaslon otključan</string>
-  <string name="device_usage_data">Uporaba telefona</string>
-  <string name="download_message">Preuzeti %s?</string>
+  <string name="achieve_condition">Награђен за:</string>
+  <string name="achieved">ЗАРАЂЕНО</string>
+  <string name="achieved_time">Зарађено на %s</string>
+  <string name="achievement_progress" formatted="false">Напредак: %d/%d</string>
+  <string name="achievements">Награде</string>
+  <string name="acquired_time_x">Примљено %s</string>
+  <string name="awards">Награде</string>
+  <string name="copy_and_use">Откупи</string>
+  <string name="daily_task">Дневни изазови</string>
+  <string name="device_answer_phone_times">Одговорених позива</string>
+  <string name="device_charge_times">Напуњено пута</string>
+  <string name="device_unlock_screen_times">Екран откључан</string>
+  <string name="device_usage_data">Употреба телефона</string>
+  <string name="download_message">Преузети %s?</string>
   <string name="download_progress">%d%%</string>
-  <string name="download_title">Preuzeti ovu aplikaciju?</string>
-  <string name="downloading">Preuzimanje…</string>
-  <string name="go">Napredak</string>
-  <string name="limit_task">Ograničeni izazovi</string>
+  <string name="download_title">Преузети ову апликацију?</string>
+  <string name="downloading">Преузимање…</string>
+  <string name="go">Напредак</string>
+  <string name="limit_task">Ограничени изазови</string>
   <string name="limit_task_format" formatted="false">%d/%d</string>
-  <string name="no_achievements">Prazno.</string>
-  <string name="redeem">Otkupi</string>
-  <string name="start_activity_error">"Ne mogu pokrenuti aplik.: %s"</string>
-  <string name="unachieved">DOSTUPNO</string>
-  <string name="use_immediately">Koristi sada</string>
+  <string name="no_achievements">Празно.</string>
+  <string name="redeem">Откупи</string>
+  <string name="start_activity_error">"Не могу покренути апл.: %s"</string>
+  <string name="unachieved">ДОСТУПНО</string>
+  <string name="use_immediately">Користи сада</string>
 </resources>

@@ -21,19 +21,19 @@
        <item quantity="one">%d ставка блокирана</item>
     </plurals>
 	    <plurals name="video_download_clear_info">
-        <item quantity="other">Uspješno uklonjeno %1$d videozapisa.</item>
-        <item quantity="one">Uspješno uklonjen %1$d videozapis.</item>
+        <item quantity="other">Успешно уклоњено %1$d видеозаписа.</item>
+        <item quantity="one">Успешно уклоњен %1$d видеозапис.</item>
      </plurals>
      <plurals name="video_download_clear_prompt">
-        <item quantity="other">Izbrisati %1$d videozapisa?</item>
-        <item quantity="one">Izbrisati %1$d videozapis?</item>
+        <item quantity="other">Избрисати %1$d видеозаписа?</item>
+        <item quantity="one">Избрисати %1$d видеозапис?</item>
      </plurals>
      <plurals name="video_history_clear_info">
-        <item quantity="other">Uspješno uklonjeno %1$d stavki iz povijesti.</item>
-        <item quantity="one">Uspješno uklonjena %1$d stavka iz povijesti.</item>
+        <item quantity="other">Успешно уклоњено %1$d ставки из историје.</item>
+        <item quantity="one">Успешно уклоњена %1$d ставка из историје.</item>
      </plurals>
      <plurals name="video_history_clear_prompt">
-        <item quantity="other">Izbrisati %1$d stavki iz povijesti?</item>
-        <item quantity="one">Izbrisati %1$d stavku iz povijesti?</item>
+        <item quantity="other">Избрисати %1$d ставки из историје?</item>
+        <item quantity="one">Избрисати %1$d ставку из историје?</item>
      </plurals>
 </resources> 

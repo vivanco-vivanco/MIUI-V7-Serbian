@@ -1323,12 +1323,12 @@
   <string name="xdivert_setting">X-Divert подешавања</string>
   <string name="xdivert_summary">CFNRc подешавања</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_sim_card">Umetnite SIM karticu</string>
-  <string name="not_activate_sim_card_content_title">"Telefon nije potvrđen"</string>
-  <string name="not_activate_sim_card_content_with_operator">"Paket nadoplate nije potvrđen za SIM karticu  %1$s(%2$s) koju ste odabrali. Pokušajte koristiti redovitu SIM za upućivanje tog poziva. Vaš opertaer će vam naplatiti ovaj poziv."</string>
-  <string name="not_sufficient_funds_content_title">Nedovoljno sredstava</string>
-  <string name="not_supported_number_content_title">Nije podržano</string>
-  <string name="verified">Provjereno</string>
-  <string name="verify_fialed">"Ne mogu provjeriti"</string>
-  <string name="verifying">Provjera…</string>
+  <string name="no_sim_card">Убаците SIM картицу</string>
+  <string name="not_activate_sim_card_content_title">"Телефон није потврђен"</string>
+  <string name="not_activate_sim_card_content_with_operator">"Пакет доплате није потврђен за SIM картицу  %1$s(%2$s) коју нисте одабрали. Покушајте да користите редовну SIM за упућивање тог позива. Ваш оператер ће вам наплатити овај позив."</string>
+  <string name="not_sufficient_funds_content_title">Недовољно средстава</string>
+  <string name="not_supported_number_content_title">Није подржано</string>
+  <string name="verified">Проверено</string>
+  <string name="verify_fialed">"Не могу проверити"</string>
+  <string name="verifying">Провера…</string>
 </resources>

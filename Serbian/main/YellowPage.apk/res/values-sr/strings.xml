@@ -544,5 +544,5 @@
   <string name="yellowpage_navigation_network_location_enabled">Приступ локацији је укључен. Можете искључити ову функцију у било ком тренутку у Подешавањима.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Побољшајте резултате претраживања допуштајући Жутим страницама приступ подацима о вашој Локацији.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Приступ локацији</string>
-  <string name="data_error_show">Dogodila se pogreška</string>
+  <string name="data_error_show">Догодила се грешка</string>
 </resources>

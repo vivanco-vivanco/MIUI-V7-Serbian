@@ -235,6 +235,6 @@
   <string name="view_message_details">Прикажи појединости</string>
   <string name="xiaomi_service_number">Број услуге</string>
   <string name="yes">У реду</string>
-  <string name="low_memory">Manjak memorije!</string>
-  <string name="scan_result">Rezultati skeniranja</string>
+  <string name="low_memory">Недостатак меморије!</string>
+  <string name="scan_result">Резултат скенирања</string>
 </resources>

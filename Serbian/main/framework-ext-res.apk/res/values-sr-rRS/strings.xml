@@ -104,14 +104,14 @@
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Хотспот</string>
   <string name="unknown_caller">Непознати број</string>
-  <string name="default_name">Zadano</string>
-  <string name="group_name_contacts">Kontakti</string>
-  <string name="group_name_coworkers">Kolege</string>
-  <string name="group_name_family">Obitelj</string>
-  <string name="group_name_friends">Prijatelji</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na gumb Početna</string>
-  <string name="maml_component_customization_title">Postavke</string>
-  <string name="resource_select">Odaberi</string>
+  <string name="default_name">Задао</string>
+  <string name="group_name_contacts">Контакти</string>
+  <string name="group_name_coworkers">Колеге</string>
+  <string name="group_name_family">Породица</string>
+  <string name="group_name_friends">Пријатељи</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Ставите ваш прст на дугме Почетна</string>
+  <string name="maml_component_customization_title">Подешавања</string>
+  <string name="resource_select">Одабери</string>
   <string name="subinfo_default_name">SIM %d</string>
 
 </resources>
