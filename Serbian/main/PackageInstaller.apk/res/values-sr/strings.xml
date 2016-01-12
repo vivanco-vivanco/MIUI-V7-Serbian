@@ -3,9 +3,7 @@
   <string name="Parse_error_dlg_text">Дошло је до проблема при анализирању пакета.</string>
   <string name="Parse_error_dlg_title">Грешка анализе</string>
   <string name="activity_package_delete_confirm_title">Важно упозорење</string>
-  <string name="allow_source_dlg_text">"Апликација %1$s жели инсталирати друге апликације.
-
-Дозволити сада и убудуће?"</string>
+  <string name="allow_source_dlg_text">"Апликација %1$s жели инсталирати друге апликације.Дозволити сада и убудуће?"</string>
   <string name="allow_source_dlg_title">Инсталирати апликације из непознатих извора?</string>
   <string name="app_name">Алат за инсталирање пакета</string>
   <string name="app_not_found_dlg_text">Апликација није пронађена на попису инсталираних апликација.</string>
@@ -15,6 +13,13 @@
   <string name="app_store_missing_message">"Изгледа да нисте инсталирали нашу службену App Store. Инсталирајте је сада?"</string>
   <string name="app_store_missing_title">App Store није инсталирана</string>
   <string name="auto_startup_dialog_msg">Ова апликација се не може покренути без вашег допуштења.</string>
+  <string name="btn_text_full_scan">Потпуно скенирање</string>
+  <string name="btn_text_install_new_version">Задња верзија</string>
+  <string name="btn_text_install_origin">Оригинална верзија</string>
+  <string name="btn_text_install_security_version_in_appstore">Замени са сигурном верзијом</string>
+  <string name="btn_text_scaning">Скенирање…</string>
+  <string name="btn_text_security_install">Замени са сигурном верзијом</string>
+  <string name="btn_text_security_scan">Сигурносно скенирање</string>
   <string name="button_text_cancel">Одустани</string>
   <string name="button_text_delete">Избриши</string>
   <string name="button_text_delete_timer">Избриши (%d)</string>
@@ -22,16 +27,12 @@
   <string name="button_text_next_step_timer">Даље (%d)</string>
   <string name="caller_app">Захтев допуштења од %1$s</string>
   <string name="cancel">Одустани</string>
-  <string name="dlg_app_replacement_statement">"Апликација коју инсталирате замениће другу апликацију.
-
-Сви постојећи подаци апликације ће бити сачувани."</string>
+  <string name="dlg_app_replacement_statement">"Апликација коју инсталирате замениће другу апликацију.Сви постојећи подаци апликације ће бити сачувани."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) ће заменити тренутно инсталирану верзију (%3$s). Сви постојећи подаци апликација ће бити сачувани."</string>
   <string name="dlg_app_replacement_title">Замените постојећу апликацију?</string>
   <string name="dlg_appstore_notice">Набавите ову апликацију из наше службене &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">У реду</string>
-  <string name="dlg_sys_app_replacement_statement">"То је апликација система. Још желите да је замените?
-
-Сви постојећи подаци апликације ће бити сачувани."</string>
+  <string name="dlg_sys_app_replacement_statement">"То је апликација система. Још желите да је замените?Сви постојећи подаци апликације ће бити сачувани."</string>
   <string name="done">Готово</string>
   <string name="high_risk_perms">Допуштења високог ризика</string>
   <string name="install">Инсталирај</string>
@@ -47,6 +48,7 @@
   <string name="install_failed_system_incompatible">"Ова апликација није компатибилна са MIUI"</string>
   <string name="install_failed_verify_failed">Пакет није прошао проверу и не може се инсталирати.</string>
   <string name="install_failed_verify_timeout">Истекло је време за покушај потврде овог пакета. Покушајте да га касније поново инсталирате.</string>
+  <string name="install_from_appstore_hint">Препоручујемо вам да инсталирате апликацију из App Store</string>
   <string name="installing">Инсталирање…</string>
   <string name="launch">Отвори</string>
   <string name="lift_ban">Допусти</string>
@@ -54,6 +56,14 @@
   <string name="low_risk_perms">Допуштења ниског ризика</string>
   <string name="manage_applications">Управљање апликацијама</string>
   <string name="manage_device_administrators">Управљање администраторима уређаја</string>
+  <string name="message_apk_checking">Провера Apk…</string>
+  <string name="message_appstore_verify_has_new_version">Нобија верзија ове апликације је доступна у нашем App Store. Желите ли је инсталирати?</string>
+  <string name="message_appstore_verify_inconsistent">"Ова апликација има различит потпис од оног у App Store, сигурније ће бити инсталирати апликацију од тамо."</string>
+  <string name="message_appstore_verify_ok">Верзија ове апликације за App Store је прошла наше сигурносне тестове, препоручујемо да инсталирате апликацију од тамо.</string>
+  <string name="message_full_scanning">Потпуно скенирање…</string>
+  <string name="message_install_in_market">Препоручујемо вам да инсталирате апликацију из AppStore</string>
+  <string name="message_quick_scanning">Брзо скенирање…</string>
+  <string name="message_security_scaning">Скенирање…</string>
   <string name="ok">У реду</string>
   <string name="other_relative">Остала допуштења</string>
   <string name="out_of_space_dlg_text">"Нема довољно простора за чување на уређају за инсталирање %1$s."</string>
@@ -72,6 +82,7 @@
   <string name="perm_privacy_app_trust_summary">Питај ме када ова апликација покуша приступити другим деловима система</string>
   <string name="perm_sysopt_boost_auto_start">Дозвола аутоматског покретања</string>
   <string name="perm_sysopt_boost_auto_start_summary">Ова апликација може се покренути аутоматски</string>
+  <string name="permdesc_togglePermissions">Носиоцу омогућује покретање система за пребацивањем допуштења апликација. Не би смело бити потребно за обичне апликације..</string>
   <string name="permission_action_accept">Допусти</string>
   <string name="permission_action_prompt">Питај</string>
   <string name="permission_action_reject">Одбиj</string>
@@ -81,6 +92,7 @@
   <string name="permission_group_title_privacy_related">Приватност</string>
   <string name="permission_group_title_settings_related">Подешавања</string>
   <string name="permission_send_sms_descx">Апликација може слати SMS и MMS</string>
+  <string name="permlab_togglePermissions">допуштења пречица</string>
   <string name="privacy_relative">Приватност</string>
   <string name="reboot_time">Припрема за поново покретање…(%1$s)</string>
   <string name="safe_guard_support">Техничку подршку вам пружа %1$s</string>
@@ -104,22 +116,12 @@
   <string name="unknown_apps_dlg_text">Ваш телефон и лични подаци изложенији су нападима апликација из непознатих извора. Сагласни сте да сте искључиво сами одговорни за губитак података или било какву штету насталу на вашем уређају која може бити изазвана коришћењем ове апликације. Можете искључити ово обавештење у подешавањима.</string>
   <string name="unknown_apps_dlg_title">Инсталирање је блокирано</string>
   <string name="unknown_installer">Непознат PC алат</string>
+  <string name="v7_preference_off">ИСКЉ.</string>
+  <string name="v7_preference_on">УКЉ.</string>
   <string name="virus_scan_caller_unknown">Непознато</string>
   <string name="virus_scan_clear">Уклони</string>
   <string name="virus_scan_install">Инсталирај све једно</string>
   <string name="virus_scan_is_risk">"Ова апликација представља ризик за сигурност вашег уређаја."</string>
   <string name="virus_scan_is_virus">Ова апликација садржи вирус.</string>
-  <string name="btn_text_install_new_version">Задња верзија</string>
-  <string name="btn_text_install_origin">Оригинална верзија</string>
-  <string name="btn_text_install_security_version_in_appstore">Замени са сигурном верзијом</string>
-  <string name="btn_text_scaning">Скенирање…</string>
-  <string name="btn_text_security_install">Замени са сигурном верзијом</string>
-  <string name="btn_text_security_scan">Сигурносно скенирање</string>
-  <string name="install_from_appstore_hint">Препоручујемо вам да инсталирате апликацију из App Store</string>
-  <string name="message_apk_checking">Провера Apk…</string>
-  <string name="message_appstore_verify_has_new_version">Нобија верзија ове апликације је доступна у нашем App Store. Желите ли је инсталирати?</string>
-  <string name="message_appstore_verify_inconsistent">"Ова апликација има различит потпис од оног у App Store, сигурније ће бити инсталирати апликацију од тамо."</string>
-  <string name="message_appstore_verify_ok">Верзија ове апликације за App Store је прошла наше сигурносне тестове, препоручујемо да инсталирате апликацију од тамо.</string>
-  <string name="message_security_scaning">Скенирање…</string>
   <string name="waiting_tip">Ово може потрајати неко време, али се исплати</string>
 </resources>

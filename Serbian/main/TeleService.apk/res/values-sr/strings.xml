@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Result_title">Контакти SIM картице</string>
+  <string name="accessibility_settings_activity_title">Приступачност</string>
   <string name="active_phone_fail_nochoice">"Не могу активирати SIM картицу"</string>
   <string name="active_phone_fail_toast">"Не могу активирати SIM картицу %1$s"</string>
   <string name="active_phone_sim_absent">Уметните SIM картицу сада</string>
@@ -15,6 +17,7 @@
   <string name="adding_fdn_contact">Додавање броја за фиксно бирање…</string>
   <string name="additional_cdma_call_settings">Додатна подешавања са CDMA позив</string>
   <string name="additional_gsm_call_settings">Додатна подешавања</string>
+  <string name="additional_gsm_call_settings_with_label">Додатна подешавања (%s)</string>
   <string name="administrative_disable">Администрација је искључена</string>
   <string name="administrative_enable">Администрација је укључена</string>
   <string name="advanced_settings">Изборна подешавања</string>
@@ -31,6 +34,7 @@
   <string name="alertdialogtitle">Резултати</string>
   <string name="allContactdeleteFailed">"Не могу избрисати контакте са SIM картице"</string>
   <string name="allContactdeleteSuccess">Избрисани сви контакти са SIM картице</string>
+  <string name="all_day">Цели дан</string>
   <string name="always_enable_mms">Увек примај MMS</string>
   <string name="always_enable_mms_summary">Примање MMS-a чак и када су мобилни подаци искључени</string>
   <string name="answer_features_setting_category">Одговори</string>
@@ -96,6 +100,7 @@
   <string name="bf_news_settings">Пословне и функциске речи</string>
   <string name="callFailed_cb_enabled">Не можете успоставити одлазне позиве ако је укључена забрана позива.</string>
   <string name="callFailed_congestion">Мрежа је заузета</string>
+  <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_dialToDial">DIAL захтев модификован за DIAL са различитим бројем.</string>
   <string name="callFailed_dialToSs">DIAL захев модификован за SS захтев.</string>
   <string name="callFailed_dialToUssd">DIAL захтев модификован за USSD захтев.</string>
@@ -106,6 +111,7 @@
   <string name="callFailed_incoming_cb_enabled">Party је забранио све долазне позиве.</string>
   <string name="callFailed_invalid_credentials">Нетачно корисничко име или лозинка</string>
   <string name="callFailed_limitExceeded">Прекорачено је ACM ограничење</string>
+  <string name="callFailed_low_battery">Слаба батерија</string>
   <string name="callFailed_noSignal">Нема сигнала</string>
   <string name="callFailed_number_unreachable">Број није доступан</string>
   <string name="callFailed_outOfService">Мобилна мрежа није доступна</string>
@@ -118,6 +124,7 @@
   <string name="callFailed_unobtainable_number">Неважећи број</string>
   <string name="callFailed_userBusy">Линија је заузета</string>
   <string name="callUnanswered_forwarded">Позив неодговорен или преусмерен</string>
+  <string name="call_barring">Забрана позива</string>
   <string name="call_barring_sum">Подешавања забране гласовних позива</string>
   <string name="call_description_recording">Снимање</string>
   <string name="call_forwarding_number_hint">Проследи позиве на</string>
@@ -148,6 +155,8 @@
   <string name="call_remove_exception_numbers_confirm">%d бројева ће бити избрисано.</string>
   <string name="call_settings">Телефон</string>
   <string name="call_settings_category">Позиви</string>
+  <string name="call_settings_primary_user_only">Подешавања може мењати само примарни корисник.</string>
+  <string name="call_settings_with_label">Поде. позива (%s)</string>
   <string name="call_type">Врста позива</string>
   <string name="call_waiting_summary">Током разговора, обавештавај ме о долазним позивима</string>
   <string name="call_waiting_title">Позив на чекању</string>
@@ -163,6 +172,7 @@
   <string name="callind_multi_sim">SUBS подешавања</string>
   <string name="calling_via_template">Позивање путем %s</string>
   <string name="callwait_open_hint">\"Позив на чекању\" је функција коју пружа ваш даваоц услуга. Ако добијете обавештење о грешци, обратите се свом добављачу услуга како би били сигурни да је ова функција је подржана.</string>
+  <string name="can_not_call_self">"Не можете бирати сопствени број"</string>
   <string name="can_not_use_for_not_data_sim">"(Не могу користити: Мора бити подешено као задата SIM картица за податке)"</string>
   <string name="cancel">Одустани</string>
   <string name="cancel_call">Одустани</string>
@@ -230,6 +240,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Назовите јефтиније</string>
+  <string name="chose_product_title">Пакет доплате</string>
   <string name="clir_choices_hide_number">Сакриј број</string>
   <string name="clir_choices_network_default">Мрежа одређивања</string>
   <string name="clir_choices_show_number">Покажи број</string>
@@ -301,34 +313,46 @@
   <string name="dial_related_setting_catory">Бирање</string>
   <string name="dialerKeyboardHintText">Бирајте помоћу тастатуре</string>
   <string name="dialog_activate_livetalk">Потврди</string>
-  <string name="dialog_call_ordinary_telephone">Користи SIM картицу</string> 
+  <string name="dialog_call_ordinary_telephone">Користи SIM картицу</string>
   <string name="dialog_hang_up">Прекид позива</string>
   <string name="dialog_network_priority_title">Приоритети</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_purchase">Доплата</string>
   <string name="dialog_yes">Да</string>
+  <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_0_number">0</string>
+  <string name="dialpad_1_labels"/>
   <string name="dialpad_1_letters"/>
   <string name="dialpad_1_number">1</string>
+  <string name="dialpad_2_labels"/>
   <string name="dialpad_2_letters">ABC</string>
   <string name="dialpad_2_number">2</string>
+  <string name="dialpad_3_labels"/>
   <string name="dialpad_3_letters">DEF</string>
   <string name="dialpad_3_number">3</string>
+  <string name="dialpad_4_labels"/>
   <string name="dialpad_4_letters">GHI</string>
   <string name="dialpad_4_number">4</string>
+  <string name="dialpad_5_labels"/>
   <string name="dialpad_5_letters">JKL</string>
   <string name="dialpad_5_number">5</string>
+  <string name="dialpad_6_labels"/>
   <string name="dialpad_6_letters">MNO</string>
   <string name="dialpad_6_number">6</string>
+  <string name="dialpad_7_labels"/>
   <string name="dialpad_7_letters">PQRS</string>
   <string name="dialpad_7_number">7</string>
+  <string name="dialpad_8_labels"/>
   <string name="dialpad_8_letters">TUV</string>
   <string name="dialpad_8_number">8</string>
+  <string name="dialpad_9_labels"/>
   <string name="dialpad_9_letters">WXYZ</string>
   <string name="dialpad_9_number">9</string>
+  <string name="dialpad_pound_labels"/>
   <string name="dialpad_pound_letters"/>
   <string name="dialpad_pound_number">\#</string>
+  <string name="dialpad_star_labels"/>
   <string name="dialpad_star_letters"/>
   <string name="dialpad_star_number">*</string>
   <string name="disable">Искључи</string>
@@ -350,10 +374,13 @@
   <string name="dtmf_tone_entries_normal">Нормално</string>
   <string name="dtmf_tones_summary">Поставите даљину  DTMF тонова</string>
   <string name="dtmf_tones_title">DTMF тонови</string>
+  <string name="duration_disable_summary">Време трајања екрана је ИСКЉУЧЕНО</string>
+  <string name="duration_enable_summary">Време трајања екрана је УКЉУЧЕНО</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Уреди</string>
   <string name="edit_fdn_contact">Уреди број за фиксно бирање</string>
   <string name="emergencyDialerIconLabel">Бирач хитних позива</string>
+  <string name="emergency_action_launch_hint">Додирните поново да би сте отворили</string>
   <string name="emergency_broadcast_disable">Хитан пренос је искључен</string>
   <string name="emergency_broadcast_enable">Хитан пренос је укључен</string>
   <string name="emergency_call_area_code_edit_dialog_button">Позив</string>
@@ -442,18 +469,18 @@
   <string name="fdn_disabled">Бројеви за фиксно бирање су искњучени</string>
   <string name="fdn_enable_puk2_requested">Лозинка није тачна, PIN2 је блокиран. Промените PIN2 и покушајте поново!</string>
   <string name="fdn_enabled">Бројеви за фиксно бирање су укључени</string>
-  <string name="fdn_full">"FDN није ажуриран јер је листа пуна."</string>
   <string name="fdn_failed">Операција FDN није успела.</string>
+  <string name="fdn_full">"FDN није ажуриран јер је листа пуна."</string>
   <string name="fdn_invalid_number">FDN није ажуриран јер не може премашивати 20 речи.</string>
+  <string name="fdn_list_with_label">FDN листа (%s)</string>
   <string name="fdn_service_unavailable">FDN услуга није доступна.</string>
   <string name="fdn_summary">ограничи одлазне позиве на FDN попису или на бројеве са одређеним префиксима</string>
+  <string name="fdn_with_label">Бројеви за преусмеравање (%s)</string>
   <string name="feedback">Пов. информација</string>
   <string name="flash_when_ring_summary">Обавести Блицем о долазним позивима</string>
   <string name="flash_when_ring_title">Блиц и за позиве</string>
-  <string name="fw_change_failed">"Није било могуће означити бројеве са префиксом.
-обратите се мобилном оператеру ако проблем потраје."</string>
-  <string name="fw_get_in_vm_failed">"Дохваћање и чување тренутно подешавање броја за преусмеравање није успело.
-Желите ли се ипак пребацити на новог даваоца услуге?"</string>
+  <string name="fw_change_failed">"Није било могуће означити бројеве са префиксом.обратите се мобилном оператеру ако проблем потраје."</string>
+  <string name="fw_get_in_vm_failed">"Дохваћање и чување тренутно подешавање броја за преусмеравање није успело.Желите ли се ипак пребацити на новог даваоца услуге?"</string>
   <string name="general_news_settings">Опште вести</string>
   <string name="general_setting">Подешавања</string>
   <string name="get_pin2">Упишите PIN2</string>
@@ -485,6 +512,7 @@
   <string name="ims_menu_save">Сачувај</string>
   <string name="ims_service_capability">Могућности услуге</string>
   <string name="ims_service_capability_title">Могућности IMS услуге</string>
+  <string name="ims_settings">IMS Подешавања</string>
   <string name="ims_vt_call_quality">VtCallQuality</string>
   <string name="ims_vt_call_quality_high">Висока</string>
   <string name="ims_vt_call_quality_low">Ниска</string>
@@ -493,11 +521,15 @@
   <string name="ims_vt_call_quality_unknown">Непознато</string>
   <string name="incall_error_call_failed">"Не могу упутити позив."</string>
   <string name="incall_error_emergency_only">Није регистровано на мрежи.</string>
+  <string name="incall_error_local_low_battery">Позив није успео због слабе батерије!!!.</string>
+  <string name="incall_error_low_battery">Позив није успео због слабе батерије другог уређаја!!!.</string>
   <string name="incall_error_missing_voicemail_number">Број говорне поште није познат .</string>
   <string name="incall_error_no_active_sim">"SIM картица није активирана."</string>
   <string name="incall_error_no_phone_number_supplied">Позив није успостављен, није унет исправан број.</string>
   <string name="incall_error_out_of_service">Мобилна мрежа није доступна.</string>
+  <string name="incall_error_out_of_service_wfc">Мобилна мрежа није доступна. Повежите се са бежичном мрежом да би сте упутили позив.</string>
   <string name="incall_error_power_off">За упућивање позива, искључите начин летења.</string>
+  <string name="incall_error_power_off_wfc">Искључите авионски начин или се повежите са бежичном мрежом да би сте упутили позив.</string>
   <string name="incall_error_sim_deactive">Неактивна SIM картица</string>
   <string name="incall_error_supp_service_conference">Није могуће успоставити конференцијске позиве.</string>
   <string name="incall_error_supp_service_hangup">Није могуће остварити позив(е).</string>
@@ -507,9 +539,11 @@
   <string name="incall_error_supp_service_transfer">Није могуће пренети позив.</string>
   <string name="incall_error_supp_service_unknown">Неподржана услуга.</string>
   <string name="incall_error_turn_off_airplane_mode">Искључите начин рада у авиону</string>
+  <string name="incall_error_wfc_only_no_wireless_network">Повежите се са бежичном мрежом да би сте упутили позив.</string>
   <string name="incall_status_dialed_mmi">Покретање MMI секвенца</string>
   <string name="incoming_video_show_pref_summary">Прикажи Видео позиваоца. За коришћење ове функције, укључите картицу контаката.</string>
   <string name="incoming_video_show_pref_title">"Прикажи Видео позиваоца"</string>
+  <string name="input_password">Унесите лозинку</string>
   <string name="international_dial_complete_intention">Уштедите новац на међународним позивима.</string>
   <string name="international_dial_complete_no">Не сада</string>
   <string name="international_dial_complete_summary">Доплатите са MIUI да добијете попуст на међународним бројевима.</string>
@@ -520,6 +554,7 @@
   <string name="internet_phone">Интернет позив</string>
   <string name="invalidPin">Унесите PIN који има од 4 до 8 бројева.</string>
   <string name="invalidPin2">Унесите PIN2 који има 4-8 бројева.</string>
+  <string name="invalidPsw">Унесите вашу лозинку (од 4 до 8 бројева)</string>
   <string name="invalidPuk2">Унесите PUK2 који има 8 броева.</string>
   <string name="invalid_password">Унесите лозинку дужине 4 броја</string>
   <string name="invalid_pin">Унесите PIN који има од 4 до 8 бројева.</string>
@@ -547,7 +582,11 @@
   <string name="labelCFU">Увек преусмери позиве</string>
   <string name="labelCW">Позив на чекању</string>
   <string name="labelCallerId">ID позиваоца</string>
+  <string name="labelCbCancelAll">Откажи све забране позива</string>
+  <string name="labelCbChangePassword">Промена лозинке</string>
+  <string name="labelCdmaMore_with_label">Подешавања CDMA позива (%s)</string>
   <string name="labelGSMMore">Подешавања GSM позива</string>
+  <string name="labelGsmMore_with_label">Подешавања GSM позива (%s)</string>
   <string name="labelNwService">Подешавања мрежне услуге</string>
   <string name="label_available">Доступне мреже</string>
   <string name="label_cdp">Корпоративни SIM PIN откључавања</string>
@@ -598,8 +637,7 @@
   <string name="livetalk_creat_account_fialed">Грешка рачуна</string>
   <string name="livetalk_dial_direct">Позови директно</string>
   <string name="livetalk_experience_button">Пробајте сада</string>
-  <string name="livetalk_introduction_text">"Низак проток, мали трошкови и високи квалитет 
-Супер јефтини међународни позиви на интернету"</string>
+  <string name="livetalk_introduction_text">"Низак проток, мали трошкови и високи квалитет Супер јефтини међународни позиви на интернету"</string>
   <string name="livetalk_last_step">Назад</string>
   <string name="livetalk_login_experience_button">Пријавите се</string>
   <string name="livetalk_name">Допунски пакети</string>
@@ -625,6 +663,7 @@
   <string name="load_networks_progress">Претраживање…</string>
   <string name="load_rates_failed">"Не могу учитати"</string>
   <string name="loading">Само тренутак…</string>
+  <string name="loading_product">Само тренутак…</string>
   <string name="loading_recent_failed">"Не могу учитати."</string>
   <string name="local_disable">Локалне вести су искључене</string>
   <string name="local_enable">Локалне вести су укључене</string>
@@ -659,6 +698,7 @@
   <string name="messageCFNRc">Преусмеравање позива на</string>
   <string name="messageCFNRy">Преусмеравање позива на</string>
   <string name="messageCFU">Преусмеравање позива на</string>
+  <string name="message_decode_error">Дошло је до грешке приликом декодирања поруке.</string>
   <string name="mhh_disable">Здравство, здравље и болница су искључени</string>
   <string name="mhh_enable">Здравство, здравље и болница су укључени</string>
   <string name="mismatchPin">PIN-ови који сте унели међусобно се не подударају. Покушајте поново.</string>
@@ -741,10 +781,11 @@
   <string name="network_settings_next">Даље</string>
   <string name="network_settings_query_failed_message">"Не могу тражити мобилне мреже."</string>
   <string name="network_settings_sel_sub">SUBS подешавања</string>
-  <string name="network_settings_select_automatic_hint">"Не могу се пријавити на мрежу коју сте одабрали.
-Користиће се жељена мрежа уместо тога."</string>
+  <string name="network_settings_select_automatic_hint">"Не могу се пријавити на мрежу коју сте одабрали.Користиће се жељена мрежа уместо тога."</string>
   <string name="network_settings_turn_off">Искључи</string>
   <string name="network_settings_warn_message">Ваш уређај ће се повезати само на мреже које изаберете ручнo</string>
+  <string name="network_type_3g_preferred_cmcc">3G/2G</string>
+  <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unlock">Откључај</string>
   <string name="networks">Мрежни оператери</string>
   <string name="networks_title">Мобилне мрежe</string>
@@ -754,12 +795,14 @@
   <string name="new_pin2_label">нови PIN2</string>
   <string name="new_pin_label">нови PIN</string>
   <string name="new_sim_detected">Откривена нова SIM картица:</string>
+  <string name="no_call_barring">Нема забране позива</string>
   <string name="no_change">Нису извршене никакве промене.</string>
   <string name="no_data">Нема података</string>
   <string name="no_internet_available">За упућивање Интернет позива, треба Интернет везу.</string>
   <string name="no_internet_available_title">Нема интернет везе</string>
   <string name="no_more">Не више</string>
   <string name="no_product_list">Празно</string>
+  <string name="no_sim_card">Убаците SIM картицу</string>
   <string name="no_sip_account_found">На овом телефону нема рачуна за Интернет позиве. Желите ли сада додати један?</string>
   <string name="no_sip_account_found_title">Нема рачуна за интернет позиве</string>
   <string name="no_vm_number">Недостаје број говорне поште</string>
@@ -771,9 +814,13 @@
   <string name="no_wifi_available_title">Нема WLAN везе</string>
   <string name="not_a_valid_port">Број прикрача требао би бити између 1000 и 65534.</string>
   <string name="not_activate_sim_card_content">"Пакет доплате није активиран за SIM картицу коу сте одобрили. Уместо тога, покушајте да користите редовну SIM картицу за упућивање тог позива. Следе вам регуларни трошкови вашег оператера."</string>
+  <string name="not_activate_sim_card_content_title">"Телефон није потврђен"</string>
+  <string name="not_activate_sim_card_content_with_operator">"Пакет доплате није потврђен за SIM картицу  %1$s(%2$s) коју нисте одабрали. Покушајте да користите редовну SIM за упућивање тог позива. Ваш оператер ће вам наплатити овај позив."</string>
   <string name="not_allowed">Ваша SIM картица не допушта повезивање са овом мрежом.</string>
   <string name="not_sufficient_funds_content">Стање вашег рачуна је прениско. Уместо тога, покушајте да користите редовну SIM картицу за упућивање тог позива. Следе вам регуларни трошкови вашег оператера.</string>
+  <string name="not_sufficient_funds_content_title">Недовољно средстава</string>
   <string name="not_supported_number_content">"Паке доплате не подржава бројеве услуга. Уместо тога, покушајте да користите редовну SIM картицу за упућивање тог позива. Ваш оператер ће вам наплатити овај позив."</string>
+  <string name="not_supported_number_content_title">Није подржано</string>
   <string name="not_voice_capable">Гласовни позиви нису подржани</string>
   <string name="notification_action_end_call">Прекини везу</string>
   <string name="notification_dialing">Бирање броја</string>
@@ -814,10 +861,11 @@
   <string name="onscreenSwapCallsText">Замени</string>
   <string name="onscreenVideoCallText">Видеопозив</string>
   <string name="open_miui">Отвори</string>
+  <string name="operation_successfully">Радња није успела!</string>
   <string name="optional_summary">&lt;Опција&gt;</string>
   <string name="order_by_name">Абецедно/Азбучно</string>
   <string name="order_by_recent">Често коришћено</string>
-  <string name="order_id">"ID наруџбине: "</string>
+  <string name="order_id">"ID наруџбине: %1$s"</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Статус наруџбине: није успело</string>
   <string name="order_status_successful">Статус наруџбине: завршено</string>
@@ -840,14 +888,9 @@
   <string name="ota_title_activate">Активирајте свој телефон</string>
   <string name="ota_title_activate_success">Телефон је успешно активиран.</string>
   <string name="ota_title_problem_with_activation">"Не могу активирати"</string>
-  <string name="ota_touch_activate">"Посебан позив упућен је за активирање посебне услуге. 
-
-Након што притиснете "Активирајте", послушајте упутства за активирање телефона."</string>
+  <string name="ota_touch_activate">"Посебан позив упућен је за активирање посебне услуге. Након што притиснете "Активирајте", послушајте упутства за активирање телефона."</string>
   <string name="ota_try_again">Покушај поново</string>
-  <string name="ota_unsuccessful">"Ваш се телефон није активирао. 
-Можда бисте требали потражити подручје са бољом покривеношћу (поред прозора или напољу). 
-
-Покушајте поново или назовите корисничку службу за више опција."</string>
+  <string name="ota_unsuccessful">"Ваш се телефон није активирао. Можда бисте требали потражити подручје са бољом покривеношћу (поред прозора или напољу). Покушајте поново или назовите корисничку службу за више опција."</string>
   <string name="other">Остало</string>
   <string name="other_countries_and_regions">Остале земље</string>
   <string name="other_settings">Остала подешавања позива</string>
@@ -856,8 +899,7 @@
   <string name="password_changed">Лозинка промењена</string>
   <string name="password_title">Лозинка</string>
   <string name="pause_prompt_no">Не</string>
-  <string name="pause_prompt_str">"Слање тонова
-"</string>
+  <string name="pause_prompt_str">"Слање тонова"</string>
   <string name="pause_prompt_yes">Да</string>
   <string name="payphone">Телефонска говорница</string>
   <string name="phoneAppLabel">телефон</string>
@@ -867,12 +909,15 @@
   <string name="phone_accounts">Подешавање рачуна телефона</string>
   <string name="phone_accounts_accounts_header">Рачуни</string>
   <string name="phone_accounts_add_sip_account">Додај SIP рачун</string>
+  <string name="phone_accounts_all_calling_accounts">Сви рачуни за позивање</string>
+  <string name="phone_accounts_all_calling_accounts_summary">Одаберите рачуне који могу упућивати позиве</string>
   <string name="phone_accounts_ask_every_time">Питај прво</string>
   <string name="phone_accounts_choose_accounts">Одабери рачуне</string>
   <string name="phone_accounts_configure_account_settings">Подешавања конфигурације рачуна</string>
   <string name="phone_accounts_make_calls_with">Бирај позив са</string>
   <string name="phone_accounts_make_sip_calls_with">Бирај SIP позиве са</string>
   <string name="phone_accounts_selection_header">Рачуни телефона</string>
+  <string name="phone_accounts_settings_header">Подешавања</string>
   <string name="phone_entered_ecm_text">Унет је начин хитног локалног позива</string>
   <string name="phone_in_ecm_call_notification_text">Веза података је искључена</string>
   <string name="phone_in_ecm_notification_title">Начин хитног повратног позива</string>
@@ -880,21 +925,18 @@
   <string name="phone_numbers">Унесите бројеве телефона</string>
   <string name="pick_outgoing_call_phone_type">Назови</string>
   <string name="pick_outgoing_sip_phone">"Употреби рачун за интернет позиве "</string>
-  <string name="pin2_attempts">"
-Имате још оволико преосталих покушаја: %d."</string>
+  <string name="pin2_attempts">"Имате још оволико преосталих покушаја: %d."</string>
   <string name="pin2_changed">PIN2 успешно промењен</string>
+  <string name="pin2_error_exception">Грешка мреже или SIM картице</string>
   <string name="pin2_invalid">"FDN није ажуриран јер сте унели погрешан PIN."</string>
   <string name="pin2_invalid_or_name_is_too_long">Унели сте неважећи PIN или је име које сте унели предугачко</string>
-  <string name="pin2_lock_warning">"
-Везане функције ПИН2-а ће бити закључане након још једног неуспелог покушаја."</string>
+  <string name="pin2_lock_warning">"Везане функције ПИН2-а ће бити закључане након још једног неуспелог покушаја."</string>
   <string name="pin2_or_fdn_invalid">FDN није ажуриран. PIN2 није тачан или је телефонски број одбијен.</string>
   <string name="pin2_unblocked">PIN2 је деблокиран!</string>
-  <string name="pin_attempts">"
-Преостало вам је још  %d покушаја."</string>
+  <string name="pin_attempts">"Преостало вам је још  %d покушаја."</string>
   <string name="pin_changed">SIM PIN успешно промењен.</string>
   <string name="pin_failed">PIN који сте унели није тачан.</string>
-  <string name="pin_lock_warning">"
-Ваш телефон ће се аутоматски закључава након још једног неуспелог покушаја"</string>
+  <string name="pin_lock_warning">"Ваш телефон ће се аутоматски закључава након још једног неуспелог покушаја"</string>
   <string name="pin_progress_change_pin">Промењена PIN…</string>
   <string name="pin_progress_change_pin2">Промењена PIN2…</string>
   <string name="pin_progress_set_fdn_lock">Подешавање FDN стања закључавања…</string>
@@ -919,6 +961,9 @@
   <string name="preference_telocation_summary_teloc_off">сакриј локацију контаката</string>
   <string name="preference_telocation_summary_teloc_on">Прикажи локацију контката</string>
   <string name="preference_telocation_title">Локација</string>
+  <string name="preferred_duration_title">Трајање приказа</string>
+  <string name="preferred_network_mode_3g_2g_auto">3G/2G (ауто)</string>
+  <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (ауто)</string>
   <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo ауто</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Преферирани мрежни начин: CDMA/EvDo/GSM/WCDMA</string>
@@ -928,6 +973,7 @@
   <string name="preferred_network_mode_cdma_summary">Начин жељене мреже: CDMA</string>
   <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA w/o EvDo</string>
   <string name="preferred_network_mode_dialogtitle">Жељена врста мреже</string>
+  <string name="preferred_network_mode_dialogtitle_cmcc">Жељена врста мреже</string>
   <string name="preferred_network_mode_evdo_only_choice">Само EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Преферирани мрежни начин: Само EvDo</string>
   <string name="preferred_network_mode_global_choice">Глобално</string>
@@ -939,7 +985,9 @@
   <string name="preferred_network_mode_gsm_wcdma_preferred_choice">Преферирани GSM/WCDMA</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Преферирани мрежни начин: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Преферирани мрежни начин: CDMA+LTE/EVDO</string>
+  <string name="preferred_network_mode_lte_cdma_summary">Начин жељене мреже: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_choice">LTE</string>
+  <string name="preferred_network_mode_lte_gsm_umts_summary">Жељени начин мреже: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Преферирани мрежни начин: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Преферирани мрежни начин: LTE</string>
   <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
@@ -951,6 +999,7 @@
   <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Преферирани мрежни начин: TD-SCDMA/GSM/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_summary">Преферирани мрежни начин: TD-SCDMA / GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/GSM/WCDMA/CDMA/EVDO</string>
+  <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Жељени мрежни начин: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_choice">TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Преферирани мрежни начин: TD-SCDMA/GSM/WCDMA/LTE</string>
@@ -982,6 +1031,7 @@
   <string name="preferred_network_type_pref_entries_only_3g">само 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Пожељни тип мреже</string>
+  <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Прими рачун. %s</string>
   <string name="private_num">Приватни број</string>
   <string name="proceed">настави</string>
@@ -992,12 +1042,14 @@
   <string name="proxy_address_title">одлазна proxy адреса</string>
   <string name="pstn_connection_service_label">Уграђене SIM картице</string>
   <string name="pstn_phone">Позив мобилним</string>
+  <string name="psw_enter_new">Нова лозинка</string>
+  <string name="psw_enter_old">Стара лозинка</string>
+  <string name="psw_reenter_new">Поново унесите лозинку</string>
   <string name="puk2_blocked">PUK2 је трајно блокиран.</string>
   <string name="puk2_label">унесите PUK 2 код</string>
   <string name="puk2_requested">Лозинка није тачна, SIM је закључан. затражен је PUK2.</string>
   <string name="puk_label">унесите PUK код</string>
-  <string name="puk_lock_warning">"
-Ваша SIM картица биће избрисани након још једног неуспелог покушаја."</string>
+  <string name="puk_lock_warning">"Ваша SIM картица биће избрисани након још једног неуспелог покушаја."</string>
   <string name="puk_requested">Лозинка није тачна, PIN је блокиран. потребан је PUK.</string>
   <string name="puk_unlock_failed">PUK откључавање није успело.</string>
   <string name="puk_unlock_success">PUK откључавање успешно.</string>
@@ -1077,12 +1129,15 @@
   <string name="reverting_settings">Враћање подешавања…</string>
   <string name="rhrpd_unlock_failed">RUIM HRPD захтев откључавања неуспешан.</string>
   <string name="rhrpd_unlock_success">RUIM HRPD oткључавање успешно.</string>
+  <string name="ringtone_silent">Ништа</string>
   <string name="ringtone_title">Мелодија звона</string>
+  <string name="ringtone_unknown">Непозната мелодија звона</string>
   <string name="rnw1_unlock_failed">RUIM мрежа1 захтев откључавања неуспешан.</string>
   <string name="rnw1_unlock_success">RUIM мрежа1 откључавање успешно.</string>
   <string name="rnw2_unlock_failed">RUIM мрежа2 захтев откључавања неуспешан.</string>
   <string name="rnw2_unlock_success">RUIM мрежа2 откључавање успешнo.</string>
   <string name="roaming">Роминг података</string>
+  <string name="roaming_alert_title">Желите ли да допустите роминг податке?</string>
   <string name="roaming_disable">Повежи се са податковним услугама у ромингу</string>
   <string name="roaming_enable">Повежи се са податковним услугама у ромингу</string>
   <string name="roaming_reenable_message">Изгубили сте везу за пренос података јер сте изашли из матичне мреже са искљученим роамингом података.</string>
@@ -1110,6 +1165,7 @@
   <string name="set_smsc_address_timeout">Истекло је време везе</string>
   <string name="set_smsc_address_title">Подеси број SMS средишта</string>
   <string name="set_subscription">Одаберите претплате</string>
+  <string name="set_time_period">Подесите времески период</string>
   <string name="setting_activate_domestic_title">Доплата (домаћи позиви)</string>
   <string name="setting_activate_international_title">Доплата (међ. позиви)</string>
   <string name="setting_duration_other_prompt">"За међународне цене позива проверите "</string>
@@ -1126,6 +1182,7 @@
   <string name="sim_absent">Нема</string>
   <string name="sim_activated">Актвирано</string>
   <string name="sim_card_activate">Тренутна SIM картица</string>
+  <string name="sim_card_num">SIM %s</string>
   <string name="sim_cards_network_mode_changed_summary">Додирните за приказ подешавања SMS-a и позива.</string>
   <string name="sim_cards_network_mode_changed_title">Откривена нова SIM картица</string>
   <string name="sim_contact_name">име</string>
@@ -1165,6 +1222,8 @@
   <string name="sp_unlock_failed">SIM захтев откључавања даваоца услуга неуспешан.</string>
   <string name="sp_unlock_success">SIM откључавање даваоца услуга успешнo.</string>
   <string name="sports_news_settings">Вести из спорта</string>
+  <string name="status_hint_label_incoming_wifi_call">Долазни WLAN позив</string>
+  <string name="status_hint_label_wifi_call">WLAN позив</string>
   <string name="stk_cc_ss_to_dial_error">SS захтев промењен за DIAL захтев.</string>
   <string name="stk_cc_ss_to_ss_error">SS захтев промењен за novi SS захтев.</string>
   <string name="stk_cc_ss_to_ussd_error">SS захтев промењен за USSD захтев.</string>
@@ -1200,6 +1259,7 @@
   <string name="sum_xdivert_disabled">X-Divert је искључен</string>
   <string name="sum_xdivert_enabled">X-Divert је укључен</string>
   <string name="summary_manage_subscriptions">Управљање подешавањима сваке мреже</string>
+  <string name="summary_preferred_networks"/>
   <string name="t9_indexing_method_pinyin">Латиница</string>
   <string name="t9_indexing_method_title">T9 претраживање уноса</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin фонетски запис</string>
@@ -1235,19 +1295,21 @@
   <string name="telocation_show_settings">Подешавање екрана</string>
   <string name="third_party_account_summary">Овај рачун се користи од стране %s.</string>
   <string name="throttle_current_usage">Подаци коришћени за тренутно раздобље</string>
-  <string name="throttle_data_rate_reduced_subtext">"%1$s максимум је прекорачен
-Брзина преноса података смањена је на %2$d Kb/s"</string>
+  <string name="throttle_data_rate_reduced_subtext">"%1$s максимум је прекораченБрзина преноса података смањена је на %2$d Kb/s"</string>
   <string name="throttle_data_usage">Коришћење података</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) od %3$s максималног раздобља</string>
   <string name="throttle_help">Сазнајте више</string>
   <string name="throttle_help_subtext">Више информација о правилима употребе мобилне везе са подацима вашег пружаоца мобилне услуге</string>
   <string name="throttle_rate">Правило за брзину преноса података</string>
   <string name="throttle_rate_subtext">Брзина преноса података смањена је на %1$d Kb/s ако се прекорачи ограничење коришћења података</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s максималног раздобља
-Следеће раздобље почиње за оволико дана: %4$d (%5$s)"</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s максималног раздобљаСледеће раздобље почиње за оволико дана: %4$d (%5$s)"</string>
   <string name="throttle_time_frame">Раздобље коришћења података</string>
-  <string name="throttle_time_frame_subtext">"Протекло је %1$d٪ циклуса
-Следеће раздобље почиње за оволико дана: %2$d (%3$s)"</string>
+  <string name="throttle_time_frame_subtext">"Протекло је %1$d٪ циклусаСледеће раздобље почиње за оволико дана: %2$d (%3$s)"</string>
+  <string name="time_end">До</string>
+  <string name="time_formate_am">AM</string>
+  <string name="time_formate_pm">PM</string>
+  <string name="time_interval_char">:</string>
+  <string name="time_start">Од</string>
   <string name="time_statistic">Уштеђено %1$d мин. времена мреже</string>
   <string name="title_country">Земља</string>
   <string name="title_duration">Трајање</string>
@@ -1283,9 +1345,11 @@
   <string name="username_title">Корисничко име</string>
   <string name="ussdRunning">Покренут је USSD код</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="verified">Проверено</string>
+  <string name="verify_fialed">"Не могу проверити"</string>
+  <string name="verifying">Провера…</string>
   <string name="vibrate_on_ring_title">Вибрација код звоњења</string>
-  <string name="vm_change_failed">"Није било могуће променити број говорне поште.
-Обратите се даваоцу услуге ако проблем потраје."</string>
+  <string name="vm_change_failed">"Није било могуће променити број говорне поште.Обратите се даваоцу услуге ако проблем потраје."</string>
   <string name="vm_changed">Број говорне поште је промењен.</string>
   <string name="voice_privacy">Приватнос говорне услуге</string>
   <string name="voice_privacy_summary">Омогући побољшани начин приватности</string>
@@ -1304,9 +1368,11 @@
   <string name="voicemail_settings_number_hint">Унесите број говорне порука</string>
   <string name="voicemail_settings_number_label">Број говорне поште</string>
   <string name="voicemail_settings_number_title">Број говорне поште</string>
+  <string name="voicemail_settings_with_label">Говорна пошта (%s)</string>
+  <string name="voicemail_visual_voicemail_switch_title">Визуална говорна пошта</string>
   <string name="voip_setting">VOIP подешавања</string>
-  <string name="wait_prompt_str">"Послати следеће тонове?
-"</string>
+  <string name="wait_prompt_str">"Послати следеће тонове?"</string>
+  <string name="wifi_calling">WLAN позиви</string>
   <string name="wifi_calling_call_assistant">Асистент позива</string>
   <string name="wifi_calling_call_assistant_configure">Конфигуриши</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Асистент позива искључен</string>
@@ -1323,12 +1389,4 @@
   <string name="xdivert_setting">X-Divert подешавања</string>
   <string name="xdivert_summary">CFNRc подешавања</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_sim_card">Убаците SIM картицу</string>
-  <string name="not_activate_sim_card_content_title">"Телефон није потврђен"</string>
-  <string name="not_activate_sim_card_content_with_operator">"Пакет доплате није потврђен за SIM картицу  %1$s(%2$s) коју нисте одабрали. Покушајте да користите редовну SIM за упућивање тог позива. Ваш оператер ће вам наплатити овај позив."</string>
-  <string name="not_sufficient_funds_content_title">Недовољно средстава</string>
-  <string name="not_supported_number_content_title">Није подржано</string>
-  <string name="verified">Проверено</string>
-  <string name="verify_fialed">"Не могу проверити"</string>
-  <string name="verifying">Провера…</string>
 </resources>

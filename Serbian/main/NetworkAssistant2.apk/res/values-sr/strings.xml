@@ -42,9 +42,7 @@
   <string name="data_network_blocked_notification_title">Нема повезивања са интернетом</string>
   <string name="data_usage_correction_timeout_body">Додирните за ручно ажурирање.</string>
   <string name="data_usage_correction_timeout_title">Истекло је време синхронизације употребе података</string>
-  <string name="data_usage_disabled_dialog">"Достигли сте ограничење употребе података. 
-
-Коришћење више од планираног ограничења података вашег провајдера услуга може довести до повећаних трошкова."</string>
+  <string name="data_usage_disabled_dialog">"Достигли сте ограничење употребе података. Коришћење више од планираног ограничења података вашег провајдера услуга може довести до повећаних трошкова."</string>
   <string name="data_usage_disabled_dialog_enable">Укључи моб. податке</string>
   <string name="data_usage_leisure_warning_body">Додирните за преглед појединости употребе података.</string>
   <string name="data_usage_leisure_warning_title">Ограничење употребе података</string>
@@ -78,12 +76,10 @@
   <string name="datausage_purchase_pay_confirm">Купи</string>
   <string name="datausage_purchase_pay_hint">За поништење,бирајте %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Не могу се повезати на мрежу.Проверите вашу везу са подацима и покушајте поново."</string>
-  <string name="datausage_purchase_pkglist_nodata">"Постоји сукоб између тренутног пакета података и пакета података које желите купити.
- Проверите свог оператера за више информација."</string>
+  <string name="datausage_purchase_pkglist_nodata">"Постоји сукоб између тренутног пакета података и пакета података које желите купити. Проверите свог оператера за више информација."</string>
   <string name="datausage_purchase_pkglist_servererror">Нешто је пошло наопако са нашим серверима.</string>
   <string name="datausage_purchase_result_failed">"Није било могуће купити податке. Проверите код вашег оператера услуга за више информације по том питању. "</string>
-  <string name="datausage_purchase_result_ok">"Купили сте %s
-За више информације проверите поруку коју сте добили од свог оператера услуга"</string>
+  <string name="datausage_purchase_result_ok">"Купили сте %sЗа више информације проверите поруку коју сте добили од свог оператера услуга"</string>
   <string name="datausage_purchase_time_in">" на "</string>
   <string name="datausage_purchase_title_confirm">Појединости о куповини</string>
   <string name="datausage_purchase_title_order">Доплата</string>
@@ -113,6 +109,8 @@
   <string name="firewall_network_restrict_notify_message">Додирни за промену подешавања.</string>
   <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
   <string name="firewall_network_restrict_notify_title">"%1$s не може користити %2$s."</string>
+  <string name="firewall_restrict_android_dialog_content">"Ако не допустите Андроиду повезивање са интернетом, неке кључне функције могу бити тиме погођене као што је WLAN хотспот."</string>
+  <string name="firewall_restrict_android_dialog_title">Пажња</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Међународни роминг</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -139,6 +137,7 @@
   <string name="international_roaming_setting">Међународни роминг</string>
   <string name="international_roaming_whitelist_count">%d аплик. се може повезати на везу са подацима у ромингу</string>
   <string name="ip_address_exception_summary">"Није било могуће добити IP адресу. Ако наиђете поново на овај проблем, покушајте да користите статичну IP адресу."</string>
+  <string name="kilobyte_per_second">Кб/с</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Празно</string>
   <string name="load_fail">"Не могу учитати"</string>
@@ -155,8 +154,7 @@
   <string name="main_alert_message_month_limit_error">Ограничење података је нетачно</string>
   <string name="main_alert_message_no_imsi">Нема SIM картице</string>
   <string name="main_alert_message_no_mobile_package">"Подесите Ограничење података"</string>
-  <string name="main_alert_message_slot_no_data_connection">"Слот SIM картице не подржава
-везу са подацима"</string>
+  <string name="main_alert_message_slot_no_data_connection">"Слот SIM картице не подржававезу са подацима"</string>
   <string name="main_button_idel_traffic">Ограничење</string>
   <string name="main_button_normal_traffic">Премашено</string>
   <string name="main_button_usage_adjust">Подесите ограничење употребе података</string>
@@ -173,10 +171,8 @@
   <string name="main_primary_message_traffic_overlimit_purchase">Морате доплатити бон</string>
   <string name="main_primary_message_traffic_purchase">Морате доплатити бон</string>
   <string name="main_primary_message_traffic_warning">Приближавање ограничења употребе података</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"
-Искљ.макс.: %1$s | %2$s искоришћено"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"
-Макс.: %1$s%2$s | %3$s искоришћено"</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"Искљ.макс.: %1$s | %2$s искоришћено"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"Макс.: %1$s%2$s | %3$s искоришћено"</string>
   <string name="main_secondary_message_traffic_over">"прекорачено "</string>
   <string name="main_secondary_message_traffic_remain">"преостало "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Искљ. макс. података искоришћено</string>
@@ -196,6 +192,7 @@
   <string name="main_traffic_used_text">искоришћено</string>
   <string name="manual_input_free_traffic">Постави ограничење употребе података</string>
   <string name="manual_input_traffic">Постави употребу података</string>
+  <string name="megabyte_per_second">Мб/с</string>
   <string name="mi_service_app_detail">Детаљи услуге употребе података</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -213,42 +210,13 @@
   <string name="network_connected_exception_title">Тест мреже</string>
   <string name="network_control">Приказ подешавања апликације</string>
   <string name="network_diagnostics">Тест мреже</string>
-  <string name="network_mobile_exception_detail">"Ваш уређај се не може повезати са интернетом:
-
- 1. Уверите се да нисте премашили своје месечно ограничење употребе података.
- 
- 2. Ако сте само управо обновили свој бон, поново покрените уређај и покушајте поново.
-
- 3. Сигнал мреже оператера може бити слаб на вашој тренутној локацији."</string>
+  <string name="network_mobile_exception_detail">"Ваш уређај се не може повезати са интернетом: 1. Уверите се да нисте премашили своје месечно ограничење употребе података.  2. Ако сте само управо обновили свој бон, поново покрените уређај и покушајте поново. 3. Сигнал мреже оператера може бити слаб на вашој тренутној локацији."</string>
   <string name="network_not_available">"Не могу се повезати на мрежу"</string>
   <string name="network_operator_exception_summary">"Не могу активирати SIM картицу. Проверите је ли SIM картица исправно убачена и да је ваша тарифа активирана."</string>
   <string name="network_permission_exception_tips">"Не могу користити мобилне податке за повезивање на мрежу"</string>
   <string name="network_roaming_exception_tips">"Не могу користити мобилне податке у ромингу за повезивање на мрежу."</string>
-  <string name="network_route_exception_detail">"Можда постоји проблем са тутером на коме сте повезани:
-
-
-"&lt;b&gt;"1. Проблеми јавне WLAN мреже
-
-"&lt;/b&gt;"Ако сте повезани са јавном  WLAN мрежом, број корисника повезаних са том мрежом можда успорава или ствара проблеме са повезивањем. Пребаците се на другу мрежу и покушајте поново.
- 2."&lt;b&gt;" Проблеми пружаоца интернет услуга
- 
-"&lt;/b&gt;"Уверите се да ваш рачун нема проблема са вашим пружаоцем интернет услуга.
- 3."&lt;b&gt;"  Хардверски проблем рутера
- 
-"&lt;/b&gt;"Покушајте да поново покренете ваш рутер или проверите админ подешавања вашег рутера.
- 4."&lt;b&gt;" Други проблеми рутера
- 
-"&lt;/b&gt;"Прочитајте упутство које сте добили са рутером и вратите рутер на фабричка подешавања.
- 5."&lt;b&gt;" Проверите да ли је рутер исправно повезан
- 
-"&lt;/b&gt;"Покушајте да повежете рутер са другим Ethernet каблом. Ако сумњате да постоји проблем са вашим прикључком у кући, обратите се пружаоцу интернет услуга."</string>
-  <string name="network_sim_exception_detail">"Можда постоји проблем са вашом SIM картицом:
-
-  1. Проверите да ваш рачун нема заосталих трошкова према вашем оператеру. Покушајте да користите SIM картицу од пријатеља и проверите могућности повезивања његовом SIM картицом.
-
-  2. Ако користите две SIM картице, покушајте да се пребаците на другу картицу и проверите ако сте у могућности да се повежете нормално.
-
-  3. Проверите да SIM картица и слот SIM картице нису оштећени. Потврдите да је SIM картица коју користите исправно убачена у SIM слот вашег уређаја."</string>
+  <string name="network_route_exception_detail">"Можда постоји проблем са тутером на коме сте повезани:"&lt;b&gt;"1. Проблеми јавне WLAN мреже"&lt;/b&gt;"Ако сте повезани са јавном  WLAN мрежом, број корисника повезаних са том мрежом можда успорава или ствара проблеме са повезивањем. Пребаците се на другу мрежу и покушајте поново. 2."&lt;b&gt;" Проблеми пружаоца интернет услуга "&lt;/b&gt;"Уверите се да ваш рачун нема проблема са вашим пружаоцем интернет услуга. 3."&lt;b&gt;"  Хардверски проблем рутера "&lt;/b&gt;"Покушајте да поново покренете ваш рутер или проверите админ подешавања вашег рутера. 4."&lt;b&gt;" Други проблеми рутера "&lt;/b&gt;"Прочитајте упутство које сте добили са рутером и вратите рутер на фабричка подешавања. 5."&lt;b&gt;" Проверите да ли је рутер исправно повезан "&lt;/b&gt;"Покушајте да повежете рутер са другим Ethernet каблом. Ако сумњате да постоји проблем са вашим прикључком у кући, обратите се пружаоцу интернет услуга."</string>
+  <string name="network_sim_exception_detail">"Можда постоји проблем са вашом SIM картицом:  1. Проверите да ваш рачун нема заосталих трошкова према вашем оператеру. Покушајте да користите SIM картицу од пријатеља и проверите могућности повезивања његовом SIM картицом.  2. Ако користите две SIM картице, покушајте да се пребаците на другу картицу и проверите ако сте у могућности да се повежете нормално.  3. Проверите да SIM картица и слот SIM картице нису оштећени. Потврдите да је SIM картица коју користите исправно убачена у SIM слот вашег уређаја."</string>
   <string name="network_speed_for_apps_close">Насилно заустави</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Насилно заустави ову апликацију?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Не могу насилно зауставити апликацију система."</string>
@@ -356,14 +324,7 @@
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Аутоматски додај апликације са могућношћу уштеде података у изузетке</string>
   <string name="pref_traffic_saving_compressed">Смањено</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"
-&lt;b&gt;1. Хоће ли укључивање употребе података утицати на моју приватност??&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Ваши подаци ће остати приватни и неће се делити са трећим странама.
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Зашто уштеда података не ради??&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Уштеда података ради само када користите 2G/3G мрежу вашег мобилног оператера за слање и преузимање садржаја.</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt;1. Хоће ли укључивање употребе података утицати на моју приватност??&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Ваши подаци ће остати приватни и неће се делити са трећим странама.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;2. Зашто уштеда података не ради??&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Уштеда података ради само када користите 2G/3G мрежу вашег мобилног оператера за слање и преузимање садржаја.</string>
   <string name="pref_traffic_saving_no_compress">Нормално</string>
   <string name="pref_traffic_saving_notify_switch">Прикажи у панелу обавештења</string>
   <string name="pref_traffic_saving_notify_switch_hint">Прикажи статистику употребе података у панелу обавештења</string>
@@ -418,6 +379,9 @@
   <string name="show_traffic_dialog_title">Прикажи употребу у панелу са обавештењима</string>
   <string name="signal_exception_summary">"Не могу се повезати на мрежу на овом подручију."</string>
   <string name="signal_exception_title">Слаби сигнал мреже</string>
+  <string name="sim_location_error_dialog_message">"SIM картица коју користите је из %1$s. То се разликује од локације коју сте подесили ручно (%2$s). Промените локацију SIM картице на %3$s?"</string>
+  <string name="sim_location_error_notify_message">Додирните за промену локације SIM-a.</string>
+  <string name="sim_location_error_notify_title">Грешка SIM картице</string>
   <string name="sim_state_exception_summary">Стање SIM картице показује да нешто није у реду са вашом SIM картицом.</string>
   <string name="songs_number">18 песама</string>
   <string name="songs_unit">" песама"</string>
@@ -468,23 +432,20 @@
   <string name="tips_dialog_title">"Не знате своје ограничење"</string>
   <string name="tips_message">"За приказ детаља вашег ограничења, бирајте %2$s (%1$s) (Само Кина)"</string>
   <string name="title_limit_traffic_per_day">Дневно ограничење употребе података</string>
-  <string name="traffic_config_alert_body">"Према вашем оператеру услуга имате: %s.
-
-
-Прихватате ли то?"</string>
-  <string name="traffic_config_alert_body_extra">"
-Купили сте додатни интернет од %1$s овај месец. То се разликује од %2$s што сте додали ручно."</string>
-  <string name="traffic_config_alert_body_extra_notset">"
-Купили сте додатни интернет od %s овај месец. То се не одражава на месечне податке ограничења која сте поставили ручно."</string>
-  <string name="traffic_config_alert_body_leisure">"
-Ваше месечно ограничење употребе података је %1$s. То се разликује од %2$s ограничења што сте додали ручно."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"
-Ваш месечни макс. ограничења употребе података је %1$s. Нисте поставили ограничење макс. података."</string>
-  <string name="traffic_config_alert_body_normal">"
-Ваш месечни макс. ограничења употребе података је %1$s. То се разликује од %2$s што сте поставили ручно."</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Месечни план промењен у %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Ажуриран план података</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Аутоматски пилагоди пакет података према информацијама мобилног оператера"</string>
+  <string name="traffic_config_alert_auto_modify">Ажурирај аутоматски. план података</string>
+  <string name="traffic_config_alert_body">"Према вашем оператеру услуга имате: %s.Прихватате ли то?"</string>
+  <string name="traffic_config_alert_body_extra">"Купили сте додатни интернет од %1$s овај месец. То се разликује од %2$s што сте додали ручно."</string>
+  <string name="traffic_config_alert_body_extra_notset">"Купили сте додатни интернет od %s овај месец. То се не одражава на месечне податке ограничења која сте поставили ручно."</string>
+  <string name="traffic_config_alert_body_leisure">"Ваше месечно ограничење употребе података је %1$s. То се разликује од %2$s ограничења што сте додали ручно."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"Ваш месечни макс. ограничења употребе података је %1$s. Нисте поставили ограничење макс. података."</string>
+  <string name="traffic_config_alert_body_normal">"Ваш месечни макс. ограничења употребе података је %1$s. То се разликује од %2$s што сте поставили ручно."</string>
   <string name="traffic_config_alert_cancel">Одустани</string>
   <string name="traffic_config_alert_nomore">"Не приказуј поново"</string>
   <string name="traffic_config_alert_ok">У реду</string>
+  <string name="traffic_config_alert_package">"Прекорачено преко додатних података"</string>
   <string name="traffic_config_alert_setted">Подешавања примењена</string>
   <string name="traffic_config_alert_title">%s Исправка</string>
   <string name="traffic_correction_failed">"Није могуће сазнати детање о употреби података"</string>
@@ -494,6 +455,7 @@
   <string name="traffic_correction_success_notify_message">Додирни за приказ детаља.</string>
   <string name="traffic_limit_error_alert_body">"Према вашем оператеру преостало вам је још %1$s за овај месец. То је више од %2$s ограничења које сте поставили ручно."</string>
   <string name="traffic_limit_error_alert_iknow">У реду</string>
+  <string name="traffic_limit_error_alert_package">"Преостали подаци укључујући податке који се пренели из претходног месеца."</string>
   <string name="traffic_limit_error_alert_reset">Ресетуј ограничење</string>
   <string name="traffic_limit_error_alert_title">Потсетник ограничења података %s</string>
   <string name="traffic_none">Ништа</string>
@@ -559,6 +521,7 @@
   <string name="traffic_saving_whitelist_btn_removed">Апликација уклоњена са пописа</string>
   <string name="traffic_saving_whitelist_count">"Апликација без ограничења употребе података: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Нема апликација</string>
+  <string name="traffic_saving_wifi_usage">WLAN употреба</string>
   <string name="traffic_setting_app_count">Аплик.:%d</string>
   <string name="traffic_setting_completed">У реду</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Прилагодите ограничење и употребу података</string>
@@ -571,6 +534,7 @@
   <string name="traffic_setting_fragment_button1_text">Одустани</string>
   <string name="traffic_setting_fragment_button2_text">Сачувај</string>
   <string name="traffic_setting_fragment_get_template_falure">"Не могу се повезати на мрежу. Проверите своју везу са подацима и покушајте поново."</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Не приказуј поново"</string>
   <string name="traffic_setting_fragment_loading_text">Добијање детаља мреже…</string>
   <string name="traffic_setting_fragment_no_network">"Не могу се спојити на мрежу"</string>
   <string name="traffic_setting_fragment_null">Празно</string>
@@ -594,9 +558,4 @@
   <string name="wifi_exception_summary">Тест повезивања доступне WLAN мреже</string>
   <string name="wifi_exception_title">Тест WLAN мреже</string>
   <string name="wifi_network_blocked_notification_title">Нема повезивања са интернетом</string>
-  <string name="firewall_restrict_android_dialog_content">"Ако не допустите Андроиду повезивање са интернетом, неке кључне функције могу бити тиме погођене као што је WLAN хотспот."</string>
-  <string name="firewall_restrict_android_dialog_title">Пажња</string>
-  <string name="kilobyte_per_second">Кб/с</string>
-  <string name="megabyte_per_second">Мб/с</string>
-  <string name="traffic_saving_wifi_usage">WLAN употреба</string>
 </resources>

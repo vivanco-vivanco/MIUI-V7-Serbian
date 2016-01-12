@@ -29,6 +29,7 @@
   <string name="action_text_today">Данас</string>
   <string name="add_account">Додавање рачуна</string>
   <string name="add_calendar">Додај календар</string>
+  <string name="add_card">Додај картице</string>
   <string name="add_topic_success">Додато \"%s\"</string>
   <string name="add_topic_unsuccess">Додавање \"%s\" није успело</string>
   <string name="agenda_today">Данас, %1$s</string>
@@ -45,17 +46,32 @@
   <string name="attendees_label">Гости</string>
   <string name="birthday_calendar_display_name">Подсетник рођендана</string>
   <string name="birthday_event_description">"Данас има %1$s %4$s!"</string>
+  <string name="birthday_event_description_a_week_ago">Пре једног дана</string>
+  <string name="birthday_event_description_a_week_later">Један дан касније</string>
+  <string name="birthday_event_description_day_after_tomorrow">Прекосутра</string>
+  <string name="birthday_event_description_day_before_yesterday">Прекључе</string>
+  <string name="birthday_event_description_days_ago">Пре оволико %1$s дана</string>
+  <string name="birthday_event_description_days_later">%1$s дана касније</string>
+  <string name="birthday_event_description_default">"%1$s %2$s%3$s%4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_today">Данас</string>
+  <string name="birthday_event_description_tomorrow">Сутра</string>
+  <string name="birthday_event_description_yesterday">Јуче</string>
   <string name="birthday_metric"/>
   <string name="birthday_notice_message">Појединостима о рођењу је потребно повезивање на интернет пре прегледа. Слажете ли се?</string>
   <string name="birthday_notification_age_term"/>
+  <string name="birthday_notification_text_days_later">Још оволико %1$s дана до %4$s (%5$s)</string>
   <string name="birthday_notification_text_three_days_later">За три дана има %3$s (%4$s)!</string>
   <string name="birthday_notification_text_today">Не заборавите честитати!</string>
+  <string name="birthday_notification_title_days_later">"Ускоро %1$s има %2$s."</string>
   <string name="birthday_notification_title_three_days_later">"Ускоро %1$s има %2$s."."</string>
   <string name="birthday_notification_title_today">"%1$s има %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">рођендан</string>
+  <string name="book_card_free">免费</string>
+  <string name="book_card_rating_text">|   %1$s 条评论</string>
   <string name="button_day">Д</string>
   <string name="button_month">М</string>
   <string name="button_week">Т</string>
@@ -65,15 +81,14 @@
   <string name="can_not_modify_allday_event">"Не могу променити целодневни догађај"</string>
   <string name="can_not_modify_event">"Не могу променити догађај"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Не могу променити понављање догађаја и догађај прелазних дана"</string>
+  <string name="card_manager">卡片管理</string>
+  <string name="card_title_change">换一换</string>
   <string name="change_response_title">Промените одговор</string>
   <string name="chongsha"/>
   <string name="copy_db">Пошаљи базу података</string>
   <string name="copy_email">Копирање е-адресе</string>
   <string name="copy_number">Копирање телефонског броја</string>
-  <string name="create_an_account_desc">Календар ради боље са ми рачуном.
-
-• Приступите му из било којег веб претраживача.
-• Направите резервну копију својих догађаја.</string>
+  <string name="create_an_account_desc">Календар ради боље са ми рачуном.• Приступите му из било којег веб претраживача.• Направите резервну копију својих догађаја.</string>
   <string name="creating_event">Догађај створен</string>
   <string name="creating_event_with_guest">Позивница ће бити послата</string>
   <string name="cta_notice_checkbox">"Запамти догађај"</string>
@@ -145,17 +160,27 @@
   <string name="gadget_no_events">Нема скоријих догађаја календара</string>
   <string name="gadget_title">Календар</string>
   <string name="goto_today">Данас</string>
+  <string name="guide_card_hint_text">Dodirnite da otvorite Mi Cloud</string>
   <string name="hide_controls">Сакриј контроле</string>
   <string name="hint_attendees">Гости</string>
   <string name="hint_description">Опис</string>
   <string name="hint_what">Назив догађаја</string>
   <string name="hint_where">Локација</string>
   <string name="holiday_label">Празник</string>
+  <string name="horoscope_card_comprehensive">综合运势：</string>
+  <string name="horoscope_card_financial">财富运势：</string>
+  <string name="horoscope_card_love">爱情运势：</string>
+  <string name="horoscope_card_working">事业运势：</string>
+  <string name="horoscope_select_activity_label">选择星座</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
+  <string name="internet_connection_notification">Обавештење повезивања са интернетом</string>
+  <string name="internet_connection_notification_descrip">Прикажи обавештење повезивања са интернетом сваки пут када отворите Календар</string>
+  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
   <string name="jump_date">Скочи</string>
   <string name="jump_date_full">Скочи на датум</string>
+  <string name="jump_text">%1$s &gt;</string>
   <string name="label_recent_events">Недавни догађаји</string>
   <string name="loading">"Учитавање…"</string>
   <string name="local_calendar_display_name">Локални календар</string>
@@ -186,7 +211,7 @@
   <string name="month_view">Месец</string>
   <string name="monthly">Месечно</string>
   <string name="monthly_on_day">Месечно (на исти датум)</string>
-  <string name="monthly_on_day_count" formatted="false">Месечно (%1$s %2$s)</string>
+  <string name="monthly_on_day_count">Месечно (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Кратак увод</string>
   <string name="new_event_dialog_label">Нови догађај</string>
@@ -197,10 +222,13 @@
   <string name="no_syncable_calendars">Нема календара</string>
   <string name="no_title_label">(без наслова)</string>
   <string name="not_synced">није синхронизовано</string>
+  <string name="notice_button_exit">Излаз</string>
   <string name="notice_button_ok">Слажем се</string>
   <string name="notice_button_ok_and_go_on">Слажем се и настави</string>
+  <string name="notice_declaration_ignore">"Не приказуј поново"</string>
   <string name="notice_title_agreement">Услови коришћења</string>
   <string name="notice_title_request">Захтев</string>
+  <string name="notification_online">Нови догађај %1$s: %2$s</string>
   <string name="online_calendar_activity_label">Упис календара</string>
   <string name="online_notice_message">Претплата на календар захтева да се слажете са %1$s i %2$s пре употребе. За претплату на календар за употребу потребно је повезивање на мрежу. Слажете ли се?</string>
   <string name="pengzu"/>
@@ -306,6 +334,11 @@
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Догађај %1$s од %2$s.</string>
   <string name="text_year">Година</string>
+  <string name="ticket_card_date">%1$s月%2$s日</string>
+  <string name="ticket_card_description">今日可预定</string>
+  <string name="ticket_card_dialog_positive_button_text">安装</string>
+  <string name="ticket_card_lunar">%1$s的火车票</string>
+  <string name="ticket_card_phase">- 第%1$s期</string>
   <string name="time_zone">Временска зона</string>
   <string name="timezone_label">Временска ѕона</string>
   <string name="today">Данас</string>
@@ -363,5 +396,4 @@
   <string name="yearly">Годишње (сваке %s)</string>
   <string name="yearly_plain">Годишње</string>
   <string name="zhushen"/>
-  <string name="notification_online">Нови догађај %1$s: %2$s</string>
 </resources>

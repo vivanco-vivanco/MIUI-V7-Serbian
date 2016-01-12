@@ -16,6 +16,8 @@
   <string name="account_yellowpage_followed">Провери рачуне</string>
   <string name="account_yellowpage_recent">Прикажи историју</string>
   <string name="agree">Слажем се</string>
+  <string name="agree_to_continue">Настави</string>
+  <string name="agree_to_turn_on">Слажем се</string>
   <string name="all_resources">све</string>
   <string name="all_services">све</string>
   <string name="allow">Допусти</string>
@@ -52,6 +54,7 @@
   <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Прилагоди</string>
   <string name="data_error">Жао нам је, тренутна услуга није доступна, покушајте поново касније</string>
+  <string name="data_error_show">Догодила се грешка</string>
   <string name="delete">Избрисати</string>
   <string name="deleting">Брисање</string>
   <string name="description_author">Аутор</string>
@@ -120,15 +123,13 @@
   <string name="express_inquiry_history">Историја</string>
   <string name="express_inquiry_history_remark">Означи поново</string>
   <string name="express_inquiry_history_remark_hint">Означи поново</string>
-  <string name="express_inquiry_internal_failure">"Десила се грешка.
-Проверите свој број за праћење."</string>
+  <string name="express_inquiry_internal_failure">"Десила се грешка.Проверите свој број за праћење."</string>
   <string name="express_inquiry_logistics">Одабери даваоца услугa</string>
   <string name="express_inquiry_logistics_select_others_indication">остало</string>
   <string name="express_inquiry_no_history">Нема историје</string>
   <string name="express_inquiry_no_result">Нема резултата</string>
   <string name="express_inquiry_number_empty">Унесите свој број за праћење.</string>
-  <string name="express_inquiry_number_invalid">"Ваш унос је неважећи.
-Проверите свој број за праћење."</string>
+  <string name="express_inquiry_number_invalid">"Ваш унос је неважећи.Проверите свој број за праћење."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Број за праћење</string>
   <string name="express_inquiry_serial_number_prefix">"Сериски број: %s"</string>
@@ -215,6 +216,7 @@
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Нема предмета)</string>
   <string name="hms_notification">Поруке</string>
+  <string name="homepage_barcode_prompt">Скенирај за отварање почетне странице.</string>
   <string name="info_divider">|</string>
   <string name="loading">Учитавање</string>
   <string name="loading_resource_detail_fail">"Не могу учитати ресурсе"</string>
@@ -270,6 +272,7 @@
   <string name="notify_connect_title">Oбавештење повезивања на интернет</string>
   <string name="online_no_network">"Не могу се повезати на мрежу"</string>
   <string name="online_search_hint">Претраживање на онлине ресурсима</string>
+  <string name="open_installed_app">Отвори</string>
   <string name="order_date_label">Датум поруџбине: %1$s</string>
   <string name="order_empty_hint">Нема поруџбине</string>
   <string name="order_id_label">"Наруџбина #: %1$s"</string>
@@ -329,16 +332,13 @@
   <string name="recharge_status_description">Статус:</string>
   <string name="recharge_title">Највише</string>
   <string name="recharge_unknown_number">Непознато</string>
-  <string name="recharge_user_confirm_summary">"Биће вам наплаћено RMB %2$s za %1$s.
-
-Укупан износ: RMB %3$s"</string>
+  <string name="recharge_user_confirm_summary">"Биће вам наплаћено RMB %2$s za %1$s.Укупан износ: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Потврди</string>
   <string name="refresh">Освежи</string>
   <string name="remember_preference">Запамти предности</string>
   <string name="remind_another_time">"Не подсећај"</string>
   <string name="remind_user_confirm">У реду</string>
-  <string name="remind_user_suspect_number_message">"Криминалци могу украсти туђе идентитете за превару, ако сте у недоумици,
-молимо вас назовите како би потврдили позиваоца. Банке, е-цоммерце компаније и курирске компаније неће тражити лозинку или информације банковне картице."</string>
+  <string name="remind_user_suspect_number_message">"Криминалци могу украсти туђе идентитете за превару, ако сте у недоумици,молимо вас назовите како би потврдили позиваоца. Банке, е-цоммерце компаније и курирске компаније неће тражити лозинку или информације банковне картице."</string>
   <string name="remind_user_suspect_number_title">Чувајте се лажних позива</string>
   <string name="resource_account_abnormal_state">Грешка рачуна. Причекајте минут или два и покушајте поново.</string>
   <string name="resource_account_fail_to_add">"Није могуће додати рачун"</string>
@@ -448,10 +448,10 @@
   <string name="resource_notification_default">Обавештења</string>
   <string name="resource_on_trial">Испробавам: %1$s</string>
   <string name="resource_online">Мрежно %1$s</string>
-  <string name="resource_pack_confirm">"Иако сте већ купили% 1 $ д компоненте ове теме, још је увек јефтиније ако купите цео пакет."</string>
+  <string name="resource_pack_confirm">"Иако сте већ купили %1$d компоненте ове теме, још је увек јефтиније ако купите цео пакет."</string>
   <string name="resource_pack_discount_info">Уштеђено %1$s</string>
   <string name="resource_pack_price_info">Оргинална цена %1$s</string>
-  <string name="resource_pack_warning">"Већ сте купили% 1 $ д компоненте ове теме. Јефтиније је ако купите преостале компоненте појединачно."</string>
+  <string name="resource_pack_warning">"Већ сте купили %1$d компоненте ове теме. Јефтиније је ако купите преостале компоненте појединачно."</string>
   <string name="resource_present">Поклон</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Бесплатно</string>
@@ -488,16 +488,14 @@
   <string name="resource_trial_fail_message">Проверите да ли је ваш сат система подешен на тачно време.</string>
   <string name="resource_trial_fail_title">"Није било могуће поставити пробни период"</string>
   <string name="resource_trial_time">（пробни период: %1$d мин.）</string>
-  <string name="resource_unable_to_access">"Нажалост, 
-садржај који тражите није тренутно доступан у вашој регији."</string>
+  <string name="resource_unable_to_access">"Нажалост, садржај који тражите није тренутно доступан у вашој регији."</string>
   <string name="resource_unknow_error">Дошло је до непознате грешке</string>
   <string name="resource_update">Ажурирај</string>
   <string name="resource_user_know">У реду</string>
   <string name="resource_waiting_download">Чекам</string>
   <string name="rmb">RMB</string>
   <string name="scan">Скенирај</string>
-  <string name="sdcard_not_mounted_dialog_message">"Ставите SD картицу.
-"</string>
+  <string name="sdcard_not_mounted_dialog_message">"Ставите SD картицу."</string>
   <string name="sdcard_not_mounted_dialog_title">SD картица није присутна</string>
   <string name="select_package_before_buy">Одаберите пакет</string>
   <string name="selected_category_format">Означено од %2$d особа као %1$s. Додирни за потврду.</string>
@@ -519,6 +517,10 @@
   <string name="toast_finish_delete_call_log">Попис позива је обрисан</string>
   <string name="toast_text_copied">Текст копиран</string>
   <string name="try_again">Покушај поново</string>
+  <string name="turn_off_hint_title">Савет</string>
+  <string name="turn_off_phone_event_hint">"Ако искључите ову функцију, нећете бити у могућности да је користите након што завршите позив</string>
+  <string name="turn_off_smart_antispam_hint">"Искључити заштиту код позова странаца?"</string>
+  <string name="turn_on_phone_event_dialog_title">Ажурирај базу података идентификованих бројева</string>
   <string name="turn_on_phone_event_summary">Пошаљите телефонски статус бројева услуга</string>
   <string name="turn_on_phone_event_title">Примање информације о услузи</string>
   <string name="turn_on_smart_antispam_hint">"Идентификуј позиве непознатих бројева помоћу Xiaomi ознаке именика"</string>
@@ -544,5 +546,4 @@
   <string name="yellowpage_navigation_network_location_enabled">Приступ локацији је укључен. Можете искључити ову функцију у било ком тренутку у Подешавањима.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Побољшајте резултате претраживања допуштајући Жутим страницама приступ подацима о вашој Локацији.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Приступ локацији</string>
-  <string name="data_error_show">Догодила се грешка</string>
 </resources>

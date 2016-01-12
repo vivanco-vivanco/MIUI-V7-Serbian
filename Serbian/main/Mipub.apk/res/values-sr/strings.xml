@@ -8,6 +8,7 @@
   <string name="add_smiley">Смешко</string>
   <string name="add_timing">Време</string>
   <string name="already_followed">"Ви већ пратите овај број"</string>
+  <string name="app_name">com.miui.mipub</string>
   <string name="attach_image">Слике</string>
   <string name="attach_slideshow">Дијапројекција</string>
   <string name="attach_sound">Звук</string>
@@ -83,6 +84,7 @@
   <string name="hms_uri_param_err">"URL не може бити празан"</string>
   <string name="invalid_conversation">Неважећи разговор</string>
   <string name="left_cancel">Померите на лево да поништите</string>
+  <string name="low_memory">Недостатак меморије!</string>
   <string name="menu_add_black">Блокирај овај број</string>
   <string name="menu_add_contact">Додај постојећем контакту</string>
   <string name="menu_call">Позив</string>
@@ -95,6 +97,9 @@
   <string name="menu_new_contact">Нови контакт</string>
   <string name="menu_unlock">Одзначи</string>
   <string name="menu_yellowpage">Прикажи %s</string>
+  <string name="message_block_confirmation">Потврдите да не примате поруке ?</string>
+  <string name="message_block_processing">Обрада</string>
+  <string name="message_block_reminder">Подсетник</string>
   <string name="message_failed">Није успело</string>
   <string name="message_pending">Слање</string>
   <string name="message_readed">Прочитано</string>
@@ -185,6 +190,7 @@
   <string name="restore_blocked_message">Врати блокиране поруке</string>
   <string name="retrive_hms_tips">Преузимам</string>
   <string name="save">Сачувај</string>
+  <string name="scan_result">Резултат скенирања</string>
   <string name="search_empty">Нема подударања</string>
   <string name="search_hint">Претраживање слања порука</string>
   <string name="search_label">Поруке</string>
@@ -235,6 +241,4 @@
   <string name="view_message_details">Прикажи појединости</string>
   <string name="xiaomi_service_number">Број услуге</string>
   <string name="yes">У реду</string>
-  <string name="low_memory">Недостатак меморије!</string>
-  <string name="scan_result">Резултат скенирања</string>
 </resources>

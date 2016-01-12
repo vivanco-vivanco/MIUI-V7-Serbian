@@ -88,8 +88,7 @@
   <string name="baby_album_no_share_user_tip">Тренутно немате следбеника</string>
   <string name="baby_album_picker_default_title">"Одабери лице %1$s"</string>
   <string name="baby_album_setting_title">Информације о детету</string>
-  <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
-%3$s %4$s је поделио %5$s албум са тобом"</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,%3$s %4$s је поделио %5$s албум са тобом"</string>
   <string name="baby_album_sharer_recommand_face">Додати постојећу фотографију од %1$s?</string>
   <string name="baby_album_sharers_page_title">Поделите са породицом</string>
   <string name="baby_birthday">Рођендан</string>
@@ -123,7 +122,7 @@
   <string name="byteShort">B</string>
   <string name="calculated_pictures_time_tip">Поређано фотографија из %1$s до сада. Преостале фотографије ће бити поређане постепено. Да убрзате овај процес, %2$s</string>
   <string name="calculated_pictures_time_tip_for_no_vip">Поређано фотографија из %1$s до сада. Преостале фотографије ће бити поређане постепено.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Поређано фотографија из %1$s до сада. Преостале фотографије ће ускоро бити поређане.</string>  
+  <string name="calculated_pictures_time_tip_for_vip">Поређано фотографија из %1$s до сада. Преостале фотографије ће ускоро бити поређане.</string>
   <string name="camera_black_white">Фотоапарат црно бело</string>
   <string name="camera_connected">Фотоапарат укључен.</string>
   <string name="camera_disconnected">Фотоапарат је искључен.</string>
@@ -164,9 +163,7 @@
   <string name="cloud_gallery_space_full_buy_more">"Не могу синхронизовати нове фотографије са вашим Mi Cloudom. Да би сте синхронизовали више фотографија, купите додатни простор за меморију."</string>
   <string name="cloud_gallery_space_full_title">Mi Cloud је пун</string>
   <string name="cloud_media_set_set">Cloud</string>
-  <string name="cloud_owner_album_share_guide">"Поделите овај албум 
-  
-  са пријатељима"</string>
+  <string name="cloud_owner_album_share_guide">"Поделите овај албум     са пријатељима"</string>
   <string name="cloud_screenshots_display_name">Снимци екрана</string>
   <string name="cloud_tab_albums">Албуми</string>
   <string name="cloud_tab_all">Све</string>
@@ -197,6 +194,7 @@
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Јесте ли сигурни да су ово &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ова лица ће бити премештена у \"%2$s\" албум након потврде. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Јесте ли сигурни да ово нису &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ова лица ће бити премештена у \"%2$s\" албум након потврде. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Подеси за фотографију контакта</string>
+  <string name="contact_tip">Контакти</string>
   <string name="context_menu_add_contact">Додај у контакте</string>
   <string name="context_menu_copy">Копирај</string>
   <string name="context_menu_copy_notice">Копирано у бафер</string>
@@ -384,10 +382,12 @@
   <string name="initial_cloud_button_text">Пријавите се</string>
   <string name="initial_cloud_text">Сачувајте и прегледајте ваше слике са било ког местa.</string>
   <string name="initializing_cloud">Покретање…</string>
+  <string name="input_a_name">Унесите име</string>
   <string name="input_baby_name">Унесите име</string>
   <string name="input_baby_nick_name">Унесите надимак</string>
   <string name="input_cloudfolder_name">Назив Албума</string>
   <string name="input_nickname_toast">"Унесите име детета"</string>
+  <string name="input_or_select_a_name">Унесите или одаберите име</string>
   <string name="internal_camera_folder_display_name">Унутрашње фотографије</string>
   <string name="internal_miui_capture_screen_folder_display_name">Унутрашње слике екрана</string>
   <string name="internal_sd_card">Унутрашње складиштење</string>
@@ -413,6 +413,7 @@
   <string name="kick_sharer">Уклони пошиљаоца</string>
   <string name="kick_sharer_failed">"Не могу уклонити корисника"</string>
   <string name="kick_sharer_successfully">Корисник уклоњен</string>
+  <string name="kilobyteShort">КБ</string>
   <string name="last_chinese_new_year">Задња Кинеска Нова година</string>
   <string name="last_new_year">Задња Нова година</string>
   <string name="last_valentine_day">Задње Валентиново</string>
@@ -510,14 +511,16 @@
   <string name="open_sync_title">Омогући синхро.</string>
   <string name="operation_add_picture">Додај ставке</string>
   <string name="operation_add_secret">Додај у скривени албум</string>
-  <string name="operation_delete_confirm_message_folder">"Целокупан садржај мапа ће бити избрисан.
-"</string>
+  <string name="operation_add_secret_button">Сакриј</string>
+  <string name="operation_delete_confirm_message_folder">"Целокупан садржај мапа ће бити избрисан."</string>
   <string name="operation_failed">Радња није успела!</string>
   <string name="operation_give_name">Име</string>
   <string name="operation_in_process">Обрада…</string>
   <string name="operation_refresh">Освежи</string>
   <string name="operation_remove_from_face_album">Уклони лице</string>
+  <string name="operation_remove_from_face_album_button">Уклони</string>
   <string name="operation_remove_secret">Уклони из сакривеног албума</string>
+  <string name="operation_remove_secret_button">Прикажи</string>
   <string name="operation_rename">Преименуј</string>
   <string name="operation_rename_baby">Унесите име детета</string>
   <string name="operation_set_as_screensaver">Постави као чувара екрана</string>
@@ -789,8 +792,4 @@
   <string name="yes">Да</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">Џепна камера</string>
-  <string name="contact_tip">Контакти</string>
-  <string name="input_a_name">Унесите име</string>
-  <string name="input_or_select_a_name">Унесите или одаберите име</string>
-  <string name="kilobyteShort">КБ</string>
 </resources>

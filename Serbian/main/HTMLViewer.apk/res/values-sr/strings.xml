@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="app_label">HTML претраживач</string>
-   <string name="app_name_which_call">Апликација: %s</string>
-   <string name="app_version_which_call">Верзија: %s</string>
-   <string name="license_host_unreachable">"Не могу се повезати са мрежом. за преглед ове информације,
-идидте на %s"</string>
-   <string name="loading">Учитавање...</string>
-   <string name="mibi_license">Mi Кредит Услови Пружања Услуге</string>
-   <string name="policy_name">Правило:%s</string>
-   <string name="open_wifi_connect_summary">Додирните за приказ детаља.</string>
-   <string name="open_wifi_connect_title">Повежи се на %1$s</string>
-   <string name="permdesc_accessDrm">Апликацији омогућује приступ DRM заштићеном садржају.</string>
+  <string name="app_label">HTML претраживач</string>
+  <string name="app_name_which_call">Апликација: %s</string>
+  <string name="app_version_which_call">Верзија: %s</string>
+  <string name="license_host_unreachable">"Не могу се повезати са мрежом. за преглед ове информације,идидте на %s"</string>
+  <string name="loading">Учитавање...</string>
+  <string name="mibi_license">Mi Кредит Услови Пружања Услуге</string>
+  <string name="open_wifi_connect_summary">Додирните за приказ детаља.</string>
+  <string name="open_wifi_connect_title">Повежи се на %1$s</string>
+  <string name="permdesc_accessDrm">Апликацији омогућује приступ DRM заштићеном садржају.</string>
+  <string name="policy_name">Правило:%s</string>
+  <string name="settings_license_activity_loading">Само тренутак…</string>
+  <string name="settings_license_activity_title">Лиценце отвореног кода</string>
+  <string name="settings_license_activity_unavailable">"Не могу учитати лиценце.</string>
+  <string name="settings_safetylegal_activity_loading">Само тренутак…</string>
+  <string name="settings_safetylegal_activity_title">Сигурносне информације</string>
+  <string name="settings_safetylegal_activity_unreachable">"Немате везу са подацима. Да би сте видели ове податке сада, идите на %s са било којег рачунара повезаног са интернетом."</string>
+  <string name="settings_safetylegal_title">Сигурносне информације</string>
 </resources>

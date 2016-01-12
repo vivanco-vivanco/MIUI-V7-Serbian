@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="__leak_canary_class_has_leaked">%s leaked</string>
+  <string name="__leak_canary_display_activity_label">Leaks</string>
+  <string name="__leak_canary_leak_list_title">Leak пронађен у %s</string>
+  <string name="__leak_canary_notification_message">Додирните за приказ детаља</string>
+  <string name="__leak_canary_share_heap_dump">Дели heap dump</string>
+  <string name="__leak_canary_share_leak">Дијели</string>
+  <string name="__leak_canary_share_with">Дели са…</string>
   <string name="activate_voip_call">Бесплатан voip позив</string>
   <string name="activate_voip_description">Твој пријатељ је у коришћењу позива VOIP позива, можете активирати VOIP и упућивати позиве</string>
+  <string name="activating">Активација</string>
   <string name="address_choose_hint">%1$s, %2$s, i %3$d остале локације</string>
   <string name="all_address_choose_hint">Сви бројеви у овој покрајини</string>
   <string name="app_name">Бесплатни позиви</string>
+  <string name="app_name_which_call">Апликација:%s</string>
+  <string name="app_version_which_call">Верзија:%s</string>
   <string name="bl_no_blacklist">Нема блокираних бројева.</string>
   <string name="bl_no_block_call">Нема блокираних позива.</string>
   <string name="blacklist_prefix_add_hint">Блокирај све бројеве који почињу са тим префиксом</string>
@@ -35,6 +45,8 @@
   <string name="engine_deactivate_successfully">Успешно деактивирано</string>
   <string name="info_antispam_phone">Блокирај позиве</string>
   <string name="info_unantispam_phone">Допусти позиве</string>
+  <string name="license_host_unreachable">"Не могу се повезати на мрежу. За преглед ове информације, идите на %s"</string>
+  <string name="loading">Само тренутак…</string>
   <string name="login">Пријава</string>
   <string name="marked_by_others">"%d други корисници означени као "</string>
   <string name="marked_by_user">"означили сте као "</string>
@@ -54,6 +66,7 @@
   <string name="mx_dspt_provision">MIUI Voip вам омогућује бесплатно позивање других  MIUI корисника. Ваш пружаоц услуга вам може наплатити мрежни промет.</string>
   <string name="mx_dspt_provision_2">MIUI Voip вам омогућује бесплатно позивање других MIUI корисника. Ваш пружаоц услуга вам може наплатити мрежни промет. Можда ће бити потребно да пошаљемо SMS поруку да потврдите свој број телефона.</string>
   <string name="mx_dspt_provision_3">"MIUI Voip вам омогућује бесплатно позивање других MIUI корисника. Ваш оператер вам може наплатити мрежни промет. Можда ће мо требати да пошаљемо SMS поруку да потврдите свој број телефона. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
+  <string name="mx_dspt_tips">Ова услуга захтева ваш број телефона</string>
   <string name="net_connect_fails">"Не могу се повезати на мрежу, проверите мрежна подешавања"</string>
   <string name="net_singal_tips">Voip позив сигнал мреже %1$s</string>
   <string name="network_unavailable">"Не могу се повезати на мрежу."</string>
@@ -69,18 +82,28 @@
   <string name="notification_ongoing_call">Одлазни позив</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="phone_switch_tip">Пребаци на GSM позив</string>
+  <string name="policy_name">Правило: %s</string>
+  <string name="pref_alpha_tools_title">Alpha алати</string>
+  <string name="pref_debug_event_title">Debug Event</string>
   <string name="pref_group_about_title">Више о</string>
   <string name="pref_group_anti_harassment_title">Анти-узнемиравање</string>
   <string name="pref_group_basic_setting_title">Основна подешавања</string>
   <string name="pref_group_engine_select_title">Алат комуникације</string>
+  <string name="pref_group_voip_contacts">Mi Voice контакти</string>
   <string name="pref_key_blacklist_title">Број листе блокираних</string>
   <string name="pref_key_cur_activated_number_summary">Начин на који вам се ваш пријатељ може јавити</string>
   <string name="pref_key_cur_activated_number_title">Тренутно активан број</string>
   <string name="pref_key_enable_voip_title">Омогући voip позив</string>
   <string name="pref_key_engine_weihui_title">WeiHui алат</string>
+  <string name="pref_key_leak_canary">Leak Canary</string>
   <string name="pref_key_only_voip_with_contacts_title">Само VoIP са контактима</string>
   <string name="pref_key_version_title">Верзија</string>
+  <string name="pref_key_voip_contact_list">Online контакти</string>
+  <string name="pref_print_key_logs">Print key logs</string>
   <string name="pref_screen_voip_call_setting_title">Voip позив</string>
+  <string name="pref_users_list_title">Корисници</string>
+  <string name="process_leakcanary">:leakcanary</string>
+  <string name="process_ui">:уи</string>
   <string name="show_dev_on">Сада сте voip developer!</string>
   <string name="show_nondev_on">Сада сте voip developer!</string>
   <string name="sim_card_has_removed">"SIM картица је уклоњена, VoIP позив неће бити доступан"</string>
@@ -106,18 +129,24 @@
   <string name="statusbar_notification_ongoning_call">Одлазни позив</string>
   <string name="tab_block_log_unKnowNumber">Приватни број</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
+  <string name="unknown">Дошло је до непознате грешке.</string>
   <string name="unkown">Nepoznato</string>
   <string name="unread_calls">Непрочитани позиви</string>
   <string name="unread_calls_count">%d непрочитаних позива</string>
   <string name="user_agreement">Правила о Приватности</string>
   <string name="user_agreement4">Правила о Приватности</string>
+  <string name="voip_about">Mi Voice</string>
+  <string name="voip_about_gif_desc">"Упућивање позива помоћу Mi Voice директно из бројчаника или контаката."</string>
+  <string name="voip_about_net_desc">Упућивање позива помоћу Mi Voice користи мање од 400KB по минуту (око ￥0.02 на стандардном 300M месечном плану).</string>
+  <string name="voip_about_net_title">Употреба података</string>
+  <string name="voip_about_support_desc">"Ако особа коју зовете користи Mi уређај, уверите се да укључила Mi Voice. Ако особа коју зовете користи други а не Mi уређај, они могу користити Mi Voice преузимањем апликације Weihui Internet Calling из Mi App Store."</string>
+  <string name="voip_about_support_title">Назовите било који Андроид уређај</string>
   <string name="voip_btn_mute">Утишај</string>
   <string name="voip_btn_speaker">Звучник</string>
   <string name="voip_btn_switch_camera">Промени камеру</string>
   <string name="voip_call_failed_common_call_title">GSM позив</string>
   <string name="voip_call_failed_hang_up_title">Одустани</string>
-  <string name="voip_call_failed_message">"Особа коју зовете не може одговорити, можда није онлајн или је у лошој мрежи.
-Можете пребацити на GSM позив"</string>
+  <string name="voip_call_failed_message">"Особа коју зовете не може одговорити, можда није онлајн или је у лошој мрежи.Можете пребацити на GSM позив"</string>
   <string name="voip_call_failed_title">Voip позив није успео</string>
   <string name="voip_call_incoming">Захтев за FaceTime са вама</string>
   <string name="voip_call_intro_summary">Можете разговарати са пријатељима потпуно бесплатно, а можете одабрати услуге треће стране</string>
@@ -128,6 +157,7 @@
   <string name="voip_call_switch_call_message">Пребаци GSM позив, одаберите број телефона</string>
   <string name="voip_call_switch_call_title">Пребаци GSM позив</string>
   <string name="voip_callee_offline">Особа коју зовете је одсутна тренутно</string>
+  <string name="voip_callee_offline_and_dial_phone">"Особа коју зовете је ван мреже.Пребаци на GSM za %1$d сек..."</string>
   <string name="voip_calling_too_much">Пречесто позивано, поново бирајте касније</string>
   <string name="voip_communication_break">Прекид комуникације</string>
   <string name="voip_connecting_break">Прекид везе</string>
@@ -151,6 +181,7 @@
   <string name="voip_server_error">"Не могу се повезати на мрежу"</string>
   <string name="voip_start_call">Позивање</string>
   <string name="voip_stop_called">Заустави позивање</string>
+  <string name="voip_support_net_tips">Користите WLAN, 3G или бржу мобилну везу са подацима</string>
   <string name="voip_talking_with_friend">Voip позивање са %1$s</string>
   <string name="voip_the_other_is_on_the_phone">Линија заузета</string>
   <string name="voip_voip_call_online">Voip позивање, поново бирајте број касније</string>
@@ -159,9 +190,7 @@
   <string name="xiaomi_external_storage_unavailable">Меморија није доступна, проверите SD картицу.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Представљамо верзију %1$s
-Величина: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Представљамо верзију %1$s
-Величина Делта ажурирања: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">"Представљамо верзију %1$sВеличина: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Представљамо верзију %1$sВеличина Делта ажурирања: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s ажурирање!</string>
 </resources>

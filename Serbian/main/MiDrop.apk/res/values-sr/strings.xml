@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Connect">Повежи</string>
+  <string name="Disconnect">Прекини везу</string>
+  <string name="Start">Старт</string>
+  <string name="Stop">Стоп</string>
+  <string name="TestReceiver">Тест примаоца</string>
+  <string name="TestSender">Тест пошиљаоца</string>
+  <string name="action_settings">Подешавања</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Одустани</string>
   <string name="cancel_confirm_title">Пренос није довршен, одустати сада?</string>
@@ -16,6 +23,7 @@
   <string name="intro_page2_click_to_send">Додирните \"Пошаљи\"</string>
   <string name="intro_page3_choose_midrop">Одаберите \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Датотека се шаље одмах!</string>
+  <string name="newText">Нова порука</string>
   <string name="notif_receive_cancel">Непослатих датотека: %1$s</string>
   <string name="notif_receive_lockscreen">Додирните за приказ детаља</string>
   <string name="notif_receive_progress">Примање: %1$s…</string>
@@ -25,6 +33,7 @@
   <string name="notif_send_progress">Пренос датотека на %1$s…</string>
   <string name="notif_send_success">Пошаљи %1$s</string>
   <string name="notif_send_success_multi">Пошаљи %1$d особа</string>
+  <string name="receiver_accept">Прихватам</string>
   <string name="receiver_apk_file_current">Примање %2$d​ од %1$s</string>
   <string name="receiver_apk_file_num">%2$d​ од %1$s</string>
   <string name="receiver_audio_file_current">Примање %2$d​ од %1$s​​…</string>
@@ -71,5 +80,6 @@
   <string name="sender_wait">Чекање</string>
   <string name="sender_wait_queue">Чекање</string>
   <string name="transfer_interrupt">Пренос прекинут</string>
+  <string name="transmission_click_send">Пошаљи</string>
   <string name="transmission_connect">"Не могу пронаћи примаоца​"</string>
 </resources>

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Премештам корисничне податке… 
-То може потрајати неколико минута</string>
+  <string name="account_bind_prompt">Премештам корисничне податке… То може потрајати неколико минута</string>
   <string name="action_mode_deselect_all">Поништи одабир</string>
   <string name="action_mode_select_all">Одабери све</string>
+  <string name="add_private">Сакриј датотеке сада</string>
+  <string name="add_private_files">Додај датотеке</string>
   <string name="add_task">Додај задатак</string>
   <string name="adding_upload_tasks">Учитавам задатке…</string>
+  <string name="already_liked">"Већ сте означили ову ставку"</string>
   <string name="already_signin_description">"Већ сте се пријавили данас."</string>
   <string name="app_name">Датотеке</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -22,6 +24,7 @@
   <string name="archive_send_to">Пошаљи...</string>
   <string name="background">У позадини</string>
   <string name="backup_cancel">Не хвала</string>
+  <string name="backup_checkbox_msg">Увек направи Сиг. копију и прикажи обавештења</string>
   <string name="backup_confirm">Изради Сиг. копију сада</string>
   <string name="backup_success_cancel">У реду</string>
   <string name="backup_success_confirm">Прикажи</string>
@@ -38,7 +41,9 @@
   <string name="can_not_send_with_too_many">"Не могу послати толико пуно ставки"</string>
   <string name="cancel">Одустани</string>
   <string name="cancel_error">"Не могу уклонити, покушајте поново"</string>
-  <string name="cancel_success">Успешно уклоњено, све датотеке премештене у sdcard/fileexplorer/decryption</string>
+  <string name="cancel_operation">Откажи радњу</string>
+  <string name="cancel_success">Успешно уклоњено, све датотеке премештене у %s</string>
+  <string name="cancelled_by_user">Радња отказана</string>
   <string name="category">Категорије</string>
   <string name="category_all">Све</string>
   <string name="category_apk">Апликације</string>
@@ -60,12 +65,14 @@
   <string name="category_zip">Архиве</string>
   <string name="choose_send_type">Одаберите начин</string>
   <string name="choose_upload_location">Пошаљи на KuaiPan мапу</string>
+  <string name="clean_hint">Додирните да ослободите простор</string>
   <string name="clean_message">%1$s простора ослобођено.</string>
   <string name="clean_title">Брисање датотека старијих од 30 дана.</string>
   <string name="clean_trash_box">Испразни смеће</string>
   <string name="cleaning">Чишћење…</string>
   <string name="close">Затвори</string>
   <string name="compress_fail">Сажимање није успело: датотека са истим именом већ постоји.</string>
+  <string name="compress_fail_unknown">"Не могу сажети. Простор за меморију је пун или је дошло до непознате грешке."</string>
   <string name="compress_message">Сажимање на…</string>
   <string name="compress_title">Сажимање</string>
   <string name="confirm">У реду</string>
@@ -79,6 +86,12 @@
   <string name="create_new_folder_desctiption">Стварање мапе…</string>
   <string name="create_new_folder_failed">Неуспешно стварање мапе</string>
   <string name="create_share_link_description">Створи везу за дељење…</string>
+  <string name="create_shortcut_cancel">Не</string>
+  <string name="create_shortcut_checkbox_hint">"Не приказуј поново"</string>
+  <string name="create_shortcut_confirm">Направи</string>
+  <string name="create_shortcut_message">Направите пречицу на вашем Почетном екрану?</string>
+  <string name="create_shortcut_success">Пречица направљена</string>
+  <string name="create_shortcut_title">Направи пречицу?</string>
   <string name="cution">Савети</string>
   <string name="data_capacity">Подаци %1$s</string>
   <string name="data_consumption_cancel">Излаз</string>
@@ -123,11 +136,14 @@
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Преузимање неуспешно!</string>
   <string name="download_link_completed">Поделио сам %1$s преко KuaiPan. Додирните на везу испод за поглед:</string>
+  <string name="downloaded_sticker_str">Преузето</string>
   <string name="downloading">Преузимање…</string>
   <string name="downloading_in_3g">Преузимање преко 3G…</string>
   <string name="enable_sd_card">Убаците SD картицу или онемогућите USB масовну меморију.</string>
   <string name="encrypt_error">"Не могу учинити датотеку приватним, покушајте поново"</string>
+  <string name="encrypt_prefix">СКРИВЕНО</string>
   <string name="encrypt_success">Све датотеке су приватне</string>
+  <string name="encrypt_success_first_five">"Шифровано и датотека је сакривена. Можете видети сакривене датотеке повлачењем према доле на почетној страници аплик. Датотеке."</string>
   <string name="encrypting">Шифровање...</string>
   <string name="error_filename_too_long">Назив је предугачак.</string>
   <string name="error_info_cant_send_folder">"Не могу послати ову врсту датотеке."</string>
@@ -175,6 +191,8 @@
   <string name="group_title_extra_backup">Сиг. копије</string>
   <string name="group_title_extra_expire">О истеку</string>
   <string name="group_title_extra_new">Ново</string>
+  <string name="if_cancel">Отказати ову радњу?</string>
+  <string name="image_loading_error">"Не могу учитати слику"</string>
   <string name="instruction">Унесите адресу у FTP клијент:</string>
   <string name="instruction_pre">Додирните за покретање FTP сервера</string>
   <string name="just_now">Управо сада</string>
@@ -198,9 +216,7 @@
   <string name="kuaipan_photo_locate">Локација %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Обавештење</string>
-  <string name="kuaipan_prompt_message">"
- Наш сервер је тренутно недоступан. Покушајте поново касније…
-"</string>
+  <string name="kuaipan_prompt_message">" Наш сервер је тренутно недоступан. Покушајте поново касније…"</string>
   <string name="kuaipan_root_fooder">Почетна</string>
   <string name="kuaipan_tech_support">Пријавите се на KuaiPan.cn</string>
   <string name="load_err">"Не могу учитати"</string>
@@ -213,11 +229,16 @@
   <string name="login_reg_content">Сачувајте датотеке и синхронизујте их на више уређаја.</string>
   <string name="login_reg_content0">Користите KuaiPan из било ког места.</string>
   <string name="make_private">Направи приватним</string>
+  <string name="make_private_msg_1">Сакрити ову датотеку?</string>
+  <string name="make_private_msg_2">Сакрити ове датотеке?</string>
+  <string name="make_private_msg_3">Све датотеке у овој мапи биће сакривене.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">чишћење</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Тражи</string>
   <string name="menu_item_sort">поређај по</string>
+  <string name="menu_item_sort_add_time">"Израђено "</string>
+  <string name="menu_item_sort_by_added_time">Додато</string>
   <string name="menu_item_sort_date">Датуму измене</string>
   <string name="menu_item_sort_name">По називу</string>
   <string name="menu_item_sort_size">По величини</string>
@@ -230,7 +251,9 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Не могу изрезати"</string>
+  <string name="move_icon_to_desktop_hint">Направи пречицу аплик. Датотеке на поч. екрану за ефикасније управљање датотекама.</string>
   <string name="move_to">Премести у…</string>
+  <string name="move_to_confirm">Направи</string>
   <string name="msg_set_password">Подесите прво лозинку</string>
   <string name="multi_select_title">Одабрано: %1$s</string>
   <string name="my_app">Подаци аплик.</string>
@@ -269,18 +292,13 @@
   <string name="never_notify_network_connect">Запамти подешавања</string>
   <string name="new_folder_name">Мапа без имена</string>
   <string name="new_function">О приватним мапама</string>
-  <string name="new_function_info">"Приватна мапа је нова MIUI функција.
-Можете шифровати своје датотеке
-и сачувати на сигурно место.
-
-Повуците према доле на почетној страници да проверите."</string>
-  <string name="new_function_str">"WeChat налепнице сада могу да буду прикупљене аутоматски.
-Преузмите их када желите
-и никад не пропустите нове cool налепнице!"</string>
+  <string name="new_function_info">"Приватна мапа је нова MIUI функција.Можете шифровати своје датотекеи сачувати на сигурно место.Повуците према доле на почетној страници да проверите."</string>
+  <string name="new_function_str">"WeChat налепнице сада могу да буду прикупљене аутоматски.Преузмите их када желитеи никад не пропустите нове cool налепнице!"</string>
   <string name="new_function_title_str">O WeChat налепницама</string>
   <string name="no">Не</string>
   <string name="no_app_tags">Празно</string>
   <string name="no_display_file">"Не могу приказати %1$s"</string>
+  <string name="no_downloaded_sticker_tip">"Не могу пронаћи преузете налепнице. Проверите налепнице подељене од стране Mi обожаваоца."</string>
   <string name="no_enough_storage_indication">"Простор уређаја за меморисање је пун."</string>
   <string name="no_enough_storage_title">Нема довољно простора</string>
   <string name="no_file">Празно</string>
@@ -301,15 +319,20 @@
   <string name="notification_setting">Обавештења</string>
   <string name="notification_summary">"%1$s још не подржава ову функцију"</string>
   <string name="notification_title">Обавести кад су нове датотеке додате %1$s</string>
+  <string name="notification_wechat_auto_backup_hint">Додирните како би сте сазнали више.</string>
+  <string name="notification_wechat_auto_backup_switch_title">Изради Сиг. копију WeChat видеозаписа</string>
+  <string name="notification_wechat_expired_empty">WeChat је већ избрисао ове видеозаписе.</string>
+  <string name="notification_wechat_sticker_hint">Прикажи обавештења када су доступне нове WeChat налепнице</string>
+  <string name="notification_wechat_sticker_switch_title">Дневна обавештења нових налепница</string>
   <string name="notification_wechat_title">Обавети ме да WeChat Видеозапис ускоро истиче</string>
+  <string name="notify_private_folder_msg">Додирните да научите више.</string>
+  <string name="notify_private_folder_title">Направите скривене мапе</string>
   <string name="online_not_support">"Не могу приказати ову датотеку на мрежи у овом тренутку."</string>
-  <string name="open_changed_file_message">"датотека коју покушавате одобрити је измењена, могли би:
-1. Преузети датотеку да је поново ажурирате.
-2. Учитати је на ваш KuaiPan рачун."</string>
+  <string name="open_changed_file_message">"датотека коју покушавате одобрити је измењена, могли би:1. Преузети датотеку да је поново ажурирате.2. Учитати је на ваш KuaiPan рачун."</string>
   <string name="open_changed_file_title">Промена примењена</string>
   <string name="open_file_failed">"Не могу отворити"</string>
-  <string name="operate_confirm_in_3g">Користити вашу мобилну податковну мрежу за преузимање ове велике датотеке?</string>
   <string name="open_private_folder">Израда приватне мапе…</string>
+  <string name="operate_confirm_in_3g">Користити вашу мобилну податковну мрежу за преузимање ове велике датотеке?</string>
   <string name="operating">Обрада…</string>
   <string name="operation_add_fav">Додавање у фаворите…</string>
   <string name="operation_agree">Допусти</string>
@@ -332,9 +355,11 @@
   <string name="operation_favorite">Фаворити</string>
   <string name="operation_hide_sys">"Не приказуј скривене датотеке"</string>
   <string name="operation_info">Детаљи</string>
+  <string name="operation_like">Означи</string>
   <string name="operation_move">Обрежи</string>
   <string name="operation_moving">Премештање…</string>
   <string name="operation_moving_detail">Премештање (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Отвори у другој апликацији</string>
   <string name="operation_paste">Залепи</string>
   <string name="operation_pasting">Копирање…</string>
   <string name="operation_pause">Пауза</string>
@@ -349,18 +374,25 @@
   <string name="operation_show_sys">Покажи све скривене датотеке</string>
   <string name="operation_unfavorite">Нефаворити</string>
   <string name="pan_settting">KuaiPan подешавања</string>
-  <string name="partial_cancel_successful">"Не могу уклонити неке датотеке. Остале датотеке премештене су у sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">"Не могу уклонити неке датотеке. Остале датотеке премештене су у %s"</string>
   <string name="partial_delete_failure">"Не могу избрисати неке датотеке, покушајте поново"</string>
   <string name="partial_encrypt_success">"Не могу начинити неке датотеке приватним, покушајте поново"</string>
   <string name="partial_repair_done">Неке датотеке успешно обновљене</string>
   <string name="paused">Паузирано</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Телефон</string>
+  <string name="pick_folder">Одаберите мапу</string>
   <string name="port_range">Порт мора бити између 1024–65535</string>
   <string name="private_files">Приватно</string>
   <string name="private_folder">Приватна мапа</string>
+  <string name="private_folder_no_file_hints">Нема сакривених датотека.</string>
+  <string name="private_folder_update">Ажурирање сакривених датотека…</string>
+  <string name="private_toast_hint1">Додирните за додавање датотека у сакривене мапе</string>
+  <string name="private_toast_hint2">Да сакријете датотеку, притисните и задржите је, а затим је додајте у сакривену мапу.</string>
+  <string name="private_toast_hint3">ПОвуците према доле за откривање скривених мапа</string>
   <string name="promot_enctypt_password">Унесите лозинку која се користи за откључавање уређаја или за искључивање Дечијег начина</string>
   <string name="pull_to_signin">Повуците доле за пријаву.</string>
+  <string name="qq_not_installed">"QQ није инсталиран"</string>
   <string name="release_to_signin">Отпустите за пријаву</string>
   <string name="rename_alert">"Ако промените екстензију ове датотеке, можда нећете бити у могућности да је отворите."</string>
   <string name="rename_description">Преименовање…</string>
@@ -375,6 +407,7 @@
   <string name="rlv_pull_to_refresh">Повуци за освежити</string>
   <string name="rlv_refreshing">Скенирање датотека…</string>
   <string name="rlv_release_to_refresh">Пусти за освежити</string>
+  <string name="save_to_local">Преузето</string>
   <string name="sd_card_available">Доступно: %1$s</string>
   <string name="sd_card_size">SD картица: %1$s</string>
   <string name="sd_full">Ваша SD картица је пуна.</string>
@@ -385,6 +418,7 @@
   <string name="search_app">Извор</string>
   <string name="search_app_more">Више</string>
   <string name="search_category">Врста</string>
+  <string name="search_description">Претражи све датотеке на уређају</string>
   <string name="search_empty_view_hint">Нема резултата</string>
   <string name="search_error_hint">Унесите кључне речи за тражење</string>
   <string name="search_file_type_apk">Apk</string>
@@ -401,6 +435,7 @@
   <string name="search_keyword_messge">Express</string>
   <string name="search_keyword_news">Вести</string>
   <string name="search_keyword_wallet">Новчаник</string>
+  <string name="search_result">Резултати</string>
   <string name="search_result_hint1">Сродно</string>
   <string name="search_result_hint2">Све</string>
   <string name="search_result_hint3">" "</string>
@@ -416,11 +451,14 @@
   <string name="search_statistic_tag">Ознака</string>
   <string name="search_title">Тражи</string>
   <string name="search_title_hint">Тражи</string>
+  <string name="select_dest_folder">Одабери мапу</string>
   <string name="select_image">Одабери фотографију</string>
   <string name="select_music">Одабери песму</string>
   <string name="select_video">Одабери видеозапис</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ова врста датотеке није позната.</string>
+  <string name="send_to_qq">Пошаљи на QQ</string>
+  <string name="send_to_weixin">Пошаљи на WeChat</string>
   <string name="server_control_advanced_settings">FTP подешавања</string>
   <string name="server_control_charset">Кодирање преноса</string>
   <string name="server_control_settings">Подешавања</string>
@@ -432,14 +470,12 @@
   <string name="shared_sticker_page_no_file">"Не могу се повезати на мрежу. Проверите мрежну везу и покушајте поново.."</string>
   <string name="shared_sticker_str">Подељено од Mi обожаваоца</string>
   <string name="shared_sticker_suffix">Налепница на %s</string>
-  <string name="shared_sticker_use_tip">"Можете послати налепнице које су сачуване у WeChat дијалозима исто као да шаљете слике.
-(GIF-ови могу бити додати у Властито у WeChat Налепницама)."</string>
+  <string name="shared_sticker_use_tip">"Можете послати налепнице које су сачуване у WeChat дијалозима исто као да шаљете слике.(GIF-ови могу бити додати у Властито у WeChat Налепницама)."</string>
   <string name="shared_sticker_use_tip_title">Како користити налепнице</string>
   <string name="shared_str">Поделио %s</string>
   <string name="sign_description">Пријава…</string>
   <string name="signin_error">"Не могу се повезати на сервер. Проверите своју мрежну везу."</string>
-  <string name="signin_success">"Пријављени сте!
-Додано слободног простора %1$s"</string>
+  <string name="signin_success">"Пријављени сте!Додано слободног простора %1$s"</string>
   <string name="smb_loading">Само тренутак…</string>
   <string name="space_info">KuaiPan: %1$s доступно, %2$s укупно</string>
   <string name="space_usage">Искориштен простор</string>
@@ -479,15 +515,15 @@
   <string name="transing">Слање…</string>
   <string name="trash_box_capacity">Канта за смеће %1$s</string>
   <string name="trash_box_link">Да испразните канту за смеће, посетите &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
-  <string name="trash_box_message1">Избришите непотребне датотеке да
-ослободите простор.</string>
-  <string name="trash_box_message2">Испразните канту за смеће да бисте
-ослободили простор.</string>
+  <string name="trash_box_message1">Избришите непотребне датотеке даослободите простор.</string>
+  <string name="trash_box_message2">Испразните канту за смеће да бистеослободили простор.</string>
+  <string name="type_not_support">"Овај формат датотеке није подржан. Распакујте ову датотеку и покушајте поново."</string>
   <string name="ui_filechange_btn_download">Преузимање датотеке?</string>
   <string name="ui_filechange_btn_upload">Учитати датотеке</string>
   <string name="ui_main_menu_option_sign_in">Пријавите се</string>
   <string name="ui_main_menu_option_task_manage">Управљање преноса</string>
   <string name="ui_main_progress_txt_open_file">Преузимам…</string>
+  <string name="ui_main_toast_favorite_added">Успешно означено</string>
   <string name="ui_main_toast_favorite_removed">Неозначено</string>
   <string name="ui_main_toast_operation_failed">"Не могу означити %1$s"</string>
   <string name="unmount_inform_text">Искључити USB меморију?</string>
@@ -514,36 +550,11 @@
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Мој Drive</string>
   <string name="wechat_video">Видео на %s</string>
+  <string name="weixin_not_installed">"WeChat није инсталиран"</string>
   <string name="weixin_sticker_tag_str">WeChat Налепнице</string>
   <string name="wifi_state">WLAN мрежа</string>
   <string name="xiaomi_account">Mi Рачун</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Да</string>
   <string name="yesterday">Јуче</string>
-  <string name="add_private_files">Додај датотеке</string>
-  <string name="already_liked">"Већ сте означили ову ставку"</string>
-  <string name="cancel_operation">Откажи радњу</string>
-  <string name="cancelled_by_user">Радња отказана</string>
-  <string name="downloaded_sticker_str">Преузето</string>
-  <string name="encrypt_prefix">СКРИВЕНО</string>
-  <string name="if_cancel">Отказати ову радњу?</string>
-  <string name="image_loading_error">"Не могу учитати слику"</string>
-  <string name="menu_item_sort_add_time">"Израђено "</string>
-  <string name="no_downloaded_sticker_tip">"Не могу пронаћи преузете налепнице. Проверите налепнице подељене од стране Mi обожаваоца."</string>
-  <string name="notification_wechat_expired_empty">WeChat је већ избрисао ове видеозаписе.</string>
-  <string name="notify_private_folder_msg">Додирните да научите више.</string>
-  <string name="notify_private_folder_title">Направите скривене мапе</string>
-  <string name="operation_like">Означи</string>
-  <string name="operation_other_apps">Отвори у другој апликацији</string>
-  <string name="pick_folder">Одаберите мапу</string>
-  <string name="qq_not_installed">"QQ није инсталиран"</string>
-  <string name="save_to_local">Преузето</string>
-  <string name="search_description">Претражи све датотеке на уређају</string>
-  <string name="search_result">Резултати</string>
-  <string name="select_dest_folder">Одабери мапу</string>
-  <string name="send_to_qq">Пошаљи на QQ</string>
-  <string name="send_to_weixin">Пошаљи на WeChat</string>
-  <string name="type_not_support">"Овај формат датотеке није подржан. Распакујте ову датотеку и покушајте поново."</string>
-  <string name="ui_main_toast_favorite_added">Успешно означено</string>
-  <string name="weixin_not_installed">"WeChat није инсталиран"</string>
 </resources>

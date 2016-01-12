@@ -15,10 +15,8 @@
   <string name="bad_authentication">Погрешан рачун или лозинка</string>
   <string name="btn_return">Назад</string>
   <string name="button_cancel">Одустани</string>
-  <string name="buy_more_space_b_class">"Пријавите се на mi.com/micloud да добијете више простора за меморију.
-Потребна је Mainland China банковна картица за куповину додатне меморије."</string>
-  <string name="buy_more_space_c_class">"Ова функција захтева Mainland China банковну картицу.
-Да добијете више простора за меморију, посетите mi.com/micloud."</string>
+  <string name="buy_more_space_b_class">"Пријавите се на mi.com/micloud да добијете више простора за меморију.Потребна је Mainland China банковна картица за куповину додатне меморије."</string>
+  <string name="buy_more_space_c_class">"Ова функција захтева Mainland China банковну картицу.Да добијете више простора за меморију, посетите mi.com/micloud."</string>
   <string name="buy_space_expire">Купљен простор ће истећи за %s</string>
   <string name="buy_space_expire_concat">%1$s до %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Обнови аутоматски</string>
@@ -36,13 +34,16 @@
   <string name="cloud_back_up_interval_long">7 дана</string>
   <string name="cloud_back_up_interval_short">1 дан</string>
   <string name="cloud_back_up_network_unavailable">"Не могу се уклонити. Повежите се на WLAN и покушајте поново."</string>
-  <string name="cloud_back_up_open_info">"Направи сиг. копију апликација сваких %1$s када је повезано на WLAN
-Задња Сиг. копија: %2$s"</string>
+  <string name="cloud_back_up_open_info">"Направи сиг. копију апликација сваких %1$s када је повезано на WLANЗадња Сиг. копија: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Направи сиг. копију апликација сваких %1$s када је повезано на WLAN</string>
   <string name="cloud_back_up_remove_success">Сиг. копија је избрисана</string>
+  <string name="cloud_back_up_summary">Направи Сиг. копију кад је повезано на WLAN</string>
   <string name="cloud_back_up_title">Сиг. копија апликација</string>
   <string name="cloud_backup_dialog_title">Направи Сиг. копију са Mi Cloudom</string>
+  <string name="cloud_backup_have_data">Пронађена је Сиг. копија на Mi Cloudu</string>
+  <string name="cloud_backup_select_recover">Одабери Сиг. копију са Mi Clouda</string>
   <string name="cloud_find_device">Пронађи Уређај</string>
+  <string name="cloud_restore_title">Врати из Сиг. копије</string>
   <string name="cloud_space_upgrade_message">Додирните за додавање %sGB на ваш cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Не могу добити детаље простора за меморију"</string>
   <string name="cloud_space_upgrade_title">Више простора за Mi Cloud</string>
@@ -51,9 +52,11 @@
   <string name="contact">Контакти</string>
   <string name="deskclock_backup">Направи Сиг. копију Сатова</string>
   <string name="disable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
+  <string name="disable_find_device_success">"Pronђи уређај" је искључено.</string>
   <string name="enableAll">Синхронизуј све</string>
   <string name="enable_cloud_service_notification">Морате активирати Mi Cloud</string>
   <string name="enable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
+  <string name="enable_find_device_success">"Пронађи уређај" је укључено.</string>
   <string name="enable_micloud">Користи Mi Cloud</string>
   <string name="enable_sync">Синхр.</string>
   <string name="enable_sync_dspt">"Немој синхр."</string>
@@ -71,27 +74,28 @@
   <string name="find_device_disabled_title">"Пронађи уређај" искључено</string>
   <string name="find_device_disabling">Искључивање</string>
   <string name="find_device_dspt">Лоцирајте, закљуцајте, или рестартуј те ваш уређај на даљину</string>
-  <string name="find_device_dspt_provision">""Ако изгубите свој уређај, можете ићи на %s за проналажење, закључавање, или га поништити. 
-  
- Можете укључити/искључити ту функцију било када у Подешавањима."</string>
+  <string name="find_device_dspt_provision">""Ако изгубите свој уређај, можете ићи на %s за проналажење, закључавање, или га поништити.    Можете укључити/искључити ту функцију било када у Подешавањима."</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Можете укључити искључити ту функцију у поставкама.</string>
   <string name="find_device_dspt_provision_4">Ако промените СИМ картице, СМС порука ће аутоматски бити послата за поновно активирање ове функције.</string>
   <string name="find_device_enabling">Укључивање</string>
   <string name="find_device_error_network">Проверите своју пренос везу и покушајте поново</string>
+  <string name="find_device_error_password_changed">Лозинка рачун је недавно промењена.</string>
   <string name="find_device_error_server">Грешка система</string>
+  <string name="find_device_error_unknown">Непозната грешка.</string>
   <string name="find_device_noise_title">Звук локација уређаја</string>
   <string name="find_device_notice_p1">Идите на</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"да пронађете, закључате, или поништите свој уређај на даљину.
-  
-Ако промените SIM картице, још једна SMS порука ће аутоматски бити послата за поновно активирање ове функције."</string>
+  <string name="find_device_notice_p3">"да пронађете, закључате, или поништите свој уређај на даљину.  Ако промените SIM картице, још једна SMS порука ће аутоматски бити послата за поновно активирање ове функције."</string>
+  <string name="find_device_reading_status">Учитавање статуса…</string>
+  <string name="find_device_reading_status_failure">"Не могу учитати статус."</string>
   <string name="find_device_send_sms_alert">Ако промените SIM картице, још једна SMS порука ће аутоматски бити послата за поновно активирање ове функције.</string>
   <string name="find_device_status_ok">Пронађите уређај са било ког места на i.mi.com</string>
   <string name="find_device_status_ok_international">Пронађите свој уређај са било ког места на www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Додирните у реду за утишавање</string>
   <string name="find_device_success_title">Пронађи уређај</string>
+  <string name="forget_password">&lt;u&gt;Заборављена лозинка&lt;/u&gt;</string>
   <string name="free_space_has_received">Већ сте додали слободан простор за овај месец</string>
   <string name="free_space_receive_fail">"Не могу надоградити"</string>
   <string name="get_first_month_gb">Додајте %s слободног простора</string>
@@ -100,9 +104,13 @@
   <string name="google_cloud">Google Диск</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Око RMB 143 годишње</string>
+  <string name="header_cloud_backup_settings">Направи Сиг. копију и врати</string>
+  <string name="header_cloud_restore_summary">Поново инсталирај апликације и врати изглед Поч. екрана и подешавања система из Сиг. копије на Mi Cloudu</string>
   <string name="header_data_and_synchronization">Подаци &amp; синхро.</string>
+  <string name="header_find_device_settings">Пронађи уређај</string>
   <string name="header_other_settings">Додата подешавања</string>
   <string name="i_know">У реду</string>
+  <string name="input_password_hint">Унесите лозинку</string>
   <string name="internet_access_dspt">Овој апликацији је потребно повезивање са интернетом да ради нормално.</string>
   <string name="license_host_unreachable">"Не могу се повезати на мрежу. Да би сте видели ове податке сада, идите на %s."</string>
   <string name="loading">Учитавање…</string>
@@ -115,15 +123,48 @@
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS поруке (редовна и међународна) ће бити послата за активирање SIM картице. Сносићете надокнаде вашег мобилног оператера. Када укључите 'Пронађи уређај', SMS активације може бити послат након што промените SIM картице."</string>
   <string name="micloud_all_sub_2_intl_sms">"2 међународне SMS поруке ће бити послате за активирање SIM картице. Сносићете надокнаде вашег мобилног оператера. Када укључите 'Пронађи уређај', SMS може бити послат након што промените SIM картице."</string>
   <string name="micloud_all_sub_2_sms">"2 редовне SMS поруке ће бити послата за активирање SIM картице. Сносићете надокнаде вашег мобилног оператера. Када укључите 'Пронађи уређај', SMS може бити послат након што промените SIM картице."</string>
+  <string name="micloud_all_sub_resend_sms">"Када укључите "Пронађи уређај", SMS активације може бити послат након што примените SIM картице."</string>
+  <string name="micloud_battery_low_notification_message">Прикључите пуњач да синхронозујете.</string>
+  <string name="micloud_battery_low_notification_title">Слаба батерија</string>
   <string name="micloud_buy_member">Рачун</string>
-  <string name="micloud_check_sim_notify_text">"Изгледа да сте променили SIM картице. пријавите се
-на ваш Mi Рачун за активирање Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_text">"Изгледа да сте променили SIM картице. пријавите сена ваш Mi Рачун за активирање Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Поново активирај Mi Cloud</string>
-  <string name="micloud_check_sim_title">"Изгледа да сте променили SIM картице. пријави те се
-на ваш Mi Рачун за активирање Mi Cloud."</string>
+  <string name="micloud_check_sim_title">"Изгледа да сте променили SIM картице. пријави те сена ваш Mi Рачун за активирање Mi Cloud."</string>
+  <string name="micloud_confusion_account_hint">"Промене које направите на овом уређају биће синхронизоване на свим вашим уређајима. Да би сте заштили свој рачун, препоручујемо да искључите синхронизацију на другим уређајима када их не користите."</string>
+  <string name="micloud_confusion_account_name">"ID Mi Рачуна: "</string>
+  <string name="micloud_confusion_account_notify_text">Ваш Mi Рачун је измењен са другог уређаја.</string>
+  <string name="micloud_confusion_account_notify_title">Провера рачуна</string>
+  <string name="micloud_confusion_account_question">Да ли овај ID Mi Рачуна %s припада вама?</string>
+  <string name="micloud_confusion_account_title">ID Mi Рачуна</string>
+  <string name="micloud_confusion_alert_message">Информације вашег Mi Рачуна су измењена са %s.</string>
+  <string name="micloud_confusion_alert_negative">Касније</string>
+  <string name="micloud_confusion_alert_positive">Детаљи</string>
+  <string name="micloud_confusion_alert_title">Други уређај мења ваш рачун</string>
+  <string name="micloud_confusion_cancel">Одустани</string>
+  <string name="micloud_confusion_check_account_title">Активирајте поново Mi Cloud</string>
+  <string name="micloud_confusion_entrance_hint">"Да га одржите сигурним, не приступајте подацима које сте сачували на Mi Cloud коришћем заједничког уређаја."</string>
+  <string name="micloud_confusion_entrance_notify_text">Додирните за приказ детаља.</string>
+  <string name="micloud_confusion_entrance_notify_title">Садржај Mi Clouda је измењен</string>
+  <string name="micloud_confusion_entrance_question">Јесте ли се пријавили и направили измене, измене на подацима на вашем Mi Cloudu коришћењем %s?</string>
+  <string name="micloud_confusion_entrance_title">Садржај Mi Clouda је измењен</string>
+  <string name="micloud_confusion_finish_hint">"Промене које направите на овом уређају ће бити синхронизоване на свим вашим уређајима. Да би сте заштитили ваш рачун, препоручујемо да искључите синхронизацију на другим уређајима када их не користите."</string>
+  <string name="micloud_confusion_finish_message">Уверите те се да ни један од ваших старих и неактивних уређаја врши синхронизацију са вашим Mi Cloudom.</string>
+  <string name="micloud_confusion_finish_title">Рачун проверен</string>
+  <string name="micloud_confusion_no">Не</string>
+  <string name="micloud_confusion_ok">У реду</string>
+  <string name="micloud_confusion_setting_notify_text">Уверите те се да ни један од ваших старих и неактивних уређаја врши синхронизацију са вашим Mi Cloudom.</string>
+  <string name="micloud_confusion_setting_notify_title">Заштитите ваш рачун</string>
+  <string name="micloud_confusion_setting_password_error">Погрешна лозинка</string>
+  <string name="micloud_confusion_setting_question">Искључите синхронизацију за друге уређаје повезане са вашим рачуном.</string>
+  <string name="micloud_confusion_setting_title">Превише уређаја</string>
+  <string name="micloud_confusion_toast_confirm">Уређај проверен</string>
+  <string name="micloud_confusion_toast_deny">Пријавите се на ваш Mi Рачун</string>
+  <string name="micloud_confusion_yes">Да</string>
   <string name="micloud_detail_download_syncing">Преузимање %s</string>
   <string name="micloud_detail_fail">"Не могу синхро."</string>
   <string name="micloud_detail_lastest">Синхронизовано</string>
+  <string name="micloud_detail_lastest_with_off">Синхронизовано/Усклађено</string>
+  <string name="micloud_detail_not_synced">Није синхр.</string>
   <string name="micloud_detail_pending">На чекању</string>
   <string name="micloud_detail_preference_syncing">Синхронизујем</string>
   <string name="micloud_detail_preference_wlan">Синхро. на WLAN-u</string>
@@ -135,15 +176,28 @@
   <string name="micloud_detail_wlan_mms">%d MMS-a чека на синхро.</string>
   <string name="micloud_dspt">Користите Mi Cloud за синхронизацију података. пронађи те свој уређај,</string>
   <string name="micloud_dspt_provision">Користите Mi Cloud за синхронизацију података, пронађите свој уређај, и поделите ствари с пријатељима.</string>
+  <string name="micloud_find_device_finish">Готово</string>
+  <string name="micloud_find_device_guide_button">Укључи Пронађи уређај</string>
+  <string name="micloud_find_device_guide_content">Када промените вашу SIM картицу, порука ће бити послата аутоматски за поновно слање активирање ове функције.</string>
+  <string name="micloud_find_device_guide_fail_reopen">Укључи пронађи уређај на Mi Cloudu</string>
+  <string name="micloud_find_device_guide_fail_sub_net">Проверите мрежну везу и покушајте поново.</string>
+  <string name="micloud_find_device_guide_fail_sub_timeout">Веза је истекла. Покушајте поново касније.</string>
+  <string name="micloud_find_device_guide_micloud">Укључи синхр. са Mi Cloud</string>
+  <string name="micloud_find_device_guide_micloud_sub_content">Синх.  контакте, фотографије, белешке, и више са Mi Cloudom</string>
+  <string name="micloud_find_device_guide_noti_content">Укључи</string>
+  <string name="micloud_find_device_guide_noti_title">Укључите пронађи Уређај како би заштитили своје податке, чак и када изгубите свој уређај</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">UУкључите пронађи Уређај како би осигурали своје WeChat податке</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Укључите пронађи Уређај како би осигурали своје Alipay податке</string>
+  <string name="micloud_find_device_guide_progress">Искључивање Пронађи уређај…</string>
+  <string name="micloud_find_device_guide_title">"Пријавите се у %s да пронађете, закључате, или поништите свој уређај."</string>
+  <string name="micloud_find_device_open_fail">"Не могу укључити Пронађи уређај"</string>
+  <string name="micloud_find_device_opened">Пронађи Уређај укључен</string>
+  <string name="micloud_find_device_opened_content">Пронађите свој уређај на %s</string>
+  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Све ваше фотографије,видео записе,белешке и аликације ће остати сачуване на cloud. 
-
-На тај начин,ако изгубите или оштетите уређај, ваши подаци ће идаље бити на сигурном. 
-
-Када је ваш cloud пун, ваши стари подаци неће ићи нигде. Међутим, сваки нови додани садржај (на пример фотографије, видео записи, белешке и апликације) неће бити сачуване.
-
-Када је ваш цлоуд пун, ваши стари подаци неће ићи нигде. Међутим, сваки нови додани садржај (на пример фотографије, видео записи, белешке и апликације) неће бити похрањене."</string>
+  <string name="micloud_full_influence_dspt">"Све ваше фотографије,видео записе,белешке и аликације ће остати сачуване на cloud. На тај начин,ако изгубите или оштетите уређај, ваши подаци ће идаље бити на сигурном. Када је ваш cloud пун, ваши стари подаци неће ићи нигде. Међутим, сваки нови додани садржај (на пример фотографије, видео записи, белешке и апликације) неће бити сачуване.Када је ваш цлоуд пун, ваши стари подаци неће ићи нигде. Међутим, сваки нови додани садржај (на пример фотографије, видео записи, белешке и апликације) неће бити похрањене."</string>
   <string name="micloud_full_influence_title">Кда је ваш Mi Cloud пун</string>
   <string name="micloud_intro_01_part_01">Уштедите на мобилиним подацима!</string>
   <string name="micloud_intro_01_part_02">Слање порука у Cloudu преко интернета</string>
@@ -151,27 +205,36 @@
   <string name="micloud_intro_02_part_02">Синхронизација порука, контаката и фотографија, и још пуно тога међу уређајима.</string>
   <string name="micloud_intro_03_part_01">Осигурајте садржај свог телефона са било ког места</string>
   <string name="micloud_intro_03_part_02">Лоцирање на даљину,било ког уређаја на i.mi.com</string>
+  <string name="micloud_main_battery_low">Батерија је преслаба за синхр.</string>
+  <string name="micloud_main_battery_message">"Прикључите свој уређај на пуњење за синхронизацију%d ставки"</string>
+  <string name="micloud_main_clear_now">Избриши</string>
   <string name="micloud_main_data_unsynced">Чека на синхро.: %s</string>
   <string name="micloud_main_detail">Прикажи детаље</string>
   <string name="micloud_main_last_sync_time">Задње синхро. %s</string>
+  <string name="micloud_main_memory_low_message">"Да синхронизујете, избришите неке ставке које сте сачували у cloudu."</string>
+  <string name="micloud_main_memory_low_title">Нема довољно складишног простора</string>
   <string name="micloud_main_network_abnormal">"Не могу се спојити са мрежом"</string>
   <string name="micloud_main_network_error">Не могу се повезати на мрезу.</string>
   <string name="micloud_main_set_internet">Мрежа</string>
   <string name="micloud_main_space_full">Недовољно простора за складиштење</string>
+  <string name="micloud_main_space_full_title">Cloud меморија је пуна</string>
   <string name="micloud_main_space_low">Понестаје простора…</string>
   <string name="micloud_main_stop_sync">Синхр. заустављена</string>
-  <string name="micloud_main_suggest_setting">"Чека се WLAN веза за синхронизацију
-Додирните тастер подешавања за приказ више опција"</string>
+  <string name="micloud_main_suggest_master_sync">"Не могу све синхронизовати"</string>
+  <string name="micloud_main_suggest_setting">"Чека се WLAN веза за синхронизацијуДодирните тастер подешавања за приказ више опција"</string>
   <string name="micloud_main_suggest_sync">"Не могу синхронизовати све"</string>
   <string name="micloud_main_sync_exception">грешка синхро.</string>
   <string name="micloud_main_sync_init">Прикупљање информација</string>
   <string name="micloud_main_sync_now">Синхронизуј сада</string>
+  <string name="micloud_main_sync_on">Синхр. укљ.</string>
   <string name="micloud_main_sync_on_wifi">Само путем WLAN-a</string>
   <string name="micloud_main_sync_pause">Синхр. паузиранa</string>
+  <string name="micloud_main_sync_pending">Чекање на синхр</string>
   <string name="micloud_main_sync_setting">Подешавања синхронизације.</string>
   <string name="micloud_main_sync_stop">Синхр. заустављена</string>
   <string name="micloud_main_synced_data_count">Синхронизована ставка %d</string>
   <string name="micloud_main_syncing">Синхронизујем…</string>
+  <string name="micloud_main_title_master_sync_off">Ауто. синх. искључена</string>
   <string name="micloud_main_title_sync_fail">"Не могу синхронизовати"</string>
   <string name="micloud_main_title_sync_off">Синхр. искључена.</string>
   <string name="micloud_main_title_sync_on_wifi">Користи WLAN</string>
@@ -179,9 +242,7 @@
   <string name="micloud_main_wlan_sync_data_count">%d ставка чека на синхро преко WLAN мреже</string>
   <string name="micloud_member">Mi Cloud чланство</string>
   <string name="micloud_member_advantage">Набавите више простора за меморију.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Ваљаност %s-%s-%s
-
-%s Mi Кредита"</string>
+  <string name="micloud_member_buy_content" formatted="false">"Ваљаност %s-%s-%s%s Mi Кредита"</string>
   <string name="micloud_member_buy_title">Потврдите наруџбину</string>
   <string name="micloud_member_net_error_alert_message">"Нисте повезани са интернетом."</string>
   <string name="micloud_member_net_error_alert_title">"Не могу се повезати на мрежу"</string>
@@ -193,6 +254,8 @@
   <string name="micloud_member_webload_fail_toast_4xx">"Не могу учитати страницу"</string>
   <string name="micloud_member_webload_fail_toast_5xx">Грешка сервера</string>
   <string name="micloud_more">Сазнај више</string>
+  <string name="micloud_notif_content_depend_wifi">Повежите се на WLAN да синхр.</string>
+  <string name="micloud_notif_title_depend_wifi">%d чека се на синхронизацију</string>
   <string name="micloud_other_product_price">Поређење цена</string>
   <string name="micloud_proceed">Настави</string>
   <string name="micloud_sec_dspt">и подели ствари са својим пријатељима.</string>
@@ -217,17 +280,18 @@
   <string name="micloud_storage_expires_manually_renewal_sum">"Неке cloud услуге могу бити обустављене.Препорука је да се омогући ауто. обноваa."</string>
   <string name="micloud_storage_expires_soon_title">Поређење цена cloud простор за складиштење ће ускоро истећи.</string>
   <string name="micloud_storage_expires_very_soon_title">Поређење цена cloud простор за складиштење ће ускоро истећи.</string>
+  <string name="micloud_storage_full">Cloud меморија је пуна</string>
   <string name="micloud_storage_usage" formatted="false">Искоришћено %s/Укупан простор %s</string>
   <string name="micloud_sync_alert_dialog_message">Синхронизујте ваше фотографије, контакте и белешке и више на свим вашим уређајима.</string>
   <string name="micloud_sync_alert_dialog_negative">Одустани</string>
   <string name="micloud_sync_alert_dialog_positive">У реду</string>
   <string name="micloud_sync_alert_dialog_title">Користи Mi Cloud</string>
-  <string name="micloud_title_dspt" formatted="false">"Укупно %s
- Искоришћено %s | Преостало %s"</string>
+  <string name="micloud_title_dspt" formatted="false">"Укупно %s Искоришћено %s | Преостало %s"</string>
   <string name="micloud_title_dspt_remain">%s преостало</string>
   <string name="micloud_title_full_dspt">"Достигли сте ограничење простора складишта"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
+  <string name="micloud_upgrade_member">Набавите више простора за Меморију</string>
   <string name="micloud_upgrade_space">набавите више простора за складиштење</string>
   <string name="micloud_user_space_title">Простор за складиштење</string>
   <string name="micloud_user_space_usage">Простор за складиштење</string>
@@ -244,18 +308,10 @@
   <string name="microsoft_cloud_price">око 80 RMB годишње</string>
   <string name="more_activity_in_upgrade_space">Сазнајте више на &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi поруке</string>
-  <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
-  
-  
-Можете укључити/искључити ту функцију било када у подешавањима."</string>
-  <string name="mx_dspt_provision_privacy">"Ова функција може затражити ваш број телефона. Ваш давалац услуга може вам наплатити СМС поруку коришћену за активирање ове функције.
-  
-  
-Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Ова функција може затражити ваш број телефона. Ваш давалац услуга може вам наплатити 2 СМС порукe коришћенe за активирање ове функције.
-  
-  
-Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
+  <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.    Можете укључити/искључити ту функцију било када у подешавањима."</string>
+  <string name="mx_dspt_provision_privacy">"Ова функција може затражити ваш број телефона. Ваш давалац услуга може вам наплатити СМС поруку коришћену за активирање ове функције.    Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Ова функција може затражити ваш број телефона. Ваш давалац услуга може вам наплатити 2 СМС порукe коришћенe за активирање ове функције.    Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Ова функција може затражити ваш број телефона. Ваш оператер вам може наплатити SMS поруку коришћену за активирање ове функције када је откривена SIM картица.Ова функција шифрује и шаље ID вашег уређаја на Mi сервере."</string>
   <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
   <string name="mx_dspt_provision_with_voip2">Правила о Приватности</string>
   <string name="mx_sub_dspt_provision">Mi порука</string>
@@ -311,11 +367,8 @@
   <string name="sync_dspt_provision">"Синхронизација ваше фотографије, контакте, белешке, и више између ваших уређаја или приступите на "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". Можете укључити/искључити ту функцију било када у поставкама.
-  
-  
-"</string>
-<string name="sync_dspt_provision_header">Синхронизација</string>
+  <string name="sync_dspt_provision3">". Можете укључити/искључити ту функцију било када у поставкама.    "</string>
+  <string name="sync_dspt_provision_header">Синхронизација</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Синхронизуј записе обављених/примљених позива на овај телефон</string>
   <string name="sync_item_calllog_title">Синхронизуј историју позива</string>
@@ -342,9 +395,8 @@
   <string name="upgrade_space_successful_total">Доступно: %sGB</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Кориснички споразум</string>
-  <string name="user_agreement_p6">"
-  
-Korištenjem ove usluge, slažete se s  "</string>
+  <string name="user_agreement_p5">""</string>
+  <string name="user_agreement_p6">"  Korištenjem ove usluge, slažete se s  "</string>
   <string name="user_agreement_p7">"Mi Cloud Условима пружања услуге"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud Услови пружања услуге"</string>
@@ -356,14 +408,4 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="disable_find_device_success">"Pronђи уређај" је искључено.</string>
-  <string name="enable_find_device_success">"Пронађи уређај" је укључено.</string>
-  <string name="find_device_error_password_changed">Лозинка рачун је недавно промењена.</string>
-  <string name="find_device_error_unknown">Непозната грешка.</string>
-  <string name="find_device_reading_status">Учитавање статуса…</string>
-  <string name="find_device_reading_status_failure">"Не могу учитати статус."</string>
-  <string name="micloud_all_sub_resend_sms">"Када укључите "Пронађи уређај", SMS активације може бити послат након што примените SIM картице."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Ова функција може затражити ваш број телефона. Ваш оператер вам може наплатити SMS поруку коришћену за активирање ове функције када је откривена SIM картица.
-
-Ова функција шифрује и шаље ID вашег уређаја на Mi сервере."</string>
 </resources>

@@ -36,11 +36,15 @@
   <string name="all_ep">Све епизоде</string>
   <string name="all_episode">Све епизоде</string>
   <string name="all_media">Сва медија</string>
+  <string name="app_charging_wifi_mode">Пуњење за ажурирање апликације</string>
+  <string name="app_charging_wifi_mode_summary">Ажурирај апликацију аутоматски када је повезано на WLAN и на пуњењу</string>
   <string name="app_latest_version">Ово је већ најновија верзија</string>
   <string name="app_name">"Видео"</string>
   <string name="app_plugin_ready">%1$s компонента је спремна</string>
   <string name="app_recommend">Истакнуто</string>
   <string name="app_update_background">Ажурирај апликацију у позадини</string>
+  <string name="app_upgrade_hint">Кликните да гледате полимеризацију, HD online видео.</string>
+  <string name="app_upgrade_title">Mi Video је ажуриран на последњу верзију.</string>
   <string name="app_upgrade_version">Нова верзија</string>
   <string name="app_version">Верзија</string>
   <string name="app_wifi_mode">Аутомат. ажурирај преко WLAN-a</string>
@@ -81,8 +85,8 @@
   <string name="click_to_login">Додирните за пријаву</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Коментари</string>
-  <string name="comment_count_less_tip">Коментар мора имати најмање %d знакова</string>
-  <string name="comment_count_much_tip">"Коментар не може прелазити %d знакова"</string>
+  <string name="comment_count_less_tip">Коментар мора имати најмање %1$s знакова</string>
+  <string name="comment_count_much_tip">"Коментар не може прелазити %1$s знакова"</string>
   <string name="comment_edit_blog_hint">Прикажи на Weibo</string>
   <string name="comment_edit_et_hint">Унеси коментар</string>
   <string name="comment_edit_start_hint">Додирните звезду да оцените</string>
@@ -112,10 +116,7 @@
   <string name="debug_mode_desc">Ако је означено, покрени у дебуг начину рада и покажи ИД видеозаписа у левом горњем углу.</string>
   <string name="declaration">Услови коришћења</string>
   <string name="declaration_allow">Слажем се</string>
-  <string name="declaration_content">"1.Коришћењем ове услуге, слажете се са Sohu Video, iQiyi и остале пружаоце видео садржаја" href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1" Услови Коришћења".
-2.Помозите нам да побољшамо овај производ, аутоматским слањем дијагностичких података кориштења Xiaomi-у.
-3.Наш HD видео додатак ће бити аутоматски инсталиран.
-4.Овој услуги треба повезивање са интернетом да би функционисала исправно."</string>
+  <string name="declaration_content">"1.Коришћењем ове услуге, слажете се са Sohu Video, iQiyi и остале пружаоце видео садржаја" href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1" Услови Коришћења".2.Помозите нам да побољшамо овај производ, аутоматским слањем дијагностичких података кориштења Xiaomi-у.3.Наш HD видео додатак ће бити аутоматски инсталиран.4.Овој услуги треба повезивање са интернетом да би функционисала исправно."</string>
   <string name="declaration_content_td_custom">Овој функцији треба повезивање са интернетом да би функционисала исправно </string>
   <string name="defaults">Задато</string>
   <string name="delete">Избриши</string>
@@ -140,11 +141,11 @@
   <string name="dlna_name">Dijeljeni уређај</string>
   <string name="done">Готово</string>
   <string name="douban_score">Резултат</string>
+  <string name="download">Преузми</string>
   <string name="download_add_success">Задатак преузимања успешно додат</string>
   <string name="download_error">"Не могу преузети датотеку"</string>
   <string name="download_fail">Преузимање није успело</string>
-  <string name="download_file_fail">"Не могу преузети датотеку. Побрините се да има довољно простора на унутрашњој  
-  меморији вашег уређаја или SD картици."</string>
+  <string name="download_file_fail">"Не могу преузети датотеку. Побрините се да има довољно простора на унутрашњој    меморији вашег уређаја или SD картици."</string>
   <string name="download_geturl_fail">"Не могу добити URL"</string>
   <string name="download_is_in_tasklist">На реду преузимања</string>
   <string name="download_is_success">Преузето</string>
@@ -157,6 +158,7 @@
   <string name="download_start_message">%1$s компонента ће се преузети и инсталирати</string>
   <string name="download_task_with">%d задатака</string>
   <string name="download_url_waiting">Чека се дохватање позивнице</string>
+  <string name="download_url_waiting_no_wifi">Чекање на WLAN није доступно</string>
   <string name="download_with">Преузимање %1$s/%2$s</string>
   <string name="downloading_app_plugin">Преузимање компонената (%1$s)</string>
   <string name="edit">Уреди</string>
@@ -190,6 +192,7 @@
   <string name="good">У реду</string>
   <string name="guess_you_like">Препоручено</string>
   <string name="hint_apk_download">Инсталирајте ову апликацију</string>
+  <string name="hint_apk_download_format">Инсталирај \"%1$s\" апликацију</string>
   <string name="hint_apk_install">Инсталирај ову апликацију</string>
   <string name="hint_apk_text_update">инсталирати сада ово (%1$s) ажурирање?</string>
   <string name="hint_apk_title_update">Доступно ажурирање (%1$s)</string>
@@ -260,6 +263,10 @@
   <string name="no_longer_tips">"Не приказуј поново"</string>
   <string name="no_sdcard_no_download">Нема довољно простора за меморију, не могу захтевати преузимање.</string>
   <string name="not_login">Пријавите се</string>
+  <string name="notification_default_title">Запис ван мреже</string>
+  <string name="notification_sub_title">Заврено укупно %d задатака преузимања</string>
+  <string name="notification_ticker_text">Завршено преузимање ван мрежног видеозаписа</string>
+  <string name="notification_title">\"%s\" преузимање завршено</string>
   <string name="nowifi_alert_dialog_continue">Схватам</string>
   <string name="nowifi_alert_dialog_exit">Изађи</string>
   <string name="nowifi_alert_dialog_message">Коришћење ваше мобилне мреже са подацима за гледање видеа ће повећати употребу података. Ако прекорачите своје месечно ограничење, ваш провајдер услуга вам може наплатити додатне трошкове.</string>
@@ -323,7 +330,7 @@
   <string name="receive_develop_summary">Примање ажурирања апликације када је нова верзија доступна</string>
   <string name="receive_mipush">Обавештења нових видеозаписа</string>
   <string name="receive_mipush_summary">Примање обавештења када је нови запис доступан за гледање на интернету</string>
-  <string name="recent_play">Недавно репродуковано</string>
+  <string name="recent_play">Недавно репродуковано: Ep.%d</string>
   <string name="recentplay">Недавно репродуковано</string>
   <string name="recommend">Препорука</string>
   <string name="refreshing">Учитавање...</string>
@@ -338,6 +345,7 @@
   <string name="router_update">Морате надоградити  Xiaomi рутер апликацију.</string>
   <string name="score">Оцена</string>
   <string name="score_by">Оцена: %s</string>
+  <string name="score_douban">Douban Оцена %1$s</string>
   <string name="sdcard_storage">Унутрашња меморија</string>
   <string name="search">Тражи</string>
   <string name="search_hint">Тражи online видезаписе</string>
@@ -348,6 +356,8 @@
   <string name="search_result_empty_text">"Ништа није пронађено"</string>
   <string name="search_result_hint">%s  резултата</string>
   <string name="search_result_input_hint">Тражи</string>
+  <string name="search_snack_more">Више информација</string>
+  <string name="search_snack_sniff">Sniffing преузимање</string>
   <string name="second">Друго</string>
   <string name="see_all">Види све</string>
   <string name="see_all_count_comment">%d још коментара</string>
@@ -407,7 +417,7 @@
   <string name="update_button">Ажурирање</string>
   <string name="update_size_prefix">Величина:</string>
   <string name="update_title">Доступно ажурирање</string>
-  <string name="update_to_count_ji">Ажурирано на еп S. %d</string>
+  <string name="update_to_count_ji">Ажурирано на еп S. %1$s</string>
   <string name="update_to_count_qi">Ажурирано на %s</string>
   <string name="update_version_prefix">Ажурирај на верзију:</string>
   <string name="updateapk_intro">"Шта је ново"</string>
@@ -467,8 +477,8 @@
   <string name="vp_datastream_alert_title">Упозорење употребе података</string>
   <string name="vp_device_list">Уређаји</string>
   <string name="vp_download_connect_fail">"Не могу пронаћу URL.Провеите своју везу са подацима и покушајте поново."</string>
-  <string name="vp_download_file_fail">"Не могу преузети датотеку. Побрините се да има довољно простора у унутрашњој 
-  меморији вашег уређаја или SD картици."</string>
+  <string name="vp_download_file_fail">"Не могу преузети датотеку. Побрините се да има довољно простора у унутрашњој   меморији вашег уређаја или SD картици."</string>
+  <string name="vp_downloading_apk_title">Преузимање %1$s</string>
   <string name="vp_exit">Излаз</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Репродукуј у пуном екрану</string>
@@ -499,6 +509,7 @@
   <string name="vp_mplayer_error_timed_out">Истекло време операције</string>
   <string name="vp_newest_ep">Најновије</string>
   <string name="vp_next_ci">Даље</string>
+  <string name="vp_notify_apk_installed">Апликација %1$s успешно инсталирана</string>
   <string name="vp_offline">Изванмрежно</string>
   <string name="vp_offline_status_done">Довршено</string>
   <string name="vp_offline_status_dowloading">Преузимање</string>
@@ -527,6 +538,7 @@
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Виша</string>
   <string name="vp_support_by">Подршку пружа %1$s</string>
+  <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Преузимање апликација у позадини …</string>
   <string name="vp_unknown_source">Непознат извор</string>
   <string name="vp_using_16_9">Наметни 16:9</string>

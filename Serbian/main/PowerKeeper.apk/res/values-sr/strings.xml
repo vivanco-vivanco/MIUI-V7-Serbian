@@ -17,10 +17,12 @@
   <string name="alter_message_switch_mode_message">Када промените начин рада, ваша претходна подешавања се више неће примењивати на ту апликацију.</string>
   <string name="app_frozen_app_list_summary">Подешавања апликације</string>
   <string name="app_list_title">Одаберите апликацију</string>
+  <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Штедња батерије</string>
   <string name="background">Апликација се извршава у позадини</string>
   <string name="config_custom_description">Када вам треба мање од очекиваног, користите прилагођене конфигурације</string>
   <string name="config_custom_title">Прилагођено</string>
+  <string name="config_mode_title">Postavke</string>
   <string name="config_suggest_description">Користите разне конфигурације штедње енергије за апликације</string>
   <string name="config_suggest_title">MIUI предлаже</string>
   <string name="disabled">Искљ.</string>
@@ -60,12 +62,18 @@
   <string name="normal">Задати начин</string>
   <string name="operation_create_group">Назив</string>
   <string name="operation_create_group_message">Унесите нови назив групе</string>
+  <string name="power_checker_recent_btn_title">Подешавања енергије</string>
+  <string name="power_checker_recent_group_title">Недавно</string>
+  <string name="power_checker_running_btn_title">Заустави процес</string>
+  <string name="power_checker_running_group_title">Изводи се</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_chooser_user_define_title">Нови начин</string>
   <string name="power_config_alarm_sync_summary">Допусти апликацијама аларм у позадини</string>
   <string name="power_config_alarm_sync_title">Аларм</string>
   <string name="power_config_app_background_title">Позадина</string>
   <string name="power_config_app_full_screen_title">Цели екран</string>
   <string name="power_config_app_launch_title">Први план</string>
+  <string name="power_config_apps">Штедња енергије у позадини</string>
   <string name="power_config_choose_apps">Одабери апликације</string>
   <string name="power_config_confirm_event_delete">Избрисати ову конфигурацију?</string>
   <string name="power_config_cpu_freq_dialog_title">CPU фреквенција</string>
@@ -74,6 +82,10 @@
   <string name="power_config_cpu_mode_title">CPU начин</string>
   <string name="power_config_data_connect_summary">Допусти Апликацијама повезивање на мрежу у позадини</string>
   <string name="power_config_data_connect_title">Веза са подацима</string>
+  <string name="power_config_disable_description">"MIUI неће ограничити позадинске активности"</string>
+  <string name="power_config_disable_title">Искључено</string>
+  <string name="power_config_enhance_description">MIUI ће ограничити све позитивне активности када је то могуће</string>
+  <string name="power_config_enhance_title">Напредно</string>
   <string name="power_config_event_delete">Избриши</string>
   <string name="power_config_idle_notification_summary">Прикажи само прво обавештење од апликације</string>
   <string name="power_config_idle_notification_title">Прикажи само прво обавештење</string>
@@ -83,11 +95,16 @@
   <string name="power_config_lcd_mode_title">LCD начин</string>
   <string name="power_config_location_summary">"Допусти апликацији приказ локације вашег уређаја"</string>
   <string name="power_config_location_title">Приступ локацији</string>
+  <string name="power_config_mode_title">Начини уштеде енергије</string>
+  <string name="power_config_normal_description">Позадински приступ услугама лоцирања и мреже ће бити ограничен</string>
+  <string name="power_config_normal_title">Стандардно</string>
   <string name="power_config_phone_charging_title">Пуњење</string>
   <string name="power_config_phone_idle_title">Мировање</string>
   <string name="power_config_select_apps_empty">Додирните за одабир апликација</string>
   <string name="power_config_select_apps_title">Апликација</string>
   <string name="power_config_title">Подешавања</string>
+  <string name="power_config_ultimate_description">MIUI ће замрзнути апликације у позадини</string>
+  <string name="power_config_ultimate_title">Ултимативно</string>
   <string name="power_configure_screen_brightness_enable">Подесите осветљење екрана</string>
   <string name="power_customize_giveup_change">Одбаците промене?</string>
   <string name="power_dialog_cancel">Одустани</string>
@@ -132,6 +149,4 @@
   <string name="still">Слика</string>
   <string name="ui">Стандардно</string>
   <string name="user_define_mode">Назив</string>
-  <string name="app_list_total">Aplikacija: %d</string>
-  <string name="config_mode_title">Postavke</string>
 </resources>

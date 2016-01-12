@@ -22,12 +22,16 @@
   <string name="incorrect_pincode_remaining_attempts">Нетачан PIN, преостало покушаја %d</string>
   <string name="incorrect_pukcode">Нетачан PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Нетачан PUK, преостало покушаја %d</string>
+  <string name="input_password_after_boot_msg">"Мораћете да унесете лозинку након што се уређај поново покрене."</string>
   <string name="input_password_hint_text">Унесите лозинку</string>
   <string name="input_pin_code">Унесите PIN</string>
   <string name="input_puk_code">Унесите PUK</string>
   <string name="invalid_confirm_pin_hint">"PIN-ови се не подударају"</string>
+  <string name="invalid_sim_pin_hint">PIN треба имати од 4 до 8 бројева</string>
+  <string name="invalid_sim_puk_hint">PUK код треба имати 8 бројева или више</string>
   <string name="keyguard_torch_cover_text">Да задржите лампу упаљеном, држите дугме за укључивање</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
+  <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lockscreen_access_pattern_cell_added">Ћелија додата</string>
   <string name="lockscreen_access_pattern_cleared">Узорак обрисан</string>
   <string name="lockscreen_access_pattern_detected">Узорак завршен</string>
@@ -35,9 +39,7 @@
   <string name="lockscreen_charging_msg">Пуњење</string>
   <string name="lockscreen_emergency_call">Хитан позив</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Нетачно сте покушали откључати телефон %d пута. Након још %d неуспелих покушаја, телефон ће се ресетовати на фабричкa подешавања и сви кориснички подаци ће бити изгубљени.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Нетачно сте унели лозинку %d пута. Након још %d неуспелих покушаја, од вас ће се тражити пријава на ваш Mi Рачун како би откључали телефон .
-	
-Покушајте поново за %d сек."</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Нетачно сте унели лозинку %d пута. Након још %d неуспелих покушаја, од вас ће се тражити пријава на ваш Mi Рачун како би откључали телефон .	Покушајте поново за %d сек."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Нетачно сте покушали откључати телефон %d пута. Телефон ће се вратити на фабричка подешавања.</string>
   <string name="lockscreen_glogin_checking_password">Провера…</string>
   <string name="lockscreen_glogin_invalid_input">Нетачно корисничко име или лозинка.</string>
@@ -52,6 +54,7 @@
   <string name="phone_locked_string">Телефон је закључан</string>
   <string name="phone_locked_timeout_minutes_string">Покушајте поново за %s мин.</string>
   <string name="phone_locked_timeout_seconds_string">Покушајте поново за %s сек.</string>
+  <string name="set_lock_wallpaper_failed">Нема нових слика позадине</string>
   <string name="unlock_sim_string">Откључај SIM</string>
   <string name="unlock_string">Откључај</string>
   <string name="unlocking_sim_card">Откључавање SIM картице</string>

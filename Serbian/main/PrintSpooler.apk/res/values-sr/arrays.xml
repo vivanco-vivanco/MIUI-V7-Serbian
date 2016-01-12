@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="color_mode_labels">
+     <string-array name="color_mode_labels">
         <item>Црно-бело</item>
         <item>Боја</item>
-    </string-array>
-    <string-array name="orientation_labels">
+     </string-array>
+     <string-array name="duplex_mode_labels">
+        <item>Ништа</item>
+        <item>Дубљи руб</item>
+        <item>Краћи руб</item>
+     </string-array>
+     <string-array name="orientation_labels">
         <item>Усправно</item>
         <item>Водоравно</item>
-    </string-array>
-    <string-array name="page_options_labels">
+     </string-array>
+     <string-array name="page_options_labels">
         <item>Све</item>
         <item>Опсег</item>
-    </string-array>
+     </string-array>
 </resources>

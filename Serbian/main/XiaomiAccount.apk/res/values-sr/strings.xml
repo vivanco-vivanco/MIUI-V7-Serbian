@@ -55,6 +55,7 @@
   <string name="activate_desc_intl_sim_card">Међународни SMS ће бити послат за активирање SIM kartice</string>
   <string name="activate_desc_mixed_sim_cards">SMS и међународни SMS ће бити послати за активирање ваше 2 SIM kartice</string>
   <string name="activate_desc_sim_card">SMS биће послат за активирање ваше SIM картице</string>
+  <string name="activate_email_notice">Побрините се да активирате ваш кориснички рачун у року од 24 сата</string>
   <string name="activate_feature_call_log_sync">Синхронизација листе позива</string>
   <string name="activate_feature_find_device">Пронађи уређај</string>
   <string name="activate_feature_mms_sync">Синхронизација SMS-a</string>
@@ -144,6 +145,7 @@
   <string name="btn_return">Назад</string>
   <string name="button_cancel">Одустани</string>
   <string name="button_unbind">Прекини везу</string>
+  <string name="change_activate_email">Промена адресе e-поште</string>
   <string name="change_email_address">Промена адресе e-поште</string>
   <string name="change_password">Промена лозинке</string>
   <string name="change_phone_number">Промена броја телефона</string>
@@ -154,6 +156,7 @@
   <string name="cloud_service_dspt">Синхронизација ваше фотографије, контакте, белешке, апликације и више између свих ваших уређаја.</string>
   <string name="completed">Завршено</string>
   <string name="confirm">У реду</string>
+  <string name="confirm_activate_email">Потврђено</string>
   <string name="confirm_email_address_dialog_message">Код за проверу ће бити послат на: %s.</string>
   <string name="confirm_email_address_dialog_title">Потврди адресу е-поште</string>
   <string name="confirm_phone_number_dialog_message">Код за проверу ће бити послат на: %s.</string>
@@ -173,8 +176,7 @@
   <string name="device_list_title">Моји уређаји</string>
   <string name="device_trust_info">Поуздани уређаји</string>
   <string name="email_or_id_hint_text">Адреса E-поште или ID Mi Рачуна</string>
-  <string name="email_send_verify_code_prompt">"E-пошта послата на %s
-Унесите код за проверу у e-пошти"</string>
+  <string name="email_send_verify_code_prompt">"E-пошта послата на %sУнесите код за проверу у e-пошти"</string>
   <string name="empty_device_list_notice">Нема уређаја</string>
   <string name="error_device_id">"Не могу додати IMEI"</string>
   <string name="error_dup_binded_email">Ова адреса e-поште већ је повезана са другим Mi Рачуном.</string>
@@ -198,6 +200,7 @@
   <string name="get_phone_verifycode_exceed_limit">Превише послатих кодова за проверу на ову адресу e-поште. Сачекајте 24 сата и покушајте поново.</string>
   <string name="hide_mibi_info">Подаци Mi Кредита су сакривени</string>
   <string name="input_captcha_hint">Унесите код</string>
+  <string name="input_email_address_notice">"ова адреса е-поште ће бити коришћена за потврду вашег рачуна"</string>
   <string name="input_password_hint">Унесите лозинку</string>
   <string name="input_vcode_hint">Унесите код за проверу</string>
   <string name="just_a_second">Само тренутак…</string>
@@ -260,11 +263,7 @@
   <string name="passport_checking_account">Провера лозинке…</string>
   <string name="passport_checking_input">Провера уноса…</string>
   <string name="passport_choose_which_one_sim">Одаберите тел.број</string>
-  <string name="passport_click_email_to_valid">"
-
-Да би сте активирали свој кориснички рачун, следите
-повезницу у поруци коју смо послали на вашу долазну пошту
-."</string>
+  <string name="passport_click_email_to_valid">"Да би сте активирали свој кориснички рачун, следитеповезницу у поруци коју смо послали на вашу долазну пошту."</string>
   <string name="passport_completed">Завршено</string>
   <string name="passport_confirm">У реду</string>
   <string name="passport_confirm_recycle_account">Да</string>
@@ -314,7 +313,10 @@
   <string name="passport_license_host_unreachable">"Не могу се повезати на мрежу.Можете видети ову страницу на %s."</string>
   <string name="passport_loading">Учитавање…</string>
   <string name="passport_login">Пријавите се на постојећи рачун</string>
+  <string name="passport_login_check_find_device">Провера статуса пронађи Уређај…</string>
+  <string name="passport_login_check_find_device_failed">"Не могу проверити статус 'Пронађи уређај'. Проверите мрежну везу."</string>
   <string name="passport_login_failed">"Не могу се пријавити"</string>
+  <string name="passport_login_find_device_bind">Овај уређај је повезан са постојећим ID Mi Рачуна (%s). Пријавите се да активирате овај уређај.</string>
   <string name="passport_login_instead_reg">Користи овај број</string>
   <string name="passport_login_instead_reg_with_email">Користи ову E-пошту</string>
   <string name="passport_login_notice">Пријава…</string>
@@ -328,7 +330,6 @@
   <string name="passport_phone_num_hint_text">Број телефона</string>
   <string name="passport_prev">Назад</string>
   <string name="passport_privacy_policy">Правила о Приватности</string>
-  <string name="provision_skip_login">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
   <string name="passport_provision_skip_login">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">Провера у 2 корака</string>
   <string name="passport_quick_login_dialog_title">Провера лозинке</string>
@@ -396,6 +397,7 @@
   <string name="passport_xiaomi_account_dspt">Користите свој Mi Рачун за пријаву на Mi Cloud, MIUI Продавницу Тема,и друге Mi Услуге, са било ког места.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Пријава на ваш Mi Рачун захтева интернет везу. Осим тога, приступ локацији, Mi Cloud, и Mi VIP ће се укључити аутоматски.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Пријава на ваш Mi Рачун захтева интернет везу. Сходно томе, приступ локацији, Mi Cloud и Mi VIP ће се укључити аутоматски.</string>
   <string name="password">Унесите вашу лозинку</string>
   <string name="phone_activated">%s активиран</string>
   <string name="phone_send_verify_code_prompt">Пошаљи код за проверу %s</string>
@@ -404,6 +406,7 @@
   <string name="photoPickerNotFoundText">Нема доступних слика.</string>
   <string name="prev">Назад</string>
   <string name="privacy_policy">Правила о приватности</string>
+  <string name="provision_skip_login">&lt;u&gt;Прескочи овај корак&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">Провера у 2 корака</string>
   <string name="quick_login_dialog_title">Провери лозинку</string>
@@ -422,12 +425,17 @@
   <string name="removing_account">Одјава…</string>
   <string name="rename_current_device">"Промена назива уређаја"</string>
   <string name="replace_binded_phone">Замени телефон</string>
+  <string name="resend_active_email">Пошаљи поново</string>
+  <string name="resend_email_reach_limit_message">"Затражили сте превише провера путем e-поште. Проверите да e-пошта за проверу није у Spam мапи."</string>
+  <string name="resend_email_reach_limit_title">"Не могу послати e-пошту"</string>
+  <string name="resend_email_success">E-пошта послата поново</string>
   <string name="restart_action">Поново покрени</string>
   <string name="restart_email_bind_message">E-пошта са кодом за потврду ће бити послата на ову адресу</string>
   <string name="restart_email_bind_title">Промени e-пошту за опоравак</string>
   <string name="restart_phone_bind_message">SMS са кодом за потврду ће бити послат на овај број</string>
   <string name="restart_phone_bind_title">Промени телефон за опоравак</string>
   <string name="scan_barcode_title">Да се пријавите у свој Mi Рачун, скенирајте QR код</string>
+  <string name="send_email_activate_message">E-пошта провере послата</string>
   <string name="service_error">Грешка услуге</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Прескочи овај корак</string>
@@ -449,8 +457,7 @@
   <string name="user_agreement_p2">Услови пружања услуге</string>
   <string name="user_agreement_p3"> и </string>
   <string name="user_agreement_p4">Правила о приватности</string>
-  <string name="user_agreement_p6">"Сагласни сте са
-  "</string>
+  <string name="user_agreement_p6">"Сагласни сте са  "</string>
   <string name="user_avatar_update_title">Ажурирај слику профила</string>
   <string name="user_avatar_uploading">Учитавање…</string>
   <string name="vcode">Код за проверу</string>
@@ -464,7 +471,4 @@
   <string name="wipe_data_dialog_title">"Неке ставке нису биле синхронизоване."</string>
   <string name="wrong_captcha">Код који сте унели је нетачан</string>
   <string name="wrong_vcode">Код провере које сте унели је нетачан</string>
-  <string name="passport_login_check_find_device">Провера статуса пронађи Уређај…</string>
-  <string name="passport_login_check_find_device_failed">"Не могу проверити статус 'Пронађи уређај'. Проверите мрежну везу."</string>
-  <string name="passport_login_find_device_bind">Овај уређај је повезан са постојећим ID Mi Рачуна (%s). Пријавите се да активирате овај уређај.</string>
 </resources>

@@ -54,6 +54,7 @@
   <string name="cannot_resend_audio">"Не могу послати снимак"</string>
   <string name="cannot_send_message">"Не могу послати ову поруку""</string>
   <string name="cannot_send_message_reason">Порука нема важећег примаоца.</string>
+  <string name="card_insert_to_contact">Увези контакт</string>
   <string name="change_duration_activity">Промена трајања</string>
   <string name="check_all">Одаберите све</string>
   <string name="chenghu_disable_mms">Није могуће користити надимке у MMS-u</string>
@@ -109,7 +110,7 @@
   <string name="copy_message_text_success">Текст успешно копиран!</string>
   <string name="copy_to_sdcard">Сачувај прилог</string>
   <string name="copy_to_sdcard_fail">Немогуће сачувати прилог</string>
-  <string name="copy_to_sdcard_success">Прилог сачуван %s</string>
+  <string name="copy_to_sdcard_success">Прилог сачуван</string>
   <string name="database_corruption">Поправка базе података</string>
   <string name="delete">Избриши</string>
   <string name="delete_bookmark">Уклонити из фаворита</string>
@@ -150,6 +151,7 @@
   <string name="ex_type_mx">Mi порука</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Достигнуто је ограничење величине поруке.</string>
+  <string name="exceed_message_size_limitation_add_slide">Величина поруке није довољна да додате слајд</string>
   <string name="exceed_message_text_limitation">Достигнуто је ограничење величине поруке.</string>
   <string name="expire_on">Истиче: %s</string>
   <string name="exporting_progress_private_message">Излаз порука из приватног сандука</string>
@@ -178,6 +180,7 @@
   <string name="found_old_messages_title">Пошаљи поруке</string>
   <string name="found_wild_messages_guide_cloud_desc">Да синхронизујете поруке са Mi Clouda, пријавите се на ваш Mi Рачун и укључите синхронизацију SMS-a.</string>
   <string name="found_wild_messages_guide_settings_desc">Синхронизација SMS порука са Mi Clouda у Подешавањима порука.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Синхронизација није још увек започела</string>
   <string name="found_wild_messages_title">Синхронизација SMS порука са Mi Clouda</string>
   <string name="from_label">"Шаље: "</string>
   <string name="group_message">Групне поруке</string>
@@ -255,6 +258,8 @@
   <string name="msg_type_hint_mms">Мултимедијала порука</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi порука</string>
+  <string name="msg_type_hint_mx_b2c">Обавештења мреже</string>
+  <string name="msg_type_hint_mx_b2c_omit">Обавештења мреже</string>
   <string name="msg_type_hint_mx_omit">Mi Порука</string>
   <string name="msg_type_hint_sms">SMS</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -265,6 +270,7 @@
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">обавештење од MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
+  <string name="mx_activate_allow_notice">Ваш оператер вам може наплатити SMS коришћен за активирање бесплатних порука и говорних услуга.</string>
   <string name="mx_activate_dlg_title">Активирај Mi поруке</string>
   <string name="mx_activate_dlg_title_ex">Активирај Mi Поруке &amp; Voice</string>
   <string name="mx_activate_error_malformed_info">Морате поново активирати Mi поруке</string>
@@ -277,6 +283,13 @@
   <string name="mx_activate_int_hint_malformed_info">Ваш давалац услуга вам може наплатити међународни SMS коришћен за поновно активирање MI Порука.</string>
   <string name="mx_activate_int_hint_server">Ваш давалац услуга вам може наплатити међународни SMS коришћен за поновно активирање MI Порука.</string>
   <string name="mx_activate_int_hint_sim_change">Изгледа да сте променили SIM картице. Ваш давалац услуга вам може наплатити SMS коришћен за поновно активирање MI Порука."</string>
+  <string name="mx_activate_status_desc_activating_now">Активирање...</string>
+  <string name="mx_activate_status_desc_check_net_connection">"Не могу се повезати на мрежу"</string>
+  <string name="mx_activate_status_desc_fail">"Не могу активирати Mi Поруке"</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Шаљем SMS активације…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Проверавам детаље SIM картице...</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Број телефона који сте унели није важећи</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">"Не могу активирати Mi Поруке"</string>
   <string name="mx_and_voip_enable">Mi Порука &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">"Шаљите поруке и упућујте позиве другим MIUI корисницима без настанка трошкова. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности."</string>
   <string name="mx_and_voip_enable_popup_msg2">Правила о Приватности</string>
@@ -285,6 +298,8 @@
   <string name="mx_auto_resend_sms">Пошаљи као  SMS поруку</string>
   <string name="mx_auto_resend_sms_summary">Пошаљи SMS поруке преко мобилне везе када нисте повезани на WLAN. Сносите редовне трошкове вашег даваоца услуга.</string>
   <string name="mx_b2c_message_desc">Обавештења мреже</string>
+  <string name="mx_b2c_message_resend_not_online">"Не могу поново послати поруку. Mi Порука је ван мреже."</string>
+  <string name="mx_b2c_message_server">СЕРВЕР</string>
   <string name="mx_btn_enable">Активирај</string>
   <string name="mx_btn_enable_now">Активирај</string>
   <string name="mx_count_dspt">послано %1$d SMS-a i %2$d MMS-a</string>
@@ -296,6 +311,10 @@
   <string name="mx_enable">Mi Порука</string>
   <string name="mx_enable_ex">Mi Порука &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi поруке омогућују да шаљете поруке другим MIUI корисницима без настанка SMS трошкова</string>
+  <string name="mx_filter_message_from_stranger">Блокирј Mi Поруке од непознатих бројева</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"И даље ће те моћи да примате редовне SMS поруке од непознатих бројева. Можете укљ/искључити ову функцију  у бло којем тренутку у Поруке &gt; Postavke."</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Блокирај Mi Поруке од непознатих бројева</string>
+  <string name="mx_filter_message_from_stranger_summary">"И даље ће те моћи мримате редовне SMS пруке од непознатих бројева"</string>
   <string name="mx_msg">Mi поруке</string>
   <string name="mx_offline">Без мреже</string>
   <string name="mx_on_sim_1">Mi порука са SIM слота 1</string>
@@ -306,6 +325,9 @@
   <string name="mx_type_guide">Mi Поруке вам омогућују да шаљете поруке другим MIUI корисницима без настанка SMS трошкова</string>
   <string name="my_bookmark">ознаке</string>
   <string name="need_download">Синхронизујем</string>
+  <string name="networking_allow_continue">У реду</string>
+  <string name="networking_allow_desc">"Паметне поруке омогућују вам слање бесплатних порука и гласа, препознати непознате бројеве, филтрирање нежељене поруке, идт. Коришћењем ове услуге слажете се са Xiaomi %1$s i %2$s. Морате укључити Yellow Pages повезати се са интернетом за коришћење ове услуге."</string>
+  <string name="networking_allow_title">Пажња</string>
   <string name="new_message">Нова порука</string>
   <string name="new_message_arrived">Примљена нова порука</string>
   <string name="new_phrase">Нови излаз</string>
@@ -329,16 +351,18 @@
   <string name="phrase_confirm_delete_message">Одабрани излаз ће бити избрисан</string>
   <string name="phrase_empty">Нема израза</string>
   <string name="phrase_from">Шаље %1s</string>
-  <string name="phrase_list_title">израза</string>
+  <string name="phrase_list_title">израза (%1$d)</string>
   <string name="pick_too_many_recipients">Превише додатих примаоца</string>
   <string name="play">Репродукуј</string>
   <string name="playing_failed">"Не могу репродуковати"</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Напредна подешавања</string>
+  <string name="pref_allow_network_access_summary">Укључите да би сте добили најновије информације о испоруци и другим  услугама.</string>
   <string name="pref_collapse_sp_messages_summary">Комбинована порука даваоца услуга у истом улазу</string>
   <string name="pref_edit_smsc_address">Број SMS центра</string>
   <string name="pref_forward_title">Проследи</string>
   <string name="pref_key_mx_feedback">Повратна информација</string>
+  <string name="pref_message_recovery_introduction_title">Порука опоравка</string>
   <string name="pref_messages_to_save">Подеси број порука за чување</string>
   <string name="pref_mms_settings_title">Подешавања MMS-a</string>
   <string name="pref_notification_settings_title">Подешавања обавештења</string>
@@ -452,8 +476,7 @@
   <string name="search_setting_description">Текст у вашим порукама</string>
   <string name="search_show_more_results">Прикажи више</string>
   <string name="secs">сек</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Пошиљаоц није у контактима.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Пошиљаоц није у контактима. "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Пријави овај број</string>
   <string name="security_alert_dialog_desc">Пошaљи овај број (%s) и поруке Xiaomi-u на преглед.</string>
   <string name="security_alert_dialog_title">Пријави</string>
@@ -464,6 +487,7 @@
   <string name="select_link_title">Одабир радњe</string>
   <string name="select_local_audio">Одабери локални звукk</string>
   <string name="select_local_video">Одабери локални видеозапис</string>
+  <string name="select_message_send_sim">Одабери SIM картицу</string>
   <string name="select_recipient">Одабери примиоце</string>
   <string name="select_top_text">Текст при врху</string>
   <string name="send">Пошаљи</string>
@@ -545,6 +569,7 @@
   <string name="timed_message_expired_title_2">Послати сада?</string>
   <string name="timed_message_in_total">… (%d укупно)</string>
   <string name="timed_message_to">прима</string>
+  <string name="title_allow_network_access">Ажурирај податке аутоматски</string>
   <string name="title_collapse_sp_messages">Комбинујте поруке даватеља услуга</string>
   <string name="title_date_type">Ознака времена поруке</string>
   <string name="title_show_blocked_messages">Прикажи блокиране SMS поруке</string>
@@ -570,8 +595,7 @@
   <string name="type_to_compose_text_or_leave_blank">Упишите право или оставите кратко</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
-  <string name="undelivered_msg_dialog_body">Ову поруку није могуће послати.
-Проведени покушај: %s."</string>
+  <string name="undelivered_msg_dialog_body">Ову поруку није могуће послати.Проведени покушај: %s."</string>
   <string name="undelivered_msg_dialog_title">Неиспоручена порука</string>
   <string name="undelivered_sms_dialog_body">Ову поруку није могуће послати.</string>
   <string name="unknown_num">Непознати број</string>
@@ -595,18 +619,9 @@
   <string name="voip_enable_popup_msg2">Правила о Приватности</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Пошаљи за %ds</string>
+  <string name="wild_msg_processing">Обрада…</string>
+  <string name="wild_msg_title">Омогући cloud синхр.</string>
   <string name="xiaomi_service_number">Број услуге</string>
-  <string name="yes">У реду</string>
-  <string name="exceed_message_size_limitation_add_slide">Величина поруке није довољна да додате слајд</string>
-  <string name="msg_type_hint_mx_b2c">Обавештења мреже</string>
-  <string name="msg_type_hint_mx_b2c_omit">Обавештења мреже</string>
-  <string name="mx_activate_allow_notice">Ваш оператер вам може наплатити SMS коришћен за активирање бесплатних порука и говорних услуга.</string>
-  <string name="mx_b2c_message_resend_not_online">"Не могу поново послати поруку. Mi Порука је ван мреже."</string>
-  <string name="mx_b2c_message_server">СЕРВЕР</string>
-  <string name="networking_allow_continue">У реду</string>
-  <string name="networking_allow_desc">"Паметне поруке омогућују вам слање бесплатних порука и гласа, препознати непознате бројеве, филтрирање нежељене поруке, идт. Коришћењем ове услуге слажете се са Xiaomi %1$s i %2$s. Морате укључити Yellow Pages повезати се са интернетом за коришћење ове услуге."</string>
-  <string name="networking_allow_title">Пажња</string>
-  <string name="pref_allow_network_access_summary">Укључите да би сте добили најновије информације о испоруци и другим  услугама.</string>
-  <string name="title_allow_network_access">Ажурирај податке аутоматски</string>
   <string name="yellowpage_recommend_msg">"Испробајте функције MIUI SMS поруке"</string>
+  <string name="yes">У реду</string>
 </resources>

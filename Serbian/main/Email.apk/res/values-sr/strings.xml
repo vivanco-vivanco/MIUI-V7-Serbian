@@ -111,17 +111,15 @@
   <string name="account_setup_failed_certificate_required">Потребна је клијентска потврда. Желите ли се повезати са сервером с клијентског потврдом?</string>
   <string name="account_setup_failed_check_credentials_message">Сервер је одговорио са грешком. Проверите корисничко име и лозинку и покушајте поново.</string>
   <string name="account_setup_failed_dlg_auth_message">Корисничко име или лозинка су неисправни.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">""Не могу се пријавити.
-(%s)"</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">""Не могу се пријавити.(%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Сигурно повезивање са сервером није могуће.</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">"Сигурно повезивање са сервером није могуће.
-(%s)"</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"Сигурно повезивање са сервером није могуће.(%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Не могу се пријавити. Овај рачун је закључан."</string>
   <string name="account_setup_failed_dlg_edit_details_action">Уреди појединости</string>
   <string name="account_setup_failed_dlg_server_message"> повезивање са сервером није могуће.</string>
-  <string name="account_setup_failed_dlg_server_message_fmt">"повезивање са сервером није могуће.
-(%s)"</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"повезивање са сервером није могуће.(%s)"</string>
   <string name="account_setup_failed_dlg_title">Завршавање није било могуће</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Непозната грешка.</string>
   <string name="account_setup_failed_ioerror">Није било могуће отворити везу са сервером.</string>
   <string name="account_setup_failed_protocol_unsupported">Унели сте погрешну адресу сервера или сервер тражи верзију протокола коју E-пошта не подржава.</string>
   <string name="account_setup_failed_security">Отварање везе са сервером није било могуће због грешке са повезивањем.</string>
@@ -176,6 +174,7 @@
   <string name="account_setup_options_mail_window_auto">Аутоматски</string>
   <string name="account_setup_options_mail_window_default">Користи задану пост. рачуна</string>
   <string name="account_setup_options_mail_window_label">Дани за синхронизацију</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Сачувај за</string>
   <string name="account_setup_options_notify_label">Обавести ме кад стигне e-пошта</string>
   <string name="account_setup_options_sync_calendar_label">Синхронизуј календар са овог рачуна</string>
   <string name="account_setup_options_sync_contacts_label">Синхронизуј контакте са овог рачуна.</string>
@@ -231,6 +230,7 @@
   <string name="archive">Архивирај</string>
   <string name="archived">Архивирано</string>
   <string name="att_download_failed_content">"Не могу преузети прилог за ову поруку."</string>
+  <string name="att_download_failed_network_slow">Мрежа је спора, покушајте преузети касније</string>
   <string name="att_download_failed_title">"Не могу преузети прилог."</string>
   <string name="att_file_not_exists">Датотека %s није меморисана!</string>
   <string name="att_mgr_no_attachment">Нема прилога.</string>
@@ -280,6 +280,13 @@
   <string name="bottom_bar_more_unread">Означи непрочитано</string>
   <string name="bottom_bar_no_quickreply_toast">Нема брзих одговора</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Подсети</string>
+  <string name="calendar_remind_gridview_month_later">Месец касније</string>
+  <string name="calendar_remind_gridview_nextweek">Други дан</string>
+  <string name="calendar_remind_gridview_pick_date">Одабери датум</string>
+  <string name="calendar_remind_gridview_tomorrow">Сутра</string>
+  <string name="calendar_remind_gridview_tonight">Вечерас</string>
+  <string name="calendar_remind_gridview_weekend">Викенд</string>
   <string name="cancel">Одустани</string>
   <string name="cancel_action">Одустани</string>
   <string name="cancel_attachment">Одустани</string>
@@ -332,9 +339,11 @@
   <string name="confirm_send_title">Послати поруку?</string>
   <string name="contact_content_provider">Контактирајте даваоца садржаја</string>
   <string name="contact_edit_set_black_list">Подеси листу блокираних</string>
+  <string name="contact_edit_set_black_list_filtering">Филтрирање...</string>
   <string name="contact_edit_set_black_list_from">Избриши сву пошту тог пошиљаоца</string>
   <string name="contact_edit_set_black_list_receive">Избриши пошту тог примаоца</string>
   <string name="contact_edit_set_black_list_receive_summary">Избриши пошту која садржи тог примаоца у пољу Прима или Копија</string>
+  <string name="contact_edit_set_black_list_title">Додај на листу блокираних</string>
   <string name="contact_edit_set_phone_contact">Уреди контакте телефона</string>
   <string name="contact_edit_set_pop_up_tips">Савети искачућег прозора</string>
   <string name="contact_edit_set_unread_top">Прикажи прво e-пошту</string>
@@ -397,6 +406,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">ЗАДАТА ПОДЕШАВАЊА</string>
   <string name="default_signature">Послато са мог Mi Телефона</string>
+  <string name="del_account_questionnair_hint">"Можете ли нам рећи зашто бришете овај рачун?"</string>
   <string name="delete">Избриши</string>
   <string name="delete_conversation_hint_message">%1$d %2$s избрисано</string>
   <string name="deleted">Избрисано</string>
@@ -409,6 +419,7 @@
   <string name="dialog_account_auto_sync_setting_no_open">"Не могу примати нове поруке. Синхронизација је искључена."</string>
   <string name="dialog_auto_download_failed">"Не могу преузети аутоматски."</string>
   <string name="dialog_auto_sync_setting_no_open">"Не могу примати нове поруке. Синхронизација је искључена."</string>
+  <string name="dialog_change_sync_lookback">Порука e-поште примљена пре %s ће аутоматски бити избрисана. Додирните за промену.</string>
   <string name="dialog_gmail_proxy_server_is_error">Грешка Gmail proxy сервера.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Недовољно простора за преузимање прилога за %s.</string>
   <string name="dialog_insufficient_space_on_external">"Не могу преузети прилог. Нема довољно простора на спољној меморији."</string>
@@ -462,6 +473,7 @@
   <string name="exchange_name">Корпорациски</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Прошири податке о примиоцу</string>
+  <string name="fail_get_email_message">Примање порука није успело</string>
   <string name="failed">Није могуће учитати слику</string>
   <string name="feedback">Пошаљите повратне информације</string>
   <string name="feedback_body">Порука</string>
@@ -486,8 +498,12 @@
   <string name="folder_icon_desc">Икона мапе</string>
   <string name="folder_junk_name_cn0">Спам</string>
   <string name="folder_junk_name_cn1">Ђубре</string>
+  <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
   <string name="folder_junk_name_en0">Смеће</string>
   <string name="folder_junk_name_en1">Нежељена пошта</string>
+  <string name="folder_junk_name_en2">Смеће</string>
+  <string name="folder_junk_name_en3">Смеће</string>
+  <string name="folder_junk_name_en4">Смеће</string>
   <string name="folder_list_display_all">Прикажи све мапе</string>
   <string name="folder_list_display_only_import">Прикажи само важне мапе</string>
   <string name="folder_picker_title">Одабир мапа</string>
@@ -536,8 +552,8 @@
   <string name="gmail_acceleration">Користи proxy сервер за Gmail Рачун</string>
   <string name="gmail_login_confirm_to_use_proxy">Користити proxy сервер за приступ Gmail рачуну?</string>
   <string name="gmail_login_failed_non_proxy_title">"Не могу приступити Gmail серверу"</string>
-  <string name="gmail_server_authorization_deleted">Дохватање приступа ауторизације није успело, поново унесите CERT.</string>
   <string name="gmail_login_verify">Додај Gmail Рачун</string>
+  <string name="gmail_server_authorization_deleted">Дохватање приступа ауторизације није успело, поново унесите CERT.</string>
   <string name="gmail_web_login_go">У реду</string>
   <string name="gmail_web_login_required_message">Пријавите се на Gmail</string>
   <string name="head_only_enable_dialog_message">Само наслов (уместо целе e-поште) је преузет без клика под прметом.</string>
@@ -654,15 +670,7 @@
   <string name="message_body_auto_download_tip">"Ваша пошта ће се аутоматски преузети ако сте спојени на WLAN мрежу"</string>
   <string name="message_body_download_failed">"Не могу преузети пошту. веза је прекинута."</string>
   <string name="message_body_loading">[ Учитавање ]</string>
-  <string name="message_compose_fwd_header_fmt">"
-
--------- Изворна порука --------
-Предмет: %1$s
-Шаље: %2$s
-Прима: %3$s
-Копија: %4$s
-
-"</string>
+  <string name="message_compose_fwd_header_fmt">"-------- Изворна порука --------Предмет: %1$sШаље: %2$sПрима: %3$sКопија: %4$s"</string>
   <string name="message_compose_insert_quick_response_list_title">Убацивање брзог одговора</string>
   <string name="message_compose_insert_quick_response_menu_title">Убаци брзи одговор</string>
   <string name="message_count_spacer">  </string>
@@ -848,6 +856,15 @@
   <string name="push_wps_confirm_message">Покушајте да користите WPS Office за отварање овог прилога</string>
   <string name="push_wps_confirm_title">Испробајте WPS Office</string>
   <string name="push_wps_no_response_app">Нема пронађене апликације за извршавање ове радње</string>
+  <string name="questionnair_body_invisibility">"Поруке нису приказане"</string>
+  <string name="questionnair_confirm_delete">Избриши</string>
+  <string name="questionnair_instability">Нестабилна апликација, често се руши</string>
+  <string name="questionnair_not_send">"Не могу послати е-пошту"</string>
+  <string name="questionnair_not_sync">Нестабилна синхр.</string>
+  <string name="questionnair_other_reasons">Остали разлози</string>
+  <string name="questionnair_title">Брисање рачуна</string>
+  <string name="questionnair_ui_not_pretty">"Не свиђа ми се дизајн"</string>
+  <string name="questionnair_waste_resource">Брисање може ослободити нешто простора за меморију</string>
   <string name="quick_1">Хвала!</string>
   <string name="quick_2">Изврсно!</string>
   <string name="quick_3">Прочитаћу то касније, и јављам се.</string>
@@ -870,8 +887,7 @@
   <string name="quote_divider_7">Изворна порука</string>
   <string name="quote_divider_8">_____________________________________</string>
   <string name="quote_divider_9">--------------------------------------------------</string>
-  <string name="quote_divider_apple">"
-+&gt;"</string>
+  <string name="quote_divider_apple">"+&gt;"</string>
   <string name="quote_divider_huawei_zh">Од Huawei мобилног</string>
   <string name="quote_divider_ipad_zh">Самостално направљено iPad</string>
   <string name="quote_divider_iphone_en">Послато са мог iPhone-а</string>
@@ -909,11 +925,16 @@
   <string name="remove_folder">Уклони из %1$s</string>
   <string name="remove_star">Одзначи</string>
   <string name="reply">одговор</string>
+  <string name="reply_add_bodycontent">Додати брзи одговор у садржај поруке?</string>
   <string name="reply_all">Одговори свима</string>
   <string name="reply_attribution" formatted="false">Дана %s особа %s написала је:</string>
   <string name="replyto_heading">"одговори: "</string>
   <string name="report">Пријави</string>
   <string name="report_phishing">Пријавите крађу идентитета</string>
+  <string name="report_rendering_improvement">Изгледа добро</string>
+  <string name="report_rendering_improvement_desc">Ова порука изгледа добро.</string>
+  <string name="report_rendering_problem">Изгледа лоше</string>
+  <string name="report_rendering_problem_desc">Ова порука изгледа лоше.</string>
   <string name="report_spam">Пријавите нежељену пошту</string>
   <string name="request_entity_large">Датотека је превелика</string>
   <string name="require_manual_sync_message">Синхронизација за овај рачун је искључена у ромингу.</string>
@@ -959,8 +980,7 @@
   <string name="sending">Слање</string>
   <string name="sending_message">Слање поруке…</string>
   <string name="sent_folder_selection_title">Одаберите мапу за послане ставке сервра за %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Не могу потврдити сертификат сервера
-\u0009 (Проверите дал је 'Ауто синк. времена 'укључена у поставкама.)"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Не могу потврдити сертификат сервера\u0009 (Проверите дал је 'Ауто синк. времена 'укључена у поставкама.)"</string>
   <string name="ser_resp_err_map_connect_err">Грешка мрежне везе. покушајте другу мрежу</string>
   <string name="ser_resp_err_map_nouser">"Корисник не постоји"</string>
   <string name="ser_resp_err_map_or">или</string>
@@ -976,15 +996,10 @@
   <string name="show_elided">▶ Прикажи цитирани текст</string>
   <string name="show_images">Прикажи слике</string>
   <string name="show_n_more_folders">Прикажи још мапа (%1$s)</string>
-  <string name="signature">"
-
-
-
-%s"</string>
+  <string name="signature">"%s"</string>
   <string name="signin">Пријава</string>
   <string name="silent_ringtone">Бешумно</string>
-  <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
+  <string name="single_new_message_notification_big_text">"%1$s%2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">Грешка лозинке одлазног сервера</string>
   <string name="sort_attachment">Поређај по</string>
@@ -1065,8 +1080,7 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">путем %1$s</string>
   <string name="view_more_conversations">Прикажи више разговора</string>
-  <string name="wait_for_manual_sync_body">"Овај рачун није подешен за аутоматску синхронизацију.
-Додирните "&lt;b&gt;Синхронизуј сада&lt;/b&gt; да би сте пошту синхронизовали једном или &lt;b&gt;промена синхронизације&lt;/b&gt; да би сте овај рачун подесили за аутоматску синхронизацију поште.</string>
+  <string name="wait_for_manual_sync_body">"Овај рачун није подешен за аутоматску синхронизацију.Додирните "&lt;b&gt;Синхронизуј сада&lt;/b&gt; да би сте пошту синхронизовали једном или &lt;b&gt;промена синхронизације&lt;/b&gt; да би сте овај рачун подесили за аутоматску синхронизацију поште.</string>
   <string name="wait_for_sync_body">Ваша ће се e-пошта ускоро појавити.</string>
   <string name="wait_for_sync_body_2">Сервер Exchange ће се вас упитати за 1-30 секунди. Потврдите безбедносна подешавања и активирајте свој поштански сандучић.</string>
   <string name="wait_for_sync_body_txt_array_1">Сервер Exchange ће се завршити у року</string>
@@ -1083,13 +1097,4 @@
   <string name="yes">Да</string>
   <string name="you_are_in_mobile_network">Послати дневник коришћењем мобилне везе са подацима? Ако прекорачите преко вашег ограничења података, ваш мобилни оператер вам може наплатити додатне трошкове.</string>
   <string name="zip_viewer_no_file">Нема датотека</string>
-  <string name="att_download_failed_network_slow">Мрежа је спора, покушајте преузети касније</string>
-  <string name="calendar_remind_dialog_title">Подсети</string>
-  <string name="calendar_remind_gridview_month_later">Месец касније</string>
-  <string name="calendar_remind_gridview_nextweek">Други дан</string>
-  <string name="calendar_remind_gridview_pick_date">Одабери датум</string>
-  <string name="calendar_remind_gridview_tomorrow">Сутра</string>
-  <string name="calendar_remind_gridview_tonight">Вечерас</string>
-  <string name="calendar_remind_gridview_weekend">Викенд</string>
-  <string name="reply_add_bodycontent">Додати брзи одговор у садржај поруке?</string>
 </resources>

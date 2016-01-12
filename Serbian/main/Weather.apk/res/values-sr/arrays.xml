@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="weather_type">
+     <string-array name="indices_car_wash">
+        <item>Погодно</item>
+        <item>Непогодно</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Погодно</item>
+        <item>Непогодно</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Слаб</item>
+        <item>Средњи</item>
+        <item>Јак</item>
+     </string-array>
+     <string-array name="moon_desc">
+        <item>Нови месец</item>
+        <item>Повећање српа</item>
+        <item>Прва четвртина</item>
+        <item>Млади месец</item>
+        <item>Пуни месец</item>
+        <item>Млади месец</item>
+        <item>Задња четвртина</item>
+        <item>Смањење српа</item>
+        <item>Тамни месец</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Најслабије</item>
+        <item>Слабије</item>
+        <item>Средње</item>
+        <item>Јако</item>
+        <item>Најјаче</item>
+     </string-array>
+     <string-array name="weather_type">
         <item>Ведро</item>
         <item>Облачно</item>
         <item>Наоблачење</item>
@@ -28,15 +59,8 @@
         <item>Сумаглица</item>
         <item>Ледена киша</item>
         <item>Нема података</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Најслабије</item>
-        <item>Слабије</item>
-        <item>Средње</item>
-        <item>Јако</item>
-        <item>Најјаче</item>
-    </string-array>
-    <string-array name="wind_direction">
+     </string-array>
+     <string-array name="wind_direction">
         <item>Ветар S</item>
         <item>Ветар SI</item>
         <item>Ветар I</item>
@@ -45,16 +69,20 @@
         <item>Ветар JZ</item>
         <item>Ветар Z</item>
         <item>Ветар SZ</item>
-	</string-array>	
-    <string-array name="moon_desc">
-        <item>Нови месец</item>
-        <item>Повећање српа</item>
-        <item>Прва четвртина</item>
-        <item>Млади месец</item>
-        <item>Пуни месец</item>
-        <item>Млади месец</item>
-        <item>Задња четвртина</item>
-        <item>Смањење српа</item>
-        <item>Тамни месец</item>
-    </string-array>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
 </resources>

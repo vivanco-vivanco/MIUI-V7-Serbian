@@ -22,6 +22,7 @@
   <string name="button_new_note">"Нова белешка"</string>
   <string name="call_record_folder_name">Белешке позива</string>
   <string name="default_folder_name">"Мапа без назива"</string>
+  <string name="dlg_delete_message">Брисање</string>
   <string name="dlg_desc_confirm_alarm_silent">Активни аларми неце звонити када је тон звона утишан.</string>
   <string name="dlg_info_creating_message">Израда поруке…</string>
   <string name="dlg_title_confirm_alarm_silent">Утишај аларме</string>
@@ -72,6 +73,7 @@
   <string name="pref_title_common">"Додатна Подешавања"</string>
   <string name="pref_title_font_size">Величина фонта</string>
   <string name="pref_title_note_style">Стил белешке</string>
+  <string name="pref_title_recover_help">Обнови белешке</string>
   <string name="redo">Понови</string>
   <string name="search">Белешке</string>
   <string name="search_hint">Претражи Белешке</string>
@@ -110,14 +112,7 @@
   <string name="toast_reach_text_limit_truncate">Белешка је предугачка. Део текста је одсечен са краја белешке због прилагођавања.</string>
   <string name="undo">Поништи</string>
   <string name="unknown_source">Непознат извор</string>
-  <string name="welcome_note_for_cm">"И још пуно великих могућности!
-  - Синхронизација са Mi Cloud
-  - Чување код излаза 
-  - Подешавање потсетника
-  
-Ако желите да сазнате више посетите
-http://www.miui.com/forum.php?lang=1
-"</string>
+  <string name="welcome_note_for_cm">"И још пуно великих могућности!  - Синхронизација са Mi Cloud  - Чување код излаза   - Подешавање потсетника  Ако желите да сазнате више посетитеhttp://www.miui.com/forum.php?lang=1"</string>
   <string name="widget_content_loading">Учитавање…</string>
   <string name="widget_havenot_content">Нема повезаних белешки.</string>
   <string name="widget_under_privacy_mode">"Не могу приказати белешку у Gost начину рада"</string>

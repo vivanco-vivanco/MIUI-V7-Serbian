@@ -31,8 +31,7 @@
   <string name="app_details">Апликација:</string>
   <string name="audio_focus_exit_button_text">Искључи Аудио фокус</string>
   <string name="auto">Ауто</string>
-  <string name="bg_replacement_message">"Одложите уређај и
-искорачите из приказа на тренутак"</string>
+  <string name="bg_replacement_message">"Одложите уређај иискорачите из приказа на тренутак"</string>
   <string name="burst_shoot_exit_button_text">Искључи Брзо окидање</string>
   <string name="camera_disabled">Фотоапарат је онемогућен</string>
   <string name="camera_error_title">Грешка фотоапарата</string>
@@ -421,6 +420,9 @@
   <string name="pref_camera_skinToneEnhancement_title">Побољшање боје коже</string>
   <string name="pref_camera_snap_enable_summary">Када је екран искључен, притисните &amp; држите тастер Јачина доле за улазак у Quick snap начин. Притисните поново за снимање фотографије.</string>
   <string name="pref_camera_snap_enable_title">Quick snap начин</string>
+  <string name="pref_camera_snap_entry_off">Искљ.</string>
+  <string name="pref_camera_snap_entry_take_movie">Када је екран укључен, притисните &amp; држите тастер Јачина доле за почетак снимања видеозаписа. Отпустите га за престанак.</string>
+  <string name="pref_camera_snap_entry_take_picture">Када је екран исккључен, притисните &amp; држите тастер Јачина доле за почетак брзог снимања фотографија. Отпустите га за престанак.</string>
   <string name="pref_camera_sound_entry_off">Искључено</string>
   <string name="pref_camera_sound_entry_on">Укључено</string>
   <string name="pref_camera_sound_title">Звукови фотоапарата</string>
