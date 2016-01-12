@@ -1768,7 +1768,6 @@
   <string name="lock_after_timeout_summary">%1$s после стања спавања</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s након мировања, осим кад га %2$s држи откључаним</string>
   <string name="lock_immediately_summary_with_exception">Одмах након мировања, осим када га %1$s држи откључаним</string>
-  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_notifications_interstitial_message">Када је уређај закључан, како желите да се обавештења приказују?</string>
   <string name="lock_screen_notifications_interstitial_title">Обавештења</string>
   <string name="lock_screen_notifications_summary_disable">Уопште не приказуј обавештења</string>
