@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">"Апликација није инсталирана на вашем уређају"</string>
+     <string name="add_screen">Додај тастер екрана</string>
      <string name="app_already_exist">Апликација већ постоји</string>
      <string name="app_being_backup_message">Извози се сиг. копија апликације</string>
      <string name="app_being_restored_message">Изводи се враћање апликације</string>
@@ -21,6 +22,7 @@
      <string name="app_category_tools">Алати</string>
      <string name="app_category_travel">Путовања</string>
      <string name="application_name">MIUI Покретач</string>
+     <string name="apply">Примени</string>
      <string name="apply_action">Примени</string>
      <string name="apply_as_lock_screen">Закључај екран</string>
      <string name="apply_as_lock_wallpaper_message">Примени слику позадине на закључан екран?</string>
@@ -60,6 +62,7 @@
      <string name="default_folder_title_tools">Алати</string>
      <string name="default_theme_name">Задато</string>
      <string name="delete">Избриши</string>
+     <string name="delete_screen">Избриши тастер екрана</string>
      <string name="delete_wallpaper_message">Избрисати слику позадине: %1$d?</string>
      <string name="delete_wallpapers_message">Избрисати слике позадине: %1$d?</string>
      <string name="deselect_all">Поништи одабир</string>
@@ -141,6 +144,8 @@
      <string name="invalid_contact_shortcut">Неважећи контакт</string>
      <string name="is_setting_wallpaper_message">Подешавање слике позадине…</string>
      <string name="is_system_wallpaper_message">"Не моги избрисати ресурсе система"</string>
+     <string name="like">Свиђа ми се</string>
+     <string name="liked">Свидело ми се</string>
      <string name="loading_desktop">Учитавање покретача...</string>
      <string name="loading_wallpaper">Учитавање...</string>
      <string name="local_wallpaper">Преузето</string>
@@ -200,12 +205,15 @@
      <string name="recommend_apps_switch_title">Препоручене аплик.</string>
      <string name="recommend_apps_tips">"Овој функцији треба повезивање на интернет да ради нормално. За искључивање ове функције, додирните назив ове мапе."</string>
      <string name="reset_scene_prompt">Екран ће се вратити на задата подешавања.</string>
+     <string name="screen_number">Екран %d</string>
      <string name="scroll_tip_format_when_announce_accessibility">на страници %1$d, %2$d апликација</string>
      <string name="select_all">Одабери све</string>
      <string name="select_frame">Оквир</string>
      <string name="select_photo">Фотографија</string>
      <string name="setting_wallpaper_tip">Помакни или увећај за прилагођавање</string>
+     <string name="settings">Подешавања</string>
      <string name="settings_shortcut">Подешавања</string>
+     <string name="share">Подели</string>
      <string name="sharedUserId" />
      <string name="show_all">Прикажи све</string>
      <string name="sort_by_abc">Поређај по називу</string>

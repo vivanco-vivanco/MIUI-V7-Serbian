@@ -58,4 +58,9 @@
         <item>"Прикажи окацију датотеке"</item>
         <item>Додај датотеку у изузетке</item>
      </string-array>
+     <string-array name="video_clean_menu">
+        <item>Очисти ову датотеку</item>
+        <item>Отвори</item>
+        <item>Додај датотеку у изузетке</item>
+     </string-array>
 </resources>

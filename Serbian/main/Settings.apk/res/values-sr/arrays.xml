@@ -716,6 +716,10 @@
         <item>2</item>
         <item>3</item>
      </string-array>
+     <string-array name="wifi_calling_mode_choices">
+        <item>WLAN преферирано</item>
+        <item>Мрежа преферирано</item>
+     </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Аутоматско повезивање</item>
         <item>Ручно повезивање</item>
@@ -774,6 +778,10 @@
         <item>Увек</item>
         <item>Само кад је укључено</item>
         <item>Никад</item>
+     </string-array>
+     <string-array name="wifi_ssid_type_entries">
+        <item>Повежи аутоматски</item>
+        <item>Повежи ручно</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>

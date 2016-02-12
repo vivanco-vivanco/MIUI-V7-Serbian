@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="trans_time_format_minute">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
+     <plurals name="data_item_count">
+        <item quantity="other">Ставки: %d</item>
+        <item quantity="one">%d ставка</item>
+     </plurals>
+     <plurals name="trans_time_format_hours">
         <item quantity="other">%d сати</item>
         <item quantity="one">%d сат</item>
-    </plurals>
+     </plurals>
+     <plurals name="trans_time_format_minute">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+     </plurals>
 </resources>

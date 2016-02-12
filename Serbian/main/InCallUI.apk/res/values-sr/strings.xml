@@ -108,13 +108,19 @@
      <string name="card_title_in_call">У позиву</string>
      <string name="card_title_in_call_short">Позив</string>
      <string name="card_title_incoming_call">Долазни позив</string>
+     <string name="card_title_incoming_conference_call">Долазни конференцијски позив</string>
      <string name="card_title_my_phone_number">Мој број је %s</string>
      <string name="card_title_on_hold">"На чекању "</string>
      <string name="card_title_redialing">Поново покушај</string>
      <string name="card_title_threeway_call">Тространи позив</string>
+     <string name="card_title_upgrade_video_call_error">"Не могу ажурирати Видеопозив"</string>
+     <string name="card_title_upgrade_video_call_rejected_by_remote">"Не могу ажурирати Видеопозив"</string>
+     <string name="card_title_upgrade_video_call_requesting">Тражење захтева за Видеопозив…</string>
+     <string name="card_title_upgrade_video_call_timed_out">"Не могу ажурирати Видеопозив"</string>
      <string name="card_title_video_call">Видеопозив</string>
      <string name="card_title_video_call_connecting">Повезивање видеопозива</string>
      <string name="card_title_video_call_error">Видеопозив није успостављен</string>
+     <string name="card_title_video_call_paused">Видеопозив паузиран</string>
      <string name="card_title_video_call_requesting">Захтевање видеопозива</string>
      <string name="cb_sms_settings">SMS Cell Broadcast Подешавања</string>
      <string name="cdma_activate_device">Активирати уређај</string>
@@ -137,6 +143,9 @@
      <string name="confCall">Конференциски позив</string>
      <string name="conference_call_description" formatted="false">%s,%s итд. укупно %s</string>
      <string name="conference_call_number">Особа: %s</string>
+     <string name="conference_call_single_description" formatted="false">%s идт. укупно %s</string>
+     <string name="conference_caller_info_name">"%1$s конференцијски позив"</string>
+     <string name="conference_caller_name_me">Ja</string>
      <string name="confirmPin2Label">Потврди нови PIN2</string>
      <string name="confirmPinLabel">Потврди нови PIN</string>
      <string name="connect_later">Немогуће се повезати на ову мрежу тренутно. Покушајте поново.</string>
@@ -301,6 +310,7 @@
      <string name="incall_error_supp_service_transfer">Није могуће пребацити позиве.</string>
      <string name="incall_error_supp_service_unknown">Неподржана услуга.</string>
      <string name="incall_status_dialed_mmi">Започињем MMI редослед…</string>
+     <string name="incoming_answer_voice_text">Одговор гласом</string>
      <string name="incoming_call_forwarded_title">Преусмери прослеђени позив</string>
      <string name="incoming_via_template">Долазни позиви путем оператера %s</string>
      <string name="international_disable">Међународне вести онемогућене</string>
@@ -412,6 +422,7 @@
      <string name="notification_actGlasovnoion_answer_voice">Гласовно</string>
      <string name="notification_action_accept">Прихватам</string>
      <string name="notification_action_answer_video">Видеозапис</string>
+     <string name="notification_action_answer_voice">Гласовно</string>
      <string name="notification_action_dismiss">Одбаци</string>
      <string name="notification_action_end_call">Прекини позив</string>
      <string name="notification_dialing">Позивање</string>
@@ -421,10 +432,6 @@
      <string name="notification_missedCallTitle">Пропуштени позив</string>
      <string name="notification_missedCall_call_back">Узврати позив</string>
      <string name="notification_missedCall_message">порука</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: Propuštenih poziva: %d -->
      <string name="notification_missedCallsMsg">%s пропуштених позива</string>
      <string name="notification_missedCallsTitle">Пропуштени позиви</string>
      <string name="notification_network_selection_text">Одабрана мрежа (%s) недоступна</string>
@@ -471,6 +478,9 @@
      <string name="onscreen_audio_mode_speaker">Звучник</string>
      <string name="onscreen_audio_switch_mode">Пребаци звук</string>
      <string name="onscreen_call_record">Сними позив</string>
+     <string name="onscreen_change_to_video">Видеопозив</string>
+     <string name="onscreen_change_to_voice">Гласовни позив</string>
+     <string name="onscreen_close_preview_camera">Затвори камеру</string>
      <string name="onscreen_dialer">Тастатура</string>
      <string name="onscreen_end_call_text">Заврши</string>
      <string name="onscreen_hold_text">Задржи</string>
@@ -478,9 +488,11 @@
      <string name="onscreen_merge_calls_text">Управљање позивима</string>
      <string name="onscreen_mute_text">Утишај</string>
      <string name="onscreen_note_text">Белешка</string>
+     <string name="onscreen_rcs_text">Поруке</string>
      <string name="onscreen_send_flash_text">Лампа</string>
      <string name="onscreen_speaker_text">Звучник</string>
      <string name="onscreen_swap_calls_text">Замени</string>
+     <string name="onscreen_switch_camera">Промени камеру</string>
      <string name="onscreen_tools_off">Алати</string>
      <string name="onscreen_tools_on">Алати</string>
      <string name="optional_summary">Опција</string>
@@ -521,6 +533,7 @@
      <string name="phone_info_divider">"  |  "</string>
      <string name="pick_outgoing_call_phone_type">Упути позив</string>
      <string name="pick_outgoing_sip_phone">Користи рачун интернет позива:</string>
+     <string name="picking_participant">Добијање информација о контакту…</string>
      <string name="pin2_changed">PIN2 успешно промењен</string>
      <string name="pin2_invalid">"FDN није ажуриран јер сте унели погрешан PIN."</string>
      <string name="pin2_or_fdn_invalid">"FDN није ажуриран. PIN2 је неважећи, или је телефонски број одбијен."</string>
@@ -611,7 +624,8 @@
      <string name="selectContact">одабери контакт</string>
      <string name="select_account_dialog_title">Одабери Рачун</string>
      <string name="select_automatically">Одабери аутоматски</string>
-     <string name="select_voice_call_sim">Odaberi SIM karticu</string>
+     <string name="select_sim_hint">"Не могу користити SIM %2$d, док је SIM %1$d у употреби."</string>
+     <string name="select_voice_call_sim">Одабери SIM картицу</string>
      <string name="send_button">Пошаљи</string>
      <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Пошаљи keep-alive</string>
@@ -710,6 +724,8 @@
      <string name="username">Корисничко име</string>
      <string name="username_title">Корисничко име</string>
      <string name="vibrate_on_ring_title">Вибрирај кад звони</string>
+     <string name="video_call_not_allowed_if_tty_enabled">Искључите прво TTY начин</string>
+     <string name="video_switch_to_voice_call_prompt">Пребаци на гласовни позив</string>
      <string name="vm_change_failed">"Није било могуће променити број говорне поште. \Контактирајте свог Мобилног Оператера ако се тај проблем не реши."</string>
      <string name="vm_changed">Број говорне поште је промењен.</string>
      <string name="voice_privacy">Осигурај приватност говорне поште</string>

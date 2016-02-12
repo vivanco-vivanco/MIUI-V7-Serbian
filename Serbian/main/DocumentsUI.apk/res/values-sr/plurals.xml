@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Копирање %1$d датотека.</item>
+        <item quantity="one">Копирање %1$d датотеке.</item>
+        <item quantity="few">Копирање %1$d датотеке.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d датотека није копирано</item>
+        <item quantity="one">%1$d датотека није копирана</item>
+        <item quantity="few">%1$d датотеке нису копиране</item>
+    </plurals>
+</resources>
