@@ -398,7 +398,7 @@
      <string name="private_folder_update">Ажурирање сакривених датотека…</string>
      <string name="private_toast_hint1">Додирните за додавање датотека у сакривене мапе</string>
      <string name="private_toast_hint2">Да сакријете датотеку, притисните и задржите је, а затим је додајте у сакривену мапу.</string>
-     <string name="private_toast_hint3">ПОвуците према доле за откривање скривених мапа</string>
+     <string name="private_toast_hint3">Повуците према доле за откривање скривених мапа</string>
      <string name="promot_enctypt_password">Унесите лозинку која се користи за откључавање уређаја или за искључивање Дечијег начина</string>
      <string name="pull_to_signin">Повуците доле за пријаву.</string>
      <string name="qq_not_installed">"QQ није инсталиран"</string>
