@@ -938,10 +938,6 @@
      <string name="replyto_heading">"одговори: "</string>
      <string name="report">Пријави</string>
      <string name="report_phishing">Пријавите крађу идентитета</string>
-     <string name="report_rendering_improvement">Изгледа добро</string>
-     <string name="report_rendering_improvement_desc">Ова порука изгледа добро.</string>
-     <string name="report_rendering_problem">Изгледа лоше</string>
-     <string name="report_rendering_problem_desc">Ова порука изгледа лоше.</string>
      <string name="report_spam">Пријавите нежељену пошту</string>
      <string name="request_entity_large">Датотека је превелика</string>
      <string name="require_manual_sync_message">Синхронизација за овај рачун је искључена у ромингу.</string>
